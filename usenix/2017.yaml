@@ -1,0 +1,128 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity17/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "System security":
+      - Operating systems security
+      - Web security
+      - Mobile systems security
+      - Distributed systems security
+      - Cloud computing security
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless security
+  - Cryptographic implementation analysis and construction
+  - Applied cryptography
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries
+      - Program analysis
+  - "Data-driven security and measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - Privacy-enhancing technologies and anonymity
+  - Usable security and privacy
+  - Language-based security
+  - "Hardware security":
+      - Secure computer architectures
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Side channels
+  - Research on surveillance and censorship
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+pc:
+  - "Program committee":
+    - Devdatta Akhawe, Dropbox
+    - Manos Antonakakis, Georgia Institute of Technology
+    - Michael Backes, CISPA, Saarland University, and Max Planck Institute for Software Systems (MPI-SWS)
+    - Michael Bailey, University of Illinois at Urbana–Champaign
+    - Davide Balzarotti, Eurecom
+    - Lujo Bauer, Carnegie Mellon University
+    - Karthikeyan Bhargavan, Inria
+    - Leyla Bilge, Symantec
+    - Joseph Bonneau, Electronic Frontier Foundation and Stanford University
+    - Kevin Butler, University of Florida
+    - Juan Caballero, IMDEA Software Institute
+    - Srdjan Capkun, ETH Zurich
+    - David Cash, Rutgers University
+    - Stephen Checkoway, University of Illinois at Chicago
+    - Nicolas Christin, Carnegie Mellon University
+    - Manuel Costa, Microsoft Research
+    - Brendan Dolan-Gavitt, New York University
+    - Adam Doupé, Arizona State University
+    - Tudor Dumitras, University of Maryland
+    - Manuel Egele, Boston University
+    - Serge Egelman, International Computer Science Institute and University of California, Berkeley
+    - William Enck, North Carolina State University
+    - Roya Ensafi, Princeton University
+    - Cédric Fournet, Microsoft Research
+    - Matthew Fredrikson, Carnegie Mellon University
+    - Guofei Gu, Texas A&M University
+    - Nadia Heninger, University of Pennsylvania
+    - Thorsten Holz, Ruhr-Universität Bochum
+    - Suman Jana, Columbia University
+    - Martin Johns, SAP Research
+    - Ari Juels, Cornell Tech
+    - Chris Kanich, University of Illinois at Chicago
+    - Alexandros Kapravelos, North Carolina State University
+    - Tadayoshi Kohno, University of Washington
+    - Farinaz Koushanfar, University of California, San Diego
+    - Andrea Lanzi, University of Milan
+    - Wenke Lee, Georgia Institute of Technology
+    - Tim Leek, MIT Lincoln Laboratory
+    - Zhenkai Liang, National University of Singapore
+    - David Lie, University of Toronto
+    - Zhiqiang Lin, The University of Texas at Dallas
+    - Ben Livshits, Imperial College London
+    - Long Lu, Stony Brook University
+    - Ivan Martinovic, Oxford University
+    - Michelle Mazurek, University of Maryland
+    - Damon McCoy, New York University
+    - Jonathan McCune, Google
+    - Sarah Meiklejohn, University College London
+    - Andrew Miller, University of Illinois at Urbana–Champaign
+    - Prateek Mittal, Princeton University
+    - Nick Nikiforakis, Stony Brook University
+    - Alina Oprea, Northeastern University
+    - Kenny Paterson, Royal Holloway, University of London
+    - Mathias Payer, Purdue University
+    - Roberto Perdisci, University of Georgia
+    - Michalis Polychranakis, Stony Brook University
+    - Christina Pöpper, New York University
+    - Adrienne Porter Felt, Google
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - William Robertson, Northeastern University
+    - Franziska Roesner, University of Washington
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Thomas Shrimpton, University of Florida
+    - Stelios Sidiroglou-Douskos, Massachusetts Institute of Technology
+    - Robin Sommer, International Computer Science Institute
+    - Deian Stefan, University of California, San Diego
+    - Gianluca Stringhini, University College London
+    - Kurt Thomas, Google
+    - Patrick Traynor, University of Florida
+    - Blase Ur, University of Chicago
+    - Giovanni Vigna, University of California, Santa Barbara
+    - Xi Wang, University of Washington
+    - XiaoFeng Wang, Indiana University
+    - Yuval Yarom, University of Adelaide
+    - Yinqian Zhang, The Ohio State University
+cycles:
+  - first:
+      submission: "February 16, 2017"
+      early-reject: "March 21, 2017"
+      acceptance: "May 12, 2017"
+      camera-ready: "June 29, 2017"
+anonymous: true
+conflicts: true
+ethics-discussion: true

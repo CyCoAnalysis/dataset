@@ -1,0 +1,133 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity16/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "System security":
+      - Operating systems security
+      - Web security
+      - Mobile systems security
+      - Distributed systems security
+      - Cloud computing security
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless security
+  - Cryptographic implementation analysis and construction
+  - Applied cryptography
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries
+      - Program analysis
+  - "Security measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - Privacy-enhancing technologies and anonymity
+  - Usable security and privacy
+  - Language-based security
+  - "Hardware security":
+      - Secure computer architectures
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Side channels
+  - Research on surveillance and censorship
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+pc:
+  - "Program committee":
+    - Michael Backes, CISPA, Saarland University & MPI-SWS
+    - Michael Bailey, University of Illinois at Urbana-Champaign
+    - Davide Balzarotti, Eurecom
+    - Lujo Bauer, Carnegie Mellon University
+    - Leyla Bilge, Symantec
+    - Dan Boneh, Stanford University
+    - Joseph Bonneau, Stanford University and The Electronic Frontier Foundation
+    - Nikita Borisov, University of Illinois at Urbana-Champaign
+    - Elie Bursztein, Google
+    - Juan Caballero, IMDEA Software Institute
+    - Srdjan Capkun, ETH Zürich
+    - Stephen Checkoway, University of Illinois at Chicago
+    - Nicolas Christin, Carnegie Mellon University
+    - Manuel Costa, Microsoft Research
+    - George Danezis, University College London
+    - Tamara Denning, University of Utah
+    - Adam Doupé, Arizona State University
+    - Tudor Dumitraș, University of Maryland, College Park
+    - Manuel Egele, Boston University
+    - Serge Egelman, University of California, Berkeley, and International Computer Science Institute
+    - David Evans, University of Virginia
+    - Cédric Fournet, Microsoft Research
+    - Matthew Fredrikson, Carnegie Mellon University
+    - Cristiano Giuffrida, Vrije Universiteit Amsterdam
+    - Matthew Green, Johns Hopkins University
+    - Chris Grier, Databricks
+    - Guofei Gu, Texas A&M University
+    - Saikat Guha, Microsoft Research India
+    - Alex Halderman, University of Michigan
+    - Nadia Heninger, University of Pennsylvania
+    - Cynthia Irvine, Naval Postgraduate School
+    - Martin Johns, SAP Research
+    - Engin Kirda, Northeastern University
+    - Tadayoshi Kohno, University of Washington
+    - Farinaz Koushanfar, University of California, San Diego
+    - Per Larsen, University of California, Irvine
+    - Wenke Lee, Georgia Tech
+    - Nektarios Leontiadis, Facebook
+    - Janne Lindqvist, Rutgers University
+    - Ben Livshits, Microsoft Research
+    - Michelle Mazurek, University of Maryland, College Park
+    - Stephen McCamant, University of Minnesota
+    - Damon McCoy, New York University/ICSI
+    - Jonathan McCune, Google
+    - Sarah Meiklejohn, University College London
+    - Prateek Mittal, Princeton University
+    - Tyler Moore, University of Tulsa
+    - Arvind Narayanan, Princeton University
+    - Nick Nikiforakis, Stony Brook University
+    - Cristina Nita-Rotaru, Northeastern University
+    - Mathias Payer, Purdue University
+    - Zachary N. J. Peterson, California Polytechnic State University
+    - Frank Piessens, Katholieke Universiteit Leuven
+    - Michalis Polychranakis, Stony Brook University
+    - Raluca Popa, University of California, Berkeley
+    - Christina Pöpper, New York University
+    - Adrienne Porter Felt, Google
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Niels Provos, Google
+    - Tom Ristenpart, Cornell Tech
+    - Will Robertson, Northeastern University
+    - Franziska Roesner, University of Washington
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Ahmad-Reza Sadeghi, Technische Universität Darmstadt
+    - Felix Schuster, Microsoft Research
+    - Jörg Schwenk, Ruhr-Universität Bochum
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, Georgetown University
+    - Elaine Shi, University of Maryland, College Park
+    - Reza Shokri, The University of Texas at Austin
+    - Deian Stefan, University of California, San Diego
+    - Gianluca Stringhini, University College London
+    - Cynthia Sturton, The University of North Carolina at Chapel Hill
+    - Kurt Thomas, Google
+    - Patrick Traynor, University of Florida
+    - Giovanni Vigna, University of California, Santa Barbara
+    - David Wagner, University of California, Berkeley
+    - Nick Weaver, International Computer Science Institute
+cycles:
+  - first:
+      submission: "February 18, 2016"
+      early-reject: "April 6, 2016"
+      rebuttal-start: "April 6, 2016"  # appeal
+      rebuttal-end: "April 8, 2016"
+      acceptance: "May 16, 2016"
+      camera-ready: "June 28, 2016"
+anonymous: true  # papers become deanonymized before the pc meeting
+conflicts: true
+ethics-discussion: true

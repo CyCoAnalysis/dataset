@@ -1,0 +1,76 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20130508064609/https://www.usenix.org/conference/usenixsecurity12/call-for-papers
+topics:
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks with novel insights, techniques, or results
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Botnets
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - Embedded systems security
+  - File and filesystem security
+  - Forensics and diagnostics for security
+  - Hardware security
+  - Human-computer interaction, security, and privacy
+  - Intrusion and anomaly detection and prevention
+  - Malicious code analysis, anti-virus, anti-spyware
+  - Mobile system security
+  - Network infrastructure security
+  - Operating system security
+  - Privacy-enhancing technologies
+  - Security architectures
+  - Security education and training
+  - Security for critical infrastructures
+  - Security in heterogeneous and large-scale environments
+  - Security in ubiquitous computing environments
+  - Security policy
+  - Self-protecting and self-healing systems
+  - Techniques for developing secure systems
+  - Technologies for trustworthy computing
+  - Wireless security
+  - Web security, including client-side and server-side security
+pc:
+  - "Program committee":
+    - Ben Adida, Mozilla
+    - Nikita Borisov, University of Illinois at Urbana-Champaign
+    - David Brumley, Carnegie Mellon University
+    - Kelly Caine, Indiana University
+    - Srdjan Capkun, ETH
+    - Sonia Chiasson, Carleton University
+    - Mihai Christodorescu, IBM T.J. Watson Research Center
+    - Anupam Datta, Carnegie Mellon University
+    - William Enck, North Carolina State University
+    - David Evans, University of Virginia
+    - Kevin Fu, University of Massachusetts Amherst
+    - Carrie Gates, CA Technologies
+    - Roxana Geambasu, Columbia University
+    - Ian Goldberg, University of Waterloo
+    - Matthew Green, Johns Hopkins University
+    - Urs Hengartner, University of Waterloo
+    - Jaeyeon Jung, Microsoft Research
+    - Sam King, University of Illinois at Urbana-Champaign
+    - Engin Kirda, Northeastern University
+    - Christian Kreibich, International Computer Science Institute
+    - Kirill Levchenko, University of California, San Diego
+    - David Lie, University of Toronto
+    - Jonathan McCune, Carnegie Mellon University
+    - David Molnar, Microsoft Research
+    - Alex Moshchuk, Microsoft Research
+    - Steven Murdoch, University of Cambridge
+    - Cristina Nita-Rotaru, Purdue University
+    - Niels Provos, Google
+    - Vitaly Shmatikov, University of Texas, Austin
+    - Diana Smetters, Google
+    - Dan Wallach, Rice University
+cycles:
+  - first:
+      submission: "Feb 16, 2012"
+      acceptance: "April 24, 2012"
+      camera-ready: "June 19, 2012"
+anonymous: true
+conflicts: false
+ethics-discussion: false

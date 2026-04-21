@@ -1,0 +1,76 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity13/call-for-papers
+  available: true
+  archive: null
+topics:
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks with novel insights, techniques, or results
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Botnets
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - Embedded systems security
+  - File and filesystem security
+  - Forensics and diagnostics for security
+  - Hardware security
+  - Human-computer interaction, security, and privacy
+  - Intrusion and anomaly detection and prevention
+  - Malicious code analysis, anti-virus, anti-spyware
+  - Mobile system security
+  - Network infrastructure security
+  - Operating system security
+  - Privacy-enhancing technologies
+  - Security architectures
+  - Security education and training
+  - Security for critical infrastructures
+  - Security in heterogeneous and large-scale environments
+  - Security in ubiquitous computing environments
+  - Security policy
+  - Self-protecting and self-healing systems
+  - Techniques for developing secure systems
+  - Technologies for trustworthy computing
+  - Wireless security
+  - Web security, including client-side and server-side security
+pc:
+  - "Program committee":
+    - Nikita Borisov, University of Illinois
+    - Elie Bursztein, Google
+    - Srdjan Capkun, ETH Zurich
+    - Shuo Chen, Microsoft Research
+    - Sonia Chiasson, Carleton University
+    - Adam Chlipala, Massachusetts Institute of Technology
+    - William Enck, North Carolina State University
+    - Adrienne Porter Felt, Google
+    - Kevin Fu, University of Michigan
+    - Roxana Geambasu, Columbia University
+    - Ian Goldberg, University of Waterloo
+    - Matthew Green, John Hopkins University
+    - Chris Grier, University of California, Berkeley
+    - Thorsten Holz, Ruhr-Universität Bochum
+    - Jaeyeon Jung, Microsoft Research
+    - Benjamin Livshits, Microsoft Research
+    - Jonathan McCune, Google
+    - Fabian Monrose, University of North Carolina, Chapel Hill
+    - Niels Provos, Google
+    - Prateek Saxena, National University of Singapore
+    - Stuart Schechter, Microsoft Research
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, Georgetown University
+    - Elaine Shi, University of Maryland, College Park
+    - Cynthia Sturton, University of California, Berkeley
+    - Shuo Tang, University of Illinois and Adrenaline Mobility
+    - Patrick Traynor, Georgia Institute of Technology
+    - David Wagner, University of California, Berkeley
+    - Tara Whalen, Carleton University
+    - Michal Zalewski, Google
+    - Nickolai Zeldovich, Massachusetts Institute of Technology
+cycles:
+  - first:
+      submission: "February 21, 2013"
+      acceptance: "April 30, 2013"
+      camera-ready: "June 25, 2013"
+anonymous: true
+conflicts: false
+ethics-discussion: true

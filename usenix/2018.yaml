@@ -1,0 +1,143 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity18/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "System security":
+      - Operating systems security
+      - Web security
+      - Mobile systems security
+      - Distributed systems security
+      - Cloud computing security
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless security
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries
+      - Program analysis
+  - "Data-driven security and measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - Privacy-enhancing technologies and anonymity
+  - Usable security and privacy
+  - Language-based security
+  - "Hardware security":
+      - Secure computer architectures
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Side channels
+  - Research on surveillance and censorship
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+  - "Applications of cryptography":
+      - Analysis of deployed cryptography and cryptographic protocols
+      - Cryptographic implementation analysis
+      - New cryptographic protocols with real-world applications
+pc:
+  - "Program committee":
+    - Sadia Afroz, International Computer Science Institute
+    - Devdatta Akhawe, Dropbox
+    - Johanna Amann, International Computer Science Institute
+    - Adam Aviv, US Naval Academy
+    - Michael Bailey, University of Illinois Urbana-Champaign
+    - David Barrera, École Polytechnique de Montréal
+    - Adam Bates, University of Illinois Urbana-Champaign
+    - Lujo Bauer, Carnegie Mellon University
+    - Steven Bellovin, Columbia University
+    - Joseph Bonneau, New York University
+    - Herbert Bos, Vrije Universiteit Amsterdam
+    - Kevin Butler, University of Florida
+    - Joe Calandrino, Federal Trade Commission
+    - Srdjan Capkun, ETH Zurich
+    - Justin Cappos, New York University
+    - Lorenzo Cavallaro, Royal Holloway, University of London
+    - Neha Chachra, Facebook
+    - Weidong Cui, Microsoft Research
+    - Nathan Dautenhahn, University of Pennsylvania
+    - Lucas Davi, University of Duisburg-Essen
+    - Razvan Deaconescu, University POLITEHNICA of Bucharest
+    - Brendan Dolan-Gavitt, New York University
+    - Adam Doupe, Arizona State University
+    - Tudor Dumitras, University of Maryland, College Park
+    - Zakir Durumeric, Stanford University
+    - Manuel Egele, Boston University
+    - Sascha Fahl, Ruhr University Bochum
+    - Kassem Fawaz, University of Wisconsin - Madison
+    - Earlence Fernandes, University of Washington
+    - Carrie Gates, Securelytix
+    - Guofei Gu, Texas A&M University
+    - Nadia Heninger, University of Pennsylvania
+    - Thorsten Holz, Ruhr-Universität Bochum
+    - Cynthia Irvine, Naval Postgraduate School
+    - Trent Jaeger, Pennsylvania State University
+    - Suman Jana, Columbia University
+    - Mobin Javed, Lahore University of Management Sciences (LUMS) and International Computer Science Institute, Berkeley
+    - Alex Kapravelos, North Carolina State University
+    - Aniket Kate, Purdue University
+    - Taesoo Kim, Georgia Institute of Technology
+    - Yongdae Kim, Korea Advanced Institute of Science and Technology
+    - Engin Kirda, Northeastern University
+    - Yoshi Kohno, University of Washington
+    - Farinaz Koushanfar, University of California, San Diego
+    - Bo Li, University of California, Berkeley
+    - Kangjie Lu, University of Minnesota, Twin Cities
+    - Long Lu, Northeastern University
+    - Mohammad Mannan, Concordia University, Montreal
+    - Ivan Martinovic, Oxford University
+    - Stephen McCamant, University of Minnesota
+    - Damon McCoy, New York University
+    - Jon McCune, Google
+    - Patrick McDaniel, Pennsylvania State University
+    - Prateek Mittal, Princeton University
+    - Tom Moyer, University of North Carolina, Charlotte
+    - Adwait Nadkarni, College of William and Mary
+    - Muhammad Naveed, University of Southern California
+    - Nick Nikiforakis, Stony Brook University
+    - Cristina Nita-Rotaru, Northeastern University
+    - Alina Oprea, Northeastern University
+    - Mathias Payer, Purdue University
+    - Zachary Peterson, Cal Poly
+    - Christina Pöpper, NYU Abu Dhabi
+    - Brad Reaves, North Carolina State University
+    - Tom Ristenpart, Cornell Tech
+    - Ahmad Sadeghi, Technischen Universität Darmstadt
+    - Alessandra Scafuro, North Carolina State University
+    - Vyas Sekar, Carnegie Mellon University
+    - Micah Sherr, Georgetown University
+    - Matthew Smith, Universität Bonn, Fraunhofer FKIE
+    - Jessica Staddon, Google
+    - Emily Stark, Google
+    - Gianluca Stringhini, University College London
+    - Cynthia Sturton, University of North Carolina, Chapel Hill
+    - Nick Sullivan, Cloudflare
+    - Patrick Tague, Carnegie Mellon University, Silicon Valley
+    - Gang Tan, Pennsylvania State University
+    - Vanessa Teague, University of Melbourne
+    - Kurt Thomas, Google
+    - Yuan Tian, University of Virginia
+    - Patrick Traynor, University of Florida
+    - Tanvi Vyas, Mozilla
+    - Dan Wallach, Rice University
+    - Gang Wang, Virginia Tech
+    - Eric Wustrow, University of Colorado Boulder
+    - Dongyan Xu, Purdue University
+cycles:
+  - first:
+      submission: "February 8, 2018"
+      early-reject: "March 20, 2018"
+      rebuttal-start: "March 20, 2018"
+      rebuttal-end: "March 22, 2018"
+      acceptance: "May 4, 2018"
+      camera-ready: "June 28, 2018"
+anonymous: true
+conflicts: true
+ethics-discussion: true

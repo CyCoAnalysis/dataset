@@ -1,0 +1,164 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity19/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "System security":
+      - Operating systems security
+      - Web security
+      - Mobile systems security
+      - Distributed systems security
+      - Cloud computing security
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless security
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries
+      - Program analysis
+  - "Data-driven security and measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - Privacy-enhancing technologies and anonymity
+  - Usable security and privacy
+  - Language-based security
+  - "Hardware security":
+      - Secure computer architectures
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Side channels
+  - Research on surveillance and censorship
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+  - "Applications of cryptography":
+      - Analysis of deployed cryptography and cryptographic protocols
+      - Cryptographic implementation analysis
+      - New cryptographic protocols with real-world applications
+pc:
+  - "Program committee":
+    - Yasemin Acar, Leibniz University Hannover
+    - Sadia Afroz, University of California, Berkeley/International Computer Science Institute
+    - Devdatta Akhawe, Dropbox
+    - Johanna Amann, International Computer Science Institute
+    - Adam Aviv, United States Naval Academy
+    - Michael Bailey, University of Illinois at Urbana–Champaign
+    - Adam Bates, University of Illinois at Urbana–Champaign
+    - Vincent Bindschaedler, University of Florida
+    - Joseph Bonneau, New York University
+    - Nikita Borisov, University of Illinois at Urbana–Champaign
+    - Sven Bugiel, CISPA Helmholtz Center i.G.
+    - Kevin Butler, University of Florida
+    - Joe Calandrino, Federal Trade Commission
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Yinzhi Cao, Johns Hopkins University
+    - Srdjan Capkun, ETH Zurich
+    - Lorenzo Cavallaro, King's College London
+    - Stephen Checkoway, Oberlin College
+    - Bill Cheswick, AT&T Labs—Research
+    - Marshini Chetty, Princeton University
+    - Mihai Christodorescu, VISA Research
+    - Erinn Clark, First Look Media
+    - George Danezis, University College London
+    - Nathan Dautenhahn, Rice University
+    - Roger Dingledine, The Tor Project
+    - Adam Doupe, Arizona State University
+    - Thomas Dullien, Google
+    - Zakir Durumeric, Stanford University
+    - Manuel Egele, Boston University
+    - William Enck, North Carolina State University
+    - Roya Ensafi, University of Michigan
+    - David Evans, University of Virginia
+    - Sascha Fahl, Leibniz University Hannover
+    - Giulia Fanti, Carnegie Mellon University
+    - Nick Feamster, University of Chicago
+    - Adrienne Porter Felt, Google
+    - Earlence Fernandes, University of Washington
+    - David Freeman, Facebook
+    - Daniel Genkin, University of Michigan
+    - Neil Gong, Iowa State University
+    - Matthew Green, Johns Hopkins Information Security Institute
+    - Rachel Greenstadt, Drexel University
+    - Daniel Gruss, Graz University of Technology
+    - Joseph Lorenzo Hall, Center for Democracy & Technology
+    - Xiali (Sharon) Hei, University of Louisiana at Lafayette
+    - Thorsten Holz, Ruhr-University Bochum
+    - Trent Jaeger, The Pennsylvania State University
+    - Rob Jansen, U.S. Naval Research Laboratory
+    - Mobin Javed, Lahore University of Management Sciences
+    - Chris Kanich, University of Illinois at Chicago
+    - Vasileios Kemerlis, Brown University
+    - Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
+    - Lea Kissner, Humu
+    - Yoshi Kohno, University of Washington
+    - Farinaz Koushanfar, University of California, San Diego
+    - Katharina Krombholz, CISPA Helmholtz Center i.G.
+    - Ben Laurie, Google
+    - Tancrède Lepoint, Google
+    - Martina Lindorfer, Technische Universität Wien
+    - Allison Mankin, Salesforce
+    - Ivan Martinovic, Oxford University
+    - Stephen McCamant, University of Minnesota
+    - Jon McCune, Google
+    - Patrick McDaniel, The Pennsylvania State University
+    - Sarah Meiklejohn, University College London
+    - Jelena Mirkovic, USC/Information Sciences Institute
+    - Prateek Mittal, Princeton University
+    - Veelasha Moonsamy, Utrecht University
+    - Adwait Nadkarni, College of William & Mary
+    - Yossi Oren, Ben-Gurion University of the Negev
+    - Nicolas Papernot, The Pennsylvania State University
+    - Kenny Paterson, Royal Holloway
+    - Mathias Payer, École Polytechnique Fédérale de Lausanne (EPFL)
+    - Giancarlo Pellegrino, Stanford University
+    - Christina Pöpper, New York University Abu Dhabi
+    - Brad Reaves, North Carolina State University
+    - Elissa Redmiles, Microsoft Research and Princeton University
+    - Konrad Rieck, Technische Universität Braunschweig
+    - Tom Ristenpart, Cornell Tech
+    - Tom Ritter, Mozilla
+    - Franziska Roesner, University of Washington
+    - Ahmad-Reza Sadeghi, Technische Universität Darmstadt
+    - Prateek Saxena, National University of Singapore
+    - Nolen Scaife, University of Florida
+    - Wendy Seltzer, W3C/Massachusetts Institute of Technology
+    - Micah Sherr, Georgetown University
+    - Deian Stefan, University of California, San Diego
+    - Ben Stock, CISPA Helmholtz Center i.G.
+    - Gianluca Stringhini, Boston University
+    - Dave 'Jing' Tian, University of Florida
+    - Luke Valenta, University of Pennsylvania
+    - Ingrid Verbauwhede, Katholieke Universiteit Leuven
+    - David Wagner, University of California, Berkeley
+    - Byron Williams, University of Florida
+    - Eric Wustrow, University of Colorado Boulder
+    - Wenyuan Xu, Zhejiang University
+    - Yuval Yarom, University of Adelaide and Data61
+    - Tuba Yavuz, University of Florida
+    - Daniel Zappala, Brigham Young University
+    - Mary Ellen Zurko, MIT Lincoln Laboratory
+cycles:
+  - first:
+      submission: "November 15, 2018"
+      early-reject: "December 14, 2018"
+      rebuttal-start: "December 14, 2018"  # inferred
+      rebuttal-end: "December 18, 2018"
+      acceptance: "January 18, 2019"
+      camera-ready: "February 18, 2019"
+  - second:
+      submission: "February 15, 2019"
+      early-reject: "March 21, 2019"
+      rebuttal-start: "March 21, 2019"  # inferred
+      rebuttal-end: "March 26, 2019"
+      acceptance: "May 1, 2019"
+      camera-ready: "June 1, 2019"
+anonymous: true
+conflicts: true
+ethics-discussion: true

@@ -1,0 +1,58 @@
+website:
+  url: https://www.usenix.org/legacy/events/sec05/cfp/
+  available: true
+  archive: null
+topics:
+  - Adaptive security and system management
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks against networks and machines
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - Filesystem security
+  - Firewall technologies
+  - Intrusion detection
+  - Malicious code analysis
+  - Network infrastructure security
+  - Operating systems security
+  - Privacy preserving (and compromising) systems
+  - Public key infrastructure
+  - Rights management and copyright protection
+  - Security of agents and mobile code
+  - Security architectures
+  - Security in heterogeneous and large-scale environments
+  - Security policy
+  - Techniques for developing secure systems
+  - Voting systems analysis and security
+  - World Wide Web security
+pc:
+  - "Program committee":
+    - Heather Adkins, Google
+    - Steve Bellovin, Columbia University
+    - Dan Boneh, Stanford University
+    - Peter Chen, University of Michigan
+    - Carl Ellison, Microsoft
+    - Eu-Jin Goh, Stanford University
+    - Trent Jaeger, IBM Research
+    - Somesh Jha, University of Wisconsin
+    - Angelos Keromytis, Columbia University
+    - Yoshi Kohno, University of California, San Diego
+    - Tal Malkin, Columbia University
+    - Fabian Monrose, Johns Hopkins University
+    - Radia Perlman, Sun Microsystems Laboratories
+    - Adrian Perrig, Carnegie Mellon University
+    - Niels Provos, Google
+    - R. Sekar, SUNY Stony Brook
+    - Adam Stubblefield, Johns Hopkins University
+    - Paul van Oorschot, Carleton University
+    - Dan S. Wallach, Rice University
+cycles:
+  - first:
+      submission: "Friday, February 4, 2005"  # extended
+      acceptance: "Monday, April 4, 2005"
+      camera-ready: "Thursday, May 12, 2005"
+anonymous: false
+conflicts: false
+ethics-discussion: false

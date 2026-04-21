@@ -1,0 +1,76 @@
+website:
+  url: https://www.usenix.org/legacy/events/sec11/cfp/
+  available: true
+  archive: null
+topics:
+  - Adaptive security and system management
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks against networks and machines
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Botnets
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - File and filesystem security
+  - Firewall technologies
+  - Forensics and diagnostics for security
+  - Hardware security
+  - Intrusion and anomaly detection and prevention
+  - Malicious code analysis, anti-virus, anti-spyware
+  - Network infrastructure security
+  - Operating system security
+  - Privacy-preserving (and compromising) systems
+  - Public key infrastructure
+  - Rights management and copyright protection
+  - Security architectures
+  - Security in heterogeneous and large-scale environments
+  - Security policy
+  - Self-protecting and -healing systems
+  - Techniques for developing secure systems
+  - Technologies for trustworthy computing
+  - Usability and security
+  - Voting systems analysis and security
+  - Wireless and pervasive/ubiquitous computing security
+  - Web security, including client-side and server-side security
+pc:
+  - "Program committee":
+    - Ben Adida, Harvard University
+    - Lucas Ballard, Google, Inc.
+    - Robert Biddle, Carleton University
+    - Miguel Castro, Microsoft Research
+    - Bill Cheswick, AT&T Labs—Research
+    - Sonia Chiasson, Carleton University
+    - Claudia Diaz, Katholieke Universiteit Leuven
+    - William Enck, Pennsylvania State University
+    - David Evans, University of Virginia
+    - Carrie Gates, CA Technologies
+    - Jonathon Giffin, Georgia Institute of Technology
+    - Ian Goldberg, University of Waterloo
+    - Matthew Green, Johns Hopkins University
+    - Collin Jackson, Carnegie Mellon University
+    - Somesh Jha, University of Wisconsin, Madison
+    - Rob Johnson, Stony Brook University
+    - Sam King, University of Illinois at Urbana-Champaign
+    - Tadayoshi Kohno, University of Washington
+    - Wenke Lee, Georgia Institute of Technology
+    - Vern Paxson, University of California, Berkeley
+    - Niels Provos, Google, Inc.
+    - Eric Rescorla, RTFM, Inc.
+    - Wil Robertson, University of California, Berkeley
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, Georgetown University
+    - Diana Smetters, Google, Inc.
+    - Dan S. Wallach, Rice University
+    - Helen Wang, Microsoft Research
+    - Tara Whalen, Office of the Privacy Commissioner of Canada
+    - Yinglian Xie, Microsoft Research
+    - Wenyuan Xu, University of South Carolina
+cycles:
+  - first:
+      submission: "February 10, 2011"
+      acceptance: "April 17, 2011"
+      camera-ready: "June 7, 2011"
+anonymous: true
+conflicts: false
+ethics-discussion: false

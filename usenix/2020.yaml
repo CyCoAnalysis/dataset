@@ -1,0 +1,197 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity20/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "System security":
+      - Operating systems security
+      - Web security
+      - Mobile systems security
+      - Distributed systems security
+      - Cloud computing security
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless security
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries
+      - Program analysis
+  - "Data-driven security and measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - Privacy-enhancing technologies and anonymity
+  - Usable security and privacy
+  - Language-based security
+  - "Hardware security":
+      - Secure computer architectures
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Side channels
+  - Research on surveillance and censorship
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+  - "Applications of cryptography":
+      - Analysis of deployed cryptography and cryptographic protocols
+      - Cryptographic implementation analysis
+      - New cryptographic protocols with real-world applications
+pc:
+  - "Program committee":
+    - Yasemin Acar, Leibniz University Hannover
+    - Devdatta Akhawe, Figma, Inc.
+    - Ben Andow, Google
+    - Adam Aviv, United States Naval Academy
+    - Michael Bailey, University of Illinois at Urbana-Champaign
+    - Adam Bates, University of Illinois at Urbana–Champaign
+    - Lejla Batina, Radboud University
+    - Lujo Bauer, Carnegie Mellon University
+    - Nikita Borisov, University of Illinois at Urbana–Champaign
+    - Herbert Bos, Vrije Universiteit Amsterdam
+    - Sven Bugiel, Helmholtz Center for Information Security (CISPA)
+    - Kevin Butler, University of Florida
+    - Joe Calandrino, Federal Trade Commission
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Yinzhi Cao, Johns Hopkins University
+    - Lorenzo Cavallaro, King's College London
+    - Stephen Checkoway, Oberlin College
+    - William Cheswick, University of Pennsylvania
+    - Cas Cremers, Helmholtz Center for Information Security (CISPA)
+    - Nathan Dautenhahn, Rice University
+    - Lucas Davi, Universität Duisburg-Essen
+    - Emiliano De Cristofaro, University College London
+    - Adam Doupé, Arizona State University
+    - Thomas Dullien, optimyze.cloud AG
+    - Zakir Durumeric, Stanford University
+    - Manuel Egele, Boston University
+    - William Enck, North Carolina State University
+    - Birhanu Eshete, University of Michigan, Dearborn
+    - David Evans, University of Virginia
+    - Sascha Fahl, Leibniz University Hannover
+    - Giulia Fanti, Carnegie Mellon University
+    - Nick Feamster, University of Chicago
+    - Ariel J. Feldman, Google
+    - Earlence Fernandes, University of Washington
+    - Aurélien Francillon, EURECOM
+    - David Freeman, Facebook
+    - Kevin Fu, University of Michigan
+    - Siddharth Garg, New York University
+    - Carrie Gates, Bank of America
+    - Daniel Genkin, University of Michigan
+    - Matthew Green, Johns Hopkins University
+    - Rachel Greenstadt, New York University
+    - Daniel Gruss, Graz University of Technology
+    - Xiali (Sharon) Hei, University of Louisiana at Lafayette
+    - Thorsten Holz, Ruhr-Universität Bochum
+    - Trent Jaeger, The Pennsylvania State University
+    - Rob Jansen, U.S. Naval Research Laboratory
+    - Mobin Javed, Lahore University of Management Sciences
+    - Ari Juels, Cornell Tech
+    - Apu Kapadia, Indiana University
+    - Aniket Kate, Purdue
+    - Vasileios Kemerlis, Brown University
+    - Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
+    - Engin Kirda, Northeastern University
+    - Tadayoshi Kohno, University of Washington
+    - Farinaz Koushanfar, University of California, San Diego
+    - Katharina Krombholz, Helmholtz Center for Information Security (CISPA)
+    - Pierre Laperdrix, CNRS, University of Lille
+    - Mathias Lecuyer, Columbia University
+    - Tancrède Lepoint, Google
+    - Frank Li, Facebook/Georgia Institute of Technology
+    - Martina Lindorfer, Technische Universität Wien
+    - Long Lu, Northeastern University
+    - Matteo Maffei, Technische Universität Wien
+    - Stefan Mangard, Graz University of Technology
+    - Ivan Martinovic, University of Oxford
+    - Clémentine Maurice, IRISA
+    - René Mayrhofer, Johannes Kepler Universität Linz
+    - Damon McCoy, New York University
+    - Jon McCune, Google
+    - Patrick McDaniel, The Pennsylvania State University
+    - Sarah Meiklejohn, University College London
+    - Jelena Mirkovic, USC/Information Sciences Institute
+    - Esfandiar Mohammadi, University of Lübeck
+    - Veelasha Moonsamy, Radboud University
+    - Anita Nikolich, Illinois Institute of Technology
+    - Shirin Nilizadeh, The University of Texas at Arlington
+    - Guevara Noubir, Northeastern University
+    - Nils Ole Tippenhauer, Helmholtz Center for Information Security (CISPA)
+    - Yossi Oren, Ben-Gurion University of the Negev
+    - Nicolas Papernot, University of Toronto
+    - Kenny Paterson, ETH Zurich
+    - Mathias Payer, École Polytechnique Fédérale de Lausanne (EPFL)
+    - Paul Pearce, Georgia Institute of Technology
+    - Giancarlo Pellegrino, Stanford University and Helmholtz Center for Information Security (CISPA)
+    - Adrian Perrig, ETH Zurich
+    - Christina Poepper, New York University Abu Dhabi
+    - Jason Polakis, University of Illinois at Chicago
+    - Adrienne Porter Felt, Google
+    - Niels Provos, Stripe
+    - Amir Rahmati, Stony Brook University
+    - Aanjhan Ranganathan, Northeastern University
+    - Kaveh Razavi, Vrije Universiteit Amsterdam
+    - Bradley Reaves, North Carolina State University
+    - Elissa Redmiles, Princeton University
+    - Konrad Rieck, Technische Universität Braunschweig
+    - Eyal Ronen, Tel Aviv University
+    - Ahmad-Reza Sadeghi, Technische Universität Darmstadt
+    - Nolen Scaife, University of Florida
+    - Wendy Seltzer, W3C and Massachusetts Institute of Technology
+    - Huasong Shan, JD.com Silicon Valley R&D Center
+    - Micah Sherr, Georgetown University
+    - Deian Stefan, University of California, San Diego
+    - Ben Stock, Helmholtz Center for Information Security (CISPA)
+    - Gianluca Stringhini, Boston University
+    - Yuan Tian, University of Virginia
+    - Patrick Traynor, University of Florida
+    - Carmela Troncoso, École Polytechnique Fédérale de Lausanne (EPFL)
+    - Gene Tsudik, University of California, Irvine
+    - Blase Ur, University of Chicago
+    - Ingrid Verbauwhede, Katholieke Universiteit Leuven
+    - Bimal Viswanath, Virginia Polytechnic Institute and State University
+    - David Wagner, University of California, Berkeley
+    - Byron J. Williams, University of Florida
+    - Xinyu Xing, The Pennsylvania State University
+    - Wenyuan Xu, Zhejiang University
+    - Yuval Yarom, University of Adelaide and Data61
+    - Daniel Zappala, Brigham Young University
+    - Mary Ellen Zurko, MIT Lincoln Laboratory
+cycles:
+  - first:
+      submission: "May 15, 2019"
+      early-reject: "June 17, 2019"
+      rebuttal-start: "June 17, 2019"  # inferred
+      rebuttal-end: "June 21, 2019"
+      acceptance: "August 19, 2019"
+      camera-ready: "September 19, 2019"
+  - second:
+      submission: "August 23, 2019"
+      early-reject: "September 23, 2019"
+      rebuttal-start: "September 23, 2019"  # inferred
+      rebuttal-end: "September 27, 2019"
+      acceptance: "November 1, 2019"
+      camera-ready: "December 2, 2019"
+  - third:
+      submission: "November 15, 2019"
+      early-reject: "December 15, 2019"
+      rebuttal-start: "December 15, 2019"  # inferred
+      rebuttal-end: "December 20, 2019"
+      acceptance: "February 1, 2020"
+      camera-ready: "March 2, 2020"
+  - fourth:
+      submission: "February 15, 2020"
+      early-reject: "March 15, 2020"
+      rebuttal-start: "March 15, 2020"  # inferred
+      rebuttal-end: "March 20, 2020"
+      acceptance: "May 15, 2020"  # extended
+      camera-ready: "June 22, 2020"  # extended
+anonymous: true
+conflicts: true
+ethics-discussion: true

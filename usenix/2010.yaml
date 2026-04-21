@@ -1,0 +1,73 @@
+website:
+  url: https://www.usenix.org/legacy/events/sec10/cfp/
+  available: true
+  archive: null
+topics:
+  - Adaptive security and system management
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks against networks and machines
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Botnets
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - File and filesystem security
+  - Firewall technologies
+  - Forensics and diagnostics for security
+  - Hardware security
+  - Intrusion and anomaly detection and prevention
+  - Malicious code analysis, anti-virus, anti-spyware
+  - Network infrastructure security
+  - Operating system security
+  - Privacy-preserving (and compromising) systems
+  - Public key infrastructure
+  - Rights management and copyright protection
+  - Security architectures
+  - Security in heterogeneous and large-scale environments
+  - Security policy
+  - Self-protecting and -healing systems
+  - Techniques for developing secure systems
+  - Technologies for trustworthy computing
+  - Usability and security
+  - Voting systems analysis and security
+  - Web security
+  - Wireless and pervasive/ubiquitous computing security
+pc:
+  - "Program committee":
+    - Lucas Ballard, Google, Inc.
+    - Adam Barth, University of California, Berkeley
+    - Steven M. Bellovin, Columbia University
+    - Nikita Borisov, University of Illinois at Urbana-Champaign
+    - Bill Cheswick, AT&T Labs—Research
+    - George Danezis, Microsoft Research
+    - Rachna Dhamija, Harvard University
+    - Vinod Ganapathy, Rutgers University
+    - Tal Garfinkel, VMware and Stanford University
+    - Jonathon Giffin, Georgia Institute of Technology
+    - Steve Gribble, University of Washington
+    - Alex Halderman, University of Michigan
+    - Cynthia Irvine, Naval Postgraduate School
+    - Somesh Jha, University of Wisconsin
+    - Samuel King, University of Illinois at Urbana-Champaign
+    - Negar Kiyavash, University of Illinois at Urbana-Champaign
+    - David Lie, University of Toronto
+    - Michael Locasto, George Mason University
+    - Mohammad Mannan, University of Toronto
+    - Niels Provos, Google, Inc.
+    - Reiner Sailer, IBM T.J. Watson Research Center
+    - R. Sekar, Stony Brook University
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, University of Pennsylvania
+    - Patrick Traynor, Georgia Institute of Technology
+    - David Wagner, University of California, Berkeley
+    - Helen Wang, Microsoft Research
+    - Tara Whalen, Carleton University
+cycles:
+  - first:
+      submission: "February 5, 2010"
+      acceptance: "April 12, 2010"
+      camera-ready: "June 1, 2010"
+anonymous: false
+conflicts: false
+ethics-discussion: false

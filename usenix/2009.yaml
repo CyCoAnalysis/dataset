@@ -1,0 +1,72 @@
+website:
+  url: https://www.usenix.org/legacy/events/sec09/cfp/
+  available: true
+  archive: null
+topics:
+  - Adaptive security and system management
+  - Analysis of network and security protocols
+  - Applications of cryptographic techniques
+  - Attacks against networks and machines
+  - Authentication and authorization of users, systems, and applications
+  - Automated tools for source code analysis
+  - Botnets
+  - Cryptographic implementation analysis and construction
+  - Denial-of-service attacks and countermeasures
+  - File and filesystem security
+  - Firewall technologies
+  - Forensics and diagnostics for security
+  - Hardware security
+  - Intrusion and anomaly detection and prevention
+  - Malicious code analysis, anti-virus, anti-spyware
+  - Network infrastructure security
+  - Operating system security
+  - Privacy-preserving (and compromising) systems
+  - Public key infrastructure
+  - Rights management and copyright protection
+  - Security architectures
+  - Security in heterogeneous and large-scale environments
+  - Security policy
+  - Self-protecting and healing systems
+  - Techniques for developing secure systems
+  - Technologies for trustworthy computing
+  - Usability and security
+  - Virtualization security
+  - Voting systems analysis and security
+  - Web security
+  - Wireless and pervasive/ubiquitous computing security
+pc:
+  - "Program committee":
+    - Lucas Ballard, Google Inc.
+    - Paul Barford, University of Wisconsin
+    - Lujo Bauer, Carnegie Mellon University
+    - Steven M. Bellovin, Columbia University
+    - Bill Cheswick, AT&T Labs—Research
+    - George Danezis, Microsoft Research, UK
+    - Vinod Ganapathy, Rutgers University
+    - Tal Garfinkel, VMware and Stanford University
+    - Ian Goldberg, University of Waterloo
+    - Trent Jaeger, Pennsylvania State University
+    - Samuel King, University of Illinois at Urbana-Champaign
+    - Christopher Kruegel, University of California, Santa Barbara
+    - Wenke Lee, Georgia Institute of Technology
+    - David Lie, University of Toronto
+    - Vern Paxson, UC Berkeley and International Computer Science Institute
+    - Niels Provos, Google Inc.
+    - Michael Reiter, University of North Carolina, Chapel Hill
+    - R. Sekar, Stony Brook University
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, University of Pennsylvania
+    - Angelos Stavrou, George Mason University
+    - Julie Thorpe, Carleton University
+    - Patrick Traynor, Georgia Institute of Technology
+    - Wietse Venema, IBM Research
+    - David Wagner, University of California, Berkeley
+    - Xiaolan (Catherine) Zhang, IBM Research
+cycles:
+  - first:
+      submission: "February 4, 2009"
+      acceptance: "April 13, 2009"
+      camera-ready: "June 2, 2009"
+anonymous: false
+conflicts: false
+ethics-discussion: false

@@ -1,0 +1,133 @@
+website:
+  url: https://www.usenix.org/conference/usenixsecurity15/call-for-papers
+  available: true
+  archive: null
+topics:
+  - "Systems security":
+      - Mobile systems security
+      - Web security
+      - Cloud computing security
+      - Distributed systems security
+      - Operating systems security
+      - Storage security
+  - Cryptographic implementation analysis and construction, applied cryptography
+  - Language-based security
+  - "Hardware security":
+      - Embedded systems security
+      - Methods for detection of malicious or counterfeit hardware
+      - Randomness
+      - Secure computer architectures
+      - Side channels
+  - "Network security":
+      - Intrusion and anomaly detection and prevention
+      - Network infrastructure security
+      - Denial-of-service attacks and countermeasures
+      - Wireless network security
+  - "Privacy-enhancing technologies, anonymity":
+      - Research on surveillance and censorship
+  - Human-computer interaction, security, and privacy
+  - "Social issues and security":
+      - Research on computer security law and policy
+      - Ethics of computer security research
+      - Research on security education and training
+  - "Security analysis":
+      - Malware analysis
+      - Analysis of network and security protocols
+      - Attacks with novel insights, techniques, or results
+      - Forensics and diagnostics for security
+      - Automated security analysis of hardware designs and implementation
+      - Automated security analysis of source code and binaries, program analysis
+  - "Security measurement studies":
+      - Measurements of fraud, malware, spam
+      - Measurements of human behavior and security
+  - "Others":
+      - Security in critical infrastructures
+      - Security in electronic voting
+      - Security in health care and medicine
+      - Security in ubiquitous computing, sensors, actuators
+      - Security in electronic commerce
+pc:
+  - "Program committee":
+    - Sadia Afroz, University of California, Berkeley
+    - Devdatta Akhawe, Dropbox
+    - Davide Balzarotti, Eurecom
+    - Igor Bilogrevic, Google
+    - Sasha Boldyreva, Georgia Institute of Technology
+    - Joseph Bonneau, Stanford University and Electronic Frontier Foundation
+    - Nikita Borisov, University of Illinois at Urbana-Champaign
+    - David Brumley, Carnegie Mellon University
+    - Kevin Butler, University of Florida
+    - Juan Caballero, IMDEA Software Institute
+    - Srdjan Capkun, ETH Zürich
+    - Stephen Checkoway, University of Illinois at Chicago
+    - Nicolas Christin, Carnegie Mellon University
+    - Byung-Gon Chun, Seoul National University
+    - George Danezis, University College London
+    - Tamara Denning, University of Utah
+    - Michael Dietz, Google
+    - Adam Doupé, Arizona State University
+    - Josiah Dykstra, NSA Research
+    - Manuel Egele, Boston University
+    - Serge Egelman, University of California, Berkeley, and International Computer Science Institute
+    - William Enck, North Carolina State University
+    - David Evans, University of Virginia
+    - Matt Fredrikson, University of Wisconsin—Madison
+    - Roxana Geambasu, Columbia University
+    - Rachel Greenstadt, Drexel University
+    - Chris Grier, DataBricks
+    - Guofei Gu, Texas A&M University
+    - Alex Halderman, University of Michigan
+    - Nadia Heninger, University of Pennsylvania
+    - Susan Hohenberger, Johns Hopkins University
+    - Jean-Pierre Hubaux, École Polytechnique Fédérale de Lausanne (EPFL)
+    - Cynthia Irvine, Naval Postgraduate School
+    - Rob Johnson, Stony Brook University
+    - Brent Byunghoon Kang, Korea Advanced Institute of Science and Technology (KAIST)
+    - Taesoo Kim, Georgia Institute of Technology
+    - Engin Kirda, Northeastern University
+    - Tadayoshi Kohno, University of Washington
+    - Farinaz Koushanfar, Rice University
+    - Zhou Li, RSA Labs
+    - David Lie, University of Toronto
+    - Janne Lindqvist, Rutgers University
+    - Long Lu, Stony Brook University
+    - Stephen McCamant, University of Minnesota
+    - Damon McCoy, New York University
+    - Jonathan McCune, Google
+    - Sarah Meiklejohn, University College London
+    - David Molnar, Microsoft Research
+    - Tyler Moore, Southern Methodist University
+    - Nick Nikiforakis, Stony Brook University
+    - Cristina Nita-Rotaru, Purdue University
+    - Zachary N. J. Peterson, California Polytechnic State University
+    - Michalis Polychronakis, Stony Brook University
+    - Adrienne Porter Felt, Google
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Niels Provos, Google
+    - Benjamin Ransford, University of Washington
+    - Thomas Ristenpart, University of Wisconsin—Madison
+    - Will Robertson, Northeastern University
+    - Franziska Roesner, University of Washington
+    - Nitesh Saxena, University of Alabama at Birmingham
+    - Prateek Saxena, National University of Singapore
+    - R. Sekar, Stony Brook University
+    - Hovav Shacham, University of California, San Diego
+    - Micah Sherr, Georgetown University
+    - Elaine Shi, University of Maryland, College Park
+    - Reza Shokri, The University of Texas at Austin
+    - Cynthia Sturton, The University of North Carolina at Chapel Hill
+    - Patrick Traynor, University of Florida
+    - Ingrid Verbauwhede, Katholieke Universiteit Leuven
+    - Giovanni Vigna, University of California, Santa Barbara
+    - David Wagner, University of California, Berkeley
+    - Ralf-Philipp Weinmann, Comsecuris
+    - Xiaoyong Zhou, Samsung Research America
+cycles:
+  - first:
+      abstract: "February 16, 2015"
+      submission: "February 23, 2015"
+      acceptance: "May 12, 2015"
+      camera-ready: "June 30, 2015"
+anonymous: true  # papers become deanonymized before the pc meeting
+conflicts: true
+ethics-discussion: true
