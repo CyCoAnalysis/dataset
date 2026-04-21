@@ -1,0 +1,165 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20231208223116/https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"
+  - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in network protocols (e.g., routing, naming, and management)"
+  - "Mobile and wireless network security"
+  - "Privacy and anonymity in networks and distributed systems"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security and privacy for blockchains and cryptocurrencies"
+  - "Security and privacy of mobile/smartphone platforms"
+  - "Security and privacy of systems based on machine learning and AI"
+  - "Security for cloud/edge computing"
+  - "Security for cyber-physical systems (e.g., autonomous vehicles, industrial control systems)"
+  - "Security for emerging networks (e.g., home networks, IoT, body-area networks, VANETs)"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "Security for large-scale, critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security of web-based applications and services (e.g., social networking, crowd-sourcing)"
+  - "Software/firmware analysis, customization, and transformation for systems security"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, cost, and ethics"
+  - "Trustworthy computing software and hardware to secure networks and systems"
+  - "Usable security and privacy"
+pc:
+  - "Program committee":
+    - Aanjhan Ranganathan, Northeastern University
+    - Adrian Dabrowski, CISPA Helmholtz Center for Information Security
+    - Adwait Nadkarni, William & Mary
+    - Ahmad-Reza Sadeghi, Technical University Darmstadt
+    - Alessandro Sorniotti, IBM Research – Europe
+    - Alexandra Dmitrienko, University of Würzburg
+    - Alvaro Cardenas, University of California, Santa Cruz
+    - Amir Rahmati, Stony Brook University
+    - Aravind Machiry, Purdue University
+    - Bart Coppens, Ghent University
+    - Ben Stock, CISPA Helmholtz Center for Information Security
+    - Benjamin Andow, Google
+    - Bo Feng, Georgia Institute of Technology
+    - Boris Köpf, Azure Research
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Christophe Hauser, Information Sciences Institute, University of Southern California
+    - Christopher Kruegel, UC Santa Barbara
+    - Christopher Liebchen, Google
+    - Daniel Gruss, Graz University of Technology
+    - Daniele Antonioli, EURECOM
+    - Daniele Cono D’Elia, Sapienza University of Rome
+    - Dave (Jing) Tian, Purdue University
+    - Ding Wang, Nankai University
+    - Dipanjan Das, University of California, Santa Barbara
+    - Doowon Kim, University of Tennessee, Knoxville
+    - Eleonora Losiouk, University of Padua
+    - Erik van der Kouwe, Vrije Universiteit Amsterdam
+    - Fengwei Zhang, Southern University of Science and Technology
+    - Flavio Toffalini, EPFL
+    - Gang Wang, University of Illinois at Urbana-Champaign
+    - Ghassan Karame, Ruhr-University Bochum
+    - Gianluca Stringhini, Boston University
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Guangdong Bai, The University of Queensland
+    - Güliz Seray Tuncay, Google
+    - Guofei Gu, Texas A&M University
+    - Habiba Farrukh, Purdue University
+    - Haibin Zhang, Beijing Institute of Technology
+    - Haipeng Cai, Washington State University
+    - Hamed Okhravi, MIT Lincoln Laboratory
+    - Haojin Zhu, Shanghai Jiao Tong University
+    - Hong Hu, Pennsylvania State University
+    - Hossein Fereidooni, Technical University Darmstadt
+    - Houman Homayoun, University of California Davis
+    - Imtiaz Karim, Purdue University
+    - Insu Yun, KAIST
+    - Jason (Minhui) Xue, CSIRO’s Data61
+    - Johanna Sepúlveda, Airbus Defence and Space
+    - Jun Xu, The University of Utah
+    - Juraj Somorovsky, Paderborn University
+    - Kangjie Lu, University of Minnesota
+    - Katerina Mitrokotsa, University of St. Gallen, Switzerland
+    - Kun Sun, George Mason University
+    - Lannan Luo, George Mason University
+    - Lejla Batina, Radboud University
+    - Lorenzo Cavallaro, UCL
+    - Luca Mariot, University of Twente
+    - Manuel Egele, Boston University
+    - Marcus Botacin, Texas A&M University
+    - Marcus Peinado, Microsoft Research
+    - Martin Henze, RWTH Aachen University & Fraunhofer FKIE
+    - Mathy Vanhoef, KU Leuven
+    - Meng Luo, Zhejiang University
+    - Meng Xu, University of Waterloo
+    - Merve Sahin, SAP Security Research
+    - Michael Schwarz, CISPA Helmholtz Center for Information Security
+    - Mihalis Maniatakos, New York University Abu Dhabi
+    - Min Suk Kang, KAIST
+    - Ming Li, The University of Texas at Arlington
+    - Mitsuaki Akiyama, NTT
+    - Mridula Singh, CISPA Helmholtz Center for Information Security
+    - Mu Zhang, University of Utah
+    - Nathan Burow, MIT Lincoln Laboratory
+    - Neil Gong, Duke University
+    - Nick Sullivan, Cloudflare Inc.
+    - Norrathep Rattanavipanon, Prince of Songkla University
+    - Omar Chowdhury, Stony Brook University
+    - Phani Vadrevu, University of New Orleans
+    - Qi Li, Tsinghua University
+    - Qiang Tang, The University of Sydney
+    - Ren Zhang, Cryptape Co. Ltd. and Nervos
+    - René Mayrhofer, JKU Linz
+    - Saman Zonouz, Georgia Institute of Technology
+    - Samuel Jero, MIT Lincoln Laboratory
+    - Sandra Siby, Imperial College London
+    - Sang Kil Cha, KAIST
+    - Sanghyun Hong, Oregon State University
+    - Sarah Zennou, Airbus
+    - Shagufta Mehnaz, Pennsylvania State University
+    - Sherman S. M. Chow, Chinese University of Hong Kong
+    - Sisi Duan, Tsinghua University
+    - Srdjan Capkun, ETH Zurich
+    - Stefan Brunthaler, μCSRL, Research Institute CODE, University of the Bundeswehr Munich
+    - Stjepan Picek, Radboud University
+    - Syed Rafiul Hussain, Pennsylvania State University
+    - Takuya Watanabe, NTT
+    - Theodor Schnitzler, TU Dortmund, Germany
+    - Tianhao Wang, University of Virginia
+    - Ting Chen, University of Electronic Science and Technology of China
+    - Trent Jaeger, Penn State University
+    - Tuba Yavuz, University of Florida
+    - Vasileios Kemerlis, Brown University
+    - Wenke Lee, Georgia Institute of Technology
+    - Xiaoyu Ji, Zhejiang University
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Xinyang Ge, Databricks
+    - Yanjiao Chen, Zhejiang University
+    - Yongdae Kim, KAIST
+    - Yuan Zhang, Fudan University
+    - Yue Zhang, The Ohio State University
+    - Yuseok Jeon, UNIST
+    - Yuzhe Tang, Syracuse University
+    - Z. Berkay Celik, Purdue University
+    - Zhikun Zhang, Stanford University
+    - Zhou Li, University of California, Irvine
+cycles:
+  - first:
+      submission: "19 Apr 2023"
+      early-reject: "19 May 2023"
+      rebuttal-start: "12 Jun 2023"
+      rebuttal-end: "14 Jun 2023"
+      acceptance: "21 Jun 2023"
+      revision-submission: "2 Aug 2023"
+      revision-acceptance: "16 Aug 2023"
+      camera-ready: "30 Aug 2023"
+  - second:
+      submission: "28 Jun 2023"
+      early-reject: "4 Aug 2023"
+      rebuttal-start: "4 Sep 2023"
+      rebuttal-end: "6 Sep 2023"
+      acceptance: "13 Sep 2023"
+      revision-submission: "1 Nov 2023"
+      revision-acceptance: "15 Nov 2023"
+      camera-ready: "29 Nov 2023"
+anonymous: true
+conflicts: true
+ethics-discussion: true

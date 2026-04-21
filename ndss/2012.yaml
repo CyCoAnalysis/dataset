@@ -1,0 +1,100 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20110520221310/http://www.isoc.org/isoc/conferences/ndss/12/cfp.shtml
+topics:
+  - "Network perimeter controls: firewalls, packet filters, application gateways"
+  - "Network protocol security: routing, naming, network management"
+  - "Cloud computing security"
+  - "Security issues in Future Internet architecture and design"
+  - "Security of web-based applications and services"
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Secure future home networks, Internet of Things, body-area networks"
+  - "Intrusion prevention, detection, and response"
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
+  - "Privacy and anonymity technologies"
+  - "Security for wireless, mobile networks"
+  - "Security of personal communication systems"
+  - "Vehicular Ad-hoc Network (VANETs) Security"
+  - "Security of peer-to-peer and overlay network systems"
+  - "Electronic commerce security: e.g., payments, notarization, timestamping."
+  - "Network security policies: implementation deployment, management"
+  - "Intellectual property protection: protocols, implementations, DRM"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security for Emerging Technologies"
+  - "Special problems and case studies: cost, usability, security vs. efficiency"
+  - "Collaborative applications: teleconferencing and video-conferencing"
+  - "Smart Grid Security"
+  - "Secure Electronic Voting"
+  - "Security of large-scale critical infrastructures"
+  - "Trustworthy Computing for network protocols and distributed systems"
+  - "Network and distributed systems forensics"
+pc:
+  - "Program committee":
+    - Radu Sion, Stony Brook University (Chair)
+    - Ross Anderson, University of Cambridge
+    - Davide Balzarotti, EURECOM Sophia Antipolis
+    - Lujo Bauer, Carnegie Mellon
+    - Kosta Beznosov, University of British Columbia
+    - Matt Bishop, UC Davis
+    - Nikita Borisov, UIUC
+    - Elie Bursztein, Stanford University
+    - Christian Cachin, IBM Research Zurich
+    - Bogdan Carbunar, Motorola Labs
+    - Jeff Chase, Duke University
+    - Yan Chen, Northwestern University
+    - Landon Cox, Duke University
+    - Marc Dacier, Symantec Research Labs
+    - George Danezis, Microsoft Research
+    - Sven Dietrich, Stevens Institute of Technology
+    - Dave Evans, University of Virginia
+    - Nick Feamster, Georgia Tech
+    - Michael Freedman, Princeton University
+    - Carrie Gates, CA Technologies
+    - Russ Housley, Internet Engineering Task Force
+    - Xuxian Jiang, North Carolina State University
+    - Rob Johnson, Stony Brook University
+    - Ari Juels, RSA Labs
+    - Stefan Katzenbeisser, TU Darmstadt
+    - Angelos Keromytis, Columbia University
+    - Yongdae Kim, University of Minnesota
+    - Wenke Lee, Georgia Tech
+    - Brian Levine, UMASS Amherst
+    - Morley Mao, University of Michigan
+    - Patrick McDaniel, Penn State University
+    - John Mitchell, Stanford University
+    - David Molnar, Microsoft Research
+    - Peng Ning, North Carolina State University
+    - Cristina Nita-Rotaru, Purdue University
+    - Bryan Parno, Microsoft Research
+    - Vern Paxson, UC Berkeley / ICSI
+    - Giuseppe Persiano, Universita di Salerno
+    - Michael Reiter, UNC at Chapel Hill
+    - Volker Roth, Freie Universitaet Berlin
+    - Ahmad-Reza Sadeghi, Fraunhofer Institute
+    - Nitesh Saxena, NYU Poly
+    - R. Sekar, Stony Brook University
+    - Elaine Shi, UC Berkeley and Parc
+    - Vitaly Shmatikov, University of Texas at Austin
+    - Alex Snoeren, UC San Diego
+    - Robin Sommer, ICSI
+    - Paul Syverson, Naval Research Laboratory
+    - Doug Szajda, University of Richmond
+    - Wade Trappe, Rutgers University
+    - Arun Venkataramani, UMASS Amherst
+    - Dan Wallach, Rice University
+    - Cliff Wang, US Army Research Office
+    - Helen Wang, Microsoft Research
+    - Nick Weaver, ICSI
+    - Peter Williams, Stony Brook University
+    - Dongyan Xu, Purdue University
+    - Moti Yung, Google Inc.
+cycles:
+  - first:
+      abstract: "9 August 2011"
+      submission: "16 August 2011"
+      acceptance: "23 October 2011"
+      camera-ready: "2 December 2011"
+anonymous: true
+conflicts: false
+ethics-discussion: true

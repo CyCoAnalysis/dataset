@@ -1,0 +1,59 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20081225043121/http://www.isoc.org/isoc/conferences/ndss/08/cfp.shtml
+topics:
+  - "Integrating security in Internet protocols: routing, naming, TCP/IP, multicast, network management, and the Web."
+  - "Intrusion prevention, detection, and response: systems, experiences and architectures."
+  - "Privacy and anonymity technologies."
+  - "Network perimeter controls: firewalls, packet filters, application gateways."
+  - "Virtual private networks."
+  - "Security for emerging technologies: sensor networks, specialized testbeds, wireless/mobile (and ad hoc) networks, personal communication systems."
+  - "ID systems, peer-to-peer and overlay network systems."
+  - "Secure electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, and licensing."
+  - "Supporting security mechanisms and APIs; audit trails; accountability."
+  - "Implementation, deployment and management of network security policies."
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management."
+  - "Fundamental services on network and distributed systems: authentication, data integrity, confidentiality, authorization, non-repudiation, and availability."
+  - "Integrating security services with system and application security facilities and protocols: e.g., message handling, file transport/access, directories, time synchronization, data base management, boot services, mobile computing."
+  - "Public key infrastructure, key management, certification, and revocation."
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost."
+  - "Security for collaborative applications: teleconferencing and video-conferencing, electronic voting, groupwork, etc."
+  - "Software hardening: e.g., detecting and defending against software bugs (overflows, etc.)"
+  - "Security for large-scale systems and critical infrastructures."
+  - "Security of Web-based applications and services."
+pc:
+  - "Program committee":
+    - Crispin Cowan, Mercenary Linux (Program co-chair)
+    - Giovanni Vigna, UC Santa Barbara (Program co-chair)
+    - Lujo Bauer, Carnegie Mellon University
+    - Konstantin Beznosov, UBC
+    - John Black, University of Colorado
+    - David Brumley, Carnegie Mellon University
+    - Jon Callas, PGP
+    - Hao Chen, UC Davis
+    - Charles Clarke, University of Waterloo
+    - Vinod Ganapathy, University of Wisconsin
+    - Jonathon Giffin, Georgia Tech
+    - Farnam Jahanian, University of Michigan
+    - Angelos Keromytis, Columbia University
+    - Engin Kirda, Vienna University of Technology
+    - Christopher Kruegel, Vienna University of Technology
+    - Ben Laurie, Google
+    - Wenke Lee, Georgia Tech
+    - Michael Locasto, Columbia University
+    - Fabian Monrose, Johns Hopkins University
+    - Niels Provos, Google
+    - Len Sassaman, Katholieke Universiteit Leuven
+    - R. Sekar, SUNY Stonybrook
+    - Sean Smith, Dartmouth College
+    - Zhendong Su, UC Davis
+    - Nick Weaver, ICSI
+cycles:
+  - first:
+      submission: "September 21, 2007"
+      acceptance: "November 5, 2007"
+      camera-ready: "December 15, 2007"
+anonymous: false
+conflicts: false
+ethics-discussion: true

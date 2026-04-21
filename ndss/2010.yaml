@@ -1,0 +1,73 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20090511130416/http://www.isoc.org/isoc/conferences/ndss/10/cfp.shtml
+topics:
+  - "Security of Web-based applications and services"
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Intrusion prevention, detection, and response"
+  - "Security for electronic voting"
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
+  - "Privacy and anonymity technologies"
+  - "Network perimeter controls: firewalls, packet filters, and application gateways"
+  - "Security for emerging technologies: sensor networks, wireless/mobile (and ad hoc) networks, and personal communication systems"
+  - "Security for Vehicular Ad-hoc Networks (VANETs)"
+  - "Security for peer-to-peer and overlay network systems"
+  - "Security for electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, and licensing"
+  - "Implementation, deployment and management of network security policies"
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management"
+  - "Integrating security services with system and application security facilities and protocols"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost"
+  - "Security for collaborative applications: teleconferencing and video-conferencing"
+  - "Software hardening: e.g., detecting and defending against software bugs (overflows, etc.)"
+  - "Security for large-scale systems and critical infrastructures"
+  - "Integrating security in Internet protocols: routing, naming, network management"
+pc:
+  - "Program committee":
+    - Wenke Lee, Georgia Institute of Technology, USA (Chair)
+    - Giuseppe Ateniese, Johns Hopkins University, USA
+    - Michael Backes, Saarland University and MPI-SWS, Germany
+    - Michael Bailey, University of Michigan, USA
+    - Lujo Bauer, Carnegie Mellon University, USA
+    - Adam Barth, University of California, Berkeley, USA
+    - Konstantin Beznosov, University of British Columbia, Canada
+    - Nikita Borisov, University of Illinois at Urbana Champaign, USA
+    - David Brumley, Carnegie Mellon University, USA
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Hao Chen, University of California, Davis, USA
+    - Yan Chen, Northwestern University, USA
+    - Mihai Christodorescu, IBM Watson, USA
+    - Scott Coull, Johns Hopkins University, USA
+    - Weidong Cui, Microsoft Research, USA
+    - George Danezis, Microsoft Research, UK
+    - David Evans, University of Virginia, USA
+    - Nick Feamster, Georgia Institute of Technology, USA
+    - Vinod Ganapathy, Rutgers University, USA
+    - Tal Garfinkel, VMware, USA
+    - Thorsten Holz, University of Mannheim, Germany
+    - Engin Kirda, Eurecom, France
+    - Tadayoshi Kohno, University of Washington, USA
+    - Christian Kreibich, International Computer Science Institute, USA
+    - Christopher Kruegel, University of California, Santa Barbara, USA
+    - Michael Locasto, George Mason University, USA
+    - Phil Porras, SRI International, USA
+    - Adrian Perrig, Carnegie Mellon University, USA
+    - Niels Provos, Google, USA
+    - Moheeb Rajab, Google, USA
+    - Mike Reiter, University of North Carolina, USA
+    - Hovav Shacham, University of California, San Diego, USA
+    - Radu Sion, Stony Brook University, USA
+    - Sean Smith, Dartmouth College, USA
+    - Angelos Stavrou, George Mason University, USA
+    - Patrick Traynor, Georgia Institute of Technology, USA
+    - Nick Weaver, International Computer Science Institute, USA
+cycles:
+  - first:
+      abstract: "September 11, 2009"
+      submission: "September 18, 2009"
+      acceptance: "November 13, 2009"
+      camera-ready: "December 18, 2009"
+anonymous: false
+conflicts: false
+ethics-discussion: true

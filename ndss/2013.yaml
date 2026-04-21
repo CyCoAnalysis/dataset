@@ -1,0 +1,97 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20130821013409/http://www.internetsociety.org/events/ndss-symposium-2013/ndss-2013-call-papers
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
+  - "Future Internet architecture and design"
+  - "High-availability wired and wireless networks"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in Internet protocols: routing, naming, network management"
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management"
+  - "Intrusion prevention, detection, and response"
+  - "Privacy and anonymity technologies"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost"
+  - "Security for collaborative applications: teleconferencing and video-conferencing"
+  - "Security for Cloud Computing"
+  - "Security for electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, & licensing"
+  - "Security for emerging technologies: sensor networks, wireless/mobile (and ad hoc) networks, and personal communication systems"
+  - "Security for future home networks, Internet of Things, body-area networks"
+  - "Security for large-scale systems and critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security for peer-to-peer and overlay network systems"
+  - "Security for Vehicular Ad-hoc Networks (VANETs)"
+  - "Security of Web-based applications and services"
+  - "Trustworthy Computing mechanisms to secure network protocols and distributed systems"
+pc:
+  - "Program committee":
+    - Peng Ning (Chair), NC State University and Samsung Mobile, USA
+    - Ehab Al-Shaer, UNC Charlotte, USA
+    - Yair Amir, Johns Hopkins University, USA
+    - Michael Backes, Saarland University and MPI-SWS, Germany
+    - Dirk Balfanz, Google, USA
+    - Davide Balzarotti, EURECOM, France
+    - Lujo Bauer, Carnegie Mellon University, USA
+    - Steven Bellovin, Columbia University, USA
+    - Elie Bursztein, Google, USA
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Marc Dacier, Symantec, France
+    - Wenliang Du, Syracuse University, USA
+    - William Enck, NC State University, USA
+    - Úlfar Erlingsson, Google, USA
+    - Nick Hopper, University of Minnesota, USA
+    - Xuxian Jiang, NC State University, USA
+    - Apu Kapadia, Indiana University, USA
+    - Stefan Katzenbeisser, TU Darmstadt, Germany
+    - Roger Khazan, MIT Lincoln Lab, USA
+    - Yongdae Kim, University of Minnesota, USA, and KAIST, South Korea
+    - Engin Kirda, Northeastern University, USA
+    - Jun Li, University of Oregon, USA
+    - Ninghui Li, Purdue University, USA
+    - Zhichun Li, NEC Laboratories America, USA
+    - Zhenkai Liang, National University of Singapore, Singapore
+    - Yao Liu, University of South Florida, USA
+    - Jonathan McCune, Carnegie Mellon University, USA
+    - Patrick McDaniel, Penn State University, USA
+    - John Mitchell, Stanford University, USA
+    - David Molnar, Microsoft Research, USA
+    - Cristina Nita-Rotaru, Purdue University, USA
+    - Alina Oprea, RSA Laboratories, USA
+    - Bryan Parno, Microsoft Research, USA
+    - Radha Poovendran, University of Washington, USA
+    - Phillip Porras, SRI International, USA
+    - Zhiyun Qian, NEC Laboratories America, USA
+    - Michael Reiter, UNC Chapel Hill, USA
+    - Kui Ren, Illinois Institute of Technology, USA
+    - Thomas Ristenpart, University of Wisconsin, USA
+    - Volker Roth, Freie Universität Berlin, Germany
+    - Ahmad-Reza Sadeghi, TU Darmstadt, Germany
+    - Pierangela Samarati, Università degli Studi di Milano, Italy
+    - Elaine Shi, University of Maryland, USA
+    - Radu Sion, Stony Brook University, USA
+    - Robin Sommer, ICSI/LBNL, USA
+    - Abhinav Srivastava, AT&T Labs, USA
+    - Wade Trappe, Rutgers University, USA
+    - Patrick Traynor, Georgia Institute of Technology, USA
+    - David Wagner, UC Berkeley, USA
+    - Cliff Wang, Army Research Office, USA
+    - XiaoFeng Wang, Indiana University, USA
+    - Venkat Venkatakrishnan, University of Illinois at Chicago, USA
+    - Tao Wei, UC Berkeley, USA, and Peking University, China
+    - Glenn Wurster, Research In Motion Limited, Canada
+    - Yinglian Xie, Microsoft Research, USA
+    - Dongyan Xu, Purdue University, USA
+    - Heng Yin, Syracuse University, USA
+    - Moti Yung, Google, USA
+    - Xiaolan Zhang, IBM Research, USA
+    - Yanchao Zhang, Arizona State University, USA
+cycles:
+  - first:
+      abstract: "1 August 2012"
+      submission: "6 August 2012"
+      acceptance: "22 October 2012"
+      camera-ready: "3 December 2012"
+anonymous: true
+conflicts: false
+ethics-discussion: true

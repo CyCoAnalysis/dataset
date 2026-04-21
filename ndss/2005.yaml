@@ -1,0 +1,53 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20040623111109/http://www.isoc.org/isoc/conferences/ndss/05/cfp.shtml
+topics:
+  - "Integrating security in Internet protocols: routing, naming, TCP/IP, multicast, network management, and the Web."
+  - "Intrusion avoidance, detection, and response: systems, experiences and architectures."
+  - "Privacy and anonymity technologies."
+  - "Network perimeter controls: firewalls, packet filters, application gateways."
+  - "Virtual private networks."
+  - "Public key infrastructure, key management, certification, and revocation."
+  - "Secure electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, and licensing."
+  - "Supporting security mechanisms and APIs; audit trails; accountability."
+  - "Implementation, deployment and management of network security policies."
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management."
+  - "Fundamental services on network and distributed systems: authentication, data integrity, confidentiality, authorization, non-repudiation, and availability."
+  - "Integrating security services with system and application security facilities and protocols: e.g., message handling, file transport/access, directories, time synchronization, data base management, boot services, mobile computing."
+  - "Security for emerging technologies: sensor networks, specialized testbeds, wireless/mobile (and ad hoc) networks, personal communication systems, peer-to-peer and overlay network systems."
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost."
+  - "Security for collaborative applications: teleconferencing and video-conferencing, electronic voting, groupwork, etc."
+  - "Software hardening: e.g., detecting and defending against software bugs (overflows, etc.)"
+pc:
+  - "Program committee":
+    - William Arbaugh, University of Maryland
+    - Dirk Balfanz, PARC
+    - Steve Bellovin, AT&T Research
+    - Dan Boneh, Stanford University, Program co-chair
+    - Crispin Cowan, Immunix
+    - Leendert van Doorn, IBM T.J. Watson Research Center
+    - David Evans, University of Virginia
+    - Somesh Jha, UW Madison
+    - Ari Juels, RSA Labs
+    - Steve Kent, BBN
+    - Christopher Kruegel, Technical University Vienna
+    - Ninghui Li, Purdue University
+    - Pat Lincoln, SRI International
+    - Niels Provos, Google Inc.
+    - Eric Rescorla, RTFM
+    - Tatyana Ryutov, USC Information Sciences Institute
+    - Dan Simon, Microsoft Research, Program co-chair
+    - Sean Smith, Dartmouth College
+    - Dawn Song, CMU
+    - Paul Syverson, Naval Research Laboratory
+    - Brent Waters, Princeton University
+    - Nicholas Weaver, ICSI
+cycles:
+  - first:
+      submission: "August 23rd, 2004"
+      acceptance: "October 8th, 2004"
+      camera-ready: "November 7th, 2004"
+anonymous: false
+conflicts: false
+ethics-discussion: false

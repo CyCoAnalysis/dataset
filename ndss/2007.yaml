@@ -1,0 +1,53 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20081223194700/http://www.isoc.org/isoc/conferences/ndss/07/cfp.shtml
+topics:
+  - "Integrating security in Internet protocols: routing, naming, TCP/IP, multicast, network management, and the Web."
+  - "Intrusion prevention, detection, and response: systems, experiences and architectures."
+  - "Privacy and anonymity technologies."
+  - "Network perimeter controls: firewalls, packet filters, application gateways. o Virtual private networks."
+  - "Security for emerging technologies: sensor networks, specialized testbeds, wireless/mobile (and ad hoc) networks, personal communication systems, RFID systems, peer-to-peer and overlay network systems."
+  - "Secure electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, and licensing."
+  - "Supporting security mechanisms and APIs; audit trails; accountability."
+  - "Implementation, deployment and management of network security policies."
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management."
+  - "Fundamental services on network and distributed systems: authentication, data integrity, confidentiality, authorization, non-repudiation, and availability."
+  - "Integrating security services with system and application security facilities and protocols: e.g., message handling, file transport/access, directories, time synchronization, data base management, boot services, mobile computing."
+  - "Public key infrastructure, key management, certification, and revocation."
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost."
+  - "Security for collaborative applications: teleconferencing and video-conferencing, electronic voting, groupwork, etc."
+  - "Software hardening: e.g., detecting and defending against software bugs (overflows, etc.)"
+  - "Security for large-scale systems and critical infrastructures."
+pc:
+  - "Program committee":
+    - William Arbaugh, University of Maryland (Program co-chair)
+    - Crispin Cowan, Novell (Program co-chair)
+    - Angelos D. Keromytis, Columbia University
+    - Helen Wang, Microsoft Research
+    - Mike Reiter, CMU
+    - Wenke Lee, Georgia Tech
+    - John Ioannidis, Columbia University
+    - Fabian Monrose, Johns Hopkins University
+    - Lee Badger, DARPA
+    - Bill Cheswick, Lumeta
+    - Jonathan Shapiro, Johns Hopkins University
+    - Barton Miller, University of Wisconsin
+    - Trent Jaeger, Penn State University
+    - Jon Callas, PGP
+    - Rodney Thayer, Network World
+    - Charles Clarke, U. Waterloo
+    - Virgil Gligor, University of Maryland
+    - Jesse Walker, Intel
+    - Dan Boneh, Stanford
+    - Sean Smith, Dartmouth
+    - Radia Perlman, Sun
+    - Doug Szajda, Universtiy of Richmond
+cycles:
+  - first:
+      submission: "September 10, 2006"
+      acceptance: "October 23, 2006"
+      camera-ready: "December 1, 2006"
+anonymous: false
+conflicts: false
+ethics-discussion: true

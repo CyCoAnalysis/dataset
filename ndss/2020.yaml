@@ -1,0 +1,142 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20191121082615/https://www.ndss-symposium.org/ndss2020/call-for-papers/
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in network protocols (e.g., routing, naming, and management)"
+  - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"
+  - "Software/firmware analysis, customization, and transformation for systems security"
+  - "Privacy and anonymity in networks and distributed systems"
+  - "Security and privacy for blockchains and cryptocurrencies"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security for cloud/edge computing"
+  - "Security and privacy of mobile/smartphone platforms"
+  - "Security for cyber-physical systems (e.g., autonomous vehicles, industrial control systems)"
+  - "Security for emerging networks (e.g., home networks, IoT, body-area networks, VANETs)"
+  - "Security for large-scale, critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security and privacy of systems based on machine learning and AI"
+  - "Security of Web-based applications and services (e.g., social networking, crowd-sourcing)"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, cost, and ethics"
+  - "Usable security and privacy"
+  - "Trustworthy Computing software and hardware to secure networks and systems"
+pc:
+  - "Program committee":
+    - Adam Aviv, The George Washington University
+    - Adam Bates, University of Illinois at Urbana-Champaign
+    - Adam Doupe, Arizona State University
+    - Adwait Nadkarni, William & Mary
+    - Alexandra Dmitrienko, University of Würzburg
+    - Amir Houmansadr, University of Massachusetts-Amherst
+    - Andrew Paverd, Microsoft Research
+    - Antonio Bianchi, Purdue University
+    - Anupam Das, North Carolina State University
+    - Ben Stock, CISPA Helmholtz Center for Information Security
+    - Benny Pinkas, VMware Research, Bar Ilan University
+    - Bimal Viswanath, Virginia Tech
+    - Blase Ur, University of Chicago
+    - Brad Reaves, North Carolina State University
+    - Brendan Dolan-Gavitt, NYU
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Brent ByungHoon Kang, KAIST
+    - Bryan Parno, Carnegie Mellon University
+    - Byoungyoung Lee, Seoul National University
+    - Carmela Troncoso, EPFL
+    - Carrie Gates, Bank of America
+    - Chris Kanich, University of Illinois at Chicago
+    - Christina Garman, Purdue University
+    - Christina Poepper, New York University Abu Dhabi
+    - Christopher Liebchen, Google
+    - Cristina Nita-Rotaru, Northeastern University
+    - David Lie, University of Toronto
+    - Davide Balzarotti, EURECOM
+    - Earlence Fernandes, University of Wisconsin-Madison
+    - Emiliano De Cristofaro, University College London (UCL)
+    - Engin Kirda, Northeastern University
+    - Farinaz Koushanfar, University of California San Diego
+    - Gang Tan, Pennsylvania State University
+    - Gang Wang, Virginia Tech
+    - Gene Tsudik, University of California Irvine (UCI)
+    - Guofei Gu, Texas A&M University
+    - Haibo Chen, Shanghai Jiao Tong University
+    - Hamed Okhravi, MIT Lincoln Lab
+    - Ivan Martinovic, Oxford University
+    - Jack Stokes, Microsoft Research
+    - Jeremiah Blocki, Purdue University
+    - Jon McCune, Google
+    - Juan Caballero, IMDEA Software Institute
+    - Kevin Butler, University of Florida
+    - Kevin Hamlen, University of Texas at Dallas
+    - Konrad Rieck, TU Braunschweig
+    - Kun Sun, George Mason University
+    - Lejla Batina, Radboud University
+    - Limin Jia, Carnegie Mellon University
+    - Long Lu, Northeastern University
+    - Lucas Davi, University of Duisburg-Essen
+    - Luyi Xing, Indiana University Bloomington
+    - Manuel Egele, Boston University
+    - Marcus Peinado, Microsoft Research
+    - Mathias Payer, EPFL
+    - Matt Fredrikson, Carnegie Mellon University
+    - Mauro Conti, University of Padua
+    - Micah Sherr, Georgetown University
+    - Michelle Mazurek, University of Maryland
+    - Mihai Christodorescu, Visa Research
+    - Neil Gong, Duke University
+    - Nele Mentens, KU Leuven
+    - Nick Nikiforakis, Stony Brook University
+    - Panos Papadimitratos, KTH Royal Institute of Technology
+    - Patrick Traynor, University of Florida
+    - Per Larsen, University of California Irvine and Immunant, Inc.
+    - Qi Li, Tsinghua University
+    - Rosario Cammarota, Intel
+    - Saman Zonouz, Rutgers University
+    - Sebastian Faust, TU Darmstadt
+    - Selcuk Uluagac, Florida International University
+    - Srdjan Capkun, ETH Zurich
+    - Stefan Katzenbeisser, University of Passau
+    - Stefanie Roos, TU Delft
+    - Stephen McCamant, University of Minnesota
+    - Suman Jana, Columbia University
+    - Taesoo Kim, Georgia Institute of Technology
+    - Thomas Schneider, TU Darmstadt
+    - Thorsten Holz, Ruhr-University Bochum
+    - Tiffany Bao, Arizona State University
+    - Trent Jaeger, Pennsylvania State University
+    - Tudor Dumitras, University of Maryland
+    - Vinod Ganapathy, Indian Institute of Science
+    - Wenyuan Xu, Zhejiang University
+    - William Enck, North Carolina State University
+    - Xiaojing Liao, Indiana University Bloomington
+    - Yinqian Zhang, Ohio State University
+    - Yongdae Kim, KAIST
+    - Yonghwi Kwon, University of Virginia
+    - Yossef Oren, Ben-Gurion University of the Negev
+    - Yuan Tian, University of Virginia
+    - Zhenkai Liang, National University of Singapore
+    - Zhiqiang Lin, Ohio State University
+    - Zhiyun Qian, University of California, Riverside
+    - Zhou Li, University Of California Irvine
+cycles:
+  - first:
+      submission: "June 14, 2019"
+      early-reject: "July 25, 2019"
+      rebuttal-start: "August 14, 2019"
+      rebuttal-end: "August 17, 2019"
+      acceptance: "August 25, 2019"
+      revision-submission: "October 9, 2019"
+      camera-ready: ""
+  - second:
+      submission: "September 13, 2019"
+      early-reject: "October 31, 2019"
+      rebuttal-start: "November 21, 2019"
+      rebuttal-end: "November 24, 2019"
+      acceptance: "December 8, 2019"
+      revision-submission: "January 24, 2020"
+      camera-ready: ""
+anonymous: true
+conflicts: true
+ethics-discussion: true

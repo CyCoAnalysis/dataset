@@ -1,0 +1,218 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20250108194542/https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"
+  - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"
+  - "Integrating security in network protocols (e.g., routing, naming, and management)"
+  - "Mobile and wireless network security"
+  - "Network security policy implementation, deployment, and management"
+  - "Privacy and anonymity in networks and distributed systems"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security and privacy for blockchains and cryptocurrencies"
+  - "Security and privacy of mobile/smartphone platforms and their operating systems"
+  - "Security and privacy of systems based on machine learning, federated learning, AI, and large language models"
+  - "Security for cloud/edge computing"
+  - "Security for cyber-physical systems (e.g., autonomous vehicles, industrial control systems)"
+  - "Security for emerging networks (e.g., smart homes, IoT, body-area networks, VANETs)"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "Security for large-scale, critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security of web-based applications and services (e.g., social networking, crowd-sourcing, fake news/disinformation), web security and privacy"
+  - "Software/firmware/hardware security analysis, customization, and extensions"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, cost, and ethics"
+  - "Trustworthy computing software and hardware to secure networks and systems"
+  - "Usable security and privacy"
+pc:
+  - "Program committee":
+    - Abhishta Abhishta, University of Twente
+    - Adam Bates University of Illinois at Urbana-Champaign
+    - Adwait Nadkarni, William & Mary
+    - Ahmad-Reza Sadeghi, TU Darmstadt
+    - Alessandro Sorniotti, IBM Research Europe
+    - Alexandra Dmitrienko, University of Wuerzburg
+    - Ali Abbasi, CISPA Helmholtz Center for Information Security
+    - Alvaro Cardenas, University of California, Santa Cruz
+    - Amy Babay, University of Pittsburgh
+    - Ang Li, The University of Michigan-Dearborn
+    - Angelos Stavrou, Virginia Tech
+    - Antonio Villani, Retooling
+    - Aolin Ding, Accenture Labs
+    - Aravind Machiry, Purdue University
+    - Awais Rashid, University of Bristol
+    - Bahruz Jabiyev, Dartmouth College
+    - Bart Coppens, Ghent University
+    - Ben Stock, CISPA Helmholtz Center for Information Security
+    - Benjamin Ujcich, Georgetown University
+    - Benjamin Andow, Google
+    - Binbin Zhao, Georgia Institute of Technology
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Christine Utz, Radboud University
+    - Christof Ferreira Torres, ETH Zurich
+    - Christophe Hauser, Dartmouth College
+    - Christopher Kruegel, UC Santa Barbara
+    - Claudio Soriente, NEC Laboratories Europe
+    - Coby Wang, Visa Research
+    - Daniel Gruss, Graz University of Technology
+    - Daniele Cono D’Elia, Sapienza University of Rome
+    - Daoyuan Wu, Hong Kong University of Science and Technology
+    - David Mohaisen, University of Central Florida
+    - Derrick McKee, MIT Lincoln Laboratory
+    - Derui Wang, CSIRO’s Data61
+    - Ding Wang, Nankai University
+    - Doowon Kim, University of Tennessee, Knoxville
+    - Eleonora Losiouk, University of Padua
+    - Erik van der Kouwe Vrije, Universiteit Amsterdam
+    - Faysal Hossain Shezan, University of Texas at Arlington
+    - Fengwei Zhang, Southern University of Science and Technology
+    - Flavio Toffalini, EPFL
+    - Gang Qu, University of Maryland
+    - Gary Tan, Pennsylvania State University
+    - Ghassan Karame, Ruhr University Bochum
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Guangdong Bai, The University of Queensland
+    - Guofei Gu, Texas A&M University
+    - Habiba Farrukh, University of California, Irvine
+    - Haibin Zhang, Yangtze Delta Region Institute of Tsinghua University, Zhejiang
+    - Haipeng Cai, Washington State University
+    - Han Qiu, Tsinghua University
+    - Haojin Zhu, Shanghai Jiao Tong University
+    - Hong Hu, Pennsylvania State University
+    - Hongxin Hu, University at Buffalo
+    - Hossein Fereidooni, KOBIL GmbH
+    - Houman Homayoun, University of California Davis
+    - Hyungsub Kim, Purdue University & Indiana University
+    - Imtiaz Karim, Purdue University
+    - Insu Yun, KAIST
+    - Ivan Martinovic, University of Oxford
+    - Jason (Minhui) Xue, CSIRO’s Data61
+    - Jianjun Chen, Tsinghua University
+    - Juan Tapiador, Carlos III University of Madrid
+    - Jun Xu, University of Utah
+    - Juraj Somorovsky, Paderborn University
+    - JV Rajendran, Texas A&M University
+    - Kai Li, San Diego State University
+    - Kaihua Qin, Yale University
+    - Kaushal Kafle, University of Florida
+    - Kevin Borgolte, Ruhr University Bochum
+    - Kevin Leach, Vanderbilt University
+    - Kun Sun, George Mason University
+    - Kyungtae Kim, Dartmouth College
+    - Lannan Lisa Luo, George Mason University
+    - Le Guan, University of Georgia
+    - Lejla Batina, Radboud University
+    - Lingyu Wang, Concordia University
+    - Lorenzo Cavallaro, University College London
+    - Manuel Egele, Boston University
+    - Marcus Botacin, Texas A&M University
+    - Marcus Peinado, Microsoft Research
+    - Marko Vukolic, ConsensusLab
+    - Martin Strohmeier, Cyber-Defence Campus, armasuisse Science + Technology
+    - Martin Henze, RWTH Aachen University & Fraunhofer FKIE
+    - Martin Johns, TU Braunschweig
+    - Mathias Payer, EPFL
+    - Matteo Grosse-Kampmann, Rhine-Waal University / AWARE7 GmbH
+    - Meng Luo, Zhejiang University
+    - Meng Xu, University of Waterloo
+    - Michael Schwarz, CISPA Helmholtz Center for Information Security
+    - Mihalis Maniatakos, NYU Abu Dhabi
+    - Min Suk Kang, KAIST
+    - Ming Li, The University of Texas at Arlington
+    - Minghong Fang, Duke University
+    - Mingxue Zhang Zhejiang University
+    - Mitsuaki Akiyama, NTT
+    - Mohammad Islam, University of Texas at Arlington
+    - Mu Zhang, University of Utah
+    - Murtuza Jadliwala, University of Texas at San Antonio
+    - Nader Sehatbakhsh, UCLA
+    - Nadim Kobeissi, Cure53, Symbolic Software
+    - Nathan Burow, MIT Lincoln Laboratory
+    - Neil Gong, Duke University
+    - Nick Nikiforakis, Stony Brook University
+    - Nidhi Rastogi, Rochester Institute of Technology
+    - Ning Wang, University of South Florida
+    - Omar Chowdhury, Stony Brook University
+    - Paria Shirani, University of Ottawa
+    - Peng Gao, Virginia Tech
+    - Per Larsen, Immunant, Inc.
+    - Phani Vadrevu, Louisiana State University
+    - Prashast Srivastava, Columbia University
+    - Qi Li, Tsinghua University
+    - Qiang Tang, The University of Sydney
+    - Qiben Yan, Michigan State University
+    - Qingchuan Zhao, City University of Hong Kong
+    - Qiushi Wu, IBM Research
+    - Rachel Greenstadt, New York University
+    - Raghavendran Ramakrishnan, Snowflake Inc
+    - Rajvardhan Oak, University of California Davis / Microsoft Corporation
+    - René Mayrhofer, Johannes Kepler University Linz
+    - Rob Cunningham, University of Pittsburgh
+    - Ruoyu “Fish” Wang, Arizona State University
+    - Saman Zonouz, Georgia Institute of Technology
+    - Samuel Jero, MIT Lincoln Laboratory
+    - Sandra Siby, Imperial College London
+    - Sang Kil Cha, KAIST
+    - Santosh Nagarakatte, Rutgers University
+    - Sebastian Köhler, University of Oxford
+    - Sébastien Bardin, CEA List, Université Paris Saclay
+    - Shagufta Mehnaz, Pennsylvania State University
+    - Shahin Tajik, Worcester Polytechnic Institute
+    - Sherman S. M. Chow, Chinese University of Hong Kong
+    - Shweta Shinde, ETH Zurich
+    - Sisi Duan, Tsinghua University
+    - Soheil Salehi, The University of Arizona
+    - Srdjan Čapkun, ETH Zurich
+    - Stephen Herwig, William & Mary
+    - Stjepan Picek, Radboud University
+    - Suryadipta Majumdar, Concordia University
+    - Syed Rafiul Hussain, Pennsylvania State University
+    - Takuya Watanabe, Deloitte Tohmatsu Cyber LLC
+    - Tatsuya Mori, Waseda University
+    - Theodor Schnitzler, Maastricht University
+    - Tianhao Wang, University of Virginia
+    - Ting Wang, Stony Brook University
+    - Tuba Yavuz, University of Florida
+    - Veelasha Moonsamy, Ruhr University Bochum
+    - Wajih Ul Hassan, University of Virginia
+    - Wenke Lee, Georgia Institute of Technology
+    - William Robertson, Northeastern University
+    - Xiaokuan Zhang, George Mason University
+    - Xingliang Yuan, The University of Melbourne
+    - Xinwen Fu, University of Massachusetts Lowell
+    - Xinyang Ge, Databricks
+    - Xinyu Xing, Northwestern University
+    - Yang Zhang, CISPA Helmholtz Center for Information Security
+    - Yongdae Kim, KAIST
+    - Yonghwi Kwon, University of Maryland
+    - Yuan Hong, University of Connecticut
+    - Yue Zhang, Drexel University
+    - Yuzhe Tang, Syracuse University
+    - Z. Berkay Celik, Purdue University
+    - Zephyr Yao, New Jersey Institute of Technology
+    - Zhikun Zhang, Stanford & CISPA
+    - Zhiyun Qian, University of California, Riverside
+    - Zhou Li, University of California, Irvine
+cycles:
+  - first:
+      submission: "17 April 2024"
+      early-reject: "21 May 2024"
+      rebuttal-start: "10 June 2024"
+      rebuttal-end: "13 June 2024"
+      acceptance: "20 June 2024"
+      revision-submission: "7 August 2024"
+      revision-acceptance: "29 August 2024"
+      camera-ready: "12 September 2024"
+  - second:
+      submission: "10 July 2024"
+      early-reject: "20 August 2024"
+      rebuttal-start: "9 September 2024"
+      rebuttal-end: "13 September 2024"
+      acceptance: "19 September 2024"
+      revision-submission: "30 October 2024"
+      revision-acceptance: "21 November 2024"
+      camera-ready: "5 December 2024"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+genai: true

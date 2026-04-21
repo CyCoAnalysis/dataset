@@ -1,0 +1,103 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20161124123301/http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-call-papers
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "High-availability wired and wireless networks"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in Internet protocols: routing, naming, network management"
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management"
+  - "Intrusion prevention, detection, and response"
+  - "Privacy and anonymity technologies"
+  - "Security and privacy for distributed cryptocurrencies"
+  - "Security and privacy in social networks"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost"
+  - "Security for collaborative applications: teleconferencing and video-conferencing"
+  - "Security for cloud computing"
+  - "Security for emerging technologies: sensor/wireless/mobile/personal networks and systems"
+  - "Security for future home networks, Internet of Things, body-area networks"
+  - "Security for large-scale systems and critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security for peer-to-peer and overlay network systems"
+  - "Security for Vehicular Ad-hoc Networks (VANETs)"
+  - "Security of Web-based applications and services"
+  - "Trustworthy Computing mechanisms to secure network protocols and distributed systems"
+  - "Usable security and privacy"
+pc:
+  - "Program committee":
+    - Johanna Amann, ICSI
+    - Manos Antonakakis, Georgia Institute of Technology
+    - Erman Ayday, Bilkent University
+    - Davide Balzarotti, EURECOM
+    - David Barrera, ETH Zurich
+    - Adam Bates, University of Illinois Urbana Champaign (UIUC)
+    - Lujo Bauer, Carnegie Mellon University
+    - Alex Biryukov, University of Luxembourg
+    - Kevin Butler, University of Florida
+    - Nicolas Christin, Carnegie Mellon University
+    - Dana Dachman-Soled, University of Maryland
+    - Anupam Datta, Carnegie Mellon University
+    - Emiliano De Cristofaro, University College London
+    - Tudor Dumitras, University of Maryland
+    - Manuel Egele, Boston University
+    - William Enck, North Carolina State University
+    - David Evans, University of Virginia
+    - Ittay Eyal, Cornell University
+    - Domenic Forte, University of Florida
+    - Aurelien Francillon, EURECOM
+    - Matthew Fredrikson, Carnegie Mellon University
+    - Guofei Gu, Texas A&M University
+    - Alex Halderman, University of Michigan
+    - Amir Herzberg, Bar Ilan University
+    - Amir Houmansadr, University of Massachusetts Amherst
+    - Yier Jin, UCF
+    - Jaeyeon Jung, Microsoft Research
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Farinaz Koushanfar, UCSD
+    - Ralf Küsters, University of Trier
+    - Wenke Lee, Georgia Institute of Technology
+    - Zhenkai Liang, National University of Singapore
+    - Ben Livshits, Microsoft Research
+    - Long Lu, Stony Brook University
+    - Ivan Martinovic, Oxford University
+    - Jonathan McCune, Google
+    - Patrick McDaniel, Pennsylvania State University
+    - Sarah Meiklejohn, University College London
+    - Andrew Miller, UMD / UIUC
+    - Prateek Mittal, Princeton University
+    - Muhammad Naveed, USC
+    - Steven Murdoch, University College London
+    - Steven Myers, Indiana University Bloomington
+    - Alina Oprea, Northeastern University
+    - Charalampos Papamanthou, University of Maryland
+    - Chunyi Peng, The Ohio State University
+    - Christina Poepper, New York University Abu Dhabi
+    - Raluca Popa, University of California, Berkeley
+    - Mike Reiter, UNC Chapel Hill
+    - Will Robertson, Northeastern University
+    - Ahmad-Reza Sadeghi, TU Darmstadt
+    - Vyas Sekar, CMU
+    - abhi shelat, University of Virginia
+    - Reza Shokri, Cornell Tech
+    - Tom Shrimpton, University of Florida
+    - Ed Suh, Cornell University
+    - Stefano Tessaro, UCSB
+    - Nikos Triandopoulos, Boston University
+    - Venkat Venkatakrishnan, University of Illinois Chicago
+    - XiaoFeng Wang, Indiana University Bloomington
+    - Dongyan Xu, Purdue University
+    - Yinqian Zhang, The Ohio State University
+cycles:
+  - first:
+      abstract: "12 August 2016"
+      submission: "16 August 2016"
+      early-reject: "20 September 2016"
+      acceptance: "22 October 2016"
+      camera-ready: ""
+anonymous: true
+conflicts: true
+ethics-discussion: true

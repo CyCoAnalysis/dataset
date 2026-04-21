@@ -1,0 +1,70 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20081121032149/http://www.isoc.org/isoc/conferences/ndss/09/cfp.shtml
+topics:
+  - "Security of Web-based applications and services."
+  - "Anti-malware techniques: detection, analysis, prevention."
+  - "Intrusion prevention, detection, and response."
+  - "Security for electronic voting."
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques."
+  - "Privacy and anonymity technologies."
+  - "Network perimeter controls: firewalls, packet filters, application gateways."
+  - "Security for emerging technologies: sensor networks, wireless/mobile (and ad hoc) networks, personal communication systems."
+  - "Security for peer-to-peer and overlay network systems."
+  - "Security for electronic commerce: e.g., payment, barter, EDI, notarization, timestamping, endorsement, and licensing."
+  - "Implementation, deployment and management of network security policies."
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management."
+  - "Integrating security services with system and application security facilities and protocols."
+  - "Public key infrastructures, key management, certification, and revocation."
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost."
+  - "Security for collaborative applications: teleconferencing and video-conferencing."
+  - "Software hardening: e.g., detecting and defending against software bugs (overflows, etc.)"
+  - "Security for large-scale systems and critical infrastructures."
+  - "Integrating security in Internet protocols: routing, naming, network management."
+pc:
+  - "Program committee":
+    - Giovanni Vigna (Program Chair)
+    - Giuseppe Ateniese, Johns Hopkins University, USA
+    - Lujo Bauer, Carnegie Mellon University, USA
+    - Adam Barth, Stanford University, USA
+    - Kostantin Beznosov, University of BritishColumbia, Canada
+    - John Black, University of Colorado at Boulder, USA
+    - Nikita Borisov, University of Illinois at Urbana Champaign, USA
+    - David Brumley, Carnegie Mellon University, USA
+    - Hao Chen, UC Davis, USA
+    - Mihai Christodorescu, IBM Watson, USA
+    - Crispin Cowan, Microsoft, USA
+    - Weidong Cui, Microsoft Research, USA
+    - Vinod Ganapathy, Rutgers University, USA
+    - Tal Garfinkel, VMWare, USA
+    - Jon Giffin, Georgia Tech, USA
+    - Virgil Gligor, Carnegie Mellon University, USA
+    - Xuxian Jiang, North Carolina State University, USA
+    - Engin Kirda, Eurecomm, France
+    - Tadayoshi Kohno, Washington University, USA
+    - Christopher Kruegel, UC Santa Barbara, USA
+    - Wenke Lee, Georgia Tech, USA
+    - Michael Locasto, Dartmouth College, USA
+    - Patrick McDaniel, Penn State University, USA
+    - Fabian Monrose, University of North Carolina, USA
+    - Marco Pistoia, IBM Watson, USA
+    - Adrian Perrig, Carnegie Mellon University, USA
+    - Niels Provos, Google, USA
+    - Mike Reiter, University of North Carolina, USA
+    - Christoph Schuba, Sun Microsystems, USA
+    - R. Sekar, SUNY Stonybrook, USA
+    - Hovav Shacham, UC San Diego, USA
+    - Sean Smith, Dartmouth College, USA
+    - Angelos Stavrou, George Mason University, USA
+    - Zhendong Su, UC Davis, USA
+    - Nick Weaver, International Computer Science Institute, USA
+cycles:
+  - first:
+      abstract: "September 12, 2008"
+      submission: "September 19, 2008"
+      acceptance: "November 3, 2008"
+      camera-ready: "December 12, 2008"
+anonymous: false
+conflicts: false
+ethics-discussion: true

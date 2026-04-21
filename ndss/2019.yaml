@@ -1,0 +1,117 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20180914144858/https://www.ndss-symposium.org/ndss2019/ndss-2019-call-for-papers/
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in network protocols (e.g., routing, naming, and management)"
+  - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"
+  - "Software/firmware analysis, customization, and transformation for systems security"
+  - "Privacy and anonymity in networks and distributed systems"
+  - "Security and privacy for blockchains and cryptocurrencies"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security for cloud/edge computing"
+  - "Security and privacy of mobile/smartphone platforms"
+  - "Security for cyber-physical systems (e.g., autonomous vehicles, industrial control systems)"
+  - "Security for emerging networks (e.g., home networks, IoT, body-area networks, VANETs)"
+  - "Security for large-scale, critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security and privacy of systems based on machine learning and AI"
+  - "Security of Web-based applications and services (e.g., social networking, crowd-sourcing)"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, cost, and ethics"
+  - "Usable security and privacy"
+  - "Trustworthy Computing software and hardware to secure networks and distributed systems"
+pc:
+  - "Program committee":
+    - Adam Aviv, United States Naval Academy
+    - Foteini Baldimtsi, George Mason University
+    - Lujo Bauer, Carnegie Mellon University
+    - Adam Bates, University of Illinois at Urbana-Champaign
+    - Marina Blanton, SUNY Buffalo
+    - Kevin Butler, University of Florida
+    - Juan Caballero, IMDEA Software Institute
+    - Joseph Calandrino, FTC
+    - Srdjan Capkun, ETH Zurich
+    - Gabriela Ciocarlie, SRI
+    - Weidong Cui, Microsoft Research
+    - Lucas Davi, University of Duisburg-Essen
+    - Emiliano De Cristofaro, University College London
+    - Adam Doupe, Arizona State University
+    - Tudor Dumitras, University of Maryland
+    - Manuel Egele, Boston University
+    - William Enck, North Carolina State University
+    - David Evans, University of Virginia
+    - Giulia Fanti, Carnegie Mellon University
+    - Matt Fredrikson, Carnegie Mellon University
+    - Christina Garman, Purdue University
+    - Carrie Gates, Securelytix
+    - Phillipa Gill, University of Massachusetts-Amherst
+    - Cristiano Giuffrida, Vrije University Amsterdam
+    - Neil Gong, Iowa State University
+    - Carl Gunter, University of Illinois at Urbana-Champaign
+    - Ryan Henry, Indiana University
+    - Thorsten Holz, Ruhr-University Bochum
+    - Endadul Hoque, Florida International University
+    - Amir Houmansadr, University of Massachusetts-Amherst
+    - Limin Jia, Carnegie Mellon University
+    - Brent ByungHoon Kang, KAIST
+    - Aniket Kate, Purdue University
+    - Chung Hwan Kim, NEC Labs America
+    - Taesoo Kim, Georgia Tech
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Farinaz Koushanfar, UC San Diego
+    - Yonghwi Kwon, University of Virginia
+    - Kirill Levchenko, UC San Diego
+    - Bo Li, University of Illinois at Urbana-Champaign
+    - Zhou Li, RSA
+    - Zhenkai Liang, National University of Singapore
+    - Xiaojing Liao, Indiana University
+    - David Lie, University of Toronto
+    - Zhiqiang Lin, Ohio State University
+    - Long Lu, Northeastern University
+    - Ivan Martinovic, Oxford University
+    - Michelle Mazurek, University of Maryland
+    - Damon McCoy, New York University
+    - Jon McCune, Google
+    - Nick Nikiforakis, Stony Brook University
+    - Cristina Nita-Rotaru, Northeastern University
+    - Hamed Okhravi, MIT Lincoln Lab
+    - Dimitris Papadopoulos, Hong Kong University of Science and Technology
+    - Mathias Payer, EPFL and Purdue University
+    - Marcus Peinado, Microsoft Research
+    - Roberto Perdisci, University of Georgia
+    - Christina Poepper, NYU Abu Dhabi
+    - Michalis Polychronakis, Stony Brook University
+    - Zhiyun Qian, UC Riverside
+    - Aanjhan Ranganathan, Northeastern University
+    - Bradley Reaves, North Carolina State University
+    - Mike Reiter, UNC Chapel Hill
+    - Ahmad-Reza Sadeghi, Technical University Darmstadt
+    - Tamara Rezk, INRIA
+    - Brendan Saltaformaggio, Georgia Tech
+    - Micah Sherr, Georgetown University
+    - Deian Stefan, UC San Diego
+    - Jay Stokes, Microsoft Research
+    - Yuan Tian, University of Virginia
+    - Nikos Triandopolous, Stevens Institute of Technology
+    - Selcuk Uluagac, Florida International University
+    - Luyi Xing, Indiana University
+    - Wenyuan Xu, Zhejiang University
+    - Daphne Yao, Virginia Tech
+    - Ting-Fang Yen, DataVisor
+    - Yinqian Zhang, Ohio State University
+    - Saman Zonouz, Rutgers University
+cycles:
+  - first:
+      submission: "August 7, 2018"
+      early-reject: "October 2, 2018"
+      rebuttal-start: "October 2, 2018"
+      rebuttal-end: "October 4, 2018"
+      acceptance: "November 6, 2018"
+      camera-ready: ""
+anonymous: true
+conflicts: true
+ethics-discussion: true

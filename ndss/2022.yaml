@@ -1,0 +1,133 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20211221100206/https://www.ndss-symposium.org/ndss2022/call-for-papers/
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in network protocols (e.g., routing, naming, and management)"
+  - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"
+  - "Software/firmware analysis, customization, and transformation for systems security"
+  - "Privacy and anonymity in networks and distributed systems"
+  - "Security and privacy for blockchains and cryptocurrencies"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Security for cloud/edge computing"
+  - "Security and privacy of mobile/smartphone platforms"
+  - "Security for cyber-physical systems (e.g., autonomous vehicles, industrial control systems)"
+  - "Security for emerging networks (e.g., home networks, IoT, body-area networks, VANETs)"
+  - "Security for large-scale, critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security and privacy of systems based on machine learning and AI"
+  - "Security of Web-based applications and services (e.g., social networking, crowd-sourcing)"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, cost, and ethics"
+  - "Usable security and privacy"
+  - "Trustworthy Computing software and hardware to secure networks and systems"
+pc:
+  - "Program committee":
+    - Adam Doupe (Arizona State University)
+    - Adwait Nadkarni (William & Mary)
+    - Ahmad-Reza Sadeghi (Technical University of Darmstadt)
+    - Alexandra Dmitrienko (University of Wuerzburg)
+    - Alvaro Cardenas (UC Santa Cruz)
+    - Antonio Bianchi (Purdue University)
+    - Arthur Gervais (Imperial College London)
+    - Avesta Sasan (University of California Davis)
+    - Aysajan Abidin (imec-COSIC, KU Leuven)
+    - Ben Stock (CISPA Helmholtz Center for Information Security)
+    - Benjamin Andow (Google)
+    - Berkay Celik (Purdue University)
+    - Bita Rouhani (Microsoft)
+    - Brendan Saltaformaggio (Georgia Institute of Technology)
+    - Brent ByungHoon Kang (KAIST)
+    - Chao Shen (Xi’an Jiaotong University)
+    - Christopher Liebchen (Google)
+    - Cornelius Aschermann (Ruhr-Universität Bochum)
+    - Dan Wallach (Rice)
+    - Daniel Holcomb (University of Massachusetts Amherst)
+    - Dongyan Xu (Purdue University)
+    - Emiliano De Cristofaro (University College London)
+    - Gang Qu (University of Maryland)
+    - Gang Wang (University of Illinois at Urbana-Champaign)
+    - Guofei Gu (Texas A&M)
+    - Haixin Duan (Tsinghua University)
+    - Hamed Okhravi (MIT Lincoln Laboratory)
+    - Haojin Zhu (Shanghai Jiao Tong University)
+    - Hong Hu (Pennsylvania State University)
+    - Houman Homayoun (UC Davis)
+    - Ivan De Oliveira Nunes (Rochester Institute of Technology)
+    - Jeyavijayan Rajendran (Texas A&M University)
+    - Joel Frank (Ruhr-Universität Bochum)
+    - Johanna Sepulveda (Airbus Defence and Space)
+    - Kangjie Lu (University of Minnesota)
+    - Kapil Singh (IBM T.J. Watson Research Center)
+    - Katharina Kohls (Radboud University)
+    - Kun Sun (George Mason University)
+    - Lannan Luo (University of South Carolina)
+    - Lejla Batina (Radboud University)
+    - Limin Jia (CMU)
+    - Lucas Davi (University of Duisburg-Essen)
+    - Maliheh Shirvanian (Visa Research)
+    - Manuel Egele (Boston University)
+    - Marcus Peinado (Microsoft Research)
+    - Markus Miettinen (Technical University of Darmstadt)
+    - Mathias Payer (EPFL)
+    - Mauro Conti (University of Padua)
+    - Michael Franz (University of California, Irvine)
+    - Minhui (Jason) Xue (The University of Adelaide)
+    - Neil Gong (Duke University)
+    - Nele Mentens (Leiden University and KU Leuven)
+    - Ning Zhang (Washington University in St. Louis)
+    - Norrathep Rattanavipanon (Prince of Songkla University, Phuket Campus)
+    - Pedro Moreno-Sanchez (IMDEA Software Institute)
+    - Qi Alfred Chen (UC Irvine)
+    - Qi Li (Tsinghua University)
+    - Qian Wang (Wuhan University)
+    - Qiang Zeng (University of South Carolina)
+    - Ren Zhang (Nervos)
+    - Ryan Gerdes (Virginia Tech)
+    - Saman Zonouz (Rutgers University)
+    - Samuel Jero (MIT Lincoln Laboratory)
+    - Samuel Marchal (Aalto University & F-Secure Corporation)
+    - Sazzadur Rahaman (University of Arizona)
+    - Selcuk Uluagac (Florida International University)
+    - Shouling Ji (Zhejiang University)
+    - Sooel Son (KAIST)
+    - Srdjan Capkun (ETH Zurich)
+    - Srinath Setty (Microsoft Research)
+    - Stefanie Roos (TU Delft)
+    - Stjepan Picek (TU Delft)
+    - Syed Rafiul Hussain (Pennsylvania State University)
+    - Tiffany Bao (Arizona State University)
+    - Ting Chen (University of Electronic Science and Technology of China)
+    - Trent Jaeger (Penn State University)
+    - Xiaojing Liao (Indiana University Bloomington)
+    - Xiaoyu Ji (Zhejiang University)
+    - Xiapu Luo (The Hong Kong Polytechnic University)
+    - Xinyang Ge (Microsoft Research)
+    - Yanjiao Chen (Zhejiang University)
+    - Yier Jin (University of Florida)
+    - Yiorgos Makris (UT Dallas)
+    - Yongdae Kim (KAIST)
+    - Yuan Tian (University of Virginia)
+    - Zahra Ghodsi (UC San Diego)
+    - Zhenkai Liang (National University of Singapore)
+    - Zhou Li (University of California, Irvine)
+cycles:
+  - first:
+      submission: "May 21, 2021"
+      early-reject: "Jun 28, 2021"
+      rebuttal-start: "Jul 27, 2021"
+      rebuttal-end: "Jul 30, 2021"
+      acceptance: "Aug 06, 2021"
+      camera-ready: "Nov 17, 2021"
+  - second:
+      submission: "Jul 23, 2021"
+      early-reject: "Sep 08, 2021"
+      rebuttal-start: "Oct 14, 2021"
+      rebuttal-end: "Oct 17, 2021"
+      acceptance: "Oct 29, 2021"
+      camera-ready: "Jan 14, 2022"
+anonymous: true
+conflicts: true
+ethics-discussion: true

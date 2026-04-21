@@ -1,0 +1,83 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20160623162811/http://www.internetsociety.org/events/ndss-symposium-2016/ndss-2016-programme/ndss-2016-call-papers
+topics:
+  - "Anti-malware techniques: detection, analysis, and prevention"
+  - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
+  - "Security for future Internet architectures and designs (e.g., Software-Defined Networking)"
+  - "High-availability wired and wireless networks"
+  - "Implementation, deployment and management of network security policies"
+  - "Integrating security in Internet protocols: routing, naming, network management"
+  - "Intellectual property protection: protocols, implementations, metering, watermarking, digital rights management"
+  - "Intrusion prevention, detection, and response"
+  - "Privacy and anonymity technologies"
+  - "Security and privacy for distributed cryptocurrencies"
+  - "Security and privacy in Social Networks"
+  - "Public key infrastructures, key management, certification, and revocation"
+  - "Special problems and case studies: e.g., tradeoffs between security and efficiency, usability, reliability and cost"
+  - "Security for collaborative applications: teleconferencing and video-conferencing"
+  - "Security for cloud computing"
+  - "Security for emerging technologies: sensor/wireless/mobile/personal networks and systems"
+  - "Security for future home networks, Internet of Things, body-area networks"
+  - "Security for large-scale systems and critical infrastructures (e.g., electronic voting, smart grid)"
+  - "Security for peer-to-peer and overlay network systems"
+  - "Security for Vehicular Ad-hoc Networks (VANETs)"
+  - "Security of Web-based applications and services"
+  - "Trustworthy Computing mechanisms to secure network protocols and distributed systems"
+  - "Usable security and privacy"
+pc:
+  - "Program committee":
+    - Manos Antonakakis, Georgia Institute of Technology
+    - Davide Balzarotti, EURECOM
+    - Lujo Bauer, Carnegie Mellon University
+    - Joseph Bonneau, Stanford University & EFF
+    - Nikita Borisov, University of Illinois at Urbana-Champaign
+    - Kevin Butler, University of Florida
+    - Srdjan Capkun, ETH Zurich (Chair)
+    - Nicolas Christin, Carnegie Mellon University
+    - Emiliano De Cristofaro, University College London
+    - William Enck, North Carolina State University
+    - Manuel Egele, Boston University
+    - Guofei Gu, Texas A&M University
+    - Thorsten Holz, Ruhr-University Bochum
+    - Somesh Jha, University of Wisconsin Madison
+    - Ari Juels, Cornell Tech (Shadow Chair)
+    - Jonathan Katz, University of Maryland
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Farinaz Koushanfar, Rice University
+    - Christopher Kruegel, University of California, Santa Barbara
+    - Wenke Lee, Georgia Institute of Technology
+    - Zhenkai Liang, National University of Singapore
+    - David Lie, University of Toronto
+    - Ben Livshits, Microsoft Research
+    - Ivan Martinovic, Oxford University
+    - Prateek Mittal, Princeton University
+    - David Molnar, Microsoft Research
+    - Cristina Nita-Rotaru, Purdue University
+    - Alina Oprea, RSA Laboratories
+    - Adrian Perrig, ETH Zurich
+    - Christina Poepper, Ruhr University Bochum
+    - Mike Reiter, UNC Chapel Hill
+    - Thomas Ristenpart, Cornell Tech
+    - Franziska Roesner, University of Washington
+    - Andrei Sabelfeld, Chalmers University
+    - Ahmad-Reza Sadeghi, TU Darmstadt
+    - Reza Shokri, University of Texas at Austin
+    - Robin Sommer, International Computer Science Institute, Berkeley
+    - Patrick Traynor, University of Florida
+    - Venkat Venkatakrishnan, University of Illinois, Chicago
+    - Giovanni Vigna, UC Santa Barbara
+    - David Wagner, University of California, Berkeley
+    - XiaoFeng Wang, Indiana University Bloomington
+cycles:
+  - first:
+      abstract: "14 August 2015"
+      submission: "18 August 2015"
+      early-reject: "18 September 2015"
+      acceptance: "22 October 2015"
+      camera-ready: ""
+anonymous: true
+conflicts: true
+ethics-discussion: true
