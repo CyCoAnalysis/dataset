@@ -1,0 +1,74 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2006/oakland06-cfp.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2006/12OmNyxXlt6
+  open: false
+topics:
+  - Access Control and Audit
+  - Anonymity and Pseudonymity
+  - Authentication, including Phishing
+  - Automated and Large-Scale Attacks
+  - Biometrics
+  - Commercial and Industrial Security
+  - Data Integrity
+  - Database Security
+  - Denial of Service
+  - Distributed Systems Security
+  - Electronic Privacy
+  - Information Flow
+  - Intrusion Detection
+  - Language-Based Security
+  - Malicious Code
+  - Mobile Code and Agent Security
+  - Network Security
+  - Peer-to-Peer Security
+  - Secure Hardware and Smartcards
+  - Security Protocols
+  - Security Verification
+  - Security of Mobile Ad-Hoc Networks
+pc:
+  - "Program committee":
+    - Paul Ammann, George Mason University, USA
+    - Tuomas Aura, Microsoft Research, UK
+    - Michael Backes, IBM Research, Switzerland
+    - Elisa Bertino, Purdue University, USA
+    - Peter Chen, University of Michigan, USA
+    - Robert Cunningham, MIT Lincoln Laboratory, USA
+    - George Danezis, Cambridge University, UK
+    - Drew Dean, SRI International, USA
+    - Hervé Debar, France Telecom R&D, France
+    - Nick Feamster, Georgia Tech, USA
+    - Kevin Fu, University of Massachusetts Amherst, USA
+    - Philippe Golle, Palo Alto Research Center, USA
+    - Steven Gribble, University of Washington, USA
+    - Richard Kemmerer, UC Santa Barbara, USA
+    - Angelos Keromytis, Columbia University, USA
+    - Christopher Kruegel, Technical University Vienna, Austria
+    - Michiharu Kudo, IBM Research, Japan
+    - Helmut Kurth, Atsec Information Security, Germany
+    - Ralf Küsters, University of Kiel, Germany
+    - Susan Landau, Sun Microsystems, USA
+    - Carl Landwehr, University of Maryland, USA
+    - Marc Langheinrich, ETH Zurich, CH
+    - Ludovic Mé, Supélec, France
+    - Adrian Perrig, Carnegie Mellon University, USA
+    - Michaël Rusinowitch, INRIA Lorraine, France
+    - Andrei Sabelfeld, Chalmers University, Sweden
+    - Stefan Savage, UC San Diego, USA
+    - Sean Smith, Dartmouth College, USA
+    - Sal Stolfo, Columbia University, USA
+    - Doug Tygar, UC Berkeley, USA
+    - Paul van Oorschot, Carleton University, Canada
+    - David Wagner, UC Berkeley, USA
+    - Helen Wang, Microsoft Research, USA
+    - Rebecca Wright, Stevens Institute of Technology, USA
+cycles:
+  - first:
+      submission: "November 4, 2005"
+      acceptance: "January 27, 2006"
+      camera-ready: "March 3rd, 2006"
+anonymous: true
+conflicts: false
+ethics-discussion: false

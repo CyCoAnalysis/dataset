@@ -1,0 +1,196 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2021/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2021/1wnPvp9beH6
+  open: true
+topics:
+  - Access control and authorization
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Blockchains and distributed ledger security
+  - Censorship resistance
+  - Cloud security
+  - Cyber physical systems security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection and prevention
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Language-based security
+  - Machine learning and AI security
+  - Network and systems security
+  - Privacy technologies and mechanisms
+  - Protocol security
+  - Secure information flow
+  - Security and privacy for the Internet of Things
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Usable security and privacy
+  - Trustworthy computing
+  - Web security
+pc:
+  - "Program committee":
+    - Adam Aviv , The George Washington University
+    - Davide Balzarotti , Eurecom
+    - Gilles Barthe , MPI-SP and IMDEA Software Institute
+    - Lujo Bauer , Carnegie Mellon University
+    - Karthikeyan Bhargavan , Inria
+    - Antonio Bianchi , Purdue University
+    - Nataliia Bielova , Inria
+    - Battista Biggio , University of Cagliari
+    - Eric Bodden , Paderborn University and Fraunhofer IEM
+    - Joseph Bonneau , New York University
+    - Kevin Borgolte , Princeton University
+    - Ioana Boureanu , University of Surrey
+    - Billy Brumley , Tampere University
+    - Chris Brzuska , Aalto University
+    - Kevin Butler , University of Florida
+    - Brent Byunghoon Kang , KAIST
+    - Srdjan Capkun , ETH Zurich
+    - Nicholas Carlini , Google
+    - David Cash , University of Chicago
+    - Lorenzo Cavallaro , King's College London
+    - Melissa Chase , Microsoft Research Redmond
+    - Rahul Chatterjee , University of Wisconsin-Madison
+    - Nicolas Christin , Carnegie Mellon University
+    - Henry Corrigan-Gibbs , EPFL and MIT CSAIL
+    - Manuel Costa , Microsoft Research
+    - Cas Cremers , CISPA Helmholtz Center for Information Security
+    - Weidong Cui , Microsoft Research
+    - Rachel Cummings , Georgia Institute of Technology
+    - Anupam Das , North Carolina State University
+    - Nathan Dautenhahn , Rice University
+    - Emiliano De Cristofaro , University College London
+    - Brendan Dolan-Gavitt , New York University
+    - Adam Doupé , Arizona State University
+    - Markus Dürmuth , Ruhr-Universität Bochum
+    - Giulia Fanti , Carnegie Mellon University
+    - Sebastian Faust , TU Darmstadt
+    - Kassem Fawaz , University of Wisconsin-Madison
+    - Tobias Fiebig , TU Delft
+    - Anders Fogh , Intel Corporation
+    - Cedric Fournet , Microsoft Research
+    - Michael Franz , University of California Irvine
+    - Matt Fredrikson , Carnegie Mellon University
+    - Adria Gascon , Google Research
+    - Arthur Gervais , Imperial College London
+    - Neil Gong , Duke University
+    - Guofei Gu , Texas A&M University
+    - Andreas Haeberlen , University of Pennsylvania
+    - Matthew Hicks , Virginia Tech
+    - Thorsten Holz chair , Ruhr-Universität Bochum
+    - Amir Houmansadr , UMass Amherst
+    - Catalin Hritcu , Max Planck Institute for Security and Privacy (MPI-SP)
+    - Luca Invernizzi , Google
+    - Tibor Jager , Bergische Universität Wuppertal
+    - Suman Jana , Columbia University
+    - Limin Jia , Carnegie Mellon University
+    - Aniket Kate , Purdue University
+    - Stefan Katzenbeisser , University of Passau
+    - Yongdae Kim , Korea Advanced Institute of Science and Technology (KAIST)
+    - David Kohlbrenner , UC Berkeley
+    - Katharina Krombholz , CISPA Helmholtz Center for Information Security
+    - Ralf Kuesters , University of Stuttgart
+    - Boris Köpf , Microsoft Research
+    - Tancrède Lepoint , Google
+    - Qi Li , Tsinghua University
+    - Frank Li , Georgia Institute of Technology
+    - Xiaojing Liao , Indiana University Bloomington
+    - David Lie , University of Toronto
+    - Zhiqiang Lin , The Ohio State University
+    - Martina Lindorfer , TU Wien
+    - Matteo Maffei , TU Wien
+    - Sergio Maffeis , Imperial College London
+    - Clémentine Maurice , CNRS, IRISA
+    - Michelle Mazurek , University of Maryland
+    - Damon McCoy , New York University
+    - Andrew Miller , University of Illinois at Urbana-Champaign
+    - Nick Nikiforakis , Stony Brook University
+    - Guevara Noubir , Northeastern University
+    - Olga Ohrimenko , The University of Melbourne
+    - Alina Oprea chair , Northeastern University
+    - Yossi Oren , Ben-Gurion University
+    - Nicolas Papernot , University of Toronto and Vector Institute
+    - Mathias Payer , EPFL
+    - Paul Pearce , Georgia Tech and ICSI
+    - Marcus Peinado , Microsoft Research
+    - Giancarlo Pellegrino , CISPA Helmholtz Center for Information Security
+    - Roberto Perdisci , University of Georgia
+    - Frank Piessens , KU Leuven
+    - Benny Pinkas , VMware Research / Bar Ilan University
+    - Jason Polakis , University of Illinois at Chicago
+    - Michalis Polychronakis , Stony Brook University
+    - Christina Pöpper , New York University Abu Dhabi
+    - Zhiyun Qian , University of California Riverside
+    - Ananth Raghunathan , Google
+    - Aanjhan Ranganathan , Northeastern University
+    - Kasper Rasmussen , University of Oxford
+    - Mariana Raykova , Google
+    - Konrad Rieck , TU Braunschweig
+    - William Robertson , Northeastern University
+    - Christian Rossow , CISPA Helmholtz Center for Information Security
+    - Andrei Sabelfeld , Chalmers University of Technology
+    - Brendan Saltaformaggio , Georgia Institute of Technology
+    - Dominique Schröder , Friedrich-Alexander-Universität Erlangen-Nürnberg
+    - Jörg Schwenk , Ruhr-Universität Bochum
+    - Vyas Sekar , Carnegie Mellon University
+    - Simha Sethumadhavan , Columbia University/Chip Scan
+    - Srinath Setty , Microsoft Research
+    - Hovav Shacham , The University of Texas at Austin
+    - Emily Shen , MIT Lincoln Laboratory
+    - Elaine Shi , Cornell
+    - Reza Shokri , National University of Singapore (NUS)
+    - Yan Shoshitaishvili , Arizona State University
+    - Emily Stark , Google
+    - Deian Stefan , UC San Diego
+    - Ben Stock , CISPA Helmholtz Center for Information Security
+    - Thorsten Strufe , Karlsruhe Institute of Technology (KIT) and CeTI/TU-Dresden
+    - Gang Tan , Penn State University
+    - Vanessa Teague , Thinking Cybersecurity and The Australian National University
+    - Kurt Thomas , Google
+    - Yuan Tian , University of Virginia
+    - Carmela Troncoso , EPFL
+    - Jonathan Ullman , Northeastern University
+    - Selcuk Uluagac , Florida International University
+    - Blase Ur , University of Chicago
+    - Xiao Wang , Northwestern University
+    - Yuval Yarom , University of Adelaide and Data61
+    - Yanfang (Fanny) Ye , Case Western Reserve University
+    - Ting-Fang Yen , DataVisor
+    - Heng Yin , UC Riverside
+    - Fengwei Zhang , Southern University of Science and Technology (SUSTech)
+    - Ben Zhao , University of Chicago
+    - Yajin Zhou , Zhejiang University
+    - Thyla van der Merwe , Mozilla
+cycles:
+  - first:
+      submission: "March 5, 2020"
+      early-reject: "April 21, 2020"  # extended?
+      acceptance: "May 22, 2020"
+      camera-ready: "July 1, 2020"
+  - second:
+      submission: "June 4, 2020"
+      early-reject: "July 17, 2020"
+      acceptance: "August 21, 2020"
+      camera-ready: "September 30, 2020"
+  - third:
+      submission: "September 3, 2020"
+      early-reject: "October 16, 2020"
+      acceptance: "November 20, 2020"
+      camera-ready: "December 29, 2020"
+  - fourth:
+      submission: "December 3, 2020"
+      early-reject: "January 15, 2021"
+      acceptance: "February 19, 2021"
+      camera-ready: "March 28, 2021"
+anonymous: true
+conflicts: true
+ethics-discussion: true

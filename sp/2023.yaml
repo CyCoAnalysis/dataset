@@ -1,0 +1,252 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2023/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2023/1He7WWuJExG
+  open: true
+topics:
+  - Applied cryptography
+  - Attacks with novel insights, techniques, or results
+  - Authentication, access control, and authorization
+  - Blockchains and distributed ledger security
+  - Cloud computing security
+  - Cyber physical systems security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Formal methods and verification
+  - Hardware security
+  - Hate, Harassment, and Online Abuse
+  - Intrusion detection and prevention
+  - Machine learning and computer security
+  - Malware and unwanted software
+  - Network security
+  - Operating systems security
+  - Privacy-enhancing technologies, anonymity, and censorship
+  - Program and binary analysis
+  - Protocol security
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Security foundations
+  - Systems security
+  - Usable security and privacy
+  - Web security
+  - Wireless and mobile security/privacy
+pc:
+  - "Program committee":
+    - Aanjhan Ranganathan , Northeastern University
+    - Aastha Mehta , University of British Columbia, Vancouver
+    - AbdelRahman Abdou , Carleton University
+    - Adam Oest , PayPal, Inc.
+    - Adria Gascon , Google Research
+    - Adrian Dabrowski , University of California, Irvine
+    - Adwait Nadkarni , William & Mary
+    - Ahmad-Reza Sadeghi , Technische Universität Darmstadt
+    - Alexandros Kapravelos , North Carolina State University
+    - Ali Mashtizadeh , University of Waterloo
+    - Alin Tomescu , VMware
+    - Allison McDonald , Boston University
+    - Amrita Roy Chowdhury , UCSD
+    - Ananth Raghunathan , Meta Inc
+    - Andreas Terzis , Google
+    - Andrew Paverd , Microsoft
+    - Ang Chen , Rice University
+    - Aniket Kate , Purdue University
+    - Anil Kurmus , IBM Research Europe - Zurich
+    - Antonis Michalas , Tampere University
+    - Arthur Gervais , Imperial College London
+    - Aurore Fass , Stanford University
+    - Benjamin Ujcich , Georgetown University
+    - Benny Pinkas , Bar-Ilan University
+    - Boris Köpf , Microsoft Research
+    - Bradley Reaves , North Carolina State University
+    - Brendan Dolan-Gavitt , NYU
+    - Brendan Saltaformaggio , Georgia Institute of Technology
+    - Carrie Gates , Bank of America
+    - Chitchanok Chuengsatiansup , The University of Adelaide, Australia
+    - Chris Geeng , University of Washington
+    - Christopher Fletcher , UIUC
+    - Cristian-Alexandru Staicu , CISPA Helmholtz Center for Information Security
+    - Daniel Moghimi , University of California San Diego
+    - Daniel Rausch , University of Stuttgart
+    - Daniel Votipka , Tufts University
+    - Danny Yuxing Huang , New York University
+    - Dave Levin , University of Maryland
+    - Dave (Jing) Tian , Purdue University
+    - David Wu , UT Austin
+    - David Lie , University of Toronto
+    - David Mohaisen , University of Central Florida
+    - David Kohlbrenner , University of Washington
+    - David Barrera , Carleton University
+    - Earlence Fernandes , University of Wisconsin-Madison
+    - Eleftherios Kokoris Kogias , IST Austria
+    - Emiliano De Cristofaro , Ucl
+    - Eric Zeng , University of Washington
+    - Eyal Ronen , Tel Aviv University
+    - Fabio Pagani , University of California, Santa Barbara
+    - Fabio Pierazzi , King's College London
+    - Fan Zhang , Duke University
+    - Feargus Pendlebury , University College London & Meta
+    - Felix Günther , ETH Zurich
+    - Fengwei Zhang , Southern University of Science and Technology
+    - Fish Wang , Arizona State University
+    - Florian Kerschbaum , University of Waterloo
+    - Florian Tramer , ETH Zurich / Google
+    - Frank Li , Georgia Institute of Technology
+    - Frank Piessens , KU Leuven
+    - Franziska Boenisch , Fraunhofer AISEC
+    - Fraser Brown , CMU / Stanford
+    - Gabriel Kaptchuk , Boston University
+    - Gabriela Ciocarlie , University of Texas at San Antonio
+    - Gang Wang , University of Illinois at Urbana-Champaign
+    - Gennie Gebhart , Electronic Frontier Foundation
+    - Giancarlo Pellegrino , CISPA Helmholtz Center for Information Security
+    - Giovanni Cherubin , Microsoft Research
+    - Giulia Fanti , Carnegie Mellon University
+    - Grant Hernandez , Qualcomm
+    - Guevara Noubir , Northeastern University
+    - Guido Schmitz , Royal Holloway, University of London
+    - Guofei Gu , Texas A&M University
+    - Hadi Abdullah , University of Florida
+    - Hamed Okhravi , MIT Lincoln Laboratory
+    - Hyunghoon Cho , Broad Institute of MIT and Harvard
+    - Ian Miers , UMD
+    - Ivan Evtimov , Meta AI
+    - Ivan Puddu , ETH Zurich
+    - Jason Polakis , University of Illinois Chicago
+    - Jason (Minhui) Xue , University of Adelaide and Data61-CSIRO
+    - Jeremiah Blocki , Purdue University
+    - Jiska Classen , TU Darmstadt, Secure Mobile Networking Lab
+    - Jon McCune , Google
+    - Jun Xu , University of Utah
+    - Jörg Schwenk , Ruhr University Bochum
+    - Kasper Rasmussen , University of Oxford
+    - Kassem Fawaz , University of Wisconsin-Madison
+    - Kathrin Grosse , EPFL
+    - Kevin Butler , University of Florida
+    - Konrad Rieck , TU Braunschweig
+    - Kurt Thomas , Google
+    - Lejla Batina , Radboud University, The Netherlands
+    - Liang Wang , Princeton University
+    - Liang Wang , Princeton University
+    - Lianying Zhao , Carleton University
+    - Ling Ren , University of Illinois at Urbana-Champaign
+    - Maliheh Shirvanian , Visa Research
+    - Mario Fritz , CISPA Helmholtz Center for Information Security
+    - Marius Muench , Vrije Universiteit Amsterdam
+    - Marshini Chetty , University of Chicago
+    - Martin Johns , TU Braunschweig
+    - Martina Lindorfer , TU Wien
+    - Mathias Lécuyer , University of British Columbia
+    - Mathias Payer , EPFL
+    - Mathy Vanhoef , KU Leuven
+    - Mayank Varia , Boston University
+    - Mengjia Yan , MIT
+    - Michael Specter , Google
+    - Michael Franz , University of California, Irvine
+    - Michelle Mazurek , University of Maryland
+    - Mihalis Maniatakos , NYU Abu Dhabi
+    - Mohamed Tarek Ibn Ziad , Columbia University
+    - Mohammad Yaghini , University of Toronto, Vector Institute
+    - Murtuza Jadliwala , The University of Texas at San Antonio
+    - Nathan Dautenhahn , Rice University
+    - Nathan Malkin , University of Maryland
+    - Nguyen Phong Hoang , University of Chicago
+    - Nick Nikiforakis , Stony Brook University
+    - Nicolas Christin , Carnegie Mellon University
+    - Olya Ohrimenko , The University of Melbourne
+    - Omar Chowdhury , The University of Iowa
+    - Panos Papadimitratos , KTH Royal Institute of Technology
+    - Pardis Emami-Naeini , University of Washington
+    - Pascal Reisert , University of Stuttgart, Germany
+    - Paul Grubbs , University of Michigan
+    - Peter Snyder , Brave Software
+    - Philipp Jovanovic , University College London
+    - Phillipp Schoppmann , Google
+    - Qi Li , Tsinghua University
+    - Qiang Tang , The University of Sydney
+    - Quinn Burke , Penn State
+    - Reza Shokri , National University of Singapore (NUS)
+    - Riad Wahby , Carnegie Mellon University
+    - Rishab Nithyanand , University of Iowa
+    - Roei Schuster , Vector Institute
+    - Ruzica Piskac , Yale University
+    - Ryan Gerdes , Virginia Tech
+    - Ryan Sheatsley , The Pennsylvania State University
+    - Saeed Mahloujifar , Princeton
+    - Sam King , UC Davis
+    - Sanchari Das , University of Denver
+    - Sara Rampazzi , University of Florida
+    - Sascha Fahl , CISPA
+    - Sebastian Angel , Microsoft Research and University of Pennsylvania
+    - Sergio Maffeis , Imperial College London
+    - Shuai Wang , Hong Kong University of Science and Technology
+    - Shweta Shinde , ETH Zurich
+    - Sooel Son , KAIST
+    - Stefan Katzenbeisser , University of Passau
+    - Stephen McCamant , University of Minnesota
+    - Stjepan Picek , Radboud University, The Netherlands
+    - Sunoo Park , Cornell Tech
+    - Syed Rafiul Hussain , Pennsylvania State University
+    - Tara Whalen , Cloudflare
+    - Tempestt Neal , University of South Florida
+    - Thomas Wies , New York University
+    - Tiffany Bao , ASU
+    - Tijay Chung , Virginia Tech
+    - Tobias Fiebig , Max-Planck-Institut für Informatik
+    - Tom Moyer , UNC Charlotte
+    - Trent Jaeger , Penn State University
+    - Tushar Jois , Johns Hopkins University
+    - Umar Iqbal , University of Washington
+    - Varun Chandrasekaran , University of Wisconsin-Madison
+    - Vasileios Kemerlis , Brown University
+    - Vincent Bindschaedler , University of Florida
+    - Wajih Ul Hassan , The University of Virginia
+    - Wei Meng , The Chinese University of Hong Kong
+    - Wenjing Lou , Virginia Tech
+    - Wenyuan Xu , Zhejiang University
+    - William Enck , North Carolina State University
+    - William Robertson , Northeastern University
+    - Wouter Lueks , EPFL
+    - Xiao Wang , Northwestern University
+    - Xiapu Luo , The Hong Kong Polytechnic University
+    - Xinyu Xing , Northwestern University
+    - Xusheng Xiao , Case Western Reserve University
+    - Yang Zhang , CISPA Helmholtz Center for Information Security
+    - Yao Liu , University of South Florida
+    - Yinqian Zhang , Southern University of Science and Technology
+    - Yizheng Chen , University of California, Berkeley
+    - Yossi Gilad , Hebrew University of Jerusalem
+    - Yossi Oren , Ben Gurion University of the Negev
+    - Yuan Tian , University of Virginia
+    - Yuan Zhang , Fudan University
+    - Z. Berkay Celik , Purdue University
+    - Zakir Durumeric , Stanford University
+    - Zane Ma , Georgia Institute of Technology
+cycles:
+  - first:
+      submission: "April 1, 2022"
+      early-reject: "May 9, 2022"
+      rebuttal-start: "June 7, 2022"
+      rebuttal-end: "June 21, 2022"
+      acceptance: "June 24, 2022"
+      camera-ready: "August 13, 2022"
+  - second:
+      submission: "August 19, 2022"
+      early-reject: "September 26, 2022"
+      rebuttal-start: "October 24, 2022"
+      rebuttal-end: "November 7, 2022"
+      acceptance: "November 9, 2022"
+      camera-ready: "December 10, 2022"
+  - third:
+      submission: "December 2, 2022"
+      early-reject: "January 23, 2023"
+      rebuttal-start: "February 21, 2023"
+      rebuttal-end: "March 7, 2023"
+      acceptance: "March 10, 2023"
+      camera-ready: "April 7, 2023"
+anonymous: true
+conflicts: true
+ethics-discussion: true

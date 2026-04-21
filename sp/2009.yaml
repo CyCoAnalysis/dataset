@@ -1,0 +1,90 @@
+website:
+  url: http://oakland09.cs.virginia.edu/cfp.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2009/12OmNxV4itB
+  open: false
+topics:
+  - Access control
+  - Anonymity
+  - Application-level security
+  - Attacks and defenses
+  - Authentication
+  - Distributed systems security
+  - Embedded system security
+  - Forensics
+  - Hardware-based security
+  - Information flow
+  - Information security
+  - Intrusion detection
+  - Malicious code
+  - Language-based security
+  - Network security
+  - Physical security
+  - Privacy-preserving systems
+  - Recovery
+  - Secure protocols
+  - Security architectures
+  - Security and privacy policies
+  - System security
+  - Usability and security
+  - Web security
+pc:
+  - "Program committee":
+    - Ben Adida, Harvard U., USA
+    - William Aiello, U. of British Columbia, Canada
+    - Ross Anderson, Cambridge U., UK
+    - Michael Backes, Saarland U., Germany
+    - Srdjan Capkun, ETH Zürich, Switzerland
+    - Miguel Castro, Microsoft Research Cambridge, UK
+    - Hao Chen, U. of California, Davis, USA
+    - Jed Crandall, U. of New Mexico, USA
+    - Bruno Crispo, U. of Trento, Italy
+    - Weidong Cui, Microsoft Research, Redmond, USA
+    - George Danezis, Microsoft Research, Cambridge, UK
+    - Úlfar Erlingsson, Reykjavik U., Iceland
+    - Michael Freedman, Princeton U., USA
+    - Kevin Fu, U. of Massachusetts, USA
+    - Jonathon Giffin, Georgia Inst. of Technology, USA
+    - Ian Goldberg, U. of Waterloo, Canada
+    - Andrew D. Gordon, Microsoft Research Cambridge, UK
+    - Steve Gribble, U. of Washington, USA
+    - Guofei Gu, Texas A&M U., USA
+    - Peter Gutmann, U. of New Auckland, NZ
+    - Michael Hicks, U. of Maryland, USA
+    - Farnam Jahanian, U. of Michigan, USA
+    - Xuxian Jiang, North Carolina State U., USA
+    - Jonathan Katz, U. of Maryland, USA
+    - Sam King, U. Illinois, Urbana-Champaign, USA
+    - Tadayoshi Kohno, U. of Washington, USA
+    - Farinaz Koushanfar, Rice U., USA
+    - Wenke Lee, Georgia Inst. of Technology, USA
+    - Kristen LeFevre, U. of Michigan, USA
+    - David Lie, U. Toronto, Canada
+    - John Mitchell, Stanford U., USA
+    - Greg Morrisett, Harvard U., USA
+    - Peng Ning, North Carolina State U., USA
+    - Reiner Sailer, IBM TJ Watson Research Center
+    - Stefan Savage, U. of California, San Diego, USA
+    - R. Sekar, Stony Brook U., USA
+    - Umesh Shankar, Google, New York, USA
+    - Abhi Shelat, U. of Virginia, USA
+    - Vitaly Shmatikov, U. of Texas, Austin, USA
+    - Radu Sion, Stony Brook U., USA
+    - Patrick Traynor, Georgia Tech, USA
+    - Doug Tygar, U. of California, Berkeley, USA
+    - Giovanni Vigna, U. of California, Santa Barbara, USA
+    - David Wagner, U. of California, Berkeley, USA
+    - Haining Wang, College of William and Mary, USA
+    - Brent Waters, U. of Texas, Austin, USA
+    - Rebecca Wright, Rutgers U., USA
+    - Steve Zdancewic, U. of Pennsylvania, USA
+cycles:
+  - first:
+      submission: "10 November 2008"
+      acceptance: "30 January 2009"
+      camera-ready: "1 March 2009"
+anonymous: true
+conflicts: false
+ethics-discussion: false

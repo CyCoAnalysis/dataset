@@ -1,0 +1,239 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2022/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2022/1FlQurJZBuw
+  open: true
+topics:
+  - Applied cryptography
+  - Attacks with novel insights, techniques, or results
+  - Authentication, access control, and authorization
+  - Blockchains and distributed ledger security
+  - Cloud computing security
+  - Cyber physical systems security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Formal methods and verification
+  - Hardware security
+  - Hate, Harassment, and Online Abuse
+  - Intrusion detection and prevention
+  - Machine learning and computer security
+  - Malware and unwanted software
+  - Network security
+  - Operating systems security
+  - Privacy-enhancing technologies, anonymity, and censorship
+  - Program and binary analysis
+  - Protocol security
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Security foundations
+  - Systems security
+  - Usable security and privacy
+  - Web security
+  - Wireless and mobile security/privacy
+pc:
+  - "Program committee":
+    - Abhradeep Guha Thakurta , Google Research - Brain
+    - Adria Gascon , Google LLC
+    - Ahmad-Reza Sadeghi , TU Darmstadt
+    - Alexandra Dmitrienko , University of Wuerzburg
+    - Alice Hutchings , University of Cambridge
+    - Andrew Myers , Cornell University
+    - Andrew Paverd , Microsoft Research
+    - Anil Kurmus , IBM Research Europe
+    - Anja Lehmann , Hasso-Plattner-Institute, University of Potsdam
+    - Ariel Herbert-Voss , OpenAI and Harvard
+    - Antonio Bianchi , Purdue University
+    - Arthur Gervais , Imperial College London
+    - Aurélien Francillon , EURECOM
+    - Battista Biggio , University of Cagliari
+    - Ben Y. Zhao , University of Chicago
+    - Billy Brumley , Tampere University
+    - Boris Köpf , Microsoft Research
+    - Brendan Saltaformaggio , Georgia Institute of Technology
+    - Brent ByungHoon Kang , KAIST
+    - Cas Cremers , CISPA Helmholtz Center for Information Security
+    - Chengyu Song , UC Riverside
+    - Chris Brzuska , Aalto University
+    - Christian Cachin , University of Bern
+    - Christian Rossow , CISPA Helmholtz Center for Information Security
+    - Christian Wachsmann , Intel Corporation
+    - Christian Wressnegger , Karlsruhe Institute of Technology (KIT)
+    - Christina Poepper , New York University Abu Dhabi
+    - Christopher Fletcher , University of Illinois--Urbana Champaign
+    - Christopher Kruegel , University of California, Santa Barbara
+    - Clémentine Maurice , Univ Lille, CNRS, Inria
+    - Cristiano Giuffrida , Vrije Universiteit Amsterdam
+    - Cristina Nita-Rotaru , Northeastern University
+    - Cynthia Sturton , University of North Carolina at Chapel Hill
+    - Danny Yuxing Huang , New York University
+    - David Cash , University of Chicago
+    - David Choffnes , Northeastern University
+    - David Kohlbrenner , University of Washington
+    - David Lie , Univ. Toronto
+    - Davide Balzarotti , EURECOM
+    - Devdatta Akhawe , Figma
+    - Elissa Redmiles , Max Planck Institute for Software Systems
+    - Emiliano De Cristofaro , UCL
+    - Emily Shen , MIT Lincoln Laboratory
+    - Emily Stark , Google Inc.
+    - Engin Kirda , Northeastern University
+    - Eric Bodden , Heinz Nixdorf Institute at Paderborn University & Fraunhofer IEM
+    - Fabio Pierazzi , King's College London
+    - Feargus Pendlebury , Royal Holloway, University of London
+    - Fengwei Zhang , Southern University of Science and Technology (SUSTech)
+    - Florian Tramèr , Stanford University
+    - Frank Li , Georgia Institute of Technology
+    - Fraser Brown , Stanford University
+    - Gang Tan , Penn State
+    - Gang Wang , University of Illinois at Urbana-Champaign
+    - Giancarlo Pellegrino , CISPA Helmholtz Center for Information Security
+    - Gianluca Stringhini , Boston University
+    - Gilles Barthe , MPI-SP and IMDEA Software Institute
+    - Giovanni Cherubin , Alan Turing Institute
+    - Giulio Malavolta , Max Planck Institute for Security and Privacy
+    - Grant Ho , UC San Diego
+    - Gururaj Saileshwar , Georgia Institute of Technology
+    - Heng Yin , UC Riverside
+    - Henry Corrigan-Gibbs , MIT CSAIL
+    - Herbert Bos , Vrije Universiteit Amsterdam
+    - Hovav Shacham , The University of Texas at Austin
+    - Ioana Boureanu , Univ. of Surrey, Surrey Centre for Cyber Security
+    - Iulia Ion , Google
+    - Jason Polakis , University of Illinois at Chicago
+    - Jean-Pierre Seifert , TU Berlin
+    - Jeremiah Blocki , Purdue University
+    - Johannes Kinder , Bundeswehr University Munich
+    - Jon McCune , Google
+    - Jörg Schwenk , Ruhr-University Bochum
+    - Joseph Bonneau , New York University
+    - Juan Caballero , IMDEA Software Institute
+    - Jun Xu , Stevens Institute of Technology
+    - Juraj Somorovsky , University Paderborn
+    - Kai Chen , Institute of Information Engineering, Chinese Academy of Sciences, China
+    - Karthikeyan Bhargavan , INRIA
+    - Kassem Fawaz , University of Wisconsin-Madison
+    - Katharina Kohls , Radboud University
+    - Katharina Krombholz , CISPA Helmholtz Center for Information Security
+    - Kaveh Razavi , ETH Zurich
+    - Kevin Borgolte , TU Delft
+    - Leyla Bilge , NortonLifeLock Research Group
+    - Limin Jia , CMU
+    - Long Lu , Northeastern University
+    - Lorenzo Cavallaro , University College London
+    - Luca Invernizzi , Google
+    - Lucas Davi , University of Duisburg-Essen
+    - Manuel Egele , Boston University
+    - Marco Guarnieri , IMDEA Software Institute
+    - Marcus Peinado , Microsoft Research
+    - Marie Vasek , University College London
+    - Mario Fritz , CISPA Helmholtz Center for Information Security
+    - Markulf Kohlweiss , University of Edinburgh, IOHK
+    - Markus Duermuth , Ruhr-University Bochum
+    - Martin Johns , TU Braunschweig
+    - Mathias Lecuyer , Microsoft Research
+    - Matteo Maffei , TU Wien
+    - Matthias Neugschwandtner , Oracle Labs
+    - McKenna McCall , Carnegie Mellon University
+    - Michael Hicks , University of Maryland
+    - Nathan Dautenhahn , Rice University
+    - Neil Gong , Duke University
+    - Nicholas Carlini , Google Brain
+    - Nick Hopper , University of Minnesota
+    - Nicolas Papernot , University of Toronto
+    - Ninghui Li , Purdue University
+    - Olya Ohrimenko , University of Melbourne
+    - Omar Chowdhury , The University of Iowa
+    - Pardis Emami-Naeini , University of Washington
+    - Patrick McDaniel , Penn State University
+    - Patrick Traynor , University of Florida
+    - Paul Grubbs , U Michigan
+    - Paul Pearce , Georgia Tech; International Computer Science Institute
+    - Pedro Fonseca , Purdue University
+    - Pedro Moreno-Sanchez , IMDEA Software Institute
+    - Peter Schwabe , MPI-SP & Radboud University
+    - Qi Li , Tsinghua University
+    - Rahul Chatterjee , University of Wisconsin--Madison
+    - Riad Wahby , Stanford University
+    - Riccardo Paccagnella , University of Illinois at Urbana-Champaign
+    - Sam King , UC Davis and Bouncer Technologies
+    - Sarah Meiklejohn , University College London / Google
+    - Sascha Fahl , CISPA Helmholtz Center for Information Security
+    - Sebastian Angel , University of Pennsylvania
+    - Sebastian Faust , Technische Universität Darmstadt
+    - Sophie Schmieg , Google
+    - Srdjan Capkun , ETH Zuerich
+    - Srinath Setty , Microsoft Research
+    - Stefan Brunthaler , μCSRL, CODE Research Institute, Bundeswehr University Munich
+    - Stefano Tessaro , University of Washington
+    - Sunoo Park , Cornell Tech
+    - Sven Bugiel , CISPA Helmholtz Center for Information Security
+    - Taesoo Kim , Georgia Institute of Technology
+    - Tamara Rezk , INRIA Sophia-Antipolis
+    - Thomas Eisenbarth , University of Lübeck
+    - Thomas Ristenpart chair , Cornell Tech
+    - Thorsten Holz chair , CISPA Helmholtz Center for Information Security
+    - Thorsten Strufe , Karlsruhe Institute of Technology and CeTI/TU Dresden
+    - Tibor Jager , Bergische Universität Wuppertal
+    - Tiffany Bao , Arizona State University
+    - Tobias Fiebig , TU Delft
+    - Trevor Perrin , Independent
+    - Tudor Dumitras , University of Maryland
+    - Vasileios Kemerlis , Brown University
+    - Véronique Cortier , Loria (CNRS, France)
+    - Vincent Bindschaedler , University of Florida
+    - Wenyuan Xu , Zhejiang University
+    - XiaoFeng Wang , Indiana University Bloomington
+    - Xiaojing Liao , Indiana University Bloomington
+    - Xinyu Xing , Pennsylvania State University
+    - Yajin Zhou , Zhejiang University
+    - Yan Shoshitaishvili , Arizona State University
+    - Yanfang (Fanny) Ye , Case Western Reserve University
+    - Yasemin Acar , Max Planck Institute for Security and Privacy
+    - Yinqian Zhang , Southern University of Science and Technology
+    - Yongdae Kim , KAIST
+    - Yossi Oren , Ben-Gurion University of the Negev
+    - Yuan Tian , University of Virginia
+    - Yuan Zhang , Fudan University
+    - Yuval Yarom , University of Adelaide
+    - Zakir Durumeric , Stanford University
+    - Zhiqiang Lin , Ohio State University
+    - Zubair Shafiq , University of California, Davis
+    - Steering Committee
+    - Ulfar Erlingsson (TC Chair), Lacework
+    - Christopher Kruegel, UC Santa Barbara
+    - Alina Oprea, Northeastern University
+    - Bryan Parno (TC Vice Chair), Carnegie Mellon University
+    - Sean Peisert, UC Davis
+    - Michael Reiter, Duke University
+    - Hovav Shacham, University of Texas at Austin
+    - Greg Shannon, Carnegie Mellon University and the Cybersecurity Manufacturing Innovation Institute
+    - Carmela Troncoso, EPFL
+cycles:
+  - first:
+      submission: "April 15, 2021"
+      early-reject: "May 27, 2021"
+      rebuttal-start: "June 21, 2021"
+      rebuttal-end: "June 25, 2021"
+      acceptance: "July 2, 2021"
+      camera-ready: "August 13, 2021"
+  - second:
+      submission: "August 19, 2021"
+      early-reject: "September 30, 2021"
+      rebuttal-start: "October 21, 2021"
+      rebuttal-end: "October 29, 2021"
+      acceptance: "November 5, 2021"
+      camera-ready: "December 10, 2021"
+  - third:
+      submission: "December 2, 2021"
+      early-reject: "January 24, 2022"
+      rebuttal-start: "February 21, 2022"
+      rebuttal-end: "March 1, 2022"
+      acceptance: "March 4, 2022"
+      camera-ready: "April 7, 2022"
+anonymous: true
+conflicts: true
+ethics-discussion: true

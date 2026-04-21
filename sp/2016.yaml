@@ -1,0 +1,106 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2016/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2016/12OmNviZlhI
+  open: true
+topics:
+  - Access control and authorization
+  - Accountability
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Censorship resistance
+  - Cloud security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Language-based security
+  - Network and systems security
+  - Privacy technologies and mechanisms
+  - Protocol security
+  - Secure information flow
+  - Security and privacy for the Internet of Things
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - System security
+  - Usable security and privacy
+pc:
+  - "Program committee":
+    - Sadia Afroz , ICSI
+    - Davide Balzarotti , EURECOM
+    - Adam Barth , Google
+    - Karthikeyan Bhargavan , INRIA
+    - Joseph Bonneau , Stanford / EFF
+    - Nikita Borisov , UIUC
+    - Kevin Butler , U. of Florida
+    - Steve Checkoway , UIC
+    - Haibo Chen , SJTU
+    - Adam Chlipala , MIT
+    - Nicolas Christin , CMU
+    - Manuel Costa , MSRC
+    - Emiliano de Cristofaro , UCL
+    - Ittay Eyal , Cornell
+    - Adrienne Porter Felt , Google
+    - Arjun Guha , UMass
+    - Andreas Haeberlen , UPenn
+    - Nadia Heninger , UPenn
+    - Jason Hong , CMU
+    - Amir Houmansadr , UMass
+    - Brent Kang , KAIST
+    - Chris Kanich , UIC
+    - Sam King , Twitter
+    - Aleksandra Korolova , USC
+    - David Lie , Toronto
+    - Jay Lorch , MSR
+    - Matteo Maffei , CISPA, Saarland
+    - David Mazières , Stanford
+    - Ilya Mironov , Google
+    - Cristina Nita-Rotaru , Northeastern
+    - Marcus Peinado , MSR
+    - Frank Piessens , KU Leuven
+    - Benny Pinkas , BIU
+    - Mike Reiter , UNC Chapel Hill
+    - Franziska Roesner , U. of Washington
+    - Ulrich Rührmair , U. of Bochum
+    - Prateek Saxena , Singapore
+    - Thomas Schneider , TU Darmstadt
+    - Vyas Sekar , CMU
+    - Simha Sethumadhavan , Columbia
+    - Hovav Shacham , ICSI / UCSD
+    - Elaine Shi , Cornell
+    - Emin Gun Sirer , Cornell
+    - Matthew Smith , U. Bonn
+    - Nikhil Swamy , MSR
+    - Nina Taft , Google
+    - Gang Tan , Lehigh
+    - Mohit Tiwari , U. of Texas at Austin
+    - Eran Tromer , TAU
+    - Carmela Troncoso , IMDEA Software
+    - Giovanni Vigna , UCSB
+    - Bogdan Warinschi , Bristol University
+    - Robert Watson , U. of Cambridge
+    - Tao Xie , UIUC
+    - Jean Yang , CMU
+    - Junfeng Yang , Columbia
+    - Ben Zhao , UCSB
+    - Yinqian Zhang , Ohio State
+cycles:
+  - first:
+      submission: "November 13, 2015"
+      rebuttal-start: "January 13, 2016"  # early reject, also for earlier?
+      rebuttal-end: "January 15, 2016"
+      acceptance: "February 7, 2016"
+      shepherding-acceptance: "February 26, 2016"
+      camera-ready: "March 18, 2016"
+anonymous: true
+conflicts: false
+ethics-discussion: false

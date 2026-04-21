@@ -1,0 +1,248 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2020/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2020/1lT0zWRhDWg
+  open: true
+topics:
+  - Access control and authorization
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Blockchains and distributed ledger security
+  - Censorship resistance
+  - Cloud security
+  - Cyber physical systems security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection and prevention
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Language-based security
+  - Machine learning and AI security
+  - Network and systems security
+  - Privacy technologies and mechanisms
+  - Protocol security
+  - Secure information flow
+  - Security and privacy for the Internet of Things
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Usable security and privacy
+  - Trustworthy computing
+  - Web security
+pc:
+  - "Program committee":
+    - Manos Antonakakis , Georgia Institute of Technology
+    - Davide Balzarotti , Eurecom
+    - Adam Bates , University of Illinois at Urbana-Champaign
+    - Konstantin (Kosta) Beznosov , University of British Columbia
+    - Karthikeyan Bhargavan , INRIA
+    - Battista Biggio , University of Cagliari, Italy
+    - Leyla Bilge , Symantec
+    - Marina Blanton , University at Buffalo
+    - Joseph Bonneau , NYU
+    - Chris Brzuska , Aalto University
+    - Kevin Butler , University of Florida
+    - Juan Caballero , IMDEA Software Institute
+    - Joe Calandrino , Federal Trade Commission
+    - Aylin Caliskan , The George Washington University
+    - Nicholas Carlini , Google
+    - Melissa Chase , Microsoft Research
+    - Stephen Checkoway , Oberlin College
+    - Haibo Chen , Shanghai Jiao Tong University
+    - David Choffnes , Northeastern University
+    - Omar Chowdhury , The University of Iowa
+    - Nicolas Christin , Carnegie Mellon University
+    - Mihai Christodorescu , Visa Research
+    - Henry Corrigan-Gibbs , Stanford University
+    - Véronique Cortier , CNRS, Loria, France
+    - Lorrie Cranor , Carnegie Mellon University
+    - Weidong Cui , Microsoft Research
+    - Emiliano De Cristofaro , University College London
+    - Brendan Dolan-Gavitt , NYU
+    - Adam Doupé , Arizona State University
+    - Thomas Dullien , optimyze
+    - Annie Edmundson , Squarespace
+    - Manuel Egele , Boston University
+    - Sascha Fahl , Leibniz University Hannover
+    - Giulia Fanti , Carnegie Mellon University
+    - Nick Feamster , Princeton
+    - Anders Fogh , Intel Corporation
+    - Aurélien Francillon , EURECOM
+    - Michael Franz , University of California, Irvine
+    - Christina Garman , Purdue University
+    - Daniel Genkin , University of Michigan
+    - Rosario Gennaro , The City College of New York
+    - Cristiano Giuffrida , VU Amsterdam
+    - Virgil Gligor , CMU
+    - Ian Goldberg , University of Waterloo
+    - Neil Gong , Duke University
+    - Guofei Gu , Texas A&M University
+    - Andreas Haeberlen , University of Pennsylvania
+    - Mike Hamburg , Rambus
+    - Ethan Heilman , Commonwealth Crypto
+    - Thorsten Holz , Ruhr-Universität Bochum
+    - Amir Houmansadr , University of Massachusetts Amherst
+    - Suman Jana , Columbia University
+    - Limin Jia , Carnegie Mellon University
+    - Brent ByungHoon Kang , KAIST
+    - Alexandros Kapravelos , North Carolina State University
+    - Aniket Kate , Purdue University
+    - Stefan Katzenbeisser , TU Darmstadt
+    - Aggelos Kiayias , University of Edinburgh & IOHK
+    - Engin Kirda , Northeastern University
+    - David Kohlbrenner , UC Berkeley
+    - Vladimir Kolesnikov , Georgia Institute of Technology
+    - Ralf Kuesters , University of Stuttgart
+    - Wenke Lee , Georgia Institute of Technology
+    - Anja Lehmann , IBM
+    - Kirill Levchenko , University of Illinois
+    - Dave Levin , UMD
+    - Bo Li , UIUC
+    - Xiaojing Liao , Indiana University Bloomington
+    - Martina Lindorfer , TU Wien
+    - Long Lu , Northeastern University
+    - Matteo Maffei , TU Wien
+    - Sergio Maffeis , Imperial College London
+    - Piotr Mardziel , Carnegie Mellon University
+    - Clémentine Maurice , CNRS, IRISA
+    - Prateek Mittal , Princeton University
+    - Payman Mohassel , Visa Research
+    - Fabian Monrose , UNC
+    - Neha Narula , MIT Media Lab
+    - Nick Nikiforakis , Stony Brook University
+    - Yossi Oren , Ben Gurion University
+    - Dimitrios Papadopoulos , Hong Kong University of Science and Technology
+    - Nicolas Papernot , Google Brain
+    - Mathias Payer , EPFL
+    - Paul Pearce , Georgia Tech
+    - Marcus Peinado , Microsoft Research
+    - Roberto Perdisci , University of Georgia and Georgia Institute of Technology
+    - Adrian Perrig , ETH Zurich
+    - Frank Piessens , KU Leuven
+    - Christina Poepper , New York University Abu Dhabi
+    - Michalis Polychronakis , Stony Brook University
+    - Raluca Ada Popa , UC Berkeley
+    - Zhiyun Qian , University of California, Riverside
+    - Ananth Raghunathan , Google
+    - Aanjhan Ranganathan , Northeastern University
+    - Kasper Rasmussen , University of Oxford
+    - Elissa Redmiles , Microsoft Research/Princeton University
+    - Eric Rescorla , Mozilla
+    - Konrad Rieck , TU Braunschweig
+    - Tom Ristenpart , Cornell Tech
+    - William Robertson , Northeastern University
+    - Nitesh Saxena , University of Alabama at Birmingham
+    - Prateek Saxena , National university of Singapore
+    - Vyas Sekar , Carnegie Mellon University
+    - Simha Sethumadhavan , Columbia University/Chip Scan
+    - Srinath Setty , Microsoft Research
+    - Abhi Ahelat , Northeastern
+    - Emily Shen , MIT Lincoln Laboratory
+    - Reza Shokri , National University of Singapore (NUS)
+    - Yan Shoshitaishvili , Arizona State University
+    - Natalie Silvanovich , Google
+    - Asia Slowinska , IBM Security
+    - Emily Stark , Google
+    - Deian Stefan , UC San Diego
+    - Ben Stock , CISPA Helmholtz Center for Information Security
+    - Gianluca Stringhini , Boston University
+    - Vanessa Teague , university of Melbourne
+    - Yuan Tian , University of Virginia
+    - Mohit Tiwari , UT Austin
+    - Selcuk Uluagac , Florida International University
+    - Blase Ur , University of Chicago
+    - Thyla van der Merwe , Mozilla
+    - Mayank Varia , Boston University
+    - Xiao Wang , Northwestern University
+    - XiaoFeng Wang , Indiana University
+    - Christo Wilson , Northeastern University
+    - Emmett Witchel , The University of Texas at Austin
+    - Wenyuan Xu , Zhejiang University
+    - Danfeng (Daphne) Yao , Virginia Tech
+    - Yuval Yarom , University of Adelaide and Data61
+    - Yanfang (Fanny) Ye , West Virginia University
+    - Ting-Fang Yen , Datavisor
+    - Yinqian Zhang , The Ohio State University
+    - Saman Zonouz , Rutgers University
+cycles:
+  - first:
+      submission: "January 1, 2019"
+      acceptance: "March 1, 2019"
+      camera-ready: "April 1, 2019"
+      revision-submission: "June 1, 2019"
+      revision-acceptance: "July 1, 2019"
+  - second:
+      submission: "February 1, 2019"
+      acceptance: "April 1, 2019"
+      camera-ready: "May 1, 2019"
+      revision-submission: "July 1, 2019"
+      revision-acceptance: "August 1, 2019"
+  - third:
+      submission: "March 1, 2019"
+      acceptance: "May 1, 2019"
+      camera-ready: "June 1, 2019"
+      revision-submission: "August 1, 2019"
+      revision-acceptance: "September 1, 2019"
+  - fourth:
+      submission: "April 1, 2019"
+      acceptance: "June 1, 2019"
+      camera-ready: "July 1, 2019"
+      revision-submission: "September 1, 2019"
+      revision-acceptance: "October 1, 2019"
+  - fifth:
+      submission: "May 1, 2019"
+      acceptance: "July 1, 2019"
+      camera-ready: "August 1, 2019"
+      revision-submission: "October 1, 2019"
+      revision-acceptance: "November 1, 2019"
+  - sixth:
+      submission: "June 1, 2019"
+      acceptance: "August 1, 2019"
+      camera-ready: "September 1, 2019"
+      revision-submission: "November 1, 2019"
+      revision-acceptance: "December 1, 2019"
+  - seventh:
+      submission: "July 1, 2019"
+      acceptance: "September 1, 2019"
+      camera-ready: "October 1, 2019"
+      revision-submission: "December 1, 2019"
+      revision-acceptance: "January 1, 2020"
+  - eighth:
+      submission: "August 1, 2019"
+      acceptance: "October 1, 2019"
+      camera-ready: "November 1, 2019"
+      revision-submission: "January 1, 2020"
+      revision-acceptance: "February 1, 2020"
+  - ninth:
+      submission: "September 1, 2019"
+      acceptance: "November 1, 2019"
+      camera-ready: "December 1, 2019"
+      revision-submission: "February 1, 2020"
+      revision-acceptance: "March 1, 2020"
+  - tenth:
+      submission: "October 1, 2019"
+      acceptance: "December 1, 2019"
+      camera-ready: "January 1, 2020"
+      revision-submission: "March 1, 2020"
+      revision-acceptance: "April 1, 2020"
+  - eleventh:
+      submission: "November 1, 2019"
+      acceptance: "January 1, 2020"
+      camera-ready: "February 1, 2020"
+      revision-submission: "April 1, 2020"
+      revision-acceptance: "May 1, 2020"
+  - twelfth:
+      submission: "December 1, 2019"
+      acceptance: "February 1, 2020"
+      camera-ready: "March 1, 2020"
+      revision-submission: "May 1, 2020"
+anonymous: true
+conflicts: true
+ethics-discussion: true

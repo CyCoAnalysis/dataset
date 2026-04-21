@@ -1,0 +1,72 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2005/oakland05-cfp.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2005/12OmNscfI2N
+  open: false
+topics:
+  - Access Control and Audit
+  - Anonymity and Pseudonymity
+  - Authentication
+  - Automated Security Analysis
+  - Biometrics
+  - Data Integrity
+  - Database Security
+  - Denial of Service
+  - Distributed Systems Security
+  - Electronic Privacy
+  - Forensics
+  - Information Flow
+  - Intrusion Detection and Defense
+  - Language-Based Security
+  - Mobile Code and Agent Security
+  - Network Security
+  - Secure Hardware and Smartcards
+  - Security Engineering
+  - Security in Heterogeneous and Large-scale Environments
+  - Security of Mobile Ad-Hoc Networks
+  - Security Protocols
+  - Security Verification
+  - Viruses, Worms, and Other Malicious Code
+pc:
+  - "Program committee":
+    - William Arbaugh, University of Maryland, USA
+    - Michael Backes, IBM Research, Switzerland
+    - Josh Benaloh, Microsoft Research, USA
+    - Marc Dacier, EURECOM, France
+    - Herve Debar, France Telecom R&D, France
+    - George Dinolt, Naval Postgraduate School, USA
+    - Riccardo Focardi, University of Venice, Italy
+    - Virgil Gligor, University of Maryland, USA
+    - Peter Gutmann, University of Auckland, New Zealand
+    - Dogan Kesdogan, RWTH Aachen, Germany
+    - Helmut Kurth, atsec, Germany
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Roy Maxion, Carnegie Mellon University, USA
+    - John McHugh, Carnegie Mellon University, USA
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Vern Paxson, ICSI / LBNL, USA (PC co-chair)
+    - Radia Perlman, Sun Microsystems, USA
+    - Birgit Pfitzmann, IBM Research, Switzerland
+    - Joachim Posegga, University of Hamburg, Germany
+    - Niels Provos, Google Inc., USA
+    - Josyula R. Rao, IBM Research, USA
+    - Michael Reiter, Carnegie Mellon University, USA
+    - Eric Rescorla, RTFM, USA
+    - Rei Safavi-Naini, University of Wollongong, Australia
+    - Pierangela Samarati, Universita degli Studi di Milano, Italy
+    - Andrei Serjantov, The Free Haven Project, UK
+    - Giovanni Vigna, University of California, Santa Barbara, USA
+    - Michael Waidner, IBM Research, Switzerland (PC co-chair)
+    - Dan S. Wallach, Rice University, USA
+    - Andreas Wespi, IBM Research, Switzerland
+    - Marianne Winslett, University of Illinois at Urbana-Champaign, USA
+cycles:
+  - first:
+      submission: "November 5, 2004"
+      acceptance: "January 28, 2005"
+      camera-ready: "February 25, 2005"
+anonymous: true
+conflicts: false
+ethics-discussion: false

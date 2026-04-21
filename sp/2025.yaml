@@ -1,0 +1,279 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2025/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2025/21B7ONGXzZ6
+  open: false
+topics:
+  - Applied cryptography
+  - Attacks with novel insights, techniques, or results
+  - Authentication, access control, and authorization
+  - Blockchains and distributed ledger security
+  - Cloud computing security
+  - Cyber physical systems security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Formal methods and verification
+  - Hardware security
+  - Hate, Harassment, and Online Abuse
+  - Human-centered security and privacy
+  - Intrusion detection and prevention
+  - Machine learning and computer security
+  - Malware and unwanted software
+  - Network security and measurement
+  - Operating systems security
+  - Privacy-enhancing technologies, anonymity, and censorship
+  - Program and binary analysis
+  - Protocol security
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Security for at-risk populations
+  - Software supply chain security
+  - Systems security
+  - User studies for security and privacy
+  - Web security and privacy
+  - Wireless and mobile security/privacy
+pc:
+  - "Program committee":
+    - Adam Bates , University of Illinois at Urbana-Champaign
+    - Adam Doupé , Arizona State University
+    - Adam Oest , Amazon
+    - Adil Ahmad , Arizona State University
+    - Ahmad-Reza Sadeghi , Technical University Darmstadt
+    - Alena Naiakshina , Ruhr University Bochum
+    - Alesia Chernikova , Northeastern University
+    - Alessandro Brighente , University of Padova
+    - Alexander Block , Georgetown University & University of Maryland
+    - Alexandra Dmitrienko , University of Wuerzburg
+    - Alexios Voulimeneas , TU Delft
+    - Ali Abbasi , CISPA Helmholtz Center for Information Security
+    - Álvaro Feal , Northeastern University
+    - Amit Seal Ami , William & Mary
+    - Ana-Maria Cretu , EPFL, Lausanne, Switzerland
+    - Andrei Sabelfeld , Chalmers University of Technology
+    - Andrew Kwong , UNC Chapel Hill
+    - Andrew Paverd , Microsoft
+    - Ang Chen , University of Michigan
+    - Angelos Stavrou , Virginia Tech
+    - Aniket Kate , Purdue University / Supra Research
+    - Antonio Bianchi , Purdue University
+    - Anupam Das , North Carolina State University
+    - Anwar Hithnawi , ETH Zurich
+    - Aravind Machiry , Purdue University
+    - Arslan Khan , Pennsylvania State University/ Purdue University
+    - Arthur Gervais , UCL
+    - Ashish Kundu , Cisco Research
+    - Aysajan Abidin , COSIC KU Leuven
+    - Bailey Kacsmar , University of Alberta
+    - Ben Fisch , Yale University
+    - Ben Stock , CISPA Helmholtz Center for Information Security
+    - Ben Weintraub , Northeastern University
+    - Ben Zhao , University of Chicago
+    - Benjamin Beurdouche , Mozilla
+    - Blaine Hoak , University of Wisconsin-Madison
+    - Bo Chen , Michigan Technological University
+    - Bogdan Carbunar , Florida International University
+    - Brad Reaves , North Carolina State University
+    - Brendan Saltaformaggio , Georgia Institute of Technology
+    - Byoungyoung Lee , Seoul National University
+    - Chao Zhang , Tsinghua University
+    - Charalampos Papamanthou , Yale University
+    - Chen-Da Liu-Zhang , Lucerne University of Applied Sciences and Arts & Web3 Foundation
+    - Christof Ferreira Torres , ETH Zürich
+    - Christopher A. Choquette-Choo , Google DeepMind
+    - Claudio Soriente , NEC Laboratories Europe
+    - Constantin Catalin Dragan , University of Surrey
+    - Daniel Genkin , Georgia Tech
+    - Daniel Votipka , Tufts University
+    - Daniele Cono D'Elia , Sapienza University of Rome
+    - David Balash , University of Richmond
+    - Debajyoti Das , KU Leuven
+    - Deian Stefan , UC San Diego
+    - Dimitrios Papadopoulos , HKUST
+    - Diogo Barradas , University of Waterloo
+    - Dominik Wermke , NC State
+    - Dongdong She , Hong Kong University of Science and Technology
+    - Duc Le , Visa Research
+    - Earlence Fernandes , UC San Diego
+    - Eleonora Losiouk , University of Padua
+    - Elisa Bertino , Purdue University
+    - Emiliano De Cristofaro , UC Riverside
+    - Emily Wenger , Duke University
+    - Endadul Hoque , Syracuse University
+    - Eric Pauley , University of Wisconsin–Madison
+    - Eyal Ronen , Tel Aviv University
+    - Eysa Lee , Brown University
+    - Fabio De Gaspari , Sapienza Università di Roma
+    - Faysal hossain Shezan , University of Texas at Arlington
+    - Fengwei Zhang , Southern University of Science and Technology
+    - Fernando Virdia , King's College London
+    - Florian Kerschbaum , University of Waterloo
+    - Florian Tramer , ETH Zurich
+    - Frank Li , Georgia Institute of Technology
+    - Frank Piessens , KU Leuven
+    - Gang Wang , University of Illinois at Urbana-Champaign
+    - Gaoning Pan , Hangzhou Dianzi University
+    - Georgios Smaragdakis , Delft University of Technology
+    - Giovanni Camurati , ETH Zurich
+    - Giovanni Cherubin , Microsoft
+    - Giulia Fanti , Carnegie Mellon University
+    - Giuseppe Ateniese , George Mason University
+    - Guangdong Bai , The University of Queensland
+    - Guangliang Yang , Fudan University
+    - Guanhong Tao , University of Utah
+    - Guevara Noubir , Northeastern University
+    - Guillermo Suarez-Tangil , IMDEA Networks Institute
+    - Habiba Farrukh , University of California, Irvine
+    - Haoyu Wang , Huazhong University of Science and Technology
+    - Harshad Sathaye , ETH Zürich
+    - Haya Schulmann , Goethe-Universität Frankfurt
+    - Heather Zheng , University of Chicago
+    - Heng Yin , UC Riverside
+    - Homa Alemzadeh , University of Virginia
+    - Hongxin Hu , University at Buffalo
+    - Hyungsub Kim , Purdue University & Indiana University
+    - Imtiaz Karim , Purdue University
+    - Jack Doerner , Brown University
+    - Jaron Mink , Arizona State University
+    - Jason Nieh , Columbia University
+    - Jason (Minhui) Xue , CSIRO’s Data61
+    - Jeremiah Blocki , Purdue University
+    - Jiarong Xing , Rice University
+    - Jiska Classen , Hasso Plattner Institute
+    - Jon McCune , Google
+    - Jonas Hielscher , Ruhr University Bochum
+    - Joseph Bonneau , a16z crypto research and New York University
+    - Jun Han , KAIST
+    - Kaihua Qin , Yale University
+    - Kelsey Fulton , Colorado School of Mines
+    - Kevin Borgolte , Ruhr University Bochum
+    - Kevin Butler , University of Florida
+    - Klaus v. Gleissenthall , VU Amsterdam
+    - Kun Sun , George Mason University
+    - Lorenzo Cavallaro , University College London
+    - Lucianna Kiffer , ETH Zurich
+    - Lucy Simko , Barnard College
+    - Luyi Xing , Indiana University Bloomington
+    - Man-Ki Yoon , North Carolina State University
+    - Marco Squarcina , TU Wien
+    - Maria Apostolaki , Princeton University
+    - Marina Blanton , University at Buffalo
+    - Markus Miettinen , Frankfurt University of Applied Sciences
+    - Martin Henze , RWTH Aachen University & Fraunhofer FKIE
+    - Matthew Jones , Block
+    - Matthew Lentz , Duke University and Broadcom
+    - Mauro Conti , University of Padua
+    - Meera Sridhar , University of North Carolina Charlotte
+    - Meng Shen , Beijing Institute of Technology
+    - Michael Waidner , Technische Universität Darmstadt
+    - Mohammad Islam , University of Texas at Arlington
+    - Mridula Singh , CISPA Helmholtz Center for Information Security
+    - Mu Zhang , University of Utah
+    - Mulong Luo , The University of Texas at Austin
+    - Muoi Tran , ETH Zurich
+    - Murtuza Jadliwala , University of Texas at San Antonio
+    - Muslum Ozgur Ozmen , Arizona State University
+    - Nils Lukas , University of Waterloo
+    - Ning Zhang , Washington University in St. Louis
+    - Nuno Santos , INESC-ID and Instituto Superior Técnico, University of Lisbon
+    - Omar Chowdhury , Stony Brook University
+    - Peng Gao , Virginia Tech
+    - Pramod Bhatotia , TU Munich
+    - Pratik Sarkar , Supra Research
+    - Pratyush Mishra , University of Pennsylvania
+    - Qi Li , Tsinghua University
+    - Qiang Tang , The University of Sydney
+    - Qiben Yan , Michigan State University
+    - Qingkai Shi , Nanjing University
+    - Quinn Burke , University of Wisconsin-Madison
+    - Rahul Chatterjee , University of Wisconsin-Madison
+    - Ram Sundara Raman , University of Michigan
+    - Ramya Jayaram Masti , Ampere Computing
+    - Rei Safavi-Naini , University of Calgary
+    - Ryan Sheatsley , University of Wisconsin-Madison
+    - Saba Eskandarian , University of North Carolina at Chapel Hill
+    - Saman Zonouz , Georgia Tech
+    - Samira Mirbagher Ajorpaz , North Carolina State University
+    - Sathvik Prasad , North Carolina State University
+    - Sazzadur Rahaman , University of Arizona
+    - Sen Chen , Tianjin University
+    - Seyedhamed Ghavamnia , University of Connecticut
+    - Sherman S. M. Chow , The Chinese University of Hong Kong
+    - Shih-Wei Li , National Taiwan University
+    - Shitong Zhu , Meta Platforms Inc.
+    - Shuai Wang , Hong Kong University of Science and Technology
+    - Siqi Ma , The University of New South Wales
+    - Sisi Duan , Tsinghua University
+    - Soheil Khodayari , CISPA Helmholtz Center for Information Security
+    - Song Li , Zhejiang University
+    - Srdjan Capkun , ETH Zurich
+    - Sri AravindaKrishnan Thyagarajan , University of Sydney
+    - Stephen Herwig , William & Mary
+    - Sunil Manandhar , IBM Research
+    - Sven Bugiel , CISPA Helmholtz Center for Information Security
+    - Swarn Priya , Virginia Tech
+    - Syed Rafiul Hussain , Pennsylvania State University
+    - Tapti Palit , University of California, Davis
+    - Teodora Baluta , National University of Singapore
+    - Tianhao Wang , University of Virginia
+    - Tobias Fiebig , MPI-INF
+    - Trent Jaeger , UC Riverside
+    - Tushar Jois , City College of New York
+    - VARUN CHANDRASEKARAN , University of Illinois Urbana-Champaign
+    - Varun Madathil , Yale University
+    - Wajih Ul Hassan , The University of Virginia
+    - Weijia He , Dartmouth College
+    - Wenjing Lou , Virginia Tech
+    - Xiaojing Liao , Indiana University Bloomington
+    - Xinda Wang , University of Texas at Dallas
+    - Xingliang Yuan , The University of Melbourne
+    - Xinyu Xing , Northwestern University
+    - Xusheng Xiao , Arizona State University
+    - Yan Chen , Northwestern University
+    - Yan Shoshitaishvili , Arizona State University
+    - Yanchao Zhang , Arizona State University
+    - Yaxing Yao , Virginia Tech
+    - Yigitcan Kaya , UC Santa Barbara
+    - Yingying Chen , Rutgers University
+    - Yinxi Liu , Rochester Institute of Technology
+    - Yinzhi Cao , Johns Hopkins University
+    - Yizheng Chen , University of Maryland
+    - Yonghwi Kwon , University of Maryland
+    - Yossi Oren , Ben-Gurion University, Israel
+    - Yu Ding , Google DeepMind
+    - Yuan Tian , UCLA
+    - Yupeng Zhang , University of Illinois Urbana Champaign
+    - Yuseok Jeon , Ulsan National Institute of Science and Technology (UNIST)
+    - Yuval Yarom , Ruhr University Bochum
+    - Yuzhe Tang , Syracuse University
+    - Z. Berkay Celik , Purdue University
+    - Zane Ma , Oregon State University
+    - Zhiqiang Lin , Ohio State University
+    - Zhiyun Qian , University of California, Riverside
+    - Zhou Li , University of California, Irvine
+    - Zhuotao Liu , Tsinghua University
+    - Ziming Zhao , University at Buffalo
+    - Ziqi Yang , Zhejiang University
+cycles:
+  - first:
+      submission: "June 6, 2024"
+      early-reject: "July 22, 2024"
+      rebuttal-start: "August 19, 2024"
+      rebuttal-end: "August 30, 2024"  # rebuttal text due: August 26, 2024
+      acceptance: "September 9, 2024"
+      camera-ready: "October 18, 2024"
+  - second:
+      submission: "November 14, 2024"
+      early-reject: "January 20, 2025"
+      rebuttal-start: "February 17, 2025"
+      rebuttal-end: "February 28, 2025"  # rebuttal text due: February 24, 2025
+      acceptance: "March 10, 2025"
+      camera-ready: "April 18, 2025"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+meta-review: true
+cves: false

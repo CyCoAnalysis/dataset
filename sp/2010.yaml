@@ -1,0 +1,73 @@
+website:
+  url: https://oakland10.cs.virginia.edu/cfp.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2010/12OmNqOffxH
+  open: false
+topics:
+  - Access control
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Censorship and censorship-resistance
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection
+  - Malware
+  - Metrics
+  - Language-based security
+  - Network security
+  - Privacy-preserving systems
+  - Protocol security
+  - Recovery
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - System security
+  - Usability and security
+  - Web security
+pc:
+  - "Program committee":
+    - William Arbaugh, University of Maryland, USA
+    - Michael Backes, IBM Research, Switzerland
+    - Josh Benaloh, Microsoft Research, USA
+    - Marc Dacier, EURECOM, France
+    - Herve Debar, France Telecom R&D, France
+    - George Dinolt, Naval Postgraduate School, USA
+    - Riccardo Focardi, University of Venice, Italy
+    - Virgil Gligor, University of Maryland, USA
+    - Peter Gutmann, University of Auckland, New Zealand
+    - Dogan Kesdogan, RWTH Aachen, Germany
+    - Helmut Kurth, atsec, Germany
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Roy Maxion, Carnegie Mellon University, USA
+    - John McHugh, Carnegie Mellon University, USA
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Vern Paxson, ICSI / LBNL, USA (PC co-chair)
+    - Radia Perlman, Sun Microsystems, USA
+    - Birgit Pfitzmann, IBM Research, Switzerland
+    - Joachim Posegga, University of Hamburg, Germany
+    - Niels Provos, Google Inc., USA
+    - Josyula R. Rao, IBM Research, USA
+    - Michael Reiter, Carnegie Mellon University, USA
+    - Eric Rescorla, RTFM, USA
+    - Rei Safavi-Naini, University of Wollongong, Australia
+    - Pierangela Samarati, Universita degli Studi di Milano, Italy
+    - Andrei Serjantov, The Free Haven Project, UK
+    - Giovanni Vigna, University of California, Santa Barbara, USA
+    - Michael Waidner, IBM Research, Switzerland (PC co-chair)
+    - Dan S. Wallach, Rice University, USA
+    - Andreas Wespi, IBM Research, Switzerland
+    - Marianne Winslett, University of Illinois at Urbana-Champaign, USA
+cycles:
+  - first:
+      submission: "18 November 2009"  # separate SoK deadline
+      acceptance: "1 February 2010"
+      camera-ready: "5 March 2010"
+anonymous: true
+conflicts: false
+ethics-discussion: false

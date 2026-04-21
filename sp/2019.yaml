@@ -1,0 +1,218 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2019/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2019/1dlwgmOlI6A
+  open: true
+topics:
+  - Access control and authorization
+  - Accountability
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Censorship resistance
+  - Cloud security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection and prevention
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Language-based security
+  - Network and systems security
+  - Privacy technologies and mechanisms
+  - Protocol security
+  - Secure information flow
+  - Security and privacy for the Internet of Things
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Usable security and privacy
+pc:
+  - "Program committee":
+    - Abhi Shelat , Northeastern University
+    - Adam Bates , University of Illinois at Urbana-Champaign
+    - Adam Doupé , Arizona State University
+    - Adrian Perrig , ETH Zurich
+    - Adrienne Porter Felt , Google
+    - Aggelos Kiayias , University of Edinburgh & IOHK
+    - Alessandro Chiesa , UC Berkeley
+    - Alexandros Kapravelos , North Carolina State University
+    - Alina Oprea , Northeastern University
+    - Ananth Raghunathan , Google
+    - Anders Fogh , Intel Corporation
+    - Andrei Sabelfeld , Chalmers University of Technology
+    - Andrew Miller , University of Illinois at Urbana-Champaign
+    - Aniket Kate , Purdue University
+    - Anja Lehmann , IBM Research - Zurich
+    - Ari Juels , Cornell Tech
+    - Asia Slowinska , IBM Security
+    - Aurelien Francillon , EURECOM
+    - Aylin Caliskan , George Washington University
+    - Bo Li , UC Berkeley
+    - Brendan Dolan-Gavitt , NYU
+    - Cas Cremers , University of Oxford
+    - Chris Kanich , University of Illinois at Chicago
+    - Claudia Diaz , KU Leuven
+    - Cristiano Giuffrida , Vrije Universiteit Amsterdam
+    - Daniel Genkin , University of Pennsylvania and University of Maryland
+    - Daniela Oliveira , University of Florida
+    - Daphne Yao , Virginia Tech
+    - Dave Levin , University of Maryland
+    - David Evans , University of Virginia
+    - David Kotz , Dartmouth College
+    - Deian Stefan , UC San Diego
+    - Engin Kirda , Northeastern University
+    - Fabian Monrose , University of North Carolina at Chapel Hill
+    - Farinaz Koushanfar , University of California San Diego
+    - Foteini Baldimtsi , George Mason University
+    - Frank Piessens , KU Leuven
+    - Franziska Roesner , University of Washington
+    - Gianluca Stringhini , University College London
+    - Guofei Gu , Texas A&M University
+    - Herbert Bos , Vrije Universiteit Amsterdam
+    - Joseph Bonneau , New York University
+    - Juan Caballero , IMDEA Software Institute
+    - Kasper Rasmussen , University of Oxford
+    - Kenny Paterson , Royal Holloway University of London
+    - Konrad Rieck , TU Braunschweig
+    - Konstantin (Kosta) Beznosov , University of British Columbia
+    - Kurt Thomas , Google
+    - Leyla Bilge , Symantec Research Labs
+    - Long Lu , Northeastern University
+    - Lorrie Cranor , Carnegie Mellon University
+    - Lujo Bauer , Carnegie Mellon University
+    - Manos Antonakakis , Georgia Institute of Technology
+    - Manuel Egele , Boston University
+    - Mariana Raykova , Yale University
+    - Marina Blanton , University at Buffalo
+    - Mathias Payer , EPFL and Purdue University
+    - Matt Fredrikson , Carnegie Mellon University
+    - Matthew Hicks , Virginia Tech
+    - Michael Bailey , University of Illinois at Urbana-Champaign
+    - Michael Franz , University of California at Irvine
+    - Michalis Polychronakis , Stony Brook University
+    - Michelle Mazurek , University of Maryland
+    - Mihai Christodorescu , Visa Research
+    - Mike Reiter , University of North Carolina at Chapel Hill
+    - Mike Rosulek , Oregon State University
+    - Nick Feamster , Princeton University
+    - Nick Nikiforakis , Stony Brook University
+    - Nickolai Zeldovich , MIT CSAIL
+    - Nicolas Christin , Carnegie Mellon University
+    - Niels Provos , Google Inc
+    - Nikhil Swamy , Microsoft Research
+    - Nitesh Saxena , University of Alabama at Birmingham
+    - Omar Chowdhury , University of Iowa
+    - Payman Mohassel , Visa Research
+    - Piotr Mardziel , Carnegie Mellon University
+    - Prateek Mittal , Princeton University
+    - Ralf Kuesters , University of Stuttgart
+    - Reza Shokri , National University of Singapore (NUS)
+    - Rob Reeder , Google
+    - Robert Watson , University of Cambridge
+    - Roberto Perdisci , University of Georgia and Georgia Institute of Technology
+    - Rosario Gennaro , The City College of New York
+    - Roya Ensafi , University of Michigan
+    - Ruby Lee , Princeton University
+    - Sarah Meiklejohn , University College London
+    - Sascha Fahl , Leibniz University Hannover
+    - Sergio Maffeis , Imperial College London
+    - Somesh Jha , University of Wisconsin at Madison
+    - Srdjan Capkun , ETH Zurich
+    - Stefan Katzenbeisser , TU Darmstadt
+    - Taesoo Kim , Georgia Tech
+    - Thorsten Holz , Ruhr-Universität Bochum
+    - Tom Ristenpart , Cornell Tech
+    - Tom Shrimpton , University of Florida
+    - Trent Jaeger , Penn State University
+    - Tudor Dumitras , University of Maryland at College Park
+    - Veronique Cortier , CNRS and Loria
+    - Virgil Gligor , Carnegie Mellon University
+    - Vladimir Kolesnikov , Georgia Tech
+    - Vyas Sekar , Carnegie Mellon University
+    - Wenke Lee , Georgia Institute of Technology
+    - Wenyuan Xu , Zhejiang University
+    - William Robertson , Northeastern University
+    - XiaoFeng Wang , Indiana University
+    - Zhiyun Qian , University of California at Riverside
+cycles:
+  - first:
+      submission: "January 1, 2018"
+      acceptance: "March 1, 2018"
+      camera-ready: "April 1, 2018"
+      revision-submission: "June 1, 2018"
+      revision-acceptance: "July 1, 2018"
+  - second:
+      submission: "February 1, 2018"
+      acceptance: "April 1, 2018"
+      camera-ready: "May 1, 2018"
+      revision-submission: "July 1, 2018"
+      revision-acceptance: "August 1, 2018"
+  - third:
+      submission: "March 1, 2018"
+      acceptance: "May 1, 2018"
+      camera-ready: "June 1, 2018"
+      revision-submission: "August 1, 2018"
+      revision-acceptance: "September 1, 2018"
+  - fourth:
+      submission: "April 1, 2018"
+      acceptance: "June 1, 2018"
+      camera-ready: "July 1, 2018"
+      revision-submission: "September 1, 2018"
+      revision-acceptance: "October 1, 2018"
+  - fifth:
+      submission: "May 1, 2018"
+      acceptance: "July 1, 2018"
+      camera-ready: "August 1, 2018"
+      revision-submission: "October 1, 2018"
+      revision-acceptance: "November 1, 2018"
+  - sixth:
+      submission: "June 1, 2018"
+      acceptance: "August 1, 2018"
+      camera-ready: "September 1, 2018"
+      revision-submission: "November 1, 2018"
+      revision-acceptance: "December 1, 2018"
+  - seventh:
+      submission: "July 1, 2018"
+      acceptance: "September 1, 2018"
+      camera-ready: "October 1, 2018"
+      revision-submission: "December 1, 2018"
+      revision-acceptance: "January 1, 2019"
+  - eighth:
+      submission: "August 1, 2018"
+      acceptance: "October 1, 2018"
+      camera-ready: "November 1, 2018"
+      revision-submission: "January 1, 2019"
+      revision-acceptance: "February 1, 2019"
+  - ninth:
+      submission: "September 1, 2018"
+      acceptance: "November 1, 2018"
+      camera-ready: "December 1, 2018"
+      revision-submission: "February 1, 2019"
+      revision-acceptance: "March 1, 2019"
+  - tenth:
+      submission: "October 1, 2018"
+      acceptance: "December 1, 2018"
+      camera-ready: "January 1, 2019"
+      revision-submission: "March 1, 2019"
+      revision-acceptance: "April 1, 2019"
+  - eleventh:
+      submission: "November 1, 2018"
+      acceptance: "January 1, 2019"
+      camera-ready: "February 1, 2019"
+      revision-submission: "April 1, 2019"
+      revision-acceptance: "May 1, 2019"
+  - twelfth:
+      submission: "December 1, 2018"
+      acceptance: "February 1, 2019"
+      camera-ready: "March 1, 2019"
+      revision-submission: "May 1, 2019"
+      revision-acceptance: "June 1, 2019"
+anonymous: true
+conflicts: true
+ethics-discussion: true

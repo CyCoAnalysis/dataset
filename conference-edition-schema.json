@@ -21,6 +21,21 @@
       "additionalProperties": false
     },
 
+    "proceedings": {
+      "type": "object",
+      "required": ["url", "open"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "open": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+
     "topics": {
       "type": "array",
       "items": {
@@ -62,6 +77,8 @@
             "rebuttal-start": { "type": "string" },
             "rebuttal-end": { "type": "string" },
             "acceptance": { "type": "string" },
+            "shepherding-submission": { "type": "string" },
+            "shepherding-acceptance": { "type": "string" },
             "revision-submission": { "type": "string" },
             "revision-acceptance": { "type": "string" },
             "camera-ready": { "type": "string" }
@@ -74,6 +91,8 @@
     "anonymous": { "type": "boolean" },
     "conflicts": { "type": "boolean" },
     "ethics-discussion": { "type": "boolean" },
+    "meta-review": { "type": "boolean" },
+    "cves": { "type": "boolean" },
     "genai": { "type": "boolean" }
   },
 

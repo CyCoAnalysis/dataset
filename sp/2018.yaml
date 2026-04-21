@@ -1,0 +1,160 @@
+website:
+  url: https://www.ieee-security.org/TC/SP2018/cfpapers.html
+  available: true
+  archive: null
+proceedings:
+  url: https://www.computer.org/csdl/proceedings/sp/2018/12OmNzV70Ji
+  open: false
+topics:
+  - Access control and authorization
+  - Accountability
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Censorship resistance
+  - Cloud security
+  - Distributed systems security
+  - Economics of security and privacy
+  - Embedded systems security
+  - Forensics
+  - Hardware security
+  - Intrusion detection and prevention
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Language-based security
+  - Network and systems security
+  - Privacy technologies and mechanisms
+  - Protocol security
+  - Secure information flow
+  - Security and privacy for the Internet of Things
+  - Security and privacy metrics
+  - Security and privacy policies
+  - Security architectures
+  - Usable security and privacy
+pc:
+  - "Program committee":
+    - Manos Antonakakis , Georgia Institute of Technology
+    - Michael Backes , CISPA
+    - Davide Balzarotti , Eurecom
+    - Gilles Barthe , IMDEA Software Institute
+    - Karthik Bhargavan , INRIA
+    - Leyla Bilge , Symantec Research Labs
+    - Marina Blanton , University at Buffalo (SUNY)
+    - Nikita Borisov , University of Illinois at Urbana-Champaign
+    - Herbert Bos , Vrije Universiteit Amsterdam
+    - Kevin Butler , University of Florida
+    - Juan Caballero , IMDEA Software Institute
+    - David Cash , Rutgers University
+    - Haibo Chen , Shanghai Jiao Tong University
+    - Stephen Chong , Harvard University
+    - Manuel Costa , Microsoft Research
+    - Cas Cremers , University of Oxford
+    - Rob Cunningham , MIT Lincoln Laboratory
+    - George Danezis , University College London
+    - Antoine Delignat-Lavaud , Microsoft Research
+    - Srini Devadas , Massachusetts Institute of Technology
+    - Tudor Dumitras , University of Maryland, College Park
+    - Manuel Egele , Boston University
+    - Serge Egelman , UC Berkeley / ICSI
+    - Sascha Fahl , Leibniz University Hannover
+    - Cédric Fournet , Microsoft Research
+    - Matt Fredrikson , Carnegie Mellon University
+    - Kevin Fu , University of Michigan
+    - Cristiano Giuffrida , Vrije Universiteit Amsterdam
+    - Virgil Gligor , Carnegie Mellon University
+    - Andreas Haeberlen , University of Pennsylvania
+    - Nadia Heninger , University of Pennsylvania
+    - Matthew Hicks , Virginia Tech
+    - Thorsten Holz , Ruhr-University Bochum
+    - Amir Houmansadr , University of Massachusetts Amherst
+    - Trent Jaeger , Penn State University
+    - Somesh Jha , University of Wisconsin, Madison
+    - Rob Johnson , VMware Research
+    - Brent Byunghoon Kang , KAIST
+    - Engin Kirda , Northeastern University
+    - Farinaz Koushanfar , University of California San Diego
+    - Wenke Lee , Georgia Institute of Technology
+    - Ruby Lee , Princeton University
+    - Kirill Levchenko , UC San Diego
+    - Jay Lorch , Microsoft Research
+    - Long Lu , Northeastern University
+    - Matteo Maffei , TU Wien
+    - Bruce Maggs , Duke University and Akamai Technologies
+    - Michelle Mazurek , University of Maryland
+    - Andrew Miller , University of Illinois at Urbana-Champaign
+    - Prateek Mittal , Princeton University
+    - Payman Mohassel , Visa Research
+    - Greg Morrisett , Cornell University
+    - Michael Naehrig , Microsoft Research, USA
+    - Arvind Narayanan , Princeton University
+    - Muhammad Naveed , University of Southern California
+    - Cristina Nita-Rotaru , Northeastern University
+    - Marcus Peinado , Microsoft Research
+    - Adrian Perrig , ETH Zurich
+    - Christina Pöpper , New York University Abu Dhabi
+    - Niels Provos , Google
+    - Mariana Raykova , Yale University
+    - Rob Reeder , Google
+    - Ulrich Rührmair , Ruhr University Bochum
+    - Andrei Sabelfeld , Chalmers University of Technology
+    - Prateek Saxena , National University of Singapore
+    - Simha Sethumadhavan , Columbia University/Chip Scan
+    - Hovav Shacham , UC San Diego
+    - Elaine Shi , Cornell
+    - Asia Slowinska , IBM Security
+    - Matthew Smith , University of Bonn, Fraunhofer FKIE
+    - Adam Smith , Pennsylvania State University
+    - Alex Snoeren , UC San Diego
+    - Deian Stefan , UC San Diego
+    - Gianluca Stringhini , University College London
+    - Cynthia Sturton , University of North Carolina at Chapel Hill
+    - Gang Tan , Pennsylvania State University
+    - Stefano Tessaro , University of California, Santa Barbara
+    - Kurt Thomas , Google
+    - Carmela Troncoso , IMDEA Software Institute
+    - Dan Wallach , Rice University
+    - XiaoFeng Wang , Indiana University
+    - Tao Xie , University of Illinois at Urbana-Champaign
+    - Danfeng (Daphne) Yao , Virginia Tech
+    - Yinqian Zhang , The Ohio State University
+cycles:
+  - first:
+      submission: "July 1, 2017"
+      acceptance: "September 1, 2017"
+      camera-ready: "October 1, 2017"
+      revision-submission: "December 1, 2017"
+      revision-acceptance: "January 1, 2018"
+  - second:
+      submission: "August 1, 2017"
+      acceptance: "October 1, 2017"
+      camera-ready: "November 1, 2017"
+      revision-submission: "January 1, 2018"
+      revision-acceptance: "February 1, 2018"
+  - third:
+      submission: "September 1, 2017"
+      acceptance: "November 1, 2017"
+      camera-ready: "December 1, 2017"
+      revision-submission: "February 1, 2018"
+      revision-acceptance: "March 1, 2018"
+  - fourth:
+      submission: "October 1, 2017"
+      acceptance: "December 1, 2017"
+      camera-ready: "January 1, 2018"
+      revision-submission: "March 1, 2018"
+      revision-acceptance: "April 1, 2018"
+  - fifth:
+      submission: "November 1, 2017"
+      acceptance: "January 1, 2018"
+      camera-ready: "February 1, 2018"
+      revision-submission: "April 1, 2018"
+      revision-acceptance: "May 1, 2018"
+  - sixth:
+      submission: "December 1, 2017"
+      acceptance: "February 1, 2018"
+      camera-ready: "March 1, 2018"
+      revision-submission: "May 1, 2018"
+      revision-acceptance: "June 1, 2018"
+anonymous: true
+conflicts: true
+ethics-discussion: true
