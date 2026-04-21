@@ -1,0 +1,81 @@
+{
+  "type": "object",
+  "required": ["website", "topics", "pc", "cycles", "anonymous", "conflicts", "ethics-discussion"],
+  "properties": {
+    "website": {
+      "type": "object",
+      "required": ["url", "available", "archive"],
+      "properties": {
+        "url": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "available": {
+          "type": "boolean"
+        },
+        "archive": {
+          "type": ["string", "null"],
+          "format": "uri"
+        }
+      },
+      "additionalProperties": false
+    },
+
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "pc": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "minProperties": 1,
+        "maxProperties": 1,
+        "additionalProperties": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+
+    "cycles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "minProperties": 1,
+        "maxProperties": 1,
+        "additionalProperties": {
+          "type": "object",
+          "required": [
+            "submission",
+            "acceptance"
+          ],
+          "properties": {
+            "abstract": { "type": "string" },
+            "submission": { "type": "string" },
+            "early-reject": { "type": "string" },
+            "rebuttal-start": { "type": "string" },
+            "rebuttal-end": { "type": "string" },
+            "acceptance": { "type": "string" },
+            "revision-submission": { "type": "string" },
+            "revision-acceptance": { "type": "string" },
+            "camera-ready": { "type": "string" }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+
+    "anonymous": { "type": "boolean" },
+    "conflicts": { "type": "boolean" },
+    "ethics-discussion": { "type": "boolean" },
+    "genai": { "type": "boolean" }
+  },
+
+  "additionalProperties": false
+}

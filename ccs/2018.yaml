@@ -1,0 +1,168 @@
+website:
+  url: https://www.sigsac.org/ccs/CCS2018/papers/
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Alessandro Acquisti, Carnegie Mellon University
+    - Sadia Afroz, ICSI
+    - Gail-Joon Ahn, Arizona State University and SAMSUNG Research
+    - Devdatta Akhawe, Dropbox
+    - Ehab Al-Shaer, UNC Charlotte
+    - Sumayah Alrwais, King Saud University
+    - Dennis Andriesse, VU Amsterdam
+    - Giuseppe Ateniese, Stevens Institute of Technology
+    - Erman Ayday, Case Western Reserve University
+    - Foteini Baldimtsi, George Mason University
+    - Shehar Bano, UCL
+    - Gilles Barthe, IMDEA
+    - Lujo Bauer, Carnegie Mellon University
+    - Mihir Bellare, UC San Diego
+    - Fabrice Benhamouda, Columbia University
+    - Karthik Bhargavan, INRIA
+    - Battista Biggio, University of Cagliari
+    - Alex Biryukov, University of Luxembourg
+    - Nikita Borisov, UIUC
+    - Sven Bugiel, CISPA Helmholtz Center i.G.
+    - Yinzhi Cao, Lehigh University
+    - Srdjan Capkun, ETH Zurich
+    - Lorenzo Cavallaro, Royal Holloway
+    - Kai Chen, Institute of Information Engineering, Chinese Academy of Sciences
+    - Shuo Chen, Microsoft Research
+    - Yan Chen, Northwestern
+    - Hao Chen, UC Davis
+    - Omar Chowdhury, University of Iowa
+    - Nicolas Christin, Carnegie Mellon University
+    - Henry Corrigan-Gibbs, Stanford
+    - Veronique Cortier, LORIA
+    - Cas Cremers, Oxford University
+    - Weidong Cui, Microsoft Research
+    - Lucas Davi, University of Duisburg-Essen
+    - Wenrui Diao, Jinan University
+    - Adam Doupé, Arizona State University
+    - Haixin Duan, Tsinghua
+    - Tudor Dumitras, University of Maryland
+    - Zakir Durumeric, Stanford
+    - Serge Egelman, UC Berkeley
+    - Roya Ensafi, University of Michigan
+    - Dave Evans, University of Virginia
+    - Sascha Fahl, Ruhr-University Bochum
+    - Dario Fiore, IMDEA
+    - Marc Fischlin, TU Darmstadt
+    - Michael Franz, UC Irvine
+    - Debin Gao, Singapore Management University
+    - Christina Garman, Purdue University
+    - Xinyang Ge, MSR
+    - Rosario Gennaro, City College of New York
+    - Arthur Gervais, Imperial College London
+    - Irene Giacomelli, UW Madison
+    - Virgil Gligor, Carnegie Mellon University
+    - Neil Gong, Iowa State University
+    - Daniel Gruss, TU Graz
+    - Dawu Gu, Shanghai JiaoTong University
+    - Weili Han, Fudan
+    - Ryan Henry, Indiana University
+    - Nicholas Hopper, University of Minnesota
+    - Catalin Hritcu, Inria Paris
+    - Yan Huang, Indiana University
+    - Mathias Humbert, Swiss Data Science Center
+    - Tibor Jager, University of Paderborn
+    - L Jean Camp, Indiana University
+    - Shouling Ji, Zhejing University
+    - Yier Jin, University of Florida
+    - Byunghoon Kang, KAIST
+    - Chris Kanich, UIC
+    - Apu Kapadia, Indiana University
+    - Alexandros Kapravelos, NC State University
+    - Aniket Kate, Purdue
+    - Taesoo Kim, Georgia Tech
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Boris Köpf, IMDEA Software Institute
+    - Katharina Krombholz, SBA Research
+    - Ralf Kuesters, University of Stuttgart
+    - Wenke Lee, Georgia Tech
+    - Ruby Lee, Princeton
+    - Byoungyoung Lee, Purdue
+    - Anja Lehmann, IBM Research
+    - Zhenkai Liang, National University of Singapore
+    - Xiaojing Liao, William and Mary
+    - Ninghui Li, Purdue
+    - Zhou Li, RSA Research
+    - Yingjiu Li, Singapore Management University
+    - Jingqiang Lin, Institute of Information Engineering, Chinese Academy of Sciences
+    - Zhiqiang Lin, Ohio State University
+    - Yang Liu, Nanyang Technical University
+    - Peng Liu, PennState
+    - Long Lu, Northeastern University
+    - Songwu Lu, UCLA
+    - Kangjie Lu, University of Minnesota
+    - Matteo Maffei, TU Vienna
+    - Jean-Yves Marion, LORIA
+    - Michelle Mazurek, University of Maryland
+    - Patrick McDaniel, PennState
+    - Ian Miers, Cornell Tech
+    - Esfandiar Mohammadi, ETH Zurich
+    - Tal Moran, IDC Herzliya
+    - Adwait Nadkarni, William & Mary
+    - Muhammad Naveed, USC
+    - Stefan Nuernberger, CISPA Helmholtz Center i.G.
+    - Olya Ohrimenko, Microsoft Research
+    - Nils Ole Tippenhauer, Singapore University of Technology and Design
+    - Nicolas Papernot, PennState
+    - Kenny Paterson, Royal Holloway
+    - Mathias Payer, Purdue
+    - Giancarlo Pellegrino, Stanford University
+    - Frank Piessens, KU Leuven
+    - Zhiyun Qian, UC Riverside
+    - Brad Reaves, NC State University
+    - William Roberson, Northeastern
+    - Ulrich Rührmair, Ruhr-University Bochum
+    - Nitesh Saxena, University of Alabama at Birmingham
+    - Joshua Schiffman, HP Labs, HP Inc.
+    - Felix Schuster, Microsoft Research
+    - Srinath Setty, Microsoft Research
+    - Matthew Smith, University of Bonn & Fraunhofer FKIE
+    - Chenyu Song, UC Riverside
+    - Ben Stock, CISPA Helmholtz Center i.G.
+    - Gianluca Stringhini, University College London
+    - Yuqiong Sun, Symantec Research
+    - Bjoern Tackmann, IBM Research
+    - Abhradeep Thakurta, UC Santa Cruz
+    - Yuan Tian, University of Virginia
+    - Mohit Tiwari, UT Austin
+    - Patrick Traynor, University of Florida
+    - Carmela Troncoso, EPFL
+    - Gene Tsudik, UC Irvine
+    - Blase Ur, University of Chicago
+    - Venkat Venkatakrishnan, University of Illinois
+    - Hayawardh Vijayakumar, Samsung Research America
+    - Haining Wang, University of Delaware
+    - Bogdan Warinschi, Bristol
+    - Dinghao Wu, PennState
+    - Tao Xie, UIUC
+    - Luyi Xing, Indiana University Bloomington
+    - Xinyu Xing, PennState
+    - Meng Xu, Georgia Tech
+    - Wenyuan Xu, Zhejing University
+    - Min Yang, Fudan
+    - Daphne Yao, Virginia Tech
+    - Heng Yin, UC Riverside
+    - Ting Yu, Qatar Computing Research Institute
+    - Yinqian Zhang, Ohio State University
+    - Danfeng Zhang, PennState
+    - Xiangyu Zhang, Purdue
+    - Kehuan Zhang, The Chinese University of Hong Kong
+    - Fengwei Zhang, Wayne State University
+    - Zhe Zhou, Fudan
+cycles:
+  - first:
+      submission: "9 May 2018"
+      rebuttal-start: "25 June 2018"  # only for first-round reviews
+      rebuttal-end: "28 June 2018"
+      acceptance: "23 July 2018"
+      camera-ready: "19 August 2018"
+anonymous: true
+conflicts: true
+ethics-discussion: true

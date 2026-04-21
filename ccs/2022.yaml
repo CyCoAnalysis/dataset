@@ -1,0 +1,338 @@
+website:
+  url: https://www.sigsac.org/ccs/CCS2022/call-for/call-for-papers.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Software Security":
+      - Andrea Lanzi, University of Milan, Italy
+      - Andreas Zeller, CISPA
+      - Andrew Baumann, Microsoft Research
+      - Chao Zhang, Tsinghua University
+      - Cristopher Kruegel, UCSB
+      - David Chrisnall, Microsoft Research
+      - David Lie, University of Toronto
+      - Ding Li, Peking University
+      - Erik van der Kouwe, Vrije Universiteit Amsterdam
+      - Fengwei Zhang, Southern University of Science and Technology (SUSTech)
+      - Guofei Gu, Texas A&M University
+      - Hong Hu, Penn State University
+      - Juan Caballero, IMDEA Software Institute
+      - Jun Xu, Stevens Institute of Technology
+      - Kehuan Zhang, Chinese University of Hong Kong
+      - Marcel Böhme, Max Planck Institute for Security and Privacy
+      - Mathias Payer, EPFL
+      - Mihai Christodorescu, Visa Research
+      - Nuno Santos, INESC-ID
+      - Ruoyu Wang, Arizona State University
+      - Sam King, UC Davis
+      - Sang Kil Cha, KAIST
+      - Shuai Wang, Hong Kong University of Science and Technology
+      - Shweta Shinde, ETH Zurich
+      - Thorsten Holz, CISPA
+      - Tiffany Bao, Arizona State University
+      - Vasileios Kemerlis, Brown University
+      - Venkat Venkatakrishnan, University of Illinois at Chicago
+      - Wenke Lee, Georgia Tech
+      - Xinyu Xing, Northwestern University
+      - Xusheng Xiao, Case Western Reserve University
+      - Yajin Zhou, College of Computer Science, Zhejiang University, China
+      - Yinqian Zhang, Southern University of Science and Technology (SUSTech)
+      - Zhiqiang Lin, Ohio State University
+  - "Web Security":
+      - Adam Doupé, ASU
+      - Andrei Sabelfeld, Chalmers
+      - Aurore Fass, Stanford
+      - Cris Staicu, CISPA
+      - Deian Stefan, UCSD
+      - Ding Wang, Nankai University
+      - Engin Kirda, Northeastern University
+      - Florian Schaub, University of Michigan
+      - Iskander Sanchez-Rola, NortonLifeLock
+      - Jason Polakis, UIC
+      - Leyla Bilge, NortonLifeLock
+      - Maliheh Shirvanian, VISA
+      - Merve Sahin, SAP
+      - Nick Nikiforakis, Stony Brook
+      - Pierre Laperdrix, CNRS
+      - Roberto Perdisci, Georgia Tech
+      - Sooel Son, KAIST
+      - Stefano Calzavara, Venice
+      - Tamara Rezk, INRIA
+      - Veelasha Moonsamy, RUB
+      - Victor Le Pochat, KU Leuven
+      - Wei Meng, CUHK
+      - Xiaojing Liao, Indiana University Bloomington
+      - Yousra Aaafer, University of Waterloo
+      - Zane Ma, Georgia Tech
+  - "Network Security":
+      - Alan Liu, Boston University
+      - Andreas Terzis, Google
+      - Ang Chen, Rice University
+      - Chao Shen, Xi’an Jiaotong University
+      - Christina Poepper, NYU Abu Dhabi
+      - Chunyi Peng, Purdue University
+      - Daniel Xiapu Luo, The Hong Kong Polytechnic University
+      - Haya Shulman, Fraunhofer SIT
+      - Jedidiah Crandall, Arizona State University
+      - Jelena Mirkovic, University of Southern California
+      - Katharina Kohls, Radboud University
+      - Kun Sun, George Mason University
+      - Laurent Vanbever, ETH
+      - Matthew Lentz, Duke University
+      - Mattijs Jonker, University of Twente
+      - Michalis Polychronakis, Stony Brook University
+      - Min Suk Kang, KAIST
+      - Nick Feamster, University of Chicago
+      - Ning Zhang, Washington University in St. Louis
+      - Qian Wang, Wuhan University
+      - Syed Rafiul Hussain, Penn State University
+      - Yao Liu, University of South Florida
+      - Yih-Chun Hu, UIUC
+      - Yongdae Kim, KAIST
+      - Zhan Qin, Zhejiang University
+      - Zhuotao Liu, Tsinghua University
+      - Zubair Shafiq, University of California, Davis
+  - "Formal Methods and Programming Languages":
+      - Limin Jia, CMU
+      - Mario Alvim, Brazil
+      - Matteo Maffei, TU Wien, Austria
+      - Musard Balliu, KTH Royal Institute of Technology
+      - Owen Arden, UC Santa Cruz
+      - Robert Kunnemann, CISPA
+      - Sabine Oechsner, Security and Privacy group at Edinburg University
+      - Sasa Radomirovic , Heriot-Watt University, UK
+      - Toby Murray, University of Melbourne
+      - Vincent Laporte, LORIA, Nancy, France
+  - "Hardware, Side Channels, and CyberPhysical Systems":
+      - Amir Moradi, University of Cologne
+      - Annelie Heuser, CNRS IRISA
+      - Beguel Bilgin, Rambus
+      - Ben Nassi, Ben Gurion
+      - Benedikt Gierlichs, KU Leuven
+      - Christiano Giuffrida, VU Amsterdam
+      - Clementine Maurice, CNRS Cristal
+      - Daniel Gruss, IAIK
+      - Daniel Holcombe, UMass Amherst
+      - Daniel Moghimi, UCSD
+      - David Oswald, University of Birmingham
+      - Dmitry Evtyushkin, College of William and Mary
+      - Edward Suh, Cornell University
+      - Guoxing Chen, Shanghai Jiao Tong University
+      - Hamed Okhravi, MIT Lincoln Laboratory
+      - Ivan Martinovic, University of Oxford
+      - Jakub Szefer, Yale University
+      - Jo van Bulck, KU Leuven
+      - Maire O’Neill, Queens University Belfast
+      - Marina Minkin, University of Michigan
+      - Matthias Neugschwandtner, Oracle
+      - Michail Maniatakos, NY Abudhabi
+      - Mohammad Atiqul Islam, The University of Texas at Arlington
+      - Mu Zhang, Utah
+      - Nele Mentens, University of Leiden
+      - Nils Ole Tippenhauer, CISPA
+      - Oleksii Oleksenko, Microsoft Research
+      - Petr Svenda, Masaryk Univesity
+      - Ruby Lee, Princeton
+      - Ryan Kastner, UC San Diego
+      - Saman Zonouz, Rutgers University
+      - Shivam Basin, NTU Singapore
+      - Shreyas Sen, Purdue
+      - Sonia Belaid, Cryptoexperts
+      - Stefano Zanero, Politecnico di Milano
+      - Taegyu Kim, Pennsylvania State University
+      - Thomas Unterluggauer, Intel
+      - Urbi Chatterjee, IIT Kanpur
+      - Xiaoyu Ji, Zhejiang University
+      - Yuval Yarom, University of Adelaide
+      - Ziming Zhao, University at Buffalo
+  - "Applied Cryptography":
+      - Adeline Roux-Langlois, CNRS, IRISA
+      - Aikaterini Mitrokotsa, University of St. Gallen
+      - Akira Takahashi, Aarhus University
+      - Alptekin Kupcu, Koç University
+      - Anamaria Costache, Norwegian University of Science and Technology (NTNU)
+      - Anca Nitulescu, Protocol Labs
+      - Andy Rupp, University of Luxembourg and KASTEL Security Research Labs
+      - Anja Lehmann, Hasso-Plattner-Institute, University of Potsdam
+      - Bart Preneel, COSIC, Univ. of Leuven
+      - Benjamin Fuller, University of Connecticut
+      - Bertram Poettering, IBM Zurich
+      - Chaya Ganesh, Indian Institute of Science
+      - Daniel Slamanig, AIT Austrian Institute of Technology
+      - Daniele Venturi, Sapienza
+      - Dario Fiore, IMDEA
+      - Divya Gupta, Microsoft Research, India
+      - Dov Gordon, George Mason University
+      - Esha Ghosh, Microsoft Research, Redmond
+      - Eyal Ronen, Tel Aviv University
+      - Foteini Baldiitsi, George Mason University
+      - Francois-Xavier Standaert, UCL Crypto Group
+      - Gabriel Kaptchuk, Boston University
+      - Gabrielle De Micheli, UCSD
+      - Gareth T. Davies, University of Wuppertal
+      - Greg Zaverucha, Microsoft Research, Redmond
+      - Jean Paul Degabriele, Technische Universität Darmstadt
+      - Jiaheng Zhang, Berkley
+      - Julia Hesse, IBM Zurich
+      - Julian Loss, CISPA
+      - Kenny Paterson, ETH
+      - Leo Perrin, INRIA
+      - Lisa Kohl, CWI
+      - Ludovic Perret, Sorbonne University
+      - Marc Fischlin, TU Darmstadt
+      - Mariana Raykova, Google
+      - Mehdi Tibouchi, NTT
+      - Moti Yung, Google LLC and Columbia University
+      - Ni Trieu, Arizona State University
+      - Peter Schwabe, Max Planck Institute
+      - Pierre-Alain Fouque, Rennes Univ, France
+      - Pratik Soni, CMU
+      - Rosario Gennaro, CUNY and Protocol Labs Research
+      - Ruben Niederhagen, SDU
+      - Ryo Nishimaki, NTT
+      - Sherman S. M. Chow, The Chinese University of Hong Kong
+      - Shweta Agrawal, Indian Institute of Technology, Madras
+      - Sri Aravinda Krishnan Thyagarajan, CMU
+      - Tarik Moataz, MongoDB
+      - Tibor Jager, University of Wuppertal
+      - Xiao Wang, Northwestern University
+      - Xiong (Leo) Fan, Algorand
+      - Yu Yu, Shanghai Jiao Tong University
+      - Yu Sasaki, NTT
+  - "Machine Learning and Security":
+      - Battista Biggio, University of Cagliari
+      - Ben Zhao, University of Chicago
+      - Bimal Viswanath, Virginia Tech
+      - Binghui Wang, Illinois Institute of Technology
+      - Bo Li, UIUC
+      - Boris Köpf, Microsoft Research Cambridge
+      - Carl A. Gunter, UIUC
+      - Chaowei Xiao, Arizona state university
+      - David Mohaisen, University of Central Florida
+      - David Freeman, Facebook
+      - Fabio Pierazzi, King’s College London
+      - Florian Tramèr, Google and ETH
+      - Gagandeep Singh, UIUC
+      - Gang Wang, UIUC
+      - Giuseppe Ateniese, George Mason University
+      - Hao Chen, UC Davis
+      - Kai Chen, Chinese Academy of Science
+      - Konrad Rieck, Technische Universität Braunschweig
+      - Lorenzo Cavallaro, UCL
+      - Mario Fritz, CISPA
+      - Mathias Humbert, University of Lausanne
+      - Matt Fredrikson, CMU
+      - Matthew Jagielski, Google Research
+      - Michael Backes, CISPA
+      - Ninghui Li, Purdue University
+      - Olga Ohrimenko, The University of Melbourne
+      - Patrick McDaniel, Penn State University
+      - Pin-Yu Chen, IBM Research
+      - Reza Shokri, National University of Singapore
+      - Saeed Mahloujifar, Princeton University
+      - Shagufta Mehnaz, Dartmouth College
+      - Shiqing Ma, Rutgers University
+      - Shouling Ji, Zhejiang University
+      - Shruti Tople, Microsoft Research Cambridge
+      - Suman Jana, Columbia
+      - Thomas Pasquier, University of British Columbia
+      - Ting Wang, Penn State University
+      - Varun Chandrasekaran, University of Wisconsin-Madison
+      - Vincent Bindschaedler, University of Florida
+      - Xiangyu Zhang, Purdue University
+      - Xiaofeng Wang, Indiana University Bloomington
+      - Yang Zhang, CISPA
+      - Yinzhi Cao, Johns Hopkins University
+      - Yizheng Chen, University of California, Berkeley
+      - Yuan Hong, Illinois Institute of Technology
+      - Yuan Tian, University of Virginia
+      - Yupeng Zhang, Texas A&M University
+  - "Security Usability and Measurement":
+      - Anupam Das, North Carolina State University
+      - Blase Ur, University of Chicago
+      - Daphne Yao, Virginia Tech
+      - Elissa Redmiles, Max Planck Instituate
+      - Frank Li, Georgia Tech
+      - Jason Xue, University of Adelaide
+      - Kelsey Fulton, University of Maryland
+      - Mainack Mondal, IIT Karagpur
+      - Nitesh Saxena, Texas A&M
+      - Sai Teja Peddinti, Google
+      - Tobias Fiebig, TU Delft
+      - Wenbo Guo, Penn State
+  - "Blockchain and Distributed Systems":
+      - Alin Tomescu, VMware
+      - Alysson Bessani, Lisbon
+      - Andrew Miller, UIUC
+      - Aniket Kate, Purdue
+      - Arpita Patra, IISC
+      - Arthur Gervais, Imperial
+      - Aviv Zohar, HUJI
+      - Charalampos Papamanthou, Yale
+      - Fan Zhang, Duke
+      - Giorgia Marson, NEC
+      - Ittay Eyal, Technion
+      - Jonathan Katz, UMD
+      - Kartik Nayak, Duke
+      - Lefteris Kokoris-Kogias, IST Austria
+      - Ling Ren, UIUC
+      - Mahdi Zamani, Visa
+      - Marko Vukolic, Protocol Labs
+      - Mary Maller, Ethereum
+      - Philipp Jovanovic, UCL
+      - Qiang Tang, Sydney
+      - Tim Roughgarden, Colombia
+      - Valeria Nikolaenko, Meta
+      - Vassilis Zikas, Purdue
+  - "Privacy and Anonymity":
+      - Abhradeep Thakurta, Google
+      - Albert Cheu, Georgetown University
+      - Aloni Cohen, University of Chicago
+      - Amir Houmansadr, UMass Amherst
+      - Amritha Roy Chowdhury, Wisconsin Madison
+      - Anna Maria Mandalari, Imperial College London
+      - Bolin Ding, Alibaba Group
+      - Chenghong Wang, Duke University
+      - Daniel Kifer, Penn State University
+      - Gergely Acs, Budapest University of Technology and Economics
+      - Graham Cormode, University of Warwick
+      - Jennie Rogers, Northwestern University
+      - Jian Lou, Guangzhou Institute of Technology, Xidian University
+      - Joe Near, University of Vermont
+      - Johes Bater, Duke University
+      - Kostas Chatzikokolakis, University of Athens
+      - Kunal Talwar, Apple
+      - Marco Gaboardi, Boston University
+      - Michael Carl Tschantz, ICSI
+      - Michael Hay, Colgate/Tumult
+      - Oana Goga, CNRS
+      - Rachel Cummings, Columbia
+      - Ryan McKenna, UMass Amherst
+      - Ryan Rogers, LinkedIn
+      - Simon Oya, Waterloo
+      - Thorsten Strufe, KIT
+      - Tianhao Wang, University of Virginia
+      - Xi He, University of Waterloo
+      - Xiaokui Xiao, National University of Singapore
+      - Zeyu Ding, Penn State University
+cycles:
+  - first:
+      submission: "January 14, 2022"
+      rebuttal-start: "18 February, 2022"
+      rebuttal-end: "March 6, 2022"
+      acceptance: "March 10, 2022"
+      revision-submission: "April 7, 2022"
+      revision-acceptance: "April 22, 2022"
+      camera-ready: "September 2, 2022"
+  - second:
+      submission: "May 2, 2022"
+      rebuttal-start: "June 19, 2022"
+      rebuttal-end: "July 7, 2022"
+      acceptance: "July 15, 2022"
+      revision-submission: "August 11, 2022"
+      revision-acceptance: "August 27, 2022"
+      camera-ready: "September 2, 2022"
+anonymous: true
+conflicts: true
+ethics-discussion: true

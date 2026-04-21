@@ -1,0 +1,173 @@
+website:
+  url: https://www.sigsac.org/ccs/CCS2020/call-for-papers.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - AbdelRahman Abdou, Carleton University
+    - Manos Antonakakis, Georgia Institute of Technology
+    - Aslan Askarov, Aarhus University
+    - Michael Backes, CISPA Helmholtz Center for Information Security
+    - Foteini Baldimtsi, George Mason University
+    - Davide Balzarotti, Eurecom
+    - Tiffany Bao, Arizona State University
+    - Gilles Barthe, MPI-SP and IMDEA
+    - Adam Bates, University of Illinois at Urbana-Champaign
+    - Iddo Bentov, Cornell Tech
+    - Karthikeyan Bhargavan, INRIA
+    - Antonio Bianchi, Purdue University
+    - Leyla Bilge, NortonLifeLock Research Group
+    - Bruno Blanchet, Inria
+    - Jonathan Bootle, IBM Research - Zurich
+    - Kevin Borgolte, Princeton University
+    - Kevin Butler, University of Florida
+    - Juan Caballero, IMDEA Software Institute
+    - Matthew Caesar, University of Illinois at Urbana-Champaign
+    - Yinzhi Cao, Johns Hopkins University
+    - Lorenzo Cavallaro, King's College London
+    - Hao Chen, Microsoft Research
+    - Yaohui Chen, Facebook
+    - Nicolas Christin, Carnegie Mellon University
+    - Mihai Christodorescu , Visa Research
+    - Gabriela Ciocarlie, SRI International
+    - Andrea Continella, UC Santa Barbara/University of Twente
+    - Véronique Cortier, CNRS, Loria, France
+    - Cas Cremers, CISPA Helmholtz Center for Information Security
+    - Weidong Cui, Microsoft Research
+    - Rachel Cummings, Georgia Institute of Technology
+    - George Danezis, UCL / Facebook Calibra
+    - Lucas Davi, University of Duisburg-Essen
+    - Srini Devadas, MIT
+    - Adam Doupé, Arizona State University
+    - Tudor Dumitras, University of Maryland, College Park
+    - François Dupressoir, University of Bristol
+    - Manuel Egele, Boston University
+    - Karim Eldefrawy, SRI International
+    - Nick Feamster, University of Chicago
+    - Earlence Fernandes, University of Wisconsin-Madison
+    - Tobias Fiebig, TU Delft
+    - Aurélien Francillon, Eurecom
+    - Michael Franz, University of California, Irvine
+    - Yanick Fratantonio, EURECOM
+    - Matt Fredrikson, CMU
+    - Alisa Frik, ICSI / UC Berkeley
+    - Marco Gaboardi, Boston University
+    - Daniel Genkin, University of Michigan
+    - Esha Ghosh, Microsoft Research, Redmond, USA
+    - Cristiano Giuffrida, VU Amsterdam
+    - Neil Gong, Duke University
+    - Dov Gordon, George Mason University
+    - Guofei Gu, Texas A&M University
+    - Trinabh Gupta, UC Santa Barbara
+    - Xi He, University of Waterloo
+    - Amir Herzberg, University of Connecticut (UConn)
+    - Amir Houmansadr, UMass Amherst
+    - Suman Jana, Columbia University
+    - L Jean Camp, Indiana University
+    - Somesh Jha, University of Wisconsin, Madison
+    - Sanjay Jha, UNSW Sydney
+    - Aaron Johnson, U.S. Naval Research Laboratory
+    - Murat Kantarcioglu, University of Texas at Dallas
+    - Alexandros Kapravelos, North Carolina State University
+    - Aggelos Kiayias, University of Edinburgh and IOHK
+    - Daniel Kifer, Penn State University
+    - Yongdae Kim, KAIST
+    - Katharina Krombholz, CISPA Helmholtz Center for Information Security
+    - Wenke Lee, Georgia Institute of Technology
+    - Dave Levin, University of Maryland
+    - Ninghui Li, Purdue University
+    - Zhou Li, UC Irvine
+    - David Lie, University of Toronto
+    - Zhiqiang Lin, Ohio State University
+    - Martina Lindorfer, TU Wien
+    - Peng Liu, Penn State University
+    - Kangjie Lu, University of Minnesota
+    - Loi Luu, Kyber Network
+    - Shiqing Ma, Rutgers University
+    - Matteo Maffei, TU Wien
+    - Piotr Mardziel, Carnegie Mellon University
+    - Stephen McCamant, University of Minnesota
+    - Patrick McDaniel, Penn State University
+    - Jiang Ming, University of Texas at Arlington
+    - Jelena Mirkovic, USC Information Sciences Institute
+    - Z. Morley Mao, University of Michigan
+    - Andrew Myers, Cornell University
+    - Kartik Nayak, Duke University
+    - Nick Nikiforakis, Stony Brook University
+    - Peng Ning, Google
+    - Ariel Nof, Technion
+    - Catuscia Palamidessi, INRIA
+    - Nicolas Papernot, University of Toronto and Vector Institute
+    - Paul Pearce, Georgia Tech
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Roberto Perdisci, University of Georgia and Georgia Institute of Technology
+    - Frank Piessens, KU Leuven
+    - Jason Polakis, University of Illinois at Chicago
+    - Michalis Polychronakis, Stony Brook University
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Sara Rampazzi, University of Florida
+    - Aanjhan Ranganathan, Northeastern University
+    - Aseem Rastogi, Microsoft Research
+    - Mariana Raykova, Google
+    - Kaveh Razavi, Vrije Universiteit Amsterdam
+    - Michael Reiter, UNC-Chapel Hill
+    - Ling Ren, University of Illinois Urbana Champaign
+    - Konrad Rieck, TU Braunschweig
+    - Peter Rindal, Visa Research
+    - William Robertson, Northeastern University
+    - Andrei Sabelfeld, Chalmers
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - David Sands, Chalmers
+    - Nolen Scaife, University of Colorado Boulder
+    - Jörg Schwenk, Ruhr University Bochum
+    - Reza Shokri, National University of Singapore (NUS)
+    - Yan Shoshitaishvili, Arizona State University
+    - Radu Sion, Private Machines Inc and Stony Brook University
+    - Alex C. Snoeren, UC San Diego
+    - Ben Stock, CISPA Helmholtz Center for Information Security
+    - Alley Stoughton, Boston University
+    - Gianluca Stringhini, Boston University
+    - Min Suk Kang, National University of Singapore
+    - Yixin Sun, University of Virginia
+    - Mohit Tiwari, UT Austin and Symmetry Systems
+    - Jonathan Ullman, Northeastern University
+    - Blase Ur, University of Chicago
+    - Narseo Vallina-Rodriguez, IMDEA Networks/ICSI
+    - Erik van der Kouwe, Vrije Universiteit Amsterdam
+    - Venkat Venkatakrishnan, UIC
+    - Muthuramakrishnan Venkitasubramaniam, University of Rochester
+    - Ruoyu "Fish" Wang, Arizona State University
+    - Xiao Wang, Northwestern University
+    - XiaoFeng Wang, Indiana University
+    - Ting Wang, Pennsylvania State University
+    - Xusheng Xiao, Case Western Reserve University
+    - Xiaokui Xiao, National University of Singapore
+    - Xinyu Xing, Penn State University
+    - Luyi Xing, Indiana University Bloomington
+    - Daniel Zappala, Brigham Young University
+    - Fengwei Zhang, SUSTech
+    - Yinqian Zhang, Ohio State University
+    - Xiangyu Zhang, Purdue University
+    - Danfeng Zhang, Penn State University
+    - Yang Zhang, CISPA Helmholtz Center for Information Security
+cycles:
+  - first:
+      submission: "January 20, 2020"
+      rebuttal-start: "March 19, 2020"
+      rebuttal-end: "March 26, 2020"
+      acceptance: "March 30, 2020"
+      revision-submission: "May 5, 2020"
+      revision-acceptance: "May 31, 2020"
+      camera-ready: "August 20, 2020"
+  - second:
+      submission: "May 4, 2020"
+      rebuttal-start: "July 10, 2020"
+      rebuttal-end: "July 17, 2020"
+      acceptance: "July 28, 2020"  # delayed
+      revision-submission: "August 25, 2020"  # delayed
+      revision-acceptance: "September 8, 2020"
+      camera-ready: "August 20, 2020"
+anonymous: true
+conflicts: true
+ethics-discussion: true
