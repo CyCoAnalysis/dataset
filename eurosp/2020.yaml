@@ -1,0 +1,107 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2020/cfp.html
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - AI-based security- or privacy-enhancing tools
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Blockchain
+  - Censorship and censorship-resistance
+  - Cloud security
+  - Cryptography with applied relevance to security and privacy
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Formal methods for security
+  - Hardware security
+  - Human aspects of security and privacy
+  - Intrusion detection
+  - IoT security and privacy
+  - Language-based security
+  - Malware
+  - Measurement relevant to security and privacy
+  - Metrics
+  - Mobile security and privacy
+  - Network security
+  - Privacy-enhancing technologies
+  - Protocol security
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - Security of AI
+  - Security usability
+  - System security
+  - Web security and privacy
+pc:
+  - "Program committee":
+    - AbdelRahman Abdou , Carleton University
+    - Alexandra Dmitrienko , University of Würzburg
+    - Andrei Sabelfeld , Chalmers
+    - Benjamin Dowling , ETH Zurich
+    - Brendan Saltaformaggio , Georgia Tech
+    - Carmela Troncoso , EPFL
+    - Catherine Meadows , Naval Research Lab
+    - Christoph Dobraunig , Radboud University
+    - Corina Pasareanu , NASA / CMU SV
+    - Cristina Onete , U Limoges
+    - David Chisnall , Microsoft Research Cambridge
+    - Elizabeth Stobert , Carleton University
+    - Frank Stajano , University of Cambridge
+    - Gang Tan , Pennsylvania State University
+    - Giancarlo Pellegrino , CISPA
+    - Ioana Boureanu , Surrey
+    - Ivan Martinovic , University of Oxford
+    - Jelena Mirkovic , USC/Information Sciences Institute
+    - Joseph Bonneau , NYU
+    - Kami Vaniea , University of Edinburgh
+    - Katharina Krombholz , CISPA
+    - Kevin Butler , University of Florida
+    - Konrad Rieck , TU Braunschweig
+    - Laurent Simon , Samsung Research America
+    - Lejla Batina , Radboud University
+    - Limin Jia , CMU
+    - Lujo Bauer , Carnegie Mellon University
+    - Marco Guarnieri , IMDEA Software Institute
+    - Martin Johns , TU Braunschweig
+    - Mathy Vanhoef , New York University Abu Dhabi
+    - Matthew Green , Johns Hopkins
+    - Matthew Smith , University of Bonn, Fraunhofer FKIE
+    - Musard Balliu , KTH Royal Institute of Technology
+    - Nick Nikiforakis , Stony Brook University
+    - Nicolas Christin , CMU
+    - Ralf Sasse , ETH Zurich
+    - Sadia Afroz , ICSI
+    - Sang Kil Cha , KAIST
+    - Sarah Meiklejohn , University College London
+    - Simson Garfinkel , US Census Bureau
+    - Stefano Calzavara , Università Ca' Foscari Venezia
+    - Steve Kremer , INRIA Nancy - Grand Est
+    - Suman Jana , Columbia University
+    - Tom Chotia , University of Birmingham
+    - Ulrike Meyer , RWTH Aachen University
+    - Vanessa Teague , University of Melbourne
+    - Vera Rimmer , KU Leuven
+    - Yajin Zhou , Zhejiang University
+    - Yeoul Na , UC Irvine
+    - Yongdae Kim , KAIST
+    - Yuan Tian , U Virginia
+    - Zhenkai Liang , National University of Singapore
+    - Zinaida Benenson , University of Erlangen-Nuremberg
+cycles:
+  - first:
+      abstract: "2019-10-22" # not mandatory
+      submission: "2019-11-20"
+      early-reject: "2020-01-06"
+      rebuttal-start: "2020-02-08"
+      rebuttal-end: "2020-02-12"
+      acceptance: "2020-02-26"
+      camera-ready: "2020-04-16"
+# sok: true
+anonymous: true
+ethics-discussion: true
+# pages: 13 net, 20 total

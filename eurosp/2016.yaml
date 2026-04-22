@@ -1,0 +1,95 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2016/cfp.php
+  available: true
+  archive: null
+topics:
+    - Access control
+    - Accountability
+    - Anonymity
+    - Application security
+    - Attacks and defenses
+    - Authentication
+    - Censorship and censorship-resistance
+    - Cloud security
+    - Distributed systems security
+    - Embedded systems security
+    - Forensics
+    - Formal methods for security
+    - Hardware security
+    - Intrusion detection
+    - Malware
+    - Metrics
+    - Mobile security and privacy
+    - Language-based security
+    - Network security
+    - Privacy-preserving systems
+    - Protocol security
+    - Secure information flow
+    - Security and privacy policies
+    - Security architectures
+    - System security
+    - Usable security and privacy
+    - Web security and privacy
+pc:
+  - "Program committee":
+    - Gilles Barthe, IMDEA
+    - David Basin, ETH Zurich
+    - Dan Boneh, Stanford
+    - Herbert Bos, Vrije Universiteit Amsterdam
+    - Lionel Briand, SnT Luxembourg
+    - Sven Bugiel, CISPA,  Saarland University
+    - Christian Cachin, IBM Research - Zurich
+    - Stephen Chong, Harvard
+    - Véronique Cortier, CNRS,  Loria - Nancy
+    - Marc Dacier, QCRI
+    - George Danezis, University College London
+    - Anupam Datta, CMU
+    - Ulfar Erlingsson, Google
+    - Dario Fiore, IMDEA
+    - Philip Fong, U Calgary
+    - Michael Franz, UC Irvine
+    - Virgil Gligor, Carnegie Mellon University
+    - Amir Herzberg, Bar-Ilan University
+    - Thorsten Holz, Ruhr-University Bochum
+    - Jean-Pierre Hubaux, EPFL
+    - Trent Jager, Penn State University
+    - Jonathan Katz, University of Maryland
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Christopher Kruegel, UC Santa Barbara
+    - Wenke Lee, Georgia Tech
+    - Ninghui Li, Purdue University
+    - Jean-Yves Marion, LORIA
+    - Michelle Mazurek, University of Maryland
+    - Jonathan McCune, Google
+    - Patrick McDaniel, Penn State University
+    - Andrew C. Myers, Cornell University
+    - Bryan Parno, Microsoft Research
+    - Olivier Pereira, UC de Louvaine
+    - Frank Piessens, KU Leuven
+    - Christina Poepper, RU Bochum
+    - Bart Preneel, KU Leuven
+    - Raphael Reischuk, ETH Zurich
+    - Konrad Rieck, Goettingen University
+    - Christian Rossow, CISPA,  Saarland University
+    - Mark Ryan, University of Birmingham
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Ahmad-Reza Sadeghi, TU Darmstadt
+    - Haya Shulman, TU Darmstadt
+    - Matthew Smith, University of Bonn
+    - Kurt Thomas, Google
+    - Patrick Traynor, University of Florida
+    - Nikolaos Triandopoulos, RSA Security
+    - Gene Tsudik, UC Irvine
+    - Dominique Unruh, Tartu University
+    - Giovanni Vigna, UC Santa Barbara
+    - Kehuan Zhang, Chinese University of Hong Kong
+cycles:
+  - first:
+      submission: "2015-08-06"
+      rebuttal-start: "2015-09-29"
+      rebuttal-end: "2015-10-01"
+      acceptance: "2015-10-28"
+      camera-ready: "2016-01-10"
+anonymous: true
+# pages: 15 total

@@ -1,0 +1,69 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2023/cfp.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Ghada Almashaqbeh , University of Connecticut, United States of America
+    - Giovanni Apruzzese , University of Liechtenstein, Liechtenstein
+    - Musard Balliu , KTH Royal Institute of Technology, Sweden
+    - Abhishek Bichhawat , IIT Gandhinagar, India
+    - Ioana Boureanu , University of Surrey, United Kingdom
+    - Samira Briongos , NEC Laboratories Europe, Spain
+    - Stefan Brunthaler , μCSRL, CODE Research Institute, Bundeswehr University Munich, Germany
+    - Jianjun Chen , Tsinghua University, China
+    - Tom Chothia , University of Birmingham, United Kingdom
+    - Mauro Conti , University of Padua, Italy
+    - Andrea Continella , University of Twente, Netherlands
+    - Lucas Davi , University of Duisburg-Essen, Germany
+    - Tariq Elahi , University of Edinburgh, United Kingdom
+    - Birhanu Eshete , University of Michigan-Dearborn, United States of America
+    - Aurore Fass , Stanford University, United States of America
+    - Carlos Ganan , ICANN, Netherlands
+    - Simson Garfinkel , Schmidt Futures, United States of America
+    - Esha Ghosh , Microsoft Research, Redmond, United States of America
+    - Berk Gulmezoglu , Iowa State University, United States of America
+    - Wahij Ul Hassan , University of Virginia, United States of America
+    - Xiali (Sharon) Hei , University of Louisiana, United States of America
+    - Julia Hesse , IBM Research Europe - Zurich, Switzerland
+    - Charlie Jacomme , Inria Paris, France
+    - Doowon Kim , University of Tennessee, United States of America
+    - Evgenios M. Kornaropoulos , George Mason University, United States of America
+    - Catherine Meadows , US Naval Research Laboratory, United States of America
+    - Veelasha Moonsamy , Ruhr University Bochum, Germany
+    - Jan Tobias Muehlberg , KU Leuven, Belgium
+    - Nick Nikiforakis , Stony Brook University, United States of America
+    - Cristina Nita-Rotaru , Northeastern University, United States of America
+    - Paolo Palmieri , University College Cork, Ireland
+    - Thomas Pasquier , University of British Columbia, Canada
+    - Giancarlo Pellegrino , CISPA Helmhotz Center for Information Security, Germany
+    - Erwin Quiring , Ruhr University Bochum, Germany
+    - Neetesh Saxena , Cardiff University, United Kingdom
+    - Mridula Singh , CISPA Helmholtz Center for Information Security, Germany
+    - Asia Slowinska , Ioli Labs
+    - Guillermo Suarez-Tangil , IMDEA Networks Institute, Spain
+    - Yuzhe Tang , Syracuse University, United States of America
+    - Di Wang , King Abdullah University of Science and Technology, Saudi Arabia
+    - Jason (Minhui) Xue , CSIRO-Data61, Australia
+    - Haibin Zhang , Beijing Institute of Technology, China
+    - Ning Zhang , Washington University in St. Louis, United States of America
+    - Xiao Zhang , CISPA Helmholtz Center for Information Security, Germany
+    - Zhenkai Zhang , Clemson University, United States of America
+    - Ziqiao Zhou , Microsoft Research, United States of America
+    - Yanjun Zhang , Deakin University, Australia
+cycles:
+  - first:
+      submission: "2022-10-26"
+      early-reject: "2022-12-08"
+      rebuttal-start: "2023-01-18"
+      rebuttal-end: "2023-01-25"
+      acceptance: "2023-02-12"
+      revision-submission: "2023-03-14"
+      camera-ready: "2023-04-03"
+# sok: true
+anonymous: true
+ethics-discussion: true
+# pages: 13 net, unlimited total
+# statement on data availability
+# reviews from prior submissions

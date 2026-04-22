@@ -1,0 +1,108 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2021/cfp.html
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - AI-based security- or privacy-enhancing tools
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Blockchain
+  - Censorship and censorship-resistance
+  - Cloud security
+  - Cryptography with applied relevance to security and privacy
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Formal methods for security
+  - Hardware security
+  - Human aspects of security and privacy
+  - Intrusion detection
+  - IoT security and privacy
+  - Language-based security
+  - Malware
+  - Measurement relevant to security and privacy
+  - Security and privacy metrics
+  - Mobile security and privacy
+  - Network security
+  - Privacy-enhancing technologies
+  - Protocol security
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - Security of AI
+  - Security usability
+  - System security
+  - Web security and privacy
+pc:
+  - "Program committee":
+    - AbdelRahman Abdou , Carleton University, Canada
+    - Aleatha Parker-Wood , Amazon, United States of America
+    - Alexandra Dmitrienko , University of Würzburg, Germany
+    - Andrei Sabelfeld , Chalmers, Sweden
+    - Andrew Paverd , Microsoft, United Kingdom
+    - Battista Biggio , University Caliary, Italy
+    - Brendan Saltaformaggio , Georgia Tech, United States of America
+    - Carmela Troncoso , EPFL, Switzerland
+    - Catherine Meadows , Naval Research Lab, United States of America
+    - Christoph Dobraunig , Graz University of Technology, Austria
+    - Corina Pasareanu , NASA / CMU SV, United States of America
+    - Cristina Onete , University of Limoges, France
+    - David Evans , University of Virignia, United States of America
+    - Elizabeth Stobert , Carleton University, Canada
+    - Eyal Ronen , Tel Aviv University, Israel
+    - Florian Tramer , Standford, United States of America
+    - Gang Tan , Pennsylvania State University, United States of America
+    - Giovanni Cherubin , Alan Turing Institute, United Kingdom
+    - Guillermo Suarez-Tangil , IMDEA Networks, Spain
+    - Ingrid Verbauwhede , KU Leuven, Belgium
+    - Ioana Boureanu , Surrey, United Kingdom
+    - Jelena Mirkovic , USC/Information Sciences Institute, United States of America
+    - Julia Hesse , IBM Research - Zurich, Switzerland
+    - Kami Vaniea , University of Edinburgh, United Kingdom
+    - Kari Kostianen , ETH Zurich, Switzerland
+    - Katharina Kohls , Radboud University, Netherlands
+    - Laurent Simon , Cambridge University / Samsung, United Kingdom
+    - Lefteris Kokoris-Kogias , IST Austria and Facebook Novi, Austria
+    - Limin Jia , CMU, United States of America
+    - Lujo Bauer , Carnegie Mellon University, United States of America
+    - Marco Guarnieri , IMDEA Software Institute, Spain
+    - Marit Hansen , Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein, Germany
+    - Matthew Smith , University of Bonn, Fraunhofer FKIE, Germany
+    - Michael Specter , MIT, United States of America
+    - Musard Balliu , KTH Royal Institute of Technology, Sweden
+    - Nick Nikiforakis , Stony Brook University, United States of America
+    - Pauline Anthonysamy , Google, Switzerland
+    - Phillipp Schoppmann , Humbodt-Universität zu Berlin, Germany
+    - Ruba Abu-Salma , ICSI / UK Berkley, United States of America
+    - Sanjeev Das , IBM Research, United States of America
+    - Sébastien Gambs , Université du Quebec à Montreal (UQAM), Canada
+    - Stefano Calzavara , Università Ca' Foscari Venezia, Italy
+    - Steve Kremer , INRIA Nancy - Grand Est, France
+    - Tal Rabin , University of Pennsylvania and Algorand Foundation, United States of America
+    - Thyla van der Merwe , Mozilla, United Kingdom
+    - Tom Chotia , University of Birmingham, United Kingdom
+    - Ulrike Meyer , RWTH Aachen University, Germany
+    - Vanessa Teague , Thinking Cybersecurity Pty Ltd and the Australian National University, Australia
+    - Veelasha Moonsamy , Ruhr University Bochum, Germany
+    - Vera Rimmer , imec-DistriNet, KU Leuven, Belgium
+    - Yang Zhang , CISPA Helmholtz Center for Information Security, Germany
+    - Yuan Tian , University of Virginia, United States of America
+    - Yuang Zhang , Fudan University, China
+cycles:
+  - first:
+      submission: "2020-11-05"
+      early-reject: "2020-12-16"
+      rebuttal-start: "2021-01-14"
+      rebuttal-end: "2021-01-20"
+      acceptance: "2021-01-30"
+      revision-submission: "2021-02-26"
+      camera-ready: "2021-03-12"
+# sok: true
+anonymous: true
+ethics-discussion: true
+# requirement to review for authors
+# pages: 13 net, 20 total

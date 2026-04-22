@@ -1,0 +1,94 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2018/cfp.php
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - Anonymity
+  - Application security
+  - Cryptography with applied relevance to security and privacy
+  - Attacks and defenses
+  - Authentication
+  - Censorship and censorship-resistance
+  - Cloud security
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Formal methods for security
+  - Hardware security
+  - Human aspects of security and privacy
+  - Intrusion detection
+  - Malware
+  - Metrics
+  - Mobile security and privacy
+  - Language-based security
+  - Network security
+  - Privacy-preserving systems
+  - Protocol security
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - System security
+  - Web security and privacy
+pc:
+  - "Program committee":
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Angela Sasse, University College London
+    - Aslan Askarov, Aarhus University
+    - Aylin Caliskan, Princeton University
+    - Ben Livshits, Imperial College London
+    - Blase Ur, University of Chicago
+    - Boris Köpf, IMDEA Software Institute
+    - Cristina Nita-Rotaru, Northeastern University
+    - Deepak Garg, Max Planck Institute for Software Systems
+    - Delphine Reinhardt, Fraunhofer FKIE
+    - Elizabeth Stobert, ETH
+    - Emanuel von Zezschwitz, University of Bonn
+    - Emiliano De Cristofaro, University College London
+    - Engin Kirda, Northeastern University
+    - Erik van der Kouwe, Leiden University
+    - Fréderik Vercauteren, KU Leuven
+    - Franzi Roesner, University of Washington
+    - Joseph Bonneau, Stanford University & EFF
+    - Kami Vaniea, University of Edinburgh
+    - Kaveh Razavi, Vrije Universiteit Amsterdam
+    - Leyla Bilge, Symantec
+    - Limin Jia, CMU
+    - Lujo Bauer, CMU
+    - Manuel Costa, MSR Cambridge
+    - Marieke Huisman, University of Twente
+    - Martin Johns, SAP Research
+    - Matteo Maffei, TU Vienna
+    - Matthew Green, Johns Hopkins University
+    - Michael Backes, CISPA,  Saarland University & MPI-SWS
+    - Michalis Polychronakis, Stony Brook University
+    - Mike Just, Heriot-Watt University
+    - Nikhil Swamy, MSR Redmond
+    - Ralf Sasse, ETH
+    - Robert Watson, University of Cambridge
+    - Roberto Guanciale, KTH
+    - Sadia Afroz, UC Berkeley / ICSI
+    - Sandrine Blazy, INRIA Rennes
+    - Sascha Fahl, University of Hannover
+    - Seda Guerses, KU Leuven
+    - Stefan Katzenbeisser, TU Darmstadt
+    - Stefano Calzavara, Universita' Ca' Foscari Venezia
+    - Steve Kremer, INRIA Nancy - Grand Est
+    - Tamara Rezk, INRIA Sophia-Antipolis
+    - Virgil Gligor, CMU
+    - Wenke Lee, Georgia Tech
+    - Yasemin Acar, University of Hannover
+    - Yongdae Kim, KAIST
+cycles:
+  - first:
+      submission: "2017-08-15"
+      early-reject: "2017-09-25"
+      rebuttal-start: "2017-10-27"
+      rebuttal-end: "2017-11-03"
+      acceptance: "2017-11-20"
+      camera-ready: "2018-02-26"
+# sok: true
+anonymous: true
+ethics-discussion: true
+# pages: 15 total

@@ -1,0 +1,167 @@
+website:
+  url: https://eurosp2026.ieee-security.org/cfp.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Adwait Nadkarni, William & Mary
+    - Agnieszka Kitkowska, Jönköping University
+    - Ajith Suresh, Technology Innovation Institute (TII)
+    - Alex Davidson, LASIGE, Universidade de Lisboa
+    - Ali Hajiabadi, ETH Zurich
+    - Alix Trieu, ANSSI
+    - Amir Rahmati, Stony Brook University
+    - Amit Seal Ami, University of South Florida
+    - Andrea Mambretti, IBM Research Europe - Zurich
+    - Anil Kurmus, IBM Research Europe - Zurich
+    - Anirban Chakraborty, Max Planck Institute for Security and Privacy
+    - Anselme Tueno, SAP SE
+    - Antonio Emanuele Cinà, University of Genoa
+    - Arnab Roy, University of Innsbruck, Austria
+    - Arthur Gervais, University College London
+    - Atri Bhattacharyya, Oracle Labs
+    - Aurélien Francillon, EURECOM
+    - Ben Du, UCLA
+    - Benjamin Dowling, King's College London
+    - Betül Durak, Microsoft Research
+    - Boheng Li, Nanyang Technological University
+    - Bruno Crispo, University of Trento
+    - Chaoxiang He, Shanghai Jiao Tong University
+    - Chitchanok Chuengsatiansup, Hasso-Plattner-Institut, University of Potsdam
+    - Christof Ferreira Torres, INESC-ID / Instituto Superior Técnico (IST), University of Lisbon
+    - Cong Zuo, Beijing Institute of Technology
+    - Cristiano Giuffrida, VU Amsterdam
+    - Daniel Moghimi, Google
+    - Daniele Lain, ETH Zurich
+    - David Klein, Technische Universität Braunschweig
+    - David Oswald, Durham University
+    - Deepak Maram, Mysten Labs
+    - Dominik Winterer, University of Manchester
+    - Elias Athanasopoulos, University of Cyprus
+    - Elizabeth A. Quaglia, Royal Holloway, University of London
+    - Emad Heydari Beni, Nokia Bell Labs & KU Leuven
+    - Enkeleda Bardhi, Delft University of Technology
+    - Enze Liu, CMU
+    - Filipo Sharevski, DePaul University
+    - Florian Hantke, CISPA Helmholtz Center for Information Security
+    - Florian Tschorsch, TU Dresden
+    - Franziskus Kiefer, Cryspen
+    - Gabrielle De Micheli, LG Electronics, USA
+    - Gagandeep Singh, University of Illinois Urbana-Champaign (UIUC)
+    - Giada Stivala, Still unknown ATM
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Govind Mittal, Google
+    - Hoang Dai Nguyen, Louisiana State University
+    - Imtiaz Karim, The University of Texas at Dallas
+    - Ioannis Demertzis, UCSC
+    - Jan Pennekamp, RWTH Aachen University
+    - Jan Wichelmann, University of Luebeck
+    - Jeman Park, Kyung Hee University
+    - Jie Zhang, CFAR, A*STAR, Singapore
+    - Jonghoon Kwon, ETH Zürich
+    - Ka-Ho Chow, The University of Hong Kong
+    - Kaihua Qin, University of Warwick
+    - Karola Marky, Ruhr University Bochum
+    - Klaus v. Gleissenthall, VU Amsterdam
+    - Kopo Marvin Ramokapane, University of Bristol
+    - Kostas Solomos, Brandeis University
+    - Kristen Moore, CSIRO's Data61
+    - Linkang Du, Xi'an Jiaotong University
+    - Mariana Gama, COSIC, KU Leuven
+    - Mario D'Onghia, University College London
+    - Marios Kogias, Imperial College London
+    - Marton Bognar, DistriNet, KU Leuven
+    - Matthias Neugeschwandter, Oracle Labs
+    - Matthieu Rivain, CryptoExperts
+    - Mauro Conti, University of Padua, Italy & Örebro University, Sweden
+    - Melek Önen, EURECOM
+    - Meng Hao, Singapore Management University
+    - Michele Carminati, Politecnico di Milano
+    - Min Chen, Vrije Universiteit Amsterdam
+    - Minxing Zhang, CISPA Helmholtz Center for Information Security
+    - Mir Masood Ali, University of Illinois Chicago
+    - Mohammad Saidur Rahman, University of Texas at El Paso (UTEP)
+    - Nidhi Rastogi, Rochester Institute of Technology
+    - Orr Dunkelman, University of Haifa
+    - Panagiotis Papadopoulos, iProov Ltd
+    - Paul Staat, Max Planck Institute for Security and Privacy
+    - Pedro Adão, Instituto Superior Técnico-ULisboa and Instituto de Telecomunicações
+    - Pedro Moreno-Sanchez, IMDEA Software Institute, MPI-SP
+    - Peizhuo Lv, Nanyang Technological University
+    - Peng Gao, Virginia Tech
+    - Phillipp Schoppmann, Google
+    - Pietro Tedeschi, Leonardo S.p.A
+    - Piyush Kumar, Indian Institute of Technology Delhi
+    - Pratyay Mukherjee, Hashgraph
+    - Prianka Mandal, William & Mary
+    - Prosanta Gope, University of Sheffield
+    - Qinying Wang, EPFL
+    - Rakibul Hasan, Arizona State University
+    - Rebekah Overdorf, Ruhr University Bochum
+    - Rui Wen, Institute of Science Tokyo
+    - Samira Briongos, NEC Laboratories Europe
+    - Se Eun Oh, Ewha Womans University
+    - Sebastian Köhler, University of Manchester
+    - Sebastian Ramacher, AIT Austrian Institute of Technology
+    - Sebastian Roth, University of Bayreuth
+    - Sebastian Schinzel, FH Münster, Fraunhofer SIT and National Research Center for Applied Cybersecurity ATHENE
+    - Sébastien Bardin, CEA & Université Paris-Saclay
+    - Shengzhi Zhang, Boston University MET College
+    - Simon Koch, University of Innsbruck
+    - Simone Fischer-Hübner, Karlstadt University
+    - Sofia Celi, Brave / University of Bristol
+    - Song Fang, University of Oklahoma
+    - Sooel Son, KAIST
+    - Sotiris Ioannidis, Technical Univesity of Crete
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Stefano Zanero, Politecnico di Milano
+    - Stefanos Chaliasos, University College London
+    - Stjepan Picek, University of Zagreb & Radboud University
+    - Supraja Sridhara, ETH Zürich
+    - Tancrède Lepoint, Amazon
+    - Tapti Palit, UC Davis
+    - Tatsuki Koga, Apple
+    - Teodora Baluta, Georgia Institute of Technology
+    - Thijs van Ede, University of Twente
+    - Tianshuo Cong, Shandong University
+    - Tianyu Du, Zhejiang University
+    - Trevor Erik Carlson, National University of Singapore (NUS)
+    - Ulrike Meyer, RWTH Aachen University
+    - Vincent Lenders, University of Luxembourg
+    - William Blair, SpaceX
+    - Xiaoning Liu, RMIT University
+    - Xingliang Yuan, The University of Melbourne
+    - Xingshuo Han, Nanjing University of Aeronautics and Astronautics
+    - Yan Shvartzshnaider, York University
+    - Yansong Gao, The University of Western Australia
+    - Yifeng Zheng, The Hong Kong Polytechnic University
+    - Yiming Li, Nanyang Technological University
+    - Yingjie Lao, Tufts University
+    - Yixin Zou, Max Planck Institute for Security and Privacy
+    - Yue Zhang, Shandong University
+    - Zephyr Yao, New Jersey Institute of Technology
+    - Zeyu Ding, Binghamton University
+    - Zheng Li, Shandong University
+    - Zilong Lin, University of Missouri–Kansas City
+    - Ziqi Yang, Zhejiang University
+    - Zitao Chen, University of Kansas
+cycles:
+  - first:
+      abstract: "2025-11-13"
+      submission: "2025-11-20"
+      early-reject: "2026-01-16"
+      rebuttal-start: "2026-02-11"
+      rebuttal-end: "2026-02-16"
+      acceptance: "2026-03-05"
+      camera-ready: "2026-04-23"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+genai: true
+# sok: true
+# pages: 13 net, unlimited total
+# statement on data availability, optional
+# encouraged statement on data availability
+# awards

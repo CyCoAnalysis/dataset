@@ -1,0 +1,98 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2024/cfp.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Abhishek Bichhawat , IIT Gandhinagar
+    - Adwait Nadkarni , William & Mary
+    - Alexander Viand , Intel
+    - Amrita Roy Chowdhury , UC San Diego
+    - Anja Lehmann , HPI
+    - Asia Slowinska , Ioli Labs, VU Amsterdam
+    - Aurore Fass , CISPA Helmholtz Center for Information Security
+    - Basavesh Ammanaghatta Shivakumar , MPI-SP
+    - Berk Gulmezoglu , Iowa State University
+    - Carmela Troncoso , EPFL
+    - Chen Ling , Boston University
+    - Christian Wressnegger , KIT
+    - Collins Munyendo , The George Washington University
+    - Elias Athanasopoulos , University of Cyprus
+    - Fengwei Zhang , Southern University of Science and Technology
+    - Gang Wang , Illinois
+    - Georgios Portokalidis , IMDEA Software Institute
+    - Georgios Smaragdakis , TU Delft
+    - Ghada Almashaqbeh , University of Connecticut
+    - Giovanni Apruzzese , University of Liechtenstein
+    - Hyungsub Kim , Purdue University
+    - Jianjun Chen , Tsinghua University
+    - Juan Caballero , IMDEA
+    - Kaitai Liang , TU Delft
+    - Konrad Rieck , TU Berlin
+    - Kyungtae Kim , Purdue
+    - Lesly-Ann Daniel , KU Leuven
+    - Luca Allodi , TU Eindhoven
+    - Lucas Davi , University of Duisburg-Essen
+    - Manos Antonakakis , Georgia Tech
+    - Marc Stevens , CWI Cryptology Group
+    - Marco Squarcina , TU Vienna
+    - Marco Vassena , University of Utrecht
+    - Marius Muench , Birmingham
+    - Marius Steffens , Google
+    - Martin Johns , TU Braunschweig
+    - Mathias Humbert , University of Lausanne
+    - Mengyuan Li , MIT
+    - Michalis Polychronakis , Stony Brook
+    - Michel van Eeten , TU Delft
+    - Muoi Tran , ETH Zürich
+    - Musard Balliu , KTH
+    - Narseo Vallina-Rodriguez , IMDEA
+    - Ning Luo , Northwestern
+    - Peisen Yao , Zhejiang Univerisity
+    - Peng Gao , Virginia Tech
+    - Phani Vadrevu , Lousiana State University
+    - Qingchuan Zhao , City University Hongkong
+    - Rikke Bjerg Jensen , Royal Holloway, University of London
+    - Samira Briongos , NEC Labs
+    - Sarah Scheffler , CMU
+    - Sebastian Schinzel , FH Münster
+    - Sherman S. M. Chow , Chinese University of Hong Kong
+    - Soheil Khodayari , CISPA
+    - Sooel Son , KAIST
+    - Srdjan Capkun , ETH Zürich
+    - Stefan Brunthaler , µCSRL, FI CODE, Universität der Bundeswehr München
+    - Stefano Calzavara , Università Ca' Foscari Venezia
+    - Swarn Priya , Inria, Sophia Antipolis
+    - Tadayoshi Kohno , UW
+    - Takami Sato , UC Irvine
+    - Thijs van Ede , University of Twente
+    - Trung Tin Nguyen , CISPA Helmholtz Center for Information Security
+    - Ulrike Meyer , RWTH Aachen University
+    - Veelasha Moonsamy , Ruhr University Bochum
+    - Virat Shejwalkar , UMass Amherst
+    - Wenrui Diao , Shandong University
+    - Xiao Zhang , CISPA Helmholtz Center for Information Security
+    - Xiaojing Liao , Indiana
+    - Xingliang Yuan , Monash University
+    - Xueqiang Wang , University of Central Florida
+    - Yossi Oren , Ben Gurion University
+    - Yue Zhang , Drexel University
+    - Yuval Yarom , Ruhr University Bochum
+    - Yuzhe Tang , Syracuse
+cycles:
+  - first:
+      abstract: "2023-10-30"
+      submission: "2023-11-02"
+      early-reject: "2023-12-20"
+      rebuttal-start: "2024-01-29"
+      rebuttal-end: "2024-02-01"
+      acceptance: "2024-02-22"
+      revision-submission: "2024-03-21"
+# sok: true
+anonymous: true
+meta-review: true
+ethics-discussion: true
+# pages: 13 net, unlimited total
+# statement on data availability
+# reviews from prior submissions

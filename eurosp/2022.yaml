@@ -1,0 +1,74 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2022/cfp.html
+  available: true
+  archive: null
+topics: [] # explicit broadened scope
+pc:
+  - "Program committee":
+    - AbdelRahman Abdou , Carleton University, Canada
+    - Alessandro Acquisti , Carnegie Mellon University, USA
+    - Aloni Cohen , Boston University, USA
+    - Andreas Haeberlen , University of Pennsylvania, USA
+    - Andrei Sabelfeld , Chalmers University of Technology, Sweden
+    - Brad Reaves , North Carolina State University, USA
+    - Britta Hale , Naval Postgraduate School, USA
+    - Catherine Meadows , Naval Research Laboratory, USA
+    - Catuscia Palamidessi , Inria, France
+    - Christina Poepper , NYU Abu Dhabi, United Arab Emirates
+    - Cristiana Santos , Utrecht University, Netherlands
+    - Cristina Nita-Rotaru , Northeastern University, USA
+    - Cristina Onete , University of Limoges / XLIM / CNRS 7252, France
+    - David Murakami Wood , Queens university, Canada
+    - Eleftheria Makri , KU Leuven / Saxion University, Netherlands
+    - Eyal Ronen , Tel Aviv University, Israel
+    - Frank Pallas , TU Berlin, Germany
+    - Frank Piessens , KU Leuven, Belgium
+    - Giancarlo Pellegrino , CISPA, Germany
+    - Gianluca Stringhini , Boston University, USA
+    - Giovanni Cherubin , Alan Turing Institute, UK
+    - Guillermo Suarez-Tangil , IMDEA Software Institute, Spain
+    - Ioana Boureanu , University of Surrey, UK
+    - Julia Hesse , IBM Research - Zurich, Switzerland
+    - Kari Kostiainen , ETH Zurich, Switzerland
+    - Katharina Kohls , Radboud University, Netherlands
+    - Kendra Albert , Harvard Law School, USA
+    - Kenny Paterson , ETH Zurich, Switzerland
+    - Manuel Egele , Boston University, USA
+    - Marco Guarnieri , IMDEA Software Institute, Spain
+    - Mario Fritz , CISPA, Germany
+    - Martin Johns , TU Braunschweig, Germany
+    - Mathy Vanhoef , KU Leuven, Belgium
+    - Michael Veale , University College London, UK
+    - Musard Balliu , KTH Royal Institute of Technology, Sweden
+    - Nick Nikiforakis , Stony Brook University, USA
+    - Nidhi Rastogi , RPI / RIT, USA
+    - Pedro Moreno-Sanchez , IMDEA Software Institute, Spain
+    - Seda Gürses , TU Delft / KU Leuven, Netherlands
+    - Simson Garfinkel , George Washington University, USA
+    - Stefano Calzavara , Università Ca' Foscari Venezia, Italy
+    - Steve Kremer , INRIA Nancy - Grand Est, France
+    - Susan Landau , Tufts University, USA
+    - Tariq Elahi , University of Edinburgh, UK
+    - Thyla van der Merwe , ETH Zürich, Switzerland
+    - Tianhao Wang , Carnegie Mellon University, USA
+    - Tom Chothia , University of Birmingham, UK
+    - Ulrike Meyer , RWTH Aachen University, Germany
+    - Veelasha Moonsamy , Ruhr University Bochum, Germany
+    - Vera Rimmer , DistriNet / KU Leuven, Belgium
+    - Yuan Tian , University of Virginia, USA
+cycles:
+  - first:
+      submission: "2021-09-22"
+      early-reject: "2021-11-08"
+      rebuttal-start: "2021-12-14"
+      rebuttal-end: "2021-12-21"
+      acceptance: "2022-01-18"
+      revision-submission: "2022-02-16"
+      camera-ready: "2022-03-09"
+# sok: true
+anonymous: true
+ethics-discussion: true  # extended
+# requirement to review for authors
+# pages: 13 net, unlimited total
+# statement on data availability
+# reviews from prior submissions

@@ -1,0 +1,101 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2019/cfp.php
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - Anonymity
+  - Application security
+  - Attacks and defenses
+  - Authentication
+  - Blockchain
+  - Censorship and censorship-resistance
+  - Cloud security
+  - Cryptography with applied relevance to security and privacy
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Formal methods for security
+  - Hardware security
+  - Human aspects of security and privacy
+  - Intrusion detection
+  - IoT security and privacy
+  - Language-based security
+  - Malware
+  - Metrics
+  - Mobile security and privacy
+  - Network security
+  - Privacy-preserving systems
+  - Protocol security
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - Security usability
+  - System security
+  - Web security and privacy
+pc:
+  - "Program committee":
+    - AbdelRahman M. Abdou, ETH Zurich and Carleton University (Canada)
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Atul Luykx, Visa
+    - Awais Rashid, University of Bristol
+    - Bart Mennink, RU Nijmegen
+    - Ben Stock, CISPA Helmholtz Center
+    - Benjamin Dowling, Royal Holloway
+    - Carsten Maple, University of Warwick
+    - Christian Rossow, Saarland University
+    - Cristina Onete, University of Limoges/XLIM/CNRS 7252
+    - David Chisnall, Microsoft Research Cambridge
+    - Dennis Andriesse, Vrije Universiteit
+    - Emanuel von Zezschwitz, University of Bonn
+    - Engin Kirda, Northeastern University
+    - Ioana Boureanu, Univ. of Surrey,  Surrey Centre for Cyber Security
+    - Jonathan Anderson, Memorial University of Newfoundland
+    - Joseph Bonneau, NYU
+    - Kaveh Razavi, Vrije Universiteit Amsterdam
+    - Konrad Rieck, TU Braunschweig
+    - Laurent Simon, Samsung Research America
+    - Limin Jia, CMU
+    - Lorenzo Cavallaro, King's College London
+    - Luca Viganò, King's College London
+    - Lujo Bauer, CMU
+    - Manuel Costa, MSR Cambridge
+    - Marinella Petrocchi, CNR
+    - Mark Ryan, University of Birmingham
+    - Markulf Kohlweiss, MSR Cambridge and University of Edinburgh
+    - Mathy Vanhoef, KU Leuven
+    - Matteo Maffei, TU Vienna
+    - Matthew Smith, University of Bonn
+    - Nataliia Bielova, INRIA
+    - Ralf Sasse, ETH Zurich
+    - Roberto Guanciale, KTH
+    - Roberto Di Pietro, Hamad Bin Khalifa University
+    - Sascha Fahl, Ruhr-University Bochum
+    - Simson Garfinkel, US Census Bureau
+    - Stefan Mangard, TU Graz
+    - Stefano Calzavara, Universita' Ca' Foscari Venezia
+    - Steve Kremer, INRIA Nancy - Grand Est
+    - Steven Murdoch, UCL
+    - Tom Chothia, University of Birmingham
+    - Tomer Ahsur, KU Leuven
+    - Vashek Matyas, Masaryk University Brno
+    - Yajin Zhou, Zhejiang University of China
+    - Yasemin Acar, Leibniz University Hannover
+    - Yeoul Na, UC Irvine
+    - Vladimiro Sassone, University of Southampton
+    - Yuval Yarom, University of Adelaide
+    - Zinaida Benenson, University of Erlangen-Nuremberg
+cycles:
+  - first:
+      abstract: "2018-10-15" # not mandatory
+      submission: "2018-11-13"
+      early-reject: "2018-12-24"
+      rebuttal-start: "2019-01-31"
+      rebuttal-end: "2019-02-02"
+      acceptance: "2019-02-19"
+      camera-ready: "2019-04-16"
+# sok: true
+anonymous: true
+ethics-discussion: true
+# pages: 15 total

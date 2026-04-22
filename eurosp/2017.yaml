@@ -1,0 +1,96 @@
+website:
+  url: https://www.ieee-security.org/TC/EuroSP2017/cfp.php
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - Anonymity
+  - Application security
+  - Cryptography with applied relevance to security and privacy
+  - Attacks and defenses
+  - Authentication
+  - Censorship and censorship-resistance
+  - Cloud security
+  - Distributed systems security
+  - Embedded systems security
+  - Forensics
+  - Formal methods for security
+  - Hardware security
+  - Human aspects of security and privacy
+  - Intrusion detection
+  - Malware
+  - Metrics
+  - Mobile security and privacy
+  - Language-based security
+  - Network security
+  - Privacy-preserving systems
+  - Protocol security
+  - Secure information flow
+  - Security and privacy policies
+  - Security architectures
+  - System security
+  - Web security and privacy
+pc:
+  - "Program committee":
+    - Michael Backes, CISPA,  Saarland University & MPI-SWS
+    - Gilles Barthe, IMDEA
+    - David Basin, ETH Zurich
+    - Dan Boneh, Stanford
+    - Srdjan Capkun, ETH Zurich
+    - Marc Dacier, QCRI/HBKU
+    - George Danezis, University College London
+    - Sergej Dechand, University of Bonn
+    - Sascha Fahl, CISPA,  Saarland University
+    - Dario Fiore, IMDEA
+    - Simone Fischer-Hübner, Karlstad University
+    - Pierre-Alain Fouque, Rennes University & Institut Universitaire de France
+    - Deepak Garg, MPI-SWS
+    - Virgil Gligor, Carnegie Mellon University
+    - Joshua Guttman, WPI & MITRE
+    - Mike Just, Heriot-Watt University
+    - Jonathan Katz, University of Maryland
+    - Yongdae Kim, KAIST
+    - Engin Kirda, Northeastern University
+    - Steve Kremer, LORIA
+    - Peeter Laud, Cybernetica
+    - Sebastian Lekies, Google
+    - Ninghui Li, Purdue University
+    - Ben Livshits, Microsoft Research
+    - Jean-Yves Marion, LORIA & Lorraine University
+    - Michelle Mazurek, University of Maryland
+    - Jonathan McCune, Google
+    - Patrick McDaniel, Penn State University
+    - Greg Morrisett, Cornell University
+    - Toby Murray, University of Melbourne
+    - Nick Nikiforakis, Stony Brook University
+    - Panos Papadimitratos, Royal Institute of Technology
+    - Ioannis Papagiannis, Facebook
+    - Olivier Pereira, UCLouvain
+    - Frank Piessens, KU Leuven
+    - Christina Poepper, New York University Abu Dhabi
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Bart Preneel, KU Leuven
+    - Delphine Reinhardt, University of Bonn & Fraunhofer FKIE
+    - Reza Shokri, Cornell Tech
+    - Frank Stajano, University of Cambridge
+    - Francois-Xavier Standaert, UCLouvain
+    - Deian Stefan, UCSD & Intrinsic
+    - Vanessa Teague, University of Melbourne
+    - Nikos Triandopoulos, Boston University & Stevens Institute of Technology
+    - Blase Ur, CMU & University of Chicago
+    - Hoeteck Wee, ENS
+    - Kehuan Zhang, Chinese University of Hong Kong
+    - Emanuel von Zezschwitz, Ludwig Maximilian University of Munich
+cycles:
+  - first:
+      submission: "2016-08-04"
+      early-reject: "2016-10-20"
+      rebuttal-start: "2016-10-20"
+      rebuttal-end: "2016-10-22"
+      acceptance: "2016-10-17"
+      camera-ready: "2017-02-13"
+anonymous: true
+ethics-discussion: true
+# pages: 15 total
+# sok: true

@@ -1,6 +1,6 @@
 {
   "type": "object",
-  "required": ["website", "topics", "pc", "cycles", "anonymous", "conflicts", "ethics-discussion"],
+  "required": ["website", "topics", "pc", "cycles"],
   "properties": {
     "website": {
       "type": "object",

@@ -1,0 +1,134 @@
+website:
+  url: https://eurosp2025.ieee-security.org/cfp.html
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Adwait Nadkarni , William & Mary
+    - Alexandre Debant, INRIA Nancy
+    - Alexandros Kapravelos, NC State
+    - Ali Abbasi, CISPA Helmholtz Center for Information Security
+    - Amir Rahmati, Stony Brook University
+    - Berk Gulmezoglu, Iowa State University
+    - Chenkai Weng, Arizona State University
+    - Chitchanok Chuengsatiansup, University of Melbourne
+    - Christian Mouchet, Hasso-Plattner-Institute, University of Potsdam (HPI)
+    - Christian Wressnegger, Karlsruhe Institute of Technology (KIT)
+    - Christine Utz, Radboud University
+    - Christoph Sendner, University of Würzburg
+    - Christopher Kruegel, UC Santa Barbara
+    - Chuanpu Fu, Tsinghua University
+    - Collins W. Munyendo, The George Washington University
+    - Ding Wang, Nankai University
+    - Divyanshu Bhardwaj, CISPA Helmholtz Center for Information Security
+    - Eleonora Losiouk, University of Padova
+    - Elias Athanasopoulos, University of Cyprus
+    - Euijin Choo, University of Alberta
+    - Eysa Lee, Brown University
+    - Fabio Pierazzi, King's College London
+    - Fei Zuo, University of Central Oklahoma
+    - Filipo Sharevski , DePaul University
+    - Florian Tschorsch, TU Dresden
+    - Francesca Falzon, ETH Zürich
+    - Ghada Almashaqbeh, University of Connecticut
+    - Giada Stivala , CISPA Helmholtz Center for Information Security
+    - Giovanni Apruzzese , University of Liechtenstein
+    - Guowen Xu, UESTC
+    - Hamed Haddadi, Imperial College London & Brave Software
+    - Hyungsub Kim, Indiana University Bloomington
+    - Jan Pennekamp , RWTH Aachen
+    - Jeongeun Park, Norwegian University of Science and Technology
+    - Jian Lou, Sun Yat-sen University
+    - Jianjun Chen, Tsinghua University
+    - Juan Tapiador, Universidad Carlos III de Madrid
+    - Julia Hesse, IBM Research Europe - Zurich
+    - Juraj Somorovsky, Paderborn University
+    - Katharina Kohls, Ruhr University Bochum
+    - Katherine Izhikevich , University of California, San Diego
+    - Kejiang Chen, University of Science and Technology of China
+    - Kelong Cong, Zama
+    - Lesly-Ann Daniel , KU Leuven
+    - Manos Antonakakis, Georgia Tech
+    - Marco Arazzi, University of Pavia
+    - Marco Squarcina, TU Wien
+    - Marius Muench, University of Birmingham
+    - Marius Steffens, Google
+    - Marton Bognar , DistriNet, KU Leuven
+    - Mathias Payer, EPFL
+    - Michalis Polychronakis, Stony Brook University
+    - Ming Xu, National University of Singapore
+    - Mir Masood Ali, University of Illinois Chicago
+    - Mohammad Saidur Rahman, University of Texas at El Paso
+    - Musard Balliu, KTH
+    - Narseo Vallina-Rodriguez, IMDEA
+    - Ni Trieu, Arizona State University
+    - Nidhi Rastogi , Rochester Institute of Technology
+    - Ningfei Wang , University of California, Irvine
+    - Omid Mir, AIT Austrian Institute Of Technology
+    - Paul Pearce, Georgia Tech
+    - Pedro Adão, Instituto Superior Técnico, ULisboa
+    - Pedro Bernardo, TU Wien
+    - Peng Gao, Virginia Tech
+    - Piyush Kumar, University of Michigan
+    - Rakibul Hasan, Arizona State University
+    - Rikke Jensen , Royal Holloway, University of London
+    - Roberto Perdisci, University of Georgia
+    - Ruoxi Sun, Data61, CSIRO
+    - Samira Briongos, NEC Labs
+    - Sayak Saha Roy, University of Texas at Arlington
+    - Scott Ruoti, University of Tennesse, Knoxville
+    - Sebastian Roth, University of Bayreuth
+    - Sebastian Schinzel , FH Münster, Fraunhofer SIT and National Research Center for Applied Cybersecurity ATHENE
+    - Sébastien Bardin, CEA
+    - Sepideh Ghanavati, University of Maine
+    - Shuai Hao, Old Dominion University
+    - Sicong Cao, Yangzhou University
+    - Sofía Celi, Brave
+    - Song Fang, University of Oklahoma
+    - Sooel Son, KAIST
+    - Stefano Zanero, Politecnico di Milano
+    - Stephan Krenn, AIT Austrian Institute Of Technology
+    - Thijs van Ede , University of Twente
+    - Thomas Eisenbarth, Uni Lübeck
+    - Thorsten Strufe, Karlsruhe Institute of Technology
+    - Tianshuo Cong, Tsinghua University
+    - Ulrike Meyer, RWTH Aachen
+    - Vanessa Teague, Australian National University
+    - Veelasha Moonsamy, Ruhr University Bochum
+    - Virat Shejwalkar, Google
+    - Wenrui Diao, Shandong University
+    - Xiaojing Liao, Indiana University Bloomington/University of Illinois Urbana-Champaign
+    - Xiaoning Liu, RMIT University, Australia
+    - Xingliang Yuan , University of Melbourne
+    - Xingshuo Han, Nanyang Technological University
+    - Xinlei He, The Hong Kong University of Science and Technology (Guangzhou)
+    - Yibin Yang, Georgia Institute of Technology
+    - Yifeng Zheng, Harbin Institute of Technology, Shenzhen
+    - Yu Li, Chinese University Hongkong
+    - Yue Zhang , Drexel University
+    - Yugeng Liu, CISPA Helmholtz Center for Information Security
+    - Yuval Yarom, Ruhr University Bochum
+    - Yuzhe Tang, Syracuse
+    - Zheng Li, CISPA Helmholtz Center for Information Security
+    - Zhihao "Zephyr" Yao, New Jersey Institute of Technology
+cycles:
+  - first:
+      abstract: "2024-10-21"
+      submission: "2024-10-24"
+      early-reject: "2024-12-11"
+      rebuttal-start: "2024-12-12"
+      rebuttal-end: "2024-12-16"
+      # there is a second rebuttal period: 	20 - 23 January 2025
+      acceptance: "2025-02-13"
+      revision-submission: "2025-03-20"
+      revision-acceptance: "2025-04-03"
+      camera-ready: "2025-04-17"
+# sok: true
+anonymous: true
+meta-review: true
+ethics-discussion: true
+# pages: 13 net, unlimited total
+# statement on data availability
+# reviews from prior submissions, optional
+# per-reviewer rebuttal
