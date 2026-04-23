@@ -1,0 +1,111 @@
+website:
+  url: https://www.ieee-security.org/TC/CSF2021/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Mario Alvim (Federal University of Minas Gerais)
+    - Myrto Arapinis (University of Edinburgh)
+    - Owen Arden (UC Santa Cruz)
+    - Aslan Askarov (Aarhus University)
+    - Musard Balliu (KTH Royal Institute of Technology)
+    - Manuel Barbosa (University of Porto)
+    - Gilles Barthe (MPI)
+    - Lujo Bauer (Carnegie Mellon University)
+    - Lennart Beringer (Princeton University)
+    - Karthikeyan Bhargavan (INRIA)
+    - Ran Canetti (University of Boston)
+    - Yinzhi Cao (Johns Hopkins University)
+    - Véronique Cortier (LORIA/INRIA)
+    - Cas Cremers (CISPA)
+    - Michael Emmi (AWS)
+    - Marc Fischlin (TU Darmstadt)
+    - Riccardo Focardi (Ca' Foscari University)
+    - Matt Frederikson (Carnegie Mellon University)
+    - Marco Gaboardi (University at Buffalo)
+    - Joshua Guttman (MIT Lincoln Labs)
+    - Cătălin Hriţcu (MPI-SP)
+    - Justin Hsu (University of Wisconsin)
+    - Suman Jana (Columbia University)
+    - Somesh Jha (University of Wisconsin)
+    - Limin Jia (Carnegie Mellon University)
+    - Aggelos Kiayias (University of Edinburgh)
+    - Daniel Kifer (Penn State University)
+    - Elisavet Kozyri (Harvard University)
+    - Robert Künnemann (CISPA)
+    - Ralf Küsters (University of Stuttgart)
+    - Heiko Mantel (TU Darmstadt)
+    - Patrick McDaniel (Penn State University)
+    - Sebastian Mödersheim (Technical University of Denmark)
+    - Johannes Müller (University of Luxembourg)
+    - Toby Murray (University of Melbourne)
+    - David Naumann (Stevens Institute of Technology)
+    - Sabine Oechsner (Aarhus University)
+    - Catuscia Palamidessi (INRIA)
+    - Aseem Rastogi (Microsoft Research India)
+    - Andrei Sabelfeld (University of Chalmers)
+    - Pierangela Samarati (Università degli Studi di Milano)
+    - Ralf Sasse (ETH Zurich)
+    - Dominique Schröder (FAU Erlangen-Nürnberg)
+    - Elaine Shi (Cornell tech)
+    - Tachio Terauchi (Waseda University)
+    - Yuan Tian (University of Virginia)
+    - Alwen Tiu (Australian National University)
+    - Michael Tschantz (ICSI Berkeley)
+    - Dominique Unruh (University of Tartu)
+cycles:
+  - first:
+      submission: "2020-05-08"
+      acceptance: "2020-07-10"
+  - second:
+      submission: "2020-10-02"
+      acceptance: "2020-12-07"
+  - third:
+      submission: "2021-02-08"
+      acceptance: "2021-04-18"
+# major revisions, resubmission in later cycles (not anonymous, 16 pages total)
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

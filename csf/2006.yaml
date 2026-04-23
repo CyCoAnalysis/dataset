@@ -1,0 +1,57 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20060426120637/http://www.ccs.neu.edu/home/guttman/csfw19-cfp.html
+topics:
+  - Authentication
+  - Information flow
+  - Security protocols
+  - Anonymity and Privacy
+  - Electronic voting
+  - Network security
+  - Resource usage control
+  - Access control
+  - Trust and trust management
+  - Security models
+  - Intrusion detection
+  - Data and system integrity
+  - Database security
+  - Distributed systems security
+  - Security for mobile computing
+  - Executable content
+  - Decidability and complexity
+  - Formal methods for security
+  - Language-based security
+pc:
+  - "Program committee":
+    - Michael Backes, IBM Research
+    - David Basin, ETH Zurich
+    - Bruno Blanchet, ENS
+    - Gérard Boudol, INRIA
+    - Ran Canetti, IBM Research
+    - Véronique Cortier, LORIA
+    - Pierpaolo Degano, Pisa
+    - Sandro Etalle, Twente
+    - Riccardo Focardi, Venice
+    - Andrew Gordon, Microsoft Research
+    - Joshua Guttman, MITRE (Chair)
+    - Matthew Hennessy, Sussex
+    - Alan Jeffrey, Bell Labs
+    - Gavin Lowe, Oxford
+    - Jonathan Millen, MITRE
+    - John Mitchell, Stanford
+    - Andrew Myers, Cornell
+    - Michael Rusinowitch, LORIA
+    - Mark Ryan, Birmingham
+    - Andrei Sabelfeld, Chalmers
+    - Andre Scedrov, Pennsylvania
+    - Steve Schneider, Surrey
+    - Vitaly Shmatikov, Texas
+    - Lenore Zuck, Illinois/Chicago
+cycles:
+  - first:
+      abstract: "2006-01-30"
+      submission: "2006-02-03"
+      acceptance: "2006-03-20"
+      camera-ready: "2006-04-21"
+# 12 pages ieee or 20 pages lncs

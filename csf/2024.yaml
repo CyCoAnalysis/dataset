@@ -1,0 +1,125 @@
+website:
+  url: https://www.ieee-security.org/TC/CSF2024/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Mário Alvim (UFMG - Universidade Federal de Minas Gerais)
+    - Timos Antonopoulos (Yale University)
+    - Arthur Azevedo de Amorim (Rochester Institute of Technology)
+    - Musard Balliu (KTH Royal Institute of Technology)
+    - Tajana Ban Kirigin (Faculty of Mathematics, University of Rijeka)
+    - Sébastien Bardin (CEA LIST, Université Paris-Saclay)
+    - Lennart Beringer (Princeton University)
+    - Abhishek Bichhawat (IIT Gandhinagar)
+    - Roberto Blanco (Max Planck Institute for Security and Privacy)
+    - Yinzhi Cao (Johns Hopkins University)
+    - Cas Cremers (CISPA Helmholtz Center for Information Security)
+    - Mads Dam (KTH)
+    - Lesly-Ann Daniel (KU Leuven)
+    - Stéphanie Delaune (Univ Rennes, CNRS, IRISA, France)
+    - Ante Derek (University of Zagreb, Faculty of Electrical Engineering and Computing)
+    - Dominique Devriese (KU Leuven)
+    - Ni Ding (University of Melbourne)
+    - Dominic Duggan (Stevens Institute of Technology)
+    - Michael Emmi (Amazon Web Services)
+    - Matt Fredrikson (Carnegie Mellon University)
+    - Klaus v. Gleissenthall (VU Amsterdam )
+    - Benjamin Gregoire (INRIA)
+    - Chris Hawblitzel (Microsoft Research)
+    - Jana Hofmann (Microsoft Azure Research)
+    - Catalin Hritcu (MPI-SP)
+    - Justin Hsu (Cornell University)
+    - Marieke Huisman (University of Twente)
+    - Elisavet Kozyri (UiT The Arctic University of Norway)
+    - Robert Künnemann (CISPA Helmholtz Center for Information Security)
+    - Steve Kremer (Inria Nancy)
+    - Peeter Laud (Cybernetica AS)
+    - Flaminia Luccio (University Ca' Foscari, Venice, Italy)
+    - Ning Luo (Northwestern University)
+    - Sergio Maffeis (Department of Computing, Imperial College London)
+    - Pasquale Malacaria (Queen Mary University of London)
+    - Piotr Mardziel (Independent)
+    - Andrea Marin (University Ca’ Foscari of Venice)
+    - Sjouke Mauw (Sjouke Mauw)
+    - Catherine Meadows (NRL)
+    - Scott Moore (Galois, Inc.)
+    - Carroll Morgan (UNSW and Trustworthy Systems)
+    - Greg Morrisett (Cornell Tech)
+    - Sebastian Mödersheim (DTU - Technical University of Denmark)
+    - Johannes Müller (University of Luxembourg)
+    - Sabine Oechsner (VU Amsterdam)
+    - Corina Pasareanu (NASA Ames, KBR, Carnegie Mellon University (CyLab))
+    - Marco Patrignani (University of Trento)
+    - Frank Pfenning (Carnegie Mellon University)
+    - Andrei Popescu (University of Sheffield. UK)
+    - Jonathan Protzenko (Microsoft Research)
+    - Aseem Rastogi (Microsoft Research)
+    - Xavier Rival (INRIA)
+    - Peter Y A Ryan (University of Luxembourg)
+    - Ralf Sasse (ETH Zurich)
+    - Clara Schneidewind (MPI-SP)
+    - Dominique Schröder (Friedrich-Alexander University Erlangen-Nürnberg)
+    - Alley Stoughton (Boston University)
+    - Nikhil Swamy (Microsoft Research)
+    - Tachio Terauchi (Waseda University)
+    - Mayank Varia (Boston University)
+    - Kirsten Winter (Defence Science and Technology Group, Australia and The University of Queensland, Australia)
+cycles:
+  - first:
+      submission: "2023-05-15"
+      acceptance: "2023-07-06"
+  - second:
+      submission: "2023-09-30"
+      acceptance: "2023-12-02"
+  - third:
+      submission: "2024-02-03"
+      acceptance: "2024-04-07"
+# major revisions, resubmission in later cycles (anonymous this year, 16 pages total)
+# also shepherding
+# 12 pages ieee
+# no special sessions this year
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+ethics-discussion: true
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

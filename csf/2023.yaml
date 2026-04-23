@@ -1,0 +1,113 @@
+website:
+  url: https://www.ieee-security.org/TC/CSF2023/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Martin Abadi (Google)
+    - Mário Alvim (Universidade Federal de Minas Gerais - UFMG)
+    - Timos Antonopoulos (Yale University)
+    - Owen Arden (UC Santa Cruz)
+    - Musard Balliu (KTH Royal Institute of Technology)
+    - Sébastien Bardin (CEA LIST, Université Paris Saclay)
+    - Abhishek Bichhawat (IIT Gandhinagar)
+    - Roberto Blanco (Max Planck Institute for Security and Privacy)
+    - Sunjay Cauligi (Max Planck Institute for Security and Privacy)
+    - Kostas Chatzikokolakis (University of Athens)
+    - Stephen Chong (Harvard University)
+    - Véronique Cortier (CNRS, Loria)
+    - Geoffroy Couteau (CNRS, IRIF, Université de Paris)
+    - Lesly-Ann Daniel (KU Leuven)
+    - Dominique Devriese (KU Leuven)
+    - Michael Emmi (Amazon Web Services)
+    - Riccardo Focardi (Università Ca' Foscari Venezia)
+    - José Fragoso Santos (INESC-ID/IST, University of Lisbon)
+    - Anitha Gollamudi (University of Massachusetts, Lowell)
+    - Benjamin Gregoire (Inria)
+    - Marco Guarnieri (IMDEA Software Institute)
+    - Daniel Hedin (Mälardalen University and Chalmers University of Technology)
+    - Justin Hsu (Cornell University)
+    - Charlie Jacomme (CISPA)
+    - Limin Jia (Carnegie Mellon University)
+    - Daniel Kifer (Penn State University)
+    - Elisavet Kozyri (UiT The Arctic University of Norway)
+    - Peeter Laud (Cybernetica AS)
+    - Flaminia Luccio (Università Ca' Foscari Venezia)
+    - Matteo Maffei (TU Wien)
+    - Andrea Marin (Università Ca' Foscari Venezia)
+    - Catherine Meadows (US Naval Research Laboratory)
+    - Pedro Moreno-Sanchez (IMDEA Software Institute)
+    - Toby Murray (University of Melbourne)
+    - Catuscia Palamidessi (INRIA, École Polytechnique)
+    - Corina Pasareanu (NASA, KBR, Carnegie Mellon University)
+    - Frank Piessens (KU Leuven)
+    - Jonathan Protzenko (Microsoft Research)
+    - Pascal Reisert (University of Stuttgart, Germany)
+    - Ralf Sasse (ETH Zurich)
+    - Clara Schneidewind (Max Planck Institute for Security and Privacy)
+    - Dominique Schröder (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+    - Peter Schwabe (MPI-SP & Radboud University)
+    - Alley Stoughton (Boston University)
+    - Pierre-Yves Strub (Meta, France)
+    - Tachio Terauchi (Waseda University)
+    - Alwen Tiu (The Australian National University)
+    - Dominique Unruh (University of Tartu)
+    - Kirsten Winter (Defence Science and Technology Group, Australia and The University of Queensland, Australia)
+cycles:
+  - first:
+      submission: "2022-05-13"
+      acceptance: "2022-07-15"
+  - second:
+      submission: "2022-09-30"
+      acceptance: "2022-12-02"
+  - third:
+      submission: "2023-02-03"
+      acceptance: "2023-04-07"
+# major revisions, resubmission in later cycles (not anonymous, 16 pages total)
+# also shepherding
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+ethics-discussion: true
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

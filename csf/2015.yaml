@@ -1,0 +1,73 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20150306233027/https://csf2015.di.univr.it/
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - authentication
+  - critical infrastructure security
+  - cryptography
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - distributed systems
+  - electronic voting
+  - executable content
+  - formal methods and verification
+  - game theory and decision theory
+  - hardware-based security
+  - humans and computer security
+  - information flow
+  - intrusion detection
+  - language-based security
+  - network security
+  - novel insights on attacks
+  - privacy
+  - provenance
+  - resource usage control
+  - security for mobile computing
+  - security models
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Michele Bugliesi, Università Ca Foscari Venezia
+    - Jason Crampton, Royal Holloway
+    - Cas Cremers, University of Oxford
+    - Ulfar Erlingsson, Google
+    - Cedric Fournet, Microsoft Research (Program Co-Chair)
+    - Deepak Garg, Max Planck Institute for Software Systems
+    - Joshua Guttman, Worcester Polytechnic Institute and MITRE
+    - Michael Hicks, University of Maryland (Program Co-Chair)
+    - Sushil Jajodia, George Mason University
+    - Boris Köpf, IMDEA Software Institute
+    - Ralf Küsters, University of Trier
+    - Andrew Myers, Cornell University
+    - David Naumann, Stevens Institute of Technology
+    - Catuscia Palamidessi, INRIA (Area Chair on Privacy)
+    - Olivier Pereira, UC Louvain (Area Chair on Voting)
+    - Frank Piessens, KU Leuven (Area Chair on Secure Systems)
+    - Tamara Rezk, INRIA
+    - James Riely, DePaul University
+    - Dave Sands, Chalmers University of Technology
+    - Nikhil Swamy, Microsoft Research
+    - Mudhakar Srivatsa, IBM T J Watson Center
+    - Santiago Zanella Beguelin, MSR-INRIA
+    - Jianying Zhou, Institute for Infocomm Research
+cycles:
+  - first:
+      submission: "2015-02-11"
+      rebuttal-start: "2015-03-23"
+      rebuttal-end: "2015-03-24"
+      acceptance: "2015-04-06"
+      camera-ready: "2015-05-09"
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+anonymous: true

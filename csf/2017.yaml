@@ -1,0 +1,70 @@
+website:
+  url: https://csf2017.tecnico.ulisboa.pt/
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity and privacy
+  - authentication
+  - computer-aided cryptography
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - distributed systems security
+  - electronic voting
+  - formal methods and verification
+  - decision theory
+  - hardware-based security
+  - information flow
+  - intrusion detection
+  - language-based security
+  - network security
+  - data provenance
+  - mobile security
+  - security metrics
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Nataliia Bielova, Inria
+    - Jeremiah Blocki, Purdue University
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Kostas Chatzikokolakis, CNRS & École Polytechnique
+    - Adam Chlipala, MIT
+    - Stephen Chong, Harvard University (Program Co-Chair)
+    - Mads Dam, KTH
+    - Stéphanie Delaune, CNRS, IRISA
+    - Bill Harris, Georgia Institute of Technology
+    - Limin Jia, Carnegie Mellon University
+    - Aniket Kate, Purdue University
+    - Boris Köpf, IMDEA Software Institute (Program Co-Chair)
+    - Markulf Kohlweiss, Microsoft Research
+    - Ralf Küsters, University of Trier
+    - Pasquale Malacaria, Queen Mary University of London
+    - Catherine Meadows, US Naval Research Laboratory
+    - Daniel Le Métayer, Inria
+    - Toby Murray, University of Melbourne and Data61
+    - Peter Schwabe, Radboud University (Session chair on Computer-Aided Cryptography)
+    - Zhong Shao, Yale University
+    - Ben Smyth, Huawei
+    - Alley Stoughton, Boston University
+    - Pierre-Yves Strub, École Polytechnique
+    - Paul Syverson, Naval Research Laboratory (Session chair on Privacy)
+    - Peter Thiemann, University of Freiburg
+    - Yevgeniy Vorobeychik, Vanderbilt University (Session chair on Security Economics)
+cycles:
+  - first:
+      submission: "2017-02-17"
+      rebuttal-start: "2017-04-05"
+      rebuttal-end: "2017-04-08"
+      acceptance: "2017-04-21"
+      camera-ready: "2017-05-26"
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+anonymous: true

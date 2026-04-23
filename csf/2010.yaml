@@ -1,0 +1,46 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20100115065522/http://www.floc-conference.org/CSF-cfp.html
+topics:
+  - Access control
+  - Anonymity and Privacy
+  - Authentication
+  - Data and system integrity
+  - Database security
+  - Decidability and complexity
+  - Distributed systems security
+  - Electronic voting
+  - Executable content
+  - Formal methods for security
+  - Information flow
+  - Intrusion detection
+  - Hardware-based security
+  - Language-based security
+  - Network security
+  - Resource usage control
+  - Security for mobile computing
+  - Security models
+  - Security protocols
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Adam Barth, UC Berkeley, United States
+    - Bruno Blanchet
+    - Stephen Chong, Harvard University, United States
+    - George Danezis, Microsoft Research, United Kingdom
+    - Ulfar Erlingsson, Reykjavik University, Iceland
+    - Andy Gordon, Microsoft Research, United Kingdom
+    - Matteo Maffei, Saarland University, Germany
+    - Catherine Meadows, NRL, United States
+    - Jon Millen, MITRE, United States
+    - John Mitchell, Stanford University, United States
+    - Mark Ryan, Uni Birmingham, United Kingdom
+    - David Sands, Chalmers, Sweden
+    - Vitaly Shmatikov, The University of Texas at Austin, United States
+cycles:
+  - first:
+      abstract: "2010-02-04"
+      submission: "2010-02-08"
+      acceptance: "2010-03-19"
+# 12 pages ieee

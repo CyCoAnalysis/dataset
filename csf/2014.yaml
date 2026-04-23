@@ -1,0 +1,75 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20140304020725/http://csf2014.di.univr.it/callforpapers
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - authentication
+  - critical infrastructure security
+  - cryptography
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - distributed systems
+  - electronic voting
+  - executable content
+  - formal methods and verification
+  - game theory and decision theory
+  - hardware- based security
+  - humans and computer security
+  - information flow
+  - intrusion detection
+  - language-based security
+  - network security
+  - novel insights on attacks
+  - privacy
+  - provenance
+  - resource usage control
+  - security for mobile computing
+  - security models
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Martín Abadi, Microsoft Research Silicon Valley & University of California at Santa Cruz
+    - Michael Backes, Saarland University and Max Planck Institute for Software Systems
+    - Lujo Bauer, Carnegie Mellon University (Session Chair on Usable Security)
+    - Bruno Blanchet, INRIA Paris-Rocquencourt
+    - Stephen Chong, Harvard University
+    - Anupam Datta, Carnegie Mellon University
+    - Riccardo Focardi, Università Ca' Foscari, Venezia
+    - Cedric Fournet, Microsoft Research
+    - Deepak Garg, Max Planck Institute for Software Systems
+    - Joshua Guttman, Worcester Polytechnic Institute and The MITRE Corporation
+    - Michael Hicks, University of Maryland, College Park
+    - Somesh Jha, University of Wisconsin
+    - Boris Köpf, IMDEA Software Institute
+    - Sergio Maffeis, Imperial College London
+    - John Mitchell, Stanford University
+    - Benjamin Pierce, University of Pennsylvania
+    - Ariel Procaccia, Carnegie Mellon University (Session Co-Chair on AI & Security)
+    - Tamara Rezk, INRIA Sophia Antipolis-Méditerranée
+    - Benjamin Rubinstein, University of Melbourne (Session Co-Chair on AI & Security)
+    - Mark Ryan, University of Birmingham
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Vitaly Shmatikov, University of Texas, Austin (Session Chair on Privacy)
+    - Michael Carl Tschantz, UC Berkeley
+    - Bogdan Warinschi, University of Bristol
+cycles:
+  - first:
+      abstract: "2014-02-04"
+      submission: "2014-02-11"
+      rebuttal-start: "2014-03-20"
+      rebuttal-end: "2014-03-21"
+      acceptance: "2014-04-11"
+      camera-ready: "2014-05-09"
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+anonymous: false # explicit

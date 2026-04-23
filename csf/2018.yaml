@@ -1,0 +1,70 @@
+website:
+  url: https://www.cs.ox.ac.uk/conferences/csf2018/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity and privacy
+  - authentication
+  - computer-aided cryptography
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - distributed systems security
+  - electronic voting
+  - formal methods and verification
+  - decision theory
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - network security
+  - data provenance
+  - mobile security
+  - security metrics
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Mário Alvim, Universidade Federal de Minas Gerais
+    - Myrto Arapinis, University of Edinburgh
+    - Owen Arden, UC Santa Cruz
+    - Alessandro Armando, University of Genova
+    - Stephen Chong, Harvard University (Program Co-Chair)
+    - Anupam Datta, Carnegie Mellon University
+    - Stefan Deian, University of California, San Diego
+    - Stéphanie Delaune, CNRS, IRISA (Program Co-Chair)
+    - Marco Gaboardi, University at Buffalo
+    - Deepak Garg, Max Planck Institute for Software Systems
+    - Benjamin Gregoire, Inria
+    - Flaminia Luccio, Università Ca' Foscari Venezia
+    - Heiko Mantel, TU Darmstadt
+    - Sjouke Mauw, University of Luxembourg
+    - Olivier Pereira, Université Catholique de Louvain
+    - Tamara Rezk, Inria
+    - Alejandro Russo, Chalmers University of Technology
+    - Mark Ryan, University of Birmingham
+    - Benedikt Schmidt, Google
+    - Elaine Shi, Cornell University (Session chair, Blockchain)
+    - Christoph Sprenger, ETH Zurich
+    - Alwen Tiu, Australian National University
+    - Michael Carl Tschantz, International Computer Science Institute
+    - Mayank Varia, Boston University
+    - Bogdan Warinschi, Bristol University (Session chair, Computer-Aided Cryptography)
+cycles:
+  - first:
+      abstract: "2018-01-30"
+      submission: "2018-01-31"
+      rebuttal-start: "2018-03-14"
+      rebuttal-end: "2018-03-16"
+      acceptance: "2018-03-31"
+      camera-ready: "2018-04-30"
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+anonymous: true

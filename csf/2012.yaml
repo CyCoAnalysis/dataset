@@ -1,0 +1,51 @@
+website:
+  url: https://csf2012.seas.harvard.edu/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Anonymity and Privacy
+  - Authentication
+  - Data and system integrity
+  - Database security
+  - Data provenance
+  - Decidability and complexity
+  - Distributed systems security
+  - Electronic voting
+  - Executable content
+  - Formal methods for security
+  - Information flow
+  - Intrusion detection
+  - Hardware-based security
+  - Language-based security
+  - Network security
+  - Resource usage control
+  - Security for mobile computing
+  - Security models
+  - Security protocols
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Martín Abadi, Microsoft Research & University of Santa Cruz, USA
+    - Michael Clarkson, The George Washington University, USA
+    - Anupam Datta, Carnegie Mellon University, USA
+    - Joan Feigenbaum, Yale University, USA
+    - Riccardo Focardi, University of Venice, Italy
+    - Cedric Fournet, Microsoft Research, UK
+    - Deepak Garg, MPI-SWS, Germany
+    - Steve Kremer, INRIA Nancy, France
+    - Ralf Küsters, University of Trier, Germany
+    - Matteo Maffei, University of Saarland, Germany
+    - Catuscia Palamidessi, INRIA Saclay, France
+    - Pierangela Samarati, University of Milano, Italy
+    - Vitaly Shmatikov, University of Texas, USA
+    - Nikhil Swamy, Microsoft Research, USA
+    - Alwen Tiu, Australian National University, Australia
+    - Dominique Unruh, University of Tartu, Estonia
+cycles:
+  - first:
+      abstract: "2012-02-09"
+      submission: "2012-02-10"
+      acceptance: "2012-03-29"
+      camera-ready: "2012-04-13"
+# 12 pages ieee

@@ -1,0 +1,132 @@
+website:
+  url: https://csf2026.ieee-security.org/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Mário S. Alvim (UFMG)
+    - Myrto Arapinis (The University of Edinburgh)
+    - Aslan Askarov (Aarhus University)
+    - Musard Balliu (KTH Royal Institute of Technology)
+    - Sébastien Bardin (CEA List & Université Paris Saclay)
+    - Gilles Barthe (MPI-SP and IMDEA Software Institute)
+    - Bruno Blanchet (Inria)
+    - Roberto Blanco (Eindhoven University of Technology)
+    - Chris Brzuska (Aalto University)
+    - Michele Bugliesi (Ca’ Foscari University of Venice)
+    - Stefano Calzavara (Università Ca’ Foscari Venezia)
+    - Ran Canetti (Boston University)
+    - Vincent Cheval (University of Oxford)
+    - Stephen Chong (Harvard University)
+    - Tom Chothia (University of Birmingham)
+    - Ante Derek (University of Zagreb)
+    - Dominique Devriese (KU Leuven)
+    - Christoph Egger (Chalmers University of Technology)
+    - Pooya Farshim (IOG)
+    - Xinyu Feng (Nanjing University & Huawei)
+    - Denis Firsov (Taltech / IOG)
+    - Marc Fischlin (TU Darmstadt)
+    - José Fragoso Santos (University of Lisbon, INESC-ID)
+    - Aymeric Fromherz (Inria)
+    - Marco Gaboardi (Boston University)
+    - Deepak Garg (Maxplank), PC chair
+    - Anitha Gollamudi (University of Massachusetts Lowell)
+    - Benjamin Grégoire (Inria)
+    - Joshua Guttman (The MITRE Corporation)
+    - Eleftherios Ioannidis (Microsoft Research)
+    - Aniket Kate (Supra Research / Purdue University)
+    - Daniel Kifer (Penn State University)
+    - Adrien Koutsos (Inria)
+    - Elisavet Kozyri (UiT The Arctic University of Norway)
+    - Robert Künnemann (CISPA Helmholtz Center for Information Security)
+    - Joseph Lallemand (CNRS, IRISA)
+    - Peeter Laud (Cybernetica AS)
+    - Milan Lopuhaä-Zwakenberg (University of Twente)
+    - Matteo Maffei (TU Wien)
+    - Pasquale Malacaria (Queen Mary University of London)
+    - Andrea Marin (University Ca’ Foscari of Venice)
+    - McKenna McCall (Colorado State University)
+    - Scott Moore (Galois, Inc.)
+    - Sebastian Mödersheim (DTU)
+    - Kedar Namjoshi (Nokia Bell Labs)
+    - Catuscia Palamidessi (Inria)
+    - Marco Patrignani (Universita` di Trento)
+    - Olivier Pereira (UCLouvain)
+    - Frank Piessens (KU Leuven)
+    - Andrei Popescu (University of Sheffield)
+    - Jonathan Protzenko (Microsoft Azure Research)
+    - Klaas Pruiksma (University of Stuttgart)
+    - Pascal Reisert (University of Stuttgart)
+    - Xavier Rival (CNRS/ENS Paris/PSL/Inria)
+    - Peter Y A Ryan (University of Luxembourg)
+    - Ralf Sasse (ETH Zurich)
+    - Clara Schneidewind (MPI-SP)
+    - Dominique Schröder (TU Wien)
+    - Christoph Sprenger (ETH Zurich)
+    - Deian Stefan (University of California, San Diego)
+    - Alley Stoughton (Boston University)
+    - Pierre-Yves Strub (PQShield)
+    - Tachio Terauchi (Waseda University)
+    - Alwen Tiu (The Australian National University)
+    - Dominique Unruh (University of Tartu), PC chair
+    - Kirsten Winter (DSTG/University of Queensland)
+    - Thomas Zacharias (University of Glasgow)
+    - Steve Zdancewic (University of Pennsylvania)
+    - Danfeng Zhang (Duke University)
+cycles:
+  - first:
+      submission: "2025-07-24"
+      acceptance: "2025-09-25"
+  - second:
+      submission: "2025-10-09"
+      acceptance: "2025-12-11"
+  - third:
+      submission: "2026-01-29"
+      acceptance: "2026-04-01"
+# major revisions, resubmission in later cycles (anonymous this year, 16 pages total)
+# also shepherding
+# 12 pages ieee
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+ethics-discussion: true
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

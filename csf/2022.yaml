@@ -1,0 +1,112 @@
+website:
+  url: https://www.ieee-security.org/TC/CSF2022/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Mario Alvim (Federal University of Minas Gerais)
+    - Myrto Arapinis (University of Edinburgh)
+    - Owen Arden (UC Santa Cruz)
+    - Aslan Askarov (Aarhus University)
+    - Musard Balliu (KTH Royal Institute of Technology)
+    - Manuel Barbosa (University of Porto)
+    - Lennart Beringer (Princeton University)
+    - Karthikeyan Bhargavan (INRIA)
+    - Abhishek Bichhawat (Carnegie Mellon University)
+    - Roberto Blanco (Max Planck Institute)
+    - Tegan Brennan (Stevens Institute of Technology)
+    - Yinzhi Cao (Johns Hopkins University)
+    - Tom Chotia (University of Birmingham)
+    - Véronique Cortier (LORIA/INRIA)
+    - Geoffroy Couteau (CNRS IRIF)
+    - Stéphanie Delaune (IRISA)
+    - Francois Dupressoir (University of Bristol)
+    - Michael Emmi (AWS)
+    - Marc Fischlin (TU Darmstadt)
+    - Riccardo Focardi (Ca' Foscari University)
+    - Marco Guarnieri (IMDEA)
+    - Joshua Guttman (MIT Lincoln Labs)
+    - Charlie Jacomme (CISPA)
+    - Aniket Kate (Purdue University)
+    - Boris Kopf (Microsoft Research)
+    - Elisavet Kozyri (UiT The Arctic University of Norway)
+    - Robert Künnemann (CISPA)
+    - Ralf Küsters (University of Stuttgart)
+    - Peeter Laud (Cybernetica AS)
+    - Giovanni Livraga (University of Milan, Statale)
+    - Heiko Mantel (TU Darmstadt)
+    - Sebastian Mödersheim (Technical University of Denmark)
+    - Johannes Müller (University of Luxembourg)
+    - Toby Murray (University of Melbourne)
+    - Sabine Oechsner (University of Edinburgh)
+    - Catuscia Palamidessi (INRIA)
+    - Frank Piessens (KU Leuven)
+    - Jonathan Protzenko (Microsoft Research)
+    - Francesco Ranzato (University of Padua)
+    - Aseem Rastogi (Microsoft Research India)
+    - Andrei Sabelfeld (University of Chalmers)
+    - Ralf Sasse (ETH Zurich)
+    - Clara Schneidewind (Max Planck Institute)
+    - Dominique Schröder (FAU Erlangen-Nürnberg)
+    - Pierre-Yves Strub (École Polytechnique)
+    - Tachio Terauchi (Waseda University)
+    - Alwen Tiu (Australian National University)
+    - Mayank Varia (Boston University)
+cycles:
+  - first:
+      submission: "2021-05-14"
+      acceptance: "2021-07-16"
+  - second:
+      submission: "2021-10-01"
+      acceptance: "2021-12-07"
+  - third:
+      submission: "2022-02-04"
+      acceptance: "2022-04-08"
+# major revisions, resubmission in later cycles (not anonymous, 16 pages total)
+# also shepherding
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+ethics-discussion: true
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

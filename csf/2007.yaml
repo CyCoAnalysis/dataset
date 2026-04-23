@@ -1,0 +1,57 @@
+website:
+  url: https://www.cse.chalmers.se/~andrei/CSF07/cfp.html
+  available: true
+  archive: null
+topics:
+  - Authentication
+  - Information flow
+  - Security protocols
+  - Anonymity and Privacy
+  - Electronic voting
+  - Network security
+  - Resource usage control
+  - Access control
+  - Trust and trust management
+  - Security models
+  - Intrusion detection
+  - Data and system integrity
+  - Database security
+  - Distributed systems security
+  - Security for mobile computing
+  - Executable content
+  - Decidability and complexity
+  - Formal methods for security
+  - Language-based security
+pc:
+  - "Program committee":
+    - Tuomas Aura, Microsoft Research, UK
+    - Michael Backes, Saarland University, Germany
+    - Bruno Blanchet, ENS, France
+    - Iliano Cervesato, Carnegie Mellon University, Qatar
+    - George Danezis, K.U.Leuven, Belgium
+    - Herve Debar, France Telecom, France
+    - Riccardo Focardi, University of Venice, Italy
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Carl A. Gunter, University of Illinois at Urbana-Champaign, USA
+    - Joshua Guttman, MITRE, USA
+    - Masami Hagiya, University of Tokyo, Japan
+    - Jonathan Herzog, Naval Postgraduate School, USA
+    - Ninghui Li, Purdue University, USA
+    - Cathy Meadows, NRL, USA
+    - Jonathan Millen, MITRE, USA
+    - John Mitchell, Stanford University, USA
+    - Flemming Nielson, Technical University of Denmark, Denmark
+    - Riccardo Pucella, Northeastern University, USA
+    - Andrei Sabelfeld, Chalmers University of Technology, Sweden (chair)
+    - Pierangela Samarati, University of Milan, Italy
+    - Ravi Sandhu, George Mason University and TriCipher, USA
+    - Andre Scedrov, University of Pennsylvania, USA
+    - Vitaly Shmatikov, University of Texas at Austin, USA
+    - Geoffrey Smith, Florida International University, USA
+    - Steve Zdancewic, University of Pennsylvania, USA
+cycles:
+  - first:
+      submission: "2007-02-05"
+      acceptance: "2007-03-26"
+      camera-ready: "2007-04-27"
+# 12 pages ieee or 20 pages lncs

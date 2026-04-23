@@ -1,0 +1,48 @@
+website:
+  url: https://www3.cs.stonybrook.edu/~csf09/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Anonymity and Privacy
+  - Authentication
+  - Data and system integrity
+  - Database security
+  - Decidability and complexity
+  - Distributed systems security
+  - Electronic voting
+  - Executable content
+  - Formal methods for security
+  - Information flow
+  - Intrusion detection
+  - Language-based security
+  - Network security
+  - Resource usage control
+  - Security for mobile computing
+  - Security models
+  - Security protocols
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Martin Abadi
+    - Michael Backes
+    - Bruno Blanchet
+    - Veronique Cortier
+    - Anupam Datta
+    - Philippa Gardner
+    - Andrew D. Gordon
+    - Joshua Guttman
+    - Gavin Lowe
+    - Jon Millen
+    - John Mitchell
+    - Andrew Myers
+    - Andrei Sabelfeld
+    - Pierangela Samarati
+    - Vitaly Shmatikov
+    - Scott D. Stoller
+cycles:
+  - first:
+      submission: "2009-02-06"
+      acceptance: "2009-03-30"
+      camera-ready: "2009-04-24"
+# 12 pages ieee

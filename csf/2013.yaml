@@ -1,0 +1,56 @@
+website:
+  url: https://csf2013.seas.harvard.edu/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accountability
+  - Anonymity and Privacy
+  - Authentication
+  - Cryptographic protocols
+  - Data and system integrity
+  - Database security
+  - Data provenance
+  - Decidability and complexity
+  - Distributed systems security
+  - Electronic voting
+  - Executable content
+  - Formal methods for security
+  - Game Theory and Decision Theory
+  - Hardware-based security
+  - Information flow
+  - Intrusion detection
+  - Language-based security
+  - Network security
+  - Resource usage control
+  - Security for mobile computing
+  - Security models
+  - Socio-technical security*
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Gilles Barthe, IMDEA Software Institute, Spain
+    - David Basin, ETH Zurich, Switzerland
+    - Giampaolo Bella, University of Catania, Italy
+    - James Cheney, University of Edinburgh, UK
+    - Stephanie Delaune, CNRS, France
+    - Riccardo Focardi, Ca'Foscari University of Venice, Italy
+    - Joshua Guttman, Worcester Polytechnic Institute, USA
+    - Limin Jia, Carnegie Mellon University, USA
+    - Ralf Küsters, University of Trier, Germany
+    - Boris Köpf, IMDEA Software Institute, Spain
+    - Matteo Maffei, Saarland University, Germany
+    - Catuscia Palamidessi, INRIA Saclay, France
+    - Rafael Pass, Cornell University, USA
+    - Frank Pfenning, Carnegie Mellon University, USA
+    - Peter Ryan, University of Luxembourg, Luxembourg
+    - Andre Scedrov, University of Pennsylvania, USA
+    - Graham Steel, INRIA, France
+cycles:
+  - first:
+      abstract: "2013-01-30"
+      submission: "2013-02-07"
+      acceptance: "2013-04-05"
+      camera-ready: "2013-04-25"
+# 12 pages ieee
+# Challenges and Vision Papers

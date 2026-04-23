@@ -1,0 +1,86 @@
+website:
+  url: https://www.ieee-security.org/TC/CSF2020/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - attack models
+  - authentication
+  - blockchains and smart contracts
+  - cloud security
+  - cryptography
+  - data provenance
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - decision theory
+  - distributed systems security
+  - electronic voting
+  - embedded systems security
+  - forensics
+  - formal methods and verification
+  - hardware-based security
+  - information flow control
+  - intrusion detection
+  - language-based security
+  - mobile security
+  - network security
+  - privacy
+  - security and privacy aspects of machine learning
+  - security and privacy for the Internet of Things
+  - security architecture
+  - security metrics
+  - security policies
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - Thomas H. Austin, San Jose State University
+    - Musard Balliu, KTH Royal Institute of Technology
+    - Bruno Blanchet, INRIA
+    - Tom Chothia, University of Birmingham
+    - Véronique Cortier, CNRS
+    - Cas Cremers, CISPA-Helmholtz Center
+    - Stephanie Delaune, Univ Rennes, CNRS, IRISA (Program Co-Chair)
+    - Riccardo Focardi, Ca'Foscari Univ. of Venice
+    - Cédric Fournet, MSR
+    - Matt Fredrikson, Carnegie Mellon University (Session Chair on Machine Learning)
+    - Marco Gaboardi, University at Buffalo, SUNY
+    - Limin Jia, Carnegie Mellon University (Program Co-Chair)
+    - Chris Hawblitzel, MSR
+    - Justin Hsu, University of Wisconsin
+    - Aniket Kate, Purdue University (Session Chair on Blockchain)
+    - Matteo Maffei, TU Wien
+    - David Naumann, Stevens Institute of Technology
+    - Catuscia Palamidessi, INRIA
+    - Corina Pasareanu, NASA Ames Research Center
+    - Christine Rizkallah, University of New South Wales
+    - Peter Y.A. Ryan, University of Luxembourg
+    - David Sands, Chalmers University of Technology
+    - Ralf Sasse, ETH Zurich
+    - Dominique Unruh, University of Tartu (Session Chair on Cryptography)
+    - Danfeng Zhang, Penn State University
+cycles:
+  - first:
+      submission: "2019-10-04"
+      acceptance: "2019-12-13"
+      camera-ready: "2020-01-31"
+  - second:
+      submission: "2020-02-07"
+      acceptance: "2020-04-17"
+      camera-ready: "2020-05-08"
+# major revisions, resubmission in later cycles (not anonymous, 16 pages total)
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+# sok: true
+# awards: true
+# optional supplementary material on submission site
+anonymous: true
+# prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise

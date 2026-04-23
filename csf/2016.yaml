@@ -1,0 +1,69 @@
+website:
+  url: https://csf2016.tecnico.ulisboa.pt/cfp.html
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - anonymity and privacy
+  - authentication
+  - computer-aided cryptography
+  - data and system integrity
+  - database security
+  - decidability and complexity
+  - distributed systems security
+  - electronic voting
+  - formal methods and verification
+  - decision theory
+  - hardware-based security
+  - information flow
+  - intrusion detection
+  - language-based security
+  - network security
+  - data provenance
+  - mobile security
+  - security metrics
+  - security protocols
+  - software security
+  - socio-technical security
+  - trust management
+  - usable security
+  - web security
+pc:
+  - "Program committee":
+    - June Andronick, NICTA and UNSW
+    - Aslan Askarov, Aarhus University
+    - Manuel Barbosa, University of Porto
+    - Lujo Bauer, Carnegie Mellon University
+    - Karthikeyan Bhargavan, INRIA
+    - Anna Lisa Ferrara, University of Surrey
+    - Matt Frederikson, Carnegie Mellon University
+    - Jens Grossklags, Penn State (Area Chair on Security Economics)
+    - Mike Hicks, University of Maryland (Program Co-Chair)
+    - Cătălin Hriţcu, INRIA
+    - Daniel Kifer, Penn State (Area Chair on Privacy)
+    - Jong Kim, Pohang University of Science and Technology
+    - Boris Köpf, IMDEA Software Institute (Program Co-Chair)
+    - Steve Kremer, INRIA
+    - Peeter Laud, Cybernetica
+    - Matteo Maffei, Saarland University
+    - Stephen Magill, Galois
+    - Sebastian Mödersheim, Technical University of Denmark
+    - Greg Morrisett, Cornell University
+    - Andrei Sabelfeld, Chalmers University of Technology
+    - Geoffrey Smith, Florida International University
+    - Michael Carl Tschantz, ICSI Berkeley
+    - Bogdan Warinschi, University of Bristol
+    - Nicola Zannone, Eindhoven University of Technology
+    - Steve Zdancewic, University of Pennsylvania
+cycles:
+  - first:
+      submission: "2016-02-12"
+      rebuttal-start: "2016-03-24"
+      rebuttal-end: "2016-03-26"
+      acceptance: "2016-04-08"
+      camera-ready: "2016-05-06"
+# 12 pages ieee
+# special sessions
+# challenges and vision papers
+anonymous: true

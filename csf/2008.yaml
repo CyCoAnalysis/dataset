@@ -1,0 +1,58 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20081106211800/http://www.cs.chalmers.se/~andrei/CSF08/cfp.html
+topics:
+  - Access control
+  - Anonymity and Privacy
+  - Authentication
+  - Data and system integrity
+  - Database security
+  - Decidability and complexity
+  - Distributed systems security
+  - Electronic voting
+  - Executable content
+  - Formal methods for security
+  - Information flow
+  - Intrusion detection
+  - Language-based security
+  - Network security
+  - Resource usage control
+  - Security for mobile computing
+  - Security models
+  - Security protocols
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Michael Backes, Saarland University and Max-Planck-Institute for Software Systems, Germany
+    - Gilles Barthe, INRIA, France
+    - Bruno Blanchet, ENS, France
+    - Iliano Cervesato, Carnegie Mellon University, Qatar
+    - Stephen Chong, Cornell University, USA
+    - Véronique Cortier, LORIA, France
+    - Jason Crampton, Royal Holloway, University of London, UK
+    - Anupam Datta, Carnegie Mellon University, USA
+    - Úlfar Erlingsson, Microsoft Research Silicon Valley, USA
+    - Riccardo Focardi, University of Venice, Italy
+    - Cédric Fournet, Microsoft Research Cambridge, UK
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Masami Hagiya, University of Tokyo, Japan
+    - James Heather, University of Surrey, UK
+    - Jonathan Herzog, Naval Postgraduate School, USA
+    - Peeter Laud, University of Tartu, Estonia
+    - Jonathan Millen, MITRE, USA
+    - John Mitchell, Stanford University, USA
+    - Mark Ryan, University of Birmingham, UK
+    - Andrei Sabelfeld, Chalmers University of Technology, Sweden (chair)
+    - Ravi Sandhu, University of Texas at San Antonio and TriCipher, USA
+    - Andre Scedrov, University of Pennsylvania, USA
+    - Vitaly Shmatikov, University of Texas at Austin, USA
+    - Paul Syverson, Naval Research Laboratory, USA
+    - Jan Vitek, Purdue University and IBM Research, USA
+cycles:
+  - first:
+      submission: "2008-01-29"
+      acceptance: "2008-03-17"
+      camera-ready: "2008-04-11"
+anonymous: false  # explicit
+# 12 pages ieee

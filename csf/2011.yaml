@@ -1,0 +1,53 @@
+website:
+  url: http://csf2011.inria.fr/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Distributed systems security
+  - Language-based security
+  - Anonymity and Privacy
+  - Electronic voting
+  - Network security
+  - Authentication
+  - Executable content
+  - Resource usage control
+  - Data and system integrity
+  - Formal methods for security
+  - Security for mobile computing
+  - Database security
+  - Information flow
+  - Security models
+  - Data provenance
+  - Intrusion detection
+  - Security protocols
+  - Decidability and complexity
+  - Hardware-based security
+  - Trust and trust management
+pc:
+  - "Program committee":
+    - Michael Backes (co-chair), Saarland U and MPI-SWS
+    - Patrick McDaniel, Penn State
+    - Gilles Barthe, IMDEA
+    - Cathy Meadows, NRL
+    - Lujo Bauer, CMU
+    - John Mitchell, Stanford U
+    - David Basin, ETH
+    - Greg Morrisett, Harvard U
+    - Michael Clarkson, Cornell U
+    - Catuscia Palamidessi, INRIA
+    - Stephanie Delaune, CNRS
+    - Alejandro Russo, U Chalmers
+    - Riccardo Focardi, U Venice
+    - Paul Syverson, NRL
+    - Cedric Fournet, Microsoft Research
+    - Nikil Swamy, Microsoft Research
+    - Joshua Guttman, WPI
+    - Dominique Unruh, Saarland U
+    - Boris Köpf, IMDEA
+    - Steve Zdancewic (co-chair), U Penn
+cycles:
+  - first:
+      submission: "2011-02-09"
+      acceptance: "2011-03-25"
+# 12 pages ieee
