@@ -1,0 +1,197 @@
+website:
+  url: https://www.ntnu.edu/esorics2017
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - ad hoc networks
+  - anonymity
+  - applied cryptography
+  - authentication
+  - biometrics
+  - data and computation integrity
+  - database security
+  - data protection
+  - digital content protection
+  - digital forensics
+  - distributed systems security
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - information security governance and management
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - network security
+  - phishing and spam prevention
+  - privacy
+  - privacy preserving data mining
+  - risk analysis and management
+  - secure electronic voting
+  - security architectures
+  - security economics
+  - security metrics
+  - security models
+  - security and privacy for big data
+  - security and privacy in cloud scenarios
+  - security and privacy in complex systems
+  - security and privacy in content centric networking
+  - security and privacy in crowdsourcing
+  - security and privacy in the IoT
+  - security and privacy in location services
+  - security and privacy for mobile code
+  - security and privacy in pervasive / ubiquitous computing
+  - security and privacy policies
+  - security and privacy in social networks
+  - security and privacy in web services
+  - security and privacy in cyber-physical systems
+  - security, privacy and resilience in critical infrastructures
+  - security verification
+  - software security
+  - systems security
+  - trust models and management
+  - trustworthy user devices
+  - usable security and privacy
+  - web security
+  - wireless security
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Alessandro Armando, University of Genoa, Italy
+    - Frederik Armknecht, University of Mannheim, Germany
+    - Michael Backes, Saarland University, Germany
+    - Giampaolo Bella, Università degli studi di Catania, Italy
+    - Zinaida Benenson, University of Erlangen-Nuremberg, Germany
+    - Elisa Bertino, Purdue University, USA
+    - Carlo Blundo, Università degli studi di Salerno, Italy
+    - Rainer Böhme, University of Innsbruck, Austria
+    - Colin Boyd, Norwegian University of Science and Technology, Norway
+    - Stefan Brunthaler, SBA Research, Austria
+    - Chris Brzuska, Hamburg University of Technology, Germany
+    - Tom Chothia, University of Birmingham, UK
+    - Sherman S. M. Chow, Chinese University of Hong Kong, Hong Kong
+    - Mauro Conti, University of Padua, Italy
+    - Cas Cremers, University of Oxford, UK
+    - Frederic Cuppens, IMT Atlantique, France
+    - Nora Cuppens-Boulahia, IMT Atlantique, France
+    - Mads Dam, KTH, Sweden
+    - Sabrina De Capitani di Vimercati, Università degli studi di Milano, Italy
+    - Herve Debar, Telecom SudParis, France
+    - Roberto Di Pietro, Nokia Bell Labs, France
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Spain
+    - Wenliang Du, Syracuse University, USA
+    - Pavlos Efraimidis, Democritus University of Thrace, Greece
+    - Hannes Federrath, University of Hamburg, Germany
+    - Simone Fischer-Hübner, Karlstad University, Sweden
+    - Riccardo Focardi, Università Ca’ Foscari di Venezia, Italy
+    - Simon Foley, IMT Atlantique, France
+    - Sara Foresti, Università degli studi di Milano, Italy
+    - Katrin Franke, Norwegian University of Science and Technology, Norway
+    - Felix Freiling, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+    - Sibylle Fröschle, OFFIS e.V., Germany
+    - Joaquin Garcia-Alfaro, Telecom ParisSud, France
+    - Dieter Gollmann, Hamburg University of Technology, Germany and Nanyang Technological
+    - University, Singapore
+    - Dimitris Gritzalis, Athens University of Economics and Business, Greece
+    - Stefanos Gritzalis, University of the Aegean, Greece
+    - Joshua Guttman, Worcester Polytechnic Institute, USA
+    - Gerhard Hancke, City University of Hong Kong, China
+    - Marit Hansen, Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein, Germany
+    - Feng Hao, Newcastle University, UK
+    - Cormac Herley, Microsoft Research , USA
+    - Xinyi Huang, Fujian Normal University, China
+    - Michael Huth, Imperial College, UK
+    - Aaron D. Jaggard, U.S. Naval Research Laboratory, USA
+    - Sushil Jajodia, George Mason University, USA
+    - Limin Jia, Carnegie Mellon University, USA
+    - Wouter Joosen, KU Leuven, Belgium
+    - Vasilis Katos, Bournemouth University, UK
+    - Sokratis Katsikas, Norwegian University of Science and Technology, Norway
+    - Florian Kerschbaum, University of Waterloo, Canada
+    - Dogan Kesdogan, Universität Regensburg, Germany
+    - Kwangjo Kim, Korea Advanced Institute of Science and Technology, Korea
+    - Steve Kremer, INRIA Nancy-Grand Est, France
+    - Marina Krotofil, Honeywell, USA
+    - Ralf Küsters, University of Trier, Germany
+    - Junzuo Lai, Singapore Management University, Singapore
+    - Kwok-yan Lam, Nanyang Technological University, Singapore
+    - Costas Lambrinoudakis, University of Piraeus, Greece
+    - Peeter Laud, Cybernetica AS, Estonia
+    - Adam J. Lee, University of Pittsburgh, USA
+    - Gabriele Lenzini, University of Luxembourg, Luxembourg
+    - Yingjiu Li, Singapore Management University, Singapore
+    - Antonio Lioy, Politecnico di Torino, Italy
+    - Peng Liu, The Pennsylvania State University, USA
+    - Javier Lopez, University of Malaga, Spain
+    - Antonio Maña, University of Malaga, Spain
+    - Pratyusa K. Manadhata, Hewlett Packard Labs, USA
+    - Luigi V. Mancini, "Universita di Roma ""La Sapienza""", Italy
+    - Heiko Mantel, TU Darmstadt, Germany
+    - Olivier Markowitch, Université Libre de Bruxelles, Belgium
+    - Fabio Martinelli, IIT-CNR, Italy
+    - Sjouke Mauw, University of Luxembourg, Luxembourg
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - John Mitchell, Stanford University, USA
+    - Aikaterini Mitrokotsa, Chalmers University of Technology, Sweden
+    - Refik Molva, EURECOM, France
+    - Charles Morisset, Newcastle University, UK
+    - Rolf Oppliger, eSECURITY Technologies, Switzerland
+    - Stefano Paraboschi, Università di Bergamo, Italy
+    - Dusko Pavlovic, University of Hawaii, USA
+    - Günther Pernul, Universität Regensburg, Germany
+    - David Pichardie, ENS-IRISA, Rennes
+    - Frank Piessens, Katholieke Universiteit Leuven, Belgium
+    - Wolter Pieters, Delft University of Technology, The Netherlands
+    - Michalis Polychronakis, Stonybrook University, USA
+    - Christina Pöpper, NYU Abu Dhabi, UAE
+    - Joachim Posegga, University of Passau, Germany
+    - Christian Probst, Technical University of Denmark, Denmark
+    - Kai Rannenberg, Goeth University, Germany
+    - Awais Rashid, Lancaster University, UK
+    - Indrajiti Ray, Colorado State University, USA
+    - Kui Ren, State University of New York at Buffalo, USA
+    - Mark Ryan, University of Birmingham, UK
+    - Peter Y.A. Ryan, University of Luxembourg, Luxembourg
+    - Rene Rydhof Hansen, Aarhus University, Denmark
+    - Andrei Sabelfeld, Chalmers University of Technology, Sweden
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, Universitá degli studi di Milano, Italy
+    - Ravi Sandhu, University of Texas at San Antonio, USA
+    - Ralf Sasse, ETH Zürich, Switzerland
+    - Nitesh Saxena, University of Alabama at Birmingham, USA
+    - Andreas Schaad, Huawei European Research Center, Germany
+    - Steve Schneider, University of Surrey, UK
+    - Jörg Schwenk, Ruhr-Universität, Bochum
+    - Basit Shafiq, Lahore University of Management Sciences, Pakistan
+    - Einar Snekkenes, Norwegian University of Science and Technology, Norway
+    - Willy Susilo, University of Wollongong, Australia
+    - Krzysztof Szczypiorski, Warsaw University of Technology, Poland
+    - Björn Tackmann, IBM Research, Switzerland
+    - Qiang Tang, New Jersey Institute of Technology, USA
+    - Nils Ole Tippenhauer, Singapore University of Technology and Design, Singapore
+    - Aggeliki Tsohou, Ionian University, Greece
+    - Jaideep Vaidya, Rutgers University, USA
+    - Vijay Varadharajan, Macquarie University, Australia
+    - Luca Viganò, King's College London, UK
+    - Michael Waidner, Fraunhofer SIT & TU Darmstadt, Germany
+    - Cong Wang, City University of Hong Kong, China
+    - Lingyu Wang, Concordia University, Canada
+    - Ben Smyth, Huawei, France
+    - Edgar Weippl, SBA Research, Austria
+    - Stephen Wolthusen, Royal Holloway university, UK
+    - Christos Xenakis, University of Piraeus, Greece
+    - Jeff Yan, Lancaster University, UK
+    - Meng Yu, University of Texas at San Antonio, USA
+    - Ben Zhao, University of California at Santa Barbara, USA
+    - Jianying Zhou, Singapore University of Technology and Design, Singapore
+    - Haojin Zhu, Shanghai Jiao Tong University, China
+cycles:
+  - first:
+      submission: "2017-04-22"
+      acceptance: "2017-06-16"
+      camera-ready: "2017-06-26"
+# 16 pages net, 20 total, LNCS
+anonymous: false

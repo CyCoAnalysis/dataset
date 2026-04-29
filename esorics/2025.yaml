@@ -1,0 +1,264 @@
+website:
+  url: https://esorics2025.sciencesconf.org/?lang=en
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity and Censorship Resistance
+  - Artificial Intelligence for Security
+  - Audit and Accountability
+  - Cyber Attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response.
+  - Data and Computation Integrity
+  - Database Security
+  - Digital Content Protection
+  - Digital Forensics
+  - Formal Methods for Security and Privacy
+  - Hardware Security
+  - Information Hiding
+  - Identity Management
+  - Information Flow Control
+  - Information Security (including disinformation/fake news detection)
+  - Intrusion Detection
+  - Governance and Management
+  - Language-based Security
+  - Malware and Unwanted Software
+  - Network Security
+  - Phishing and Spam Prevention
+  - Privacy Technologies and Mechanisms
+  - Risk Analysis and Management
+  - Secure Electronic Voting
+  - Security Economics and Metrics
+  - Security and Privacy in Cloud / Fog Systems
+  - Security and Privacy of Systems based on Machine Learning and A.I.
+  - Security and Privacy in Crowdsourcing
+  - Security and Privacy in the IoT and Cyber-Physical Systems
+  - Security and Privacy in Location-based Services
+  - Security and Privacy for Mobile / Smartphone Platforms
+  - Security, Privacy, and Resilience for Large-Scale, Critical Infrastructures (e.g., Smart Grid, AirPorts, Ports)
+  - Security for Emerging Networks (e.g., Home Networks, IoT, Body-Area Networks, VANETs)
+  - Security and Privacy in Social Networks
+  - Security and Privacy in Wireless and Cellular Communications
+  - Software Security
+  - Systems Security
+  - Trustworthy Computing to Secure Networks and Systems
+  - Usable Security and Privacy
+  - Web Security
+pc:
+  - "Program committee":
+    - Andrea Agioll (Round 2), TU Delft, The Netherlands
+    - Massimiliano Albanese, George Mason University, USA
+    - Cristina Alcaraz, University of Malaga, Spain
+    - Abdelrahaman Aly, Technology Innovation Institute, United Arab Emirates
+    - Shengwei An (Round 2), Virginia Tech, USA
+    - Hafiz Asif (Round 2), Hofstra University, Rutgers University, USA
+    - Mikael Asplund, Linköping University, Sweden
+    - Vijay Atluri, Rutgers University, USA
+    - Daniel Augot (Round 1), INRIA Saclay, France
+    - Samiha Ayed (Round 2), UTT - Université des technologies de Troyes, France
+    - Sebastien Bardin, CEA LIST, France
+    - Alessandro Barenghi, Politecnico di Milano, Italy
+    - Ken Barker (Round 1), University of Calgary, Canada
+    - Giampaolo Bella (Round 2), University of Catania, Italy
+    - Abdelmalek Benzekri, Université de Toulouse, France
+    - Elisa Bertino, Purdue University, USA
+    - Clara Bertolissi (Round 2), Aix-Marseille University, France
+    - Bruhadeshwar Bezawada (Round 2), Southern Arkansas University, USA
+    - Smriti Bhatt (Round 2), Purdue University, USA
+    - Giuseppe Bianchi (Round 2), University of Rome "Tor Vergata", Italy
+    - Alex Biryukov, University of Luxembourg, Luxembourg
+    - Jorge Blasco (Round 1), Universidad Politécnica de Madrid, Spain
+    - Carlo Blundo, Università degli Studi di Salerno, Italy
+    - Tamara Bonaci (Round 2), Northeastern University, USA
+    - Rainer Böhme (Round 2), University of Innsbruck, Austria
+    - Pino Caballero-Gil, University of La Laguna, Spain
+    - Maurantonio Caprolu (Round 2), King Abdullah University of Science and Technology, Saudi Arabia
+    - Xavier Carpent, University of Nottingham, UK
+    - Aldar C-F. Chan (Round 2), University of Hong Kong, China
+    - Bo Chen (Round 2), Michigan Technological University, USA
+    - Rongmao Chen (Round 2), National University of Defense Technology, China
+    - Xiaofeng Chen (Round 2), Xidian University, China
+    - Yuan Cheng (Round 2), University of Nottingham Ningbo China, China
+    - Sherman S. M. Chow (Round 2), The Chinese University of Hong Kong, China
+    - Pietro Colombo (Round 2), Università dell'Insubria, Italy
+    - Michal Choras (Round 1), Bydgoszcz University of Science and Technology, Poland
+    - Mauro Conti, Padova University, Italy
+    - Bruno Crispo (Round 2), University of Trento, Italy
+    - Michel Cukier (Round 2), University of Maryland, USA
+    - Frédéric Cuppens, Polytechnique Montréal, Canada
+    - Tooska Dargahi, Manchester Metropolitan University, UK
+    - Saptarshi Das (Round 2), Pennsylvania State University, USA
+    - Sabrina De Capitani di Vimercati, Universita' degli Studi Di Milano, Italy
+    - Hervé Debar, Télécom SudParis, France
+    - Jose Maria De Fuentes (Round 1), Universidad Carlos III, Spain
+    - Soumyadeep Dey (Round 2), IIT Kharagpur, India
+    - Roberto Di Pietro (Round 2), King Abdullah University of Science and Technology, Saudi Arabia
+    - Tassos Dimitriou (Round 2), Kuwait University, Kuwait
+    - Xuhua Ding (Round 1), Singapore Management University, Singapore
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Spain
+    - Andreas Ekelhart (Round 1),  Secure Business Austria, Austria
+    - Santiago Escobar (Round 2), Universitat Politècnica de València, Spain
+    - David Espes (Round 2), UBO - Université de Bretagne Ouest, France
+    - Shuya Feng (Round 2), University of Connecticut, USA
+    - Anna Lisa Ferrara, Unversità degli studi del Molise, Italy
+    - Josep Lluís Ferrer Gomila (Round 2), Universitat de les Illes Balears, Spain
+    - Philip W. L. Fong (Round 2), University of Calgary, Canada
+    - Olga Gadyatskaya, University of Leiden, The Netherlands
+    - Debin Gao, Singapore Management University, Singapore
+    - Joaquin Garcia-Alfaro, Institut Polytechnique de Paris, France
+    - Essam Ghadafi, Newcastle University, UK
+    - Giorgio Giacinto, University of Cagliari, Italy
+    - Alberto Giaretta (Round 1), Örebro Universitet, Sweden
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Lorena González Manzano, Universidad Carlos III de Madrid, Spain
+    - Dimitris Gritzalis (Round 1), Athens University of Economics & Business, Greece
+    - Stefanos Gritzalis (Round 2), University of Piraeus, Greece
+    - Maanak Gupta (Round 2), Tennessee Tech University, USA
+    - M. Emre Gursoy (Round 2), Koç University, Turkey
+    - Gregory Gutin (Round 2), Royal Holloway, University of London, UK
+    - Hannes Hartenstein (Round 2), Karlsruhe Institute of Technology, Germany
+    - Hongxin Hu (Round 2), University at Buffalo, SUNY, USA
+    - Xinyi Huang (Round 2), Fujian Normal University, Japan
+    - Hugo Jonker, Open University of the Netherlands, The Netherlands
+    - Sokratis Katsikas, Norwegian University of Science and Technology, Norway
+    - Stefan Katzenbeisser, University of Passau, Germany
+    - Jörg Keller, FernUniversität in Hagen, Germany
+    - Latifur Khan (Round 2), University of Texas at Dallas, USA
+    - Hiroaki Kikuchi, Meiji University, Japan
+    - Hyoungshick Kim  (Round 2), Sungkyunkwan University, South Korea
+    - Ram Krishnan (Round 2), University of Texas at San Antonio, USA
+    - Marina Krotofil, Maersk, Switzerland
+    - Christopher Kruegel (Round 2), University of California Santa Barbara, USA
+    - Alptekin Küpçü, Koç University, Turkey
+    - Romain Laborde, Université de Toulouse, France
+    - Peeter Laud, Cybernetica AS, Estonia
+    - Maryline Laurent, Télécom SudParis, France
+    - Zeyu Lei (Round 2), Purdue University, USA
+    - Shujun Li (Round 2), University of Kent, UK
+    - Wenting Li (Round 2), Peking University, China
+    - Jun Li (Round 2), University of Oregon, USA
+    - Kaitai Liang, Delft University of Technology, The Netherlands
+    - Hoon Wei Lim (Round 2), NCS Group, Singapore
+    - Dan Lin (Round 2), Vanderbilt University, USA
+    - Peng Liu (Round 2), The Pennsylvania State University, USA
+    - Giovanni Livraga, University of Milan, Italy
+    - Valeria Loscri, INRIA, France
+    - Wenjing Lou (Round 2), Virginia Tech, USA
+    - Rongxing Lu (Round 2), Queen's University, Canada
+    - Haibing Lu (Round 2), Santa Clara University, USA
+    - Xiapu Luo (Round 2), The Hong Kong Polytechnic University, China
+    - Eduard Marin, Telefonica Research, Spain
+    - Jean-Yves Marion, Université de Lorraine, France
+    - Fabio Martinelli (Round 2), IIT-CNR, Italy
+    - Amir Masoumzadeh (Round 2), University at Albany - SUNY, USA
+    - Barbara Masucci, University of Salerno, Italy
+    - Wojciech Mazurczyk, Warsaw University of Technology, Poland
+    - David Megías, Universitat Oberta de Catalunya, Spain
+    - Weizhi Meng, Lancaster University, UK
+    - Donika Mirdita (Round 2), Fraunhofer Secure Information Technology, Germany
+    - Chris Mitchell (Round 2), Royal Holloway, University of London, UK
+    - Barsha Mitra (Round 2), BITS Pilani Hyderabad Campus, India
+    - Sudip Mittal (Round 2), Mississippi State University, USA
+    - Meisam Mohammady (Round 2), Iowa State University, USA
+    - Haralambos Mouratidis (Round 2), University of Essex, UK
+    - Guillermo Navarro-Arribas, Autonomous University of Barcelona, Spain
+    - Jianting Ning (Round 2), Singapore Management University, Singapore
+    - Antonino Nocera, University of Pavia, Italy
+    - Gabriele Oligeri, Hamad Bin Khalifa University, Qatar
+    - Melek Önen (Round 2), EURECOM, France
+    - Philippe Owezarski, LAAS-CNRS, France
+    - Balaji Palanisamy (Round 2), University of Pittsburgh, USA
+    - Stefano Paraboschi (Round 2), Universita di Bergamo, Italy
+    - Sikhar Patranabis (Round 2), IBM Research India, India
+    - Günther Pernul (Round 2), Universität Regensburg, Germany
+    - Josef Pieprzyk, CSIRO/Data61, Australia
+    - Joachim Posegga, Univ. of Passau, Germany
+    - Mir Mehedi Pritom (Round 2), Tennessee Tech University, USA
+    - Megha Quamara (Round 2), King's College London, UK
+    - Silvio Ranise (Round 2), University of Trento, Italy
+    - Kai Rannenberg (Round 2), Goethe University Frankfurt, Germany
+    - Siddharth Prakash Rao (Round 2), Nokia Bell Labs, Finland
+    - Danda B. Rawat (Round 2), Howard University, USA
+    - Indrakshi Ray (Round 1), Colorado State University, USA
+    - Indrajit Ray (Round 2), Colorado State University, USA
+    - Peter Roenne, University of Luxembourg, Luxembourg
+    - Carlos Rubio Medrano (Round 2), Texas A&M University, USA
+    - Peter Y A Ryan, University of Luxembourg, Luxembourg
+    - Reihaneh Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, Universita' degli Studi di Milano, Italy
+    - Neetesh Saxena, Cardiff University, UK
+    - Neta Schiff (Round 2), Rozen Hebrew University of Jerusalem, Israel
+    - Dominique Schröder, Universiät Erlangen-Nürnberg, Germany
+    - Joerg Schwenk, Ruhr-Universität Bochum, Germany
+    - Savio Sciancalepore, Eindhoven University of Technology, The Netherlands
+    - R Sekar Stony (Round 2), Brook University, USA
+    - Basit Shafiq (Round 2), Lahore University of Management Sciences, Pakistan
+    - Ankit Shah (Round 2), Indiana University, USA
+    - Siamak Shahandashti, University of York, UK
+    - Alessandro Sorniotti (Round 1), IBM Research Europe, Switzerland
+    - Shantanu Sharma (Round 2), New Jersey Institute of Technology, USA
+    - Wenbo Shen (Round 2), Zhejiang University, China
+    - Weidong Shi (Round 2), University of Houston, USA
+    - Arunesh Sinha (Round 2), Rutgers University, USA
+    - Jayesh Soni (Round 2), Florida International University, USA
+    - Angelo Spognardi, Sapienza Università di Roma, Italy
+    - Riccardo Spolaor, Shandong University, China
+    - Natalia Stakhanova (Round 2), University of Saskatchewan, Canada
+    - Thorsten Strufe (Round 2), Karlsruhe Institute of Technology, Germany
+    - Wenhai Sun (Round 2), Purdue University, USA
+    - Shamik Sural (Round 2), Indian Institute of Technology Kharagpur, India
+    - Luis Suárez (Round 2), Ericsson, Canada
+    - Qiang Tang (Round 2), University of Sydney, Australia
+    - Nadia Tawbi, Laval University, Canada
+    - Vicenc Torra, Umeå University, Sweden
+    - Jacob Torrey (Round 2), Thinkst Applied Research, USA
+    - Ari Trachtenberg (Round 2), Boston University, USA
+    - Stacey Truex (Round 2), Denison University, USA
+    - Jalaj Upadhyay (Round 2), Johns Hopkins University, USA
+    - Tobias Urban (Round 2), Westphalian University of Applied Sciences, Germany
+    - Daniele Venturi, Sapienza University of Rome, Italy
+    - Rakesh Verma (Round 2), University of Houston, USA
+    - Tran Viet Xuan Phuong (Round 2), University of Arkansas at Little Rock, USA
+    - Joao P. Vilela (Round 2), University of Porto, Portugal,
+    - Di Wang (Round 2), State University of New York at Buffalo, USA
+    - Haining Wang (Round 2), Virginia Tech, USA
+    - Cong Wang (Round 2), City University of Hong Kong, China
+    - Xinyue Wang (Round 2), Renmin University of China, China
+    - Lingyu Wang (Round 2), Concordia University, Canada
+    - Han Wang (Round 2), University of Kansas, USA
+    - Wenqi Wei (Round 2), Fordham University, USA
+    - Edgar Weippl, University of Vienna, Austria
+    - Avishai Wool (Round 1), Tel Aviv University, Israel
+    - Christos Xenakis (Round 2), University of Piraeus, Greece
+    - Yang Xiang (Round 2), Swinburne University of Technology, Australia
+    - Yue Xiao (Round 2), IBM Research, USA
+    - Shouhuai Xu (Round 2), University of Colorado Colorado Springs, USA
+    - Runhua Xu (Round 2), Beihang University, China
+    - Peng Xu (Round 2), Huazhong University of Science and Technology, China
+    - Guomin Yang (Round 2), Singapore Management University, Singapore
+    - Zhihao Yao (Round 2), New Jersey Institute of Technology, USA
+    - Roland Yap (Round 2), National University of Singapore, Singapore
+    - Miuyin Yong Wong (Round 2), Georgia Institute of Technology, USA
+    - Chuan Yue (Round 2), Colorado School of Mines, USA
+    - Stefano Zanero (Round 1), Politecnico di Milano, Italy
+    - Yuan Zhang (Round 2), Fudan University, China
+    - Zhikun Zhang (Round 2), Zhejiang University, China
+    - Kehuan Zhang (Round 2), The Chinese University of Hong Kong, China
+    - Liang Zhao (Round 2), Emory University, USA
+    - Ziming Zhao (Round 2), Northeastern University, USA
+    - Yunlei Zhao (Round 2), Fudan University, China
+    - Jianying Zhou (Round 2), Singapore University of Technology and Design, Singapore
+    - Sencun Zhu (Round 2), The Pennsylvania State University, USA
+    - Rui Zhu (Round 2), Indiana University, USA
+cycles:
+  - first:
+      submission: "2025-01-10"
+      acceptance: "2025-03-24"
+      camera-ready: "2025-04-14"
+  - second:
+      submission: "2025-04-29"
+      acceptance: "2025-06-20"
+      camera-ready: "2025-07-03"
+# 16 pages net, 20 total, LNCS
+anonymous: false
+conflicts: true
+# awards: true

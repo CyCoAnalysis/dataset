@@ -1,0 +1,96 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20090303221048/http://conferences.telecom-bretagne.eu/esorics2009/EN/callForPaper.php
+topics:
+  - access control
+  - anonymity
+  - authentication
+  - authorization and delegation
+  - cryptographic protocols
+  - data integrity
+  - dependability
+  - information flow control
+  - smartcards
+  - systems security
+  - digital right management
+  - accountability
+  - applied cryptography
+  - covert channels
+  - cybercrime
+  - denial of service attacks
+  - formal methods in security
+  - inference control
+  - information warfare
+  - steganography
+  - transaction management
+  - data and application security
+  - intellectual property protection
+  - intrusion tolerance
+  - peer-to-peer security
+  - language-based security
+  - network security
+  - non-interference
+  - privacy-enhancing technology
+  - pseudonymity
+  - subliminal channels
+  - trustworthy user devices
+  - identity management
+  - security as quality of service
+  - secure electronic commerce
+  - security administration
+  - security evaluation
+  - security management
+  - security models
+  - security requirements engineering
+  - security verification
+  - survivability
+  - information dissemination control
+  - trust models and trust management policies
+pc:
+  - "Program committee":
+    - Mike Atallah, Purdue University, USA
+    - Michael Backes, Saarland University and MPI-SWS, Germany (co-chair)
+    - David Basin, ETH Zurich, Switzerland
+    - Nikita Borisov, University of Illinois at Urbana-Champaign, USA
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Marc Dacier, EURECOM, France
+    - Anupam Datta, Carnegie Mellon University, USA
+    - Herve Debar, France TELECOM R&D, France
+    - Roger Dingledine, The Tor Project, USA
+    - Wenliang Du, Syracuse University, USA
+    - Cédric Fournet, Microsoft Research Cambridge, UK
+    - Virgil Gligor, Carnegie Mellon University, USA
+    - Dimitris Gritzalis, Athens University of Economics and Business, Greece
+    - Carl A. Gunter, University of Illinois at Urbana-Champaign, USA
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Sushil Jajodia, George Mason University, USA
+    - Xuxian Jiang, North Carolina State University, USA
+    - Peeter Laud, University of Tartu, Estonia
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Donggang Liu, University of Texas at Arlington, USA
+    - Michael Locasto, George Mason University, USA
+    - Matteo Maffei, Saarland University, Germany
+    - Heiko Mantel, University of Darmstadt, Germany
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - John Mitchell, Stanford University, USA
+    - Peng Ning, North Carolina State University, USA (co-chair)
+    - Alina Oprea, RSA, USA
+    - Radia Perlman, Sun Microsystems, USA
+    - Adrian Perrig, Carnegie Mellon University, USA
+    - Mark Ryan, University of Birmingham, UK
+    - Pierangela Samarati, Universita degli Studi di Milano, Italy
+    - Vitaly Shmatikov, University of Texas at Austin, USA
+    - Wade Trappe, Rutgers University, USA
+    - Patrick Traynor, Georgia Institute of Technology, USA
+    - Dominique Unruh, Saarland University, Germany
+    - Dan S. Wallach, Rice University, USA
+    - Andreas Wespi, North Carolina State University, USA
+    - Ting Yu, IBM Research, Switzerland
+    - Yanyong Zhang, Rutgers University, USA
+cycles:
+  - first:
+      submission: "2009-04-17"
+      acceptance: "2009-06-08"
+      camera-ready: "2009-06-29"
+# 15 pages, 20 total, suggested LNCS

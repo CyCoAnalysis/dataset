@@ -1,0 +1,186 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20241120190446/https://esorics2024.org/
+topics:
+  - Access Control
+  - Anonymity and Censorship Resistance
+  - Artificial Intelligence for Security
+  - Audit and Accountability
+  - Cyber Attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response.
+  - Data and Computation Integrity
+  - Database Security
+  - Digital Content Protection
+  - Digital Forensics
+  - Formal Methods for Security and Privacy
+  - Hardware Security
+  - Information Hiding
+  - Identity Management
+  - Information Flow Control
+  - Information Security (including disinformation/fake news detection)
+  - Intrusion Detection
+  - Governance and Management
+  - Language-based Security
+  - Malware and Unwanted Software
+  - Network Security
+  - Phishing and Spam Prevention
+  - Privacy Technologies and Mechanisms
+  - Risk Analysis and Management
+  - Secure Electronic Voting
+  - Security Economics and Metrics
+  - Security and Privacy in Cloud / Fog Systems
+  - Security and Privacy of Systems based on Machine Learning and A.I.
+  - Security and Privacy in Crowdsourcing
+  - Security and Privacy in the IoT and Cyber-Physical Systems
+  - Security and Privacy in Location-based Services
+  - Security and Privacy for Mobile / Smartphone Platforms
+  - Security, Privacy, and Resilience for Large-Scale, Critical Infrastructures (e.g., Smart Grid, AirPorts, Ports)
+  - Security for Emerging Networks (e.g., Home Networks, IoT, Body-Area Networks, VANETs)
+  - Security and Privacy in Social Networks
+  - Security and Privacy in Wireless and Cellular Communications
+  - Software Security
+  - Systems Security
+  - Trustworthy Computing to Secure Networks and Systems
+  - Usable Security and Privacy
+  - Web Security
+pc:
+  - "Program committee":
+    - Eric Alata, LAAS-CNRS
+    - Massimiliano Albanese, George Mason University
+    - Cristina Alcaraz, University of Malaga
+    - Magnus Almgren (Round 2) , Chalmers University of Technology
+    - Abdelrahaman Aly (Round 2) , CRC-TII
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Mikael Asplund, Linköping University
+    - Vijay Atluri, Rutgers University
+    - Daniel Augot, INRIA Saclay
+    - Alessandro Barenghi (Round 2) , Politecnico di Milano
+    - Sebastien Bardin (Round 2) , CEA List
+    - Ken Barker, University of Calgary
+    - Giampaolo Bella, University of Catania
+    - Elisa Bertino, Purdue University
+    - Giuseppe Bianchi, Universita’ di Roma Tor Vergata
+    - Alex Biryukov, University of Luxembourg
+    - Jorge Blasco-Alis  , Universidad Politécnica de Madrid
+    - Carlo Blundo, University of Salerno
+    - Rainer Böhme, University of Innsbruck
+    - Nora Boulahia-Cuppens, Polytechnique Montréal
+    - Pino Caballero-Gil (Round 2) , University of La Laguna
+    - Xavier Carpent (Round 2) , University of Nottingham
+    - Mauro Conti, University of Padua and TU Delft
+    - Scott Coull, Google
+    - Bruno Crispo, University of Trento
+    - Frédéric Cuppens, Polytechnique Montréal
+    - Mila Dalla Preda, University of Verona
+    - Tooska Dargahi (Round 2) , Manchester Metropolitan University
+    - Sanchari Das, University of Denver
+    - Sabrina De Capitani di Vimercati   , University of Milan
+    - Hervé Debar, Télécom SudParis
+    - Jose Maria de Fuentes, Carlos III University
+    - Roberto Di Pietro, King Abdullah University of Science and Technology
+    - Xuhua Ding, Singapore Management University
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili
+    - Jannik Dreier (Round 2) , Université de Lorraine
+    - François Dupressoir, University of Bristol
+    - Andreas Ekelhart (Round 2) , SBA Research
+    - Anna Lisa Ferrara, University of Molise
+    - Steven Furnell (Round 1), University of Nottingham
+    - Olga Gadyatskaya, University of Leiden
+    - Debin Gao (Round 2) , Singapore Management University
+    - Yansong Gao (Round 2) , CSIRO/Data61
+    - Essam Ghadafi (Round 2) , University College London
+    - Giorgio Giacinto, University of Cagliari
+    - Alberto Giaretta, Orebro University
+    - Dieter Gollmann, Hamburg University of Technology
+    - Lorena González Manzano, Carlos III University
+    - Dimitris Gritzalis (Round 2) , Athens University of Economics and Business
+    - Berk Gulmezoglu, Iowa State University
+    - Xueyuan Han (Round 2) , Stellar Cyber
+    - Hannes Hartenstein, Karlsruhe Institute of Technology
+    - Javier Herranz (Round 2) , Universitat Politècnica de Catalunya
+    - Jordi Herrera-Joancomarti, Universitat Autonoma de Barcelona
+    - Lucca Hirschi, INRIA
+    - Chung Hwan Kim, University of Texas at Dallas
+    - Hugo Jonker, Open University of Netherlands
+    - Mohamed Kaaniche, LAAS-CNRS
+    - Stefan Katzenbeisser, University of Passau
+    - Jörg Keller (Round 2) , FernUniversität in Hagen
+    - Hiroaki Kikuchi, Meiji University
+    - Hyoungshick Kim, Sungkyunkwan University
+    - Jihye Kim (Round 1), Kookmin University
+    - Marina Krotofil, Maersk
+    - Christopher Kruegel, University of California, Santa Barbara
+    - Miroslaw Kutylowski, NASK-National Research Institute
+    - Alptekin Küpçü, Koç University
+    - Romain Laborde, University Paul Sabatier
+    - Pascal Lafourcade, Université Clermont Auvergne
+    - Peeter Laud, Cybernetica AS
+    - Maryline Laurent, Télécom SudParis
+    - Kaitai Liang, Delft University of Technology
+    - Peng Liu, Pennsylvania State University
+    - Giovanni Livraga, University of Milan
+    - Valeria Loscrì, Inria
+    - Wenjing Lou, Virginia Tech
+    - Eduard Marin, Telefonica Research
+    - Jean-Yves Marion, Université de Lorraine
+    - Ivan Martinovic, Oxford University
+    - Gregorio Martinez-Perez, University of Murcia
+    - Barbara Masucci (Round 2) , University of Salerno
+    - Wojciech Mazurczyk, Warsaw University of Technology
+    - Catherine Meadows, Naval Research Laboratory
+    - David Megías, Universitat Oberta de Catalunya
+    - Weizhi Meng, Technical University of Denmark
+    - Chris Mitchell, Royal Holloway, University of London
+    - John C. Mitchell (Round 1), Stanford University
+    - Haralambos Mouratidis, University of Essex
+    - Guillermo Navarro-Arribas, Autonomous University of Barcelona
+    - Antonino Nocera, University of Pavia
+    - Gabriele Oligeri , Hamad Bin Khalifa University
+    - Cristina Onete, Université de Limoges
+    - Philippe Owezarski , LAAS-CNRS
+    - Stefano Paraboschi, Universit�? di Bergamo
+    - Josef Pieprzyk (Round 2) , CSIRO/Data61 and PAS
+    - Joachim Posegga , Universität Passau
+    - Jean-Jacques Quisquater, University of Louvain
+    - Kai Rannenberg, Goethe University Frankfurt
+    - Indrakshi Ray, Colorado State University
+    - Peter Rønne, University of Luxembourg
+    - Giovanni Russello (Round 1), University of Auckland
+    - Indrajit Ray (Round 2) , Colorado State University
+    - Peter Y. A. Ryan, University of Luxembourg
+    - Reihaneh Safavi-Naini, University of Calgary
+    - Pierangela Samarati, University of Milan
+    - David Sanchez, Universitat Rovira i Virgili
+    - Neetesh Saxena (Round 2) , Cardiff University
+    - Dominique Schröder, University of Erlangen-Nürnberg
+    - Joerg Schwenk, Ruhr-Universität Bochum
+    - Savio Sciancalepore, Eindhoven University of Technology
+    - Siamak F. Shahandashti, University of York
+    - Claudio Soriente, NEC Laboratories Europe
+    - Alessandro Sorniotti, IBM Zurich
+    - Angelo Spognardi, Sapienza Universit�? di Roma
+    - Riccardo Spolaor, Shandong University
+    - Thorsten Strufe, Karlsruhe Institute of Technology
+    - Florence Sèdes, University Toulouse 3 Paul Sabatier
+    - Nadia Tawbi, Université Laval
+    - Vicenç Torra, Umeå University
+    - Daniele Venturi, The Sapienza University of Rome
+    - Haining Wang, Virginia Tech
+    - Cong Wang, City University of Hong Kong
+    - Edgar Weippl, University of Vienna & SBA Research
+    - Avishai Wool, Tel Aviv University
+    - Stefano Zanero, Politecnico di Milano
+    - Nicola Zannone, Eindhoven University of Technology
+    - Urko Zurutuza, Mondragon Unibertsitatea
+cycles:
+  - first:
+      submission: "2024-01-08"
+      acceptance: "2024-03-18"
+      camera-ready: "2024-04-19"
+  - second:
+      submission: "2024-04-19"
+      acceptance: "2024-06-14"
+      camera-ready: "2024-06-28"
+# 16 pages net, 20 total, LNCS
+anonymous: false
+conflicts: true

@@ -1,0 +1,166 @@
+website:
+  url: null
+  available: false
+  archive: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=73201&copyownerid=22168
+topics:
+  - access control
+  - accountability
+  - ad hoc networks
+  - anonymity
+  - applied cryptography
+  - authentication
+  - biometrics
+  - blockchain and finance security
+  - data and computation integrity
+  - database security
+  - data protection
+  - deep learning for attack and defense
+  - digital content protection
+  - digital forensics
+  - distributed systems security
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - information security governance and management
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - network security
+  - phishing and spam prevention
+  - privacy
+  - privacy preserving data mining
+  - risk analysis and management
+  - secure electronic voting
+  - security architectures
+  - security economics
+  - security metrics
+  - security models
+  - security and privacy for big data
+  - security and privacy in cloud scenarios
+  - security and privacy in complex systems
+  - security and privacy in content centric networking
+  - security and privacy in crowdsourcing
+  - security and privacy in the IoT
+  - security and privacy in location services
+  - security and privacy for mobile code
+  - security and privacy in pervasive / ubiquitous computing
+  - security and privacy policies
+  - security and privacy in social networks
+  - security and privacy in web services
+  - security and privacy in cyber-physical systems
+  - security, privacy and resilience in critical infrastructures
+  - security verification
+  - software security
+  - systems security
+  - trust models and management
+  - trustworthy user devices
+  - usable security and privacy
+  - web security
+  - wireless security
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Cristina Alcaraz, University of Malaga, Spain
+    - Elli Androulaki, IBM, Switzerland
+    - Vijay Atluri, Rutgers University, USA
+    - Michael Backes, Saarland University, Germany
+    - Carlo Blundo, Universita' degli Studi di Salerno, Italy
+    - Levente Buttyan, BME, Hungary
+    - Jan Camenish, IBM, Switzerland
+    - Alvaro Cardenas, University of Texas at Dallas, USA
+    - Aldar Chan, University of Hong Kong, HK
+    - Liqun Chen, University of Surrey, UK
+    - Sherman S. M. Chow, Chinese University of Hong Kong, HK
+    - Mauro Conti, University of Padua, Italy
+    - Jorge Cuellar, Siemens A.G., Germany
+    - Frederic Cuppens, TELECOM Bretagne, France
+    - Nora Cuppens-Boulahia, TELECOM Bretagne, France
+    - Marc Dacier, EURECOM, France
+    - Sabrina De Capitani di Vimercati, Universita' degli studi di Milano, Italy
+    - Herve Debar, Telecom SudParis, France
+    - Roberto Di Pietro, Hamad Bin Khalifa University (HBKU), Qatar
+    - Josep Domingo-Ferrer, University Rovira-Virgili, Spain
+    - Haixin Duan, Tsinghua University, China
+    - Juan Tapiador, Universidad Carlos III de Madrid, Spain
+    - Jose Fernandez, Polytechnique Montreal, Canada
+    - Josep Lluis Ferrer, UIB, Spain
+    - Simone Fischer-Hübner, Karlstad University, Sweden
+    - Simon Foley, IMT Atlantique, France
+    - Sara Foresti, Universita' degli studi di Milano, Italy
+    - David Galindo, University of Birmingham, UK
+    - Debin Gao, SMU, Singapore
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Dimitris Gritzalis, Athens University of Economics and Business, Greece
+    - Stefanos Gritzalis, University of the Aegean, Greece
+    - Guofei Gu, Texas A&M University, USA
+    - Juan Hernandez, UPC, Spain
+    - Amir Herzberg, Bar-Ilan University, Israel & University of Connecticut, USA
+    - Alejandro Hevia, University of Chile, Chile
+    - Xinyi Huang, Fujian Normal University, China
+    - Sushil Jajodia, George Mason University, USA
+    - Vasilios Katos, Bournemouth University, UK
+    - Sokratis Katsikas, NTNU, Norway
+    - Kwangjo Kim, KAIST, Korea
+    - Steve Kremer, INRIA Nancy-Grand Est, France
+    - Marina Krotofil, FireEye, USA
+    - Costas Lambrinoudakis, University of Piraeus, Greece
+    - Loukas Lazos, University of Arizona, USA
+    - Ninghui Li, Purdue University, USA
+    - Yingjiu Li, SMU, Singapore
+    - Hoon Wei Lim, SingTel, Singapore
+    - Joseph Liu, Monash University, Australia
+    - Peng Liu, Pennsylvania State University, USA
+    - Xiapu Luo, Hong Kong Polytechnic University, HK
+    - Mark Manulis, University of Surrey, UK
+    - Kostas Markantonakis, RHUL, UK
+    - Olivier Markowitch, UniversitÃ© Libre de Bruxelles, Belgium
+    - Fabio Martinelli, IIT-CNR, Italy
+    - Gregorio Martinez, University of Murcia, Spain
+    - Ivan Martinovic, University of Oxford, UK
+    - Sjouke Mauw, University of Luxembourg, Luxembourg
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Weizhi Meng, DTU, Denmark
+    - Chris Mitchell, RHUL, UK
+    - Refik Molva, EURECOM, France
+    - Haris Mouratidis, University of Brighton, UK
+    - David Naccache, Ecole Normale Suprieure, France
+    - Martin Ochoa, SUTD, Singapore
+    - Eiji Okamoto, University of Tsukuba, Japan
+    - Rolf Oppliger, eSECURITY Technologies, Switzerland
+    - Gunther Pernul, UniversitÃ¤t Regensburg, Germany
+    - Christina Popper, NYU Abu Dhabi, UAE
+    - Joachim Posegga, University of Passau, Germany
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Indrajiti Ray, Colorado State University, USA
+    - Giovanni Russello, University of Auckland, New Zealand
+    - Mark Ryan, University of Birmingham, UK
+    - Peter Y.A. Ryan, University of Luxembourg, Luxembourg
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, Universita' degli studi di Milano, Italy
+    - Damien Sauveron, XLIM, France
+    - Steve Schneider, University of Surrey, UK
+    - Ozgur Sinanoglu, NYU Abu Dhabi, UAE
+    - Einar Snekkenes, Gjovik University College, Norway
+    - Willy Susilo, University of Wollongong, Australia
+    - Pawel Szalachowski, SUTD, Singapore
+    - Qiang Tang, LIST, Luxembourg
+    - Nils Ole Tippenhauer, SUTD, Singapore
+    - Aggeliki Tsohou, Ionian University, Greece
+    - Jaideep Vaidya, Rutgers University, USA
+    - Serge Vaudenay, EPFL, Switzerland
+    - Luca Vigano', King's College London, UK
+    - Michael Waidner, Fraunhofer SIT, Germany
+    - Cong Wang, City University of Hong Kong, HK
+    - Lingyu Wang, Concordia University, Canada
+    - Edgar Weippl, SBA Research, Austria
+    - Christos Xenakis, University of Piraeus, Greece
+    - Kehuan Zhang, Chinese University of Hong Kong, HK
+    - Sencun Zhu, Pennsylvania State University, USA
+cycles:
+  - first:
+      submission: "2018-04-24"
+      acceptance: "2018-06-15"
+      camera-ready: "2018-06-25"
+# 16 pages net, 20 total, LNCS

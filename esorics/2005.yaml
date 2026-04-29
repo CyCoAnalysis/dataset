@@ -1,0 +1,90 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20050214032844/http://esorics05.dti.unimi.it/
+topics:
+  - access control
+  - accountability
+  - intellectual property protection
+  - security as quality of service
+  - anonymity
+  - applied cryptography
+  - peer-to-peer security
+  - secure electronic commerce
+  - authentication
+  - covert channels
+  - intrusion tolerance
+  - security administration
+  - cryptographic protocols
+  - cybercrime
+  - language-based security
+  - security evaluation
+  - data integrity
+  - denial of service attacks
+  - network security
+  - security management
+  - dependability
+  - firewalls
+  - non-interference
+  - security models
+  - formal methods in security
+  - inference control
+  - privacy-enhancing technology
+  - security requirements engineering
+  - information flow control
+  - information warfare
+  - pseudonymity
+  - security verification
+  - smartcards
+  - steganography
+  - subliminal channels
+  - survivability
+  - system security
+  - transaction management
+  - trustworthy user devices
+  - information dissemination control
+  - digital right managament
+  - data and application security
+  - identity management
+  - trust models and trust management policies
+pc:
+  - "Program committee":
+    - Rakesh Agrawal , IBM Almaden Research Center, USA
+    - Gerard Allwein , Naval Research Laboratory, USA
+    - Ross Anderson , University of Cambridge, UK
+    - Vijay Atluri , Rutgers University, USA
+    - Michael Backes , IBM Zurich Research Laboratory, Switzerland
+    - Giampaolo Bella , University of Catania, Italy
+    - Jan Camenisch , IBM Zurich Research Laboratory, Switzerland
+    - David Chadwick , University of Kent, UK
+    - LiWu Chang , Naval Research Laboratory, USA
+    - Marc Dacier , Institut Eurécom, France
+    - Ernesto Damiani , University of Milan, Italy
+    - George Danezis , University of Cambridge, UK
+    - Simon Foley , University College, Ireland
+    - Philippe Golle , Palo Alto Research Center, USA
+    - Sushil Jajodia , George Mason University, USA
+    - Marit Hansen , Independent Centre for Privacy Protection Schleswig-Holstein, Germany
+    - Philippa Hopcroft , Oxford University, UK
+    - Dogan Kesdogan , RWTH Aachen, Informatik IV, Germany
+    - Peng Liu , The Pennsylvania State University, USA
+    - Javier Lopez , University of Malaga, Spain
+    - Heiko Mantel , ETH-Zentrum, Switzerland
+    - Nick Mathewson , The Free Haven Project, USA
+    - Patrick McDaniel , The Pennsylvania State University, USA
+    - Peng Ning , NC State University, USA
+    - Bart Preneel , Katholieke Universiteit Leuven, Belgium
+    - Peter Ryan , University of Newcastle upon Tyne, UK
+    - Kazue Sako , NEC Corporation, Japan
+    - Pierangela Samarati   , University of Milan, Italy
+    - Vanessa Teague , University of Melbourne, Australian
+    - Brent Waters , Stanford University, USA
+    - Mariemma I. Yague , University of Malaga, Spain
+    - Alec Yasinsac , Florida State University, USA
+    - Sheng Zhong , State University of New York at Buffalo, USA
+cycles:
+  - first:
+      submission: "2005-04-01"
+      acceptance: "2005-05-30"
+      camera-ready: "2005-06-30"
+# 15 pages, 20 total, not much formatting detail

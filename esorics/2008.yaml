@@ -1,0 +1,111 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20080922192020/http://www.isac.uma.es/esorics08/cfp.html
+topics:
+  - access control
+  - language-based security
+  - accountability
+  - network security
+  - anonymity
+  - non-interference
+  - applied cryptography
+  - peer-to-peer security
+  - authentication
+  - privacy-enhancing technology
+  - authorization and delegation
+  - pseudonymity
+  - covert channels
+  - secure electronic commerce
+  - cryptographic protocols
+  - security administration
+  - cybercrime
+  - security as quality of service
+  - data and application security
+  - security evaluation
+  - data integrity
+  - security management
+  - denial of service attacks
+  - security models
+  - dependability
+  - security requirements engineering
+  - digital right management
+  - security veri?cation
+  - formal methods in security
+  - smartcards
+  - identity management
+  - steganography
+  - inference control
+  - subliminal channels
+  - information dissemination control
+  - survivability
+  - information ?ow control
+  - system security
+  - information warfare
+  - transaction management
+  - intellectual property protection
+  - trust models and trust management policies
+  - intrusion tolerance
+  - trustworthyuser devices
+pc:
+  - "Program committee":
+    - Vijay Atluri, Rutgers University, USA
+    - Michael Backes, Saarland University, Germany
+    - David Basin, ETH Zurich, Switzerland
+    - Gilles Barthe, INRIA, France
+    - Marina Blanton, University of Notre Dame, USA
+    - Jan Camenisch, IBM Research, Switzerland
+    - David Chadwick, University of Kent, UK
+    - Bruno Crispo, University of Trento, Italy
+    - Frederic Cuppens, ENST Bretagne, France
+    - Sabrina De Capitani di Vimercati, Univ. Milan, Italy
+    - Josep L. Ferrer, Univ. of Islas Baleares, Spain
+    - David Galindo, University of Malaga, Spain
+    - Juan A. Garay, Bell Labs, USA
+    - Dieter Gollmann, HUT, Germany
+    - Antonio Gomez-Skarmeta, Univ. of Murcia, Spain
+    - Juanma Gonzalez-Nieto, QUT, Australia
+    - Dimitris Gritzalis, UAEB, Greece
+    - Stefanos Gritzalis, Univ. Aegean, Greece
+    - Jordi Herrera, UAB, Spain
+    - Aggelos Kiayias, University of Connecticut, USA
+    - Socrates Katsikas, Univ. Piraeus, Greece
+    - Christopher Kruegel, TU Vienna, Austria
+    - Michiharu Kudo, IBM Tokyo Research, Japan
+    - Kwok-Yan Lam, Tsinghua University, China
+    - Wenke Lee, Georgia Institue of Technology, USA
+    - Yingjiu Li, SMU, Singapore
+    - Peng Liu, Penn State University, USA
+    - Fabio Martinelli, CNR, Italy
+    - Fabio Massacci, University of Trento, Italy
+    - Vashek Matyas, University Brno, Czech  Republic
+    - Chris Mitchell, Royal Holloway, UK
+    - Refik Molva, Eurecom, France
+    - Yi Mu, University of Wollongong, Australia
+    - Peng Ning, North Carolina State University, USA
+    - Eiji Okamoto, University of Tsukuba, Japan
+    - Martin Olivier, University of Pretoria, South Africa
+    - Stefano Paraboschi, University of Bergamo, Italy
+    - Jong-Hyuk Park, Kyungnam University, Korea
+    - Guenther Pernul, Univ. Regensburg, Germany
+    - Bart Preneel, KUL, Belgium
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Indrakshi Ray, Colorado State University, USA
+    - Peter Ryan, Newcastle University, UK
+    - Pierangela Samarati, University of Milan, Italy
+    - Sean Smith, Dartmouth College, USA
+    - Miguel Soriano, UPC, Spain
+    - Vipin Swarup, MITRE Corporation, USA
+    - Angelos Stavrou, George Mason University, USA
+    - Giovanni Vigna, UCSB, USA
+    - Michael Waidner, IBM Zurich Research, Switzerland
+    - Lingyu Wang, Concordia University, Canada
+    - Avishai Wool, Tel Aviv University, Israel
+    - Jianying Zhou, I2R, Singapore
+    - Sencun Zhu, Pennsylvania State University, USA
+cycles:
+  - first:
+      submission: "2008-04-07"
+      acceptance: "2008-06-20"
+      camera-ready: "2008-07-14"
+# 15 pages, 20 total, suggested LNCS

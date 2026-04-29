@@ -1,0 +1,251 @@
+website:
+  url: https://esorics2021.athene-center.de/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Anonymity and censorship resistance
+  - Applied cryptography
+  - Artificial intelligence for security
+  - Audit and accountability
+  - Authentication and biometrics
+  - Blockchains and distributed ledger security
+  - Data and computation integrity
+  - Database security
+  - Digital content protection
+  - Digital forensics
+  - Formal methods for security and privacy
+  - Hardware security
+  - Information hiding
+  - Identity management
+  - Information flow control
+  - Information security governance and management
+  - Intrusion detection
+  - Language-based security
+  - Malware and unwanted software
+  - Network security
+  - Phishing and spam prevention
+  - Privacy technologies and mechanisms
+  - Risk analysis and management
+  - Secure electronic voting
+  - Security for artificial intelligence
+  - Security economics and metrics
+  - Security and privacy in cloud systems
+  - Security and privacy in crowdsourcing
+  - Security and privacy in 'internet of things' and cyber-physical systems
+  - Security and privacy in location services
+  - Security and privacy in mobile computing
+  - Security and privacy in social networks
+  - Security and privacy in wireless and cellular communications
+  - Security, privacy and resilience in critical infrastructures
+  - Software security
+  - Systems security
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+pc:
+  - "Program committee":
+    - Ruba Abu-Salma, ICSI/UC Berkeley, USA
+    - Yehuda Afek, Tel Aviv University, Israel
+    - Mitsuaki Akiyama, NTT, Japan
+    - Cristina Alcaraz, UMA, Spain
+    - Mark Allman, International Computer Science Institute (ICSI), USA
+    - Vijay Atluri, Rutgers University, USA
+    - Erman Ayday, Case Western Reserve University, USA
+    - Guangdong Bai, University of Queensland, Australia
+    - Lejla Batina, Radboud University, Nijmegen, The Netherlands
+    - Steven M. Bellovin, Columbia University, USA
+    - Antonio Bianchi, Purdue University, USA
+    - Marina Blanton, University at Buffalo, USA
+    - Carlo Blundo, Università degli Studi di Salerno, Italy
+    - Tamara Bonaci, Northeastern University, USA
+    - Nora Boulahia Cuppens, Polytechnique Montréal, Canada
+    - Alejandro Cabrera Aldaya, Tampere University of Technology, Finland
+    - Lorenzo Cavallaro, King's College London, UK
+    - Berkay Celik, Purdue University, USA
+    - Aldar C-F. Chan, BIS Innovation Hub Hong Kong Centre, Hong Kong
+    - Liqun Chen, University of Surrey, UK
+    - Rongmao Chen, National University of Defense Technology, China
+    - Xiaofeng Chen, Xidian University, China
+    - Yu Chen, School of Cyber Science and Technology, Shandong University, China
+    - Sherman Chow, Chinese University of Hong Kong (CUHK), Hong Kong
+    - Mauro Conti, University of Padua, Italy
+    - Scott Coull, FireEye, Inc., USA
+    - Bruno Crispo, University of Trento, Italy
+    - Michel Cukier, University of Maryland, USA
+    - Frédéric Cuppens, Polytechnique Montréal, Canada
+    - George Danezis, UCL, UK
+    - Sanchari Das, University of Denver, USA
+    - Sabrina De Capitani di Vimercati, Università degli studi di Milano, Italy
+    - Hervé Debar, Télécom SudParis, France
+    - Roberto Di Pietro, Hamad Bin Khalifa University - College of Science and Engineering, Qatar
+    - Wenrui Diao, Shandong University, China
+    - Tassos Dimitriou, Computer Technology Institute, Greece and Kuwait University, Kuwait, Kuwait
+    - Shlomi Dolev, Ben-Gurion University, Israel
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Spain
+    - Changyu Dong, Newcastle University, UK
+    - Haixin Duan, Tsinghua University, USA
+    - François Dupressoir, University of Surrey, UK
+    - Pardis Emami Naeini, Carnegie Mellon University, USA
+    - Paulo Esteves-Veríssimo, Université du Luxembourg, Luxembourg
+    - Jose-Luis Ferrer-Gomila, University of the Balearic Islands, Spain
+    - Sara Foresti, Università degli studi di Milano, Italy
+    - Michael Franz, University of California Irvine, USA
+    - David Galindo, University of Birmingham, UK
+    - Debin Gao, Singapore Management University, Singapore
+    - Joaquin Garcia-Alfaro, Telecom SudParis, France
+    - Siddharth Garg, New York University, USA
+    - Thanassis Giannetsos, Technical University of Denmark, Department of Computer Science (DTU Compute), Denmark
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Neil Gong, Duke University, USA
+    - Stefanos Gritzalis, University of Piraeus, Greece
+    - Daniel Gruss, Institute for Applied Information Processing and Communications, Graz University of Technology, Austria
+    - Zhongshu Gu, IBM T.J. Watson Research Center, USA
+    - Thomas Haines, Norwegian University of Science and Technology, Norway
+    - Feng Hao, University of Warwick, UK
+    - Juan Hernández-Serrano, Universitat Politècnica de Catalunya, Spain
+    - Xinyi Huang, Fujian Normal University, China
+    - Syed Hussain, The Pennsylvania State University, USA
+    - Sotiris Ioannidis, Technical University of Crete, Greece
+    - Tibor Jager, Bergische Universität Wuppertal, Germany
+    - Philipp Jeitner, Fraunhofer SIT, Germany
+    - Yuseok Jeon, Ulsan National Institute of Science and Technology (UNIST), South Korea
+    - Shouling Ji, Zhejiang University, China
+    - Ghassan Karame, NEC Laboratories Europe, Germany
+    - Sokratis Katsikas, Norwegian University of Science and Technology, Norway
+    - Aggelos Kiayias, University of Edinburgh, UK
+    - Hyoungshick (Hyoung) Kim, Sungkyunkwan University (SKKU), South Korea
+    - Ryan Ko, University of Queensland, Australia
+    - Juliane Krämer, TU Darmstadt, Germany
+    - Steve Kremer, INRIA, France
+    - Marina Krotofil, Honeywell Industrial Cyber Security Lab, USA
+    - Christopher Kruegel, University of California, Santa Barbara, USA
+    - Yonghwi Kwon, University of Virginia, USA
+    - Costas Lambrinoudakis, University of Piraeus, Greece
+    - Shir Landau-Feibish, The Open University of Israel, Israel
+    - Kyu Hyung Lee, University of Georgia, USA
+    - Corrado Leita, VMware, UK
+    - Shujun Li, University of Kent, UK
+    - Zitao Li, Purdue University, USA
+    - Kaitai Liang, Delft University of Technology, The Netherlands
+    - Xiaojing Liao, Indiana University Bloomington, USA
+    - Hoon Wei Lim, Trustwave, Singapore
+    - Zhiqiang Lin, Ohio State University, USA
+    - Xiangyu Liu, Alibaba Group, China
+    - Joseph Liu, Monash University, Australia
+    - Rongxing Lu, University of New Brunswick, Canada
+    - Xiapu Luo, Hong Kong Polytechnic University, Hong Kong
+    - Shiqing Ma, Rutgers University, USA
+    - Leandros Maglaras, De Montfort University, UK
+    - Fabio Martinelli, IIT-CNR, Italy
+    - Sjouke Mauw, Université du Luxembourg, Luxembourg
+    - Weizhi Meng, Department of Applied Mathematics and Computer Science, Technical Universtiy of Denmark, Denmark
+    - Nele Mentens, KU Leuven, Belgium
+    - Mira Mezini, TU Darmstadt, Germany
+    - Chris Mitchell, Royal Holloway, University of London, UK
+    - Tal Moran, Interdisciplinary Center Herzliya, Israel
+    - Tatsuya Mori, Waseda University, Japan
+    - Johannes Mueller, University of Luxembourg, Luxembourg
+    - Max Mühlhäuser, TU Darmstadt, Germany
+    - David Naccache, Ecole normale suprieure, France
+    - Siaw-Lynn Ng, Royal Holloway, University of London, UK
+    - Nick Nikiforakis, Stony Brook University, USA
+    - Jianting Ning, National University of Singapore / Singapore Management University, Singapore
+    - Satoshi Obana, Hosei University, Japan
+    - Martín Ochoa, AppGate Inc., Colombia
+    - Rolf Oppliger, eSECURITY Technologies, Switzerland
+    - Rebekah Overdorf, Ecole Polytechnique Fédérale de Lausanne, Switzerland
+    - Sikhar Patranabis, Visa Research, Palo Alto, CA, USA
+    - Jiaxin Pan, Norwegian University of Science and Technology, Norway
+    - Radia Perlman, DELL EMC, USA
+    - Günther Pernul, Universität Regensburg, Germany
+    - Tran Viet Xuan Phuong, University of Wollongong , Australia
+    - Frank Piessens, KU Leuven, Belgium
+    - Joachim Posegga, Univ. of Passau, Germany
+    - Jean-Jacques Quisquater, Université Catholique de Louvain, Belgium
+    - Siddharth Prakash Rao, Nokia Bell Labs, USA
+    - Awais Rashid, University of Bristol, UK
+    - Michael Reiter, Duke University, USA
+    - Kui Ren, Zhejiang University, China
+    - Junghwan "John" Rhee, University of Central Oklahoma, USA
+    - Giovanni Russello, Dept of Computer Science, The University of Auckland, New Zealand
+    - Peter Y A Ryan, University of Luxembourg, Luxembourg
+    - Reihaneh Safavi-Naini, University of Calgary, Canada
+    - Merve Sahin, SAP Security Research, France
+    - Amin Sakzad, Monash University, Australia
+    - Pierangela Samarati, Università degli studi di Milano, Italy
+    - Damien Sauveron, XLIM (UMR University of Limoges/CNRS 7252), France
+    - Sebastian Schinzel, FH Münster, Germany
+    - Steve Schneider, University of Surrey, UK
+    - Bruce Schneier, BT, USA
+    - Dominique Schröder, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
+    - Michael Schwarz, CISPA Helmholtz Center for Information Security, Germany
+    - Joerg Schwenk, Ruhr-Universität Bochum, Germany
+    - Kent Seamons, Brigham Young University, UK
+    - Bardin Sébastien, CEA LIST, France
+    - Jean-Pierre Seifert, TU Berlin, Germany
+    - Siamak F. Shahandashti, University of York, UK
+    - Kris Shrishak, TU Darmstadt, Germany
+    - Radu Sion, Stony Brook University, USA
+    - Nigel Smart, KU Leuven, Belgium
+    - Einar Snekkenes, Norwegian University of Science and Technology (NTNU), Norway
+    - Juraj Somorovsky, Ruhr-Universität Bochum, Germany
+    - Thorsten Strufe, KIT, Germany
+    - Willy Susilo, University of Wollongong, Australia
+    - Paul Syverson, U.S. Naval Research Laboratory, USA
+    - Qiang Tang, Luxembourg Institute of Science and Technology, Luxembourg
+    - Qiang Tang, NJIT/University of Sydney, USA
+    - Dave Tian, Purdue University, USA
+    - Laura Tinnel, SRI International, USA
+    - Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security, Germany
+    - Jacob Torrey, Amazon Web Services, USA
+    - Ari Trachtenberg, Boston University, USA
+    - Helen Treharne, University of Surrey, UK
+    - Aggeliki Tsohou, Ionian University, Greece
+    - Mathy Vanhoef, New York University Abu Dhabi, Abu Dhabi
+    - Luca Viganò, King's College London, UK
+    - Michael Waidner, Fraunhofer SIT, Germany | National Research Center for Applied Cybersecurity ATHENE, Germany
+    - Cong Wang, City University of Hong Kong, Hong Kong
+    - Haining Wang, Virginia Tech Research Center - Arlington, USA
+    - Lingyu Wang, Concordia University, Canada
+    - Weihang Wang, SUNY University at Buffalo, China
+    - Bing Wang, University of Connecticut, USA
+    - Edgar Weippl, University of Vienna & SBA Research, Austria
+    - Avishai Wool, Tel Aviv University, Israel
+    - Christos Xenakis, University of Piraeus, Greece
+    - Yang Xiang, Swinburne University of Technology, Australia
+    - Minhui Xue, The University of Adelaide, Australia
+    - Guomin Yang, University of Wollongong, Australia
+    - Jie Yang, Florida State University, USA
+    - Kang Yang, State Key Laboratory of Cryptology, China
+    - Yuval Yarom, University of Adelaide, Australia
+    - Xun Yi, RMIT University, Australia
+    - Yu Yu, Shanghai Jiao Tong University, China
+    - Fengwei Zhang, SUSTech, China
+    - Kehuan Zhang, The Chinese University of Hong Kong, Hong Kong
+    - Yang Zhang, CISPA Helmholtz Center for Information Security, Germany
+    - Yinqian Zhang, Southern University of Science and Technology, China
+    - Yuan Zhang, Fudan University, China
+    - Zhenfeng Zhang, Chinese Academy of Sciences, China
+    - Yunlei Zhao, Fudan University, China
+    - Jianying Zhou, Singapore University of Technology and Design, Singapore
+    - Sencun Zhu, The Pennsylvania State University, USA
+cycles:
+  - first:
+      abstract: "2021-01-05"
+      submission: "2021-01-12"
+      rebuttal-end: "2021-02-25"
+      acceptance: "2021-03-12"
+      camera-ready: "2021-08-12"
+  - second:
+      abstract: "2021-05-05"
+      submission: "2021-05-12"
+      rebuttal-end: "2021-06-25"
+      acceptance: "2021-07-12"
+      camera-ready: "2021-08-12"
+# 16 pages net, 20 total, LNCS
+# awards: true
+# revision option
+# response not explained
+anonymous: false
+conflicts: true

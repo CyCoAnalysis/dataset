@@ -1,0 +1,164 @@
+website:
+  url: null
+  available: false
+  archive: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84772&copyownerid=35350
+topics:
+  - access control
+  - accountability
+  - ad hoc networks
+  - anonymity
+  - applied cryptography
+  - authentication
+  - biometrics
+  - blockchain and finance security
+  - data and computation integrity
+  - database security
+  - data protection
+  - deep learning for attack and defense
+  - digital content protection
+  - digital forensics
+  - distributed systems security
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - information security governance and management
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - network security
+  - phishing and spam prevention
+  - privacy
+  - privacy preserving data mining
+  - risk analysis and management
+  - secure electronic voting
+  - security architectures
+  - security economics
+  - security metrics
+  - security models
+  - security and privacy for big data
+  - security and privacy in cloud scenarios
+  - security and privacy in complex systems
+  - security and privacy in content centric networking
+  - security and privacy in crowdsourcing
+  - security and privacy in the IoT
+  - security and privacy in location services
+  - security and privacy for mobile code
+  - security and privacy in pervasive / ubiquitous computing
+  - security and privacy policies
+  - security and privacy in social networks
+  - security and privacy in web services
+  - security and privacy in cyber-physical systems
+  - security, privacy and resilience in critical infrastructures
+  - security verification
+  - software security
+  - systems security
+  - trust models and management
+  - trustworthy user devices
+  - usable security and privacy
+  - web security
+  - wireless security
+pc:
+  - "Program committee":
+    - Cristina Alcaraz, University of Malaga, Spain
+    - Elli Androulaki, IBM, Switzerland
+    - Frederik Armknecht, University of Mannheim, Germany
+    - Vijay Atluri, Rutgers University, USA
+    - Marina Blanton, University of Notre Dame, USA
+    - Carlo Blundo, Universita` degli Studi di Salerno, Italy
+    - Christian Cachin, University of Bern, Switzerland
+    - Alvaro Cardenas, University of Texas at Dallas, USA
+    - Aldar Chan, University of Hong Kong, HK
+    - Yan Chen, Northwestern University, USA
+    - Sherman S. M. Chow, Chinese University of Hong Kong, HK
+    - Mauro Conti, University of Padua, Italy
+    - Jorge Cuellar, Siemens A.G., Germany
+    - Frederic Cuppens, TELECOM Bretagne, France
+    - Nora Cuppens-Boulahia, TELECOM Bretagne, France
+    - Marc Dacier, EURECOM, France
+    - Sabrina De Capitani di Vimercati, Università degli studi di Milano, Italy
+    - Hervé Debar, Télécom SudParis, France
+    - Stéphanie Delaune, IRISA, France
+    - Roberto Di Pietro, Hamad Bin Khalifa University (HBKU), Qatar
+    - Josep Domingo-Ferrer, University Rovira-Virgili, Spain
+    - Haixin Duan, Tsinghua University, China
+    - Francois Dupressoir, University of Surrey, UK
+    - Jose Fernandez, Polytechnique Montreal, Canada
+    - Jose-Luis Ferrer-Gomila, UIB, Spain
+    - Simone Fischer-Hübner, Karlstad University, Sweden
+    - Simon Foley, IMT Atlantique, France
+    - Sara Foresti, Università degli studi di Milano, Italy
+    - David Galindo, University of Birmingham, UK
+    - Debin Gao, SMU, Singapore
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Stefanos Gritzalis, University of the Aegean, Greece
+    - Guofei Gu, Texas A&M University, USA
+    - Juan Hernandez, UPC, Spain
+    - Xinyi Huang, Fujian Normal University, China
+    - Ghassan Karame, NEC Labs Europe, Germany
+    - Vasilios Katos, Bournemouth University, UK
+    - Sokratis Katsikas, NTNU, Norway
+    - Stefan Katzenbeisser TU Darmstadt, Germany
+    - Steve Kremer, INRIA Nancy-Grand Est, France
+    - Marina Krotofil, FireEye, USA
+    - Costas Lambrinoudakis, University of Piraeus, Greece
+    - Yingjiu Li, SMU, Singapore
+    - Kaitai Liang, University of Surrey, UK
+    - Hoon Wei Lim, SingTel, Singapore
+    - Joseph Liu, Monash University, Australia
+    - Peng Liu, Pennsylvania State University, USA
+    - Xiapu Luo, Hong Kong Polytechnic University, HK
+    - Konstantinos Markantonakis, RHUL, UK
+    - Fabio Martinelli, IIT-CNR, Italy
+    - Ivan Martinovic, University of Oxford, UK
+    - Sjouke Mauw, University of Luxembourg, Luxembourg
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Weizhi Meng, DTU, Denmark
+    - Chris Mitchell, RHUL, UK
+    - John C. Mitchell, Stanford University, USA
+    - Tatsuya Mori, Waseda University, Japan
+    - Haris Mouratidis, University of Brighton, UK
+    - David Naccache, Ecole Normale Suprieure, France
+    - Satoshi Obana, Hosei University, Japan
+    - Martin Ochoa, SUTD, Singapore
+    - Rolf Oppliger, eSECURITY Technologies, Switzerland
+    - Andrew Paverd, Microsoft Research Cambridge, UK
+    - Olivier Pereira, UCL, Belgium
+    - Günther Pernul, Universität Regensburg, Germany
+    - Christina Popper, New York University, US
+    - Joachim Posegga, University of Passau, Germany
+    - Bart Preneel, Katholieke Universiteit Leuven, Belgium
+    - Indrajiti Ray, Colorado State University, USA
+    - Giovanni Russello, University of Auckland, New Zealand
+    - Mark Ryan, University of Birmingham, UK
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Kazue Sako, NEC, Japan
+    - Pierangela Samarati, Universitá degli studi di Milano, Italy
+    - Damien Sauveron, XLIM, France
+    - Steve Schneider, University of Surrey, UK
+    - Einar Snekkenes, Gjovik University College, Norway
+    - Pawel Szalachowski, SUTD, Singapore
+    - Willy Susilo, University of Wollongong, Australia
+    - Qiang Tang, LIST, Luxembourg
+    - Juan Tapiador, Universidad Carlos III de Madrid, Spain
+    - Nils Ole Tippenhauer, SUTD, Singapore
+    - Helen Treharne, University of Surrey, UK
+    - Aggeliki Tsohou, Ionian University, Greece
+    - Jaideep Vaidya, Rutgers University, USA
+    - Luca Viganò, King’s College London, UK
+    - Michael Waidner, Fraunhofer SIT, Germany
+    - Cong Wang, City University of Hong Kong, HK
+    - Lingyu Wang, Concordia University, Canada
+    - Edgar Weippl, SBA Research, Austria
+    - Christos Xenakis, University of Piraeus, Greece
+    - Zhe Xia, Wuhan University of Technology, China
+    - Kehuan Zhang, Chinese University of Hong Kong, HK
+    - Sencun Zhu, Pennsylvania State University, USA
+cycles:
+  - first:
+      abstract: "2019-04-22"
+      submission: "2019-04-29"
+      acceptance: "2019-06-21"
+      camera-ready: "2019-07-09"
+# 16 pages net, 20 total, LNCS

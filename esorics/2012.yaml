@@ -1,0 +1,130 @@
+website:
+  url: https://hosting.services.iit.cnr.it/esorics2012/
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - ad hoc networks
+  - anonymity
+  - applied cryptography
+  - authentication
+  - biometrics
+  - database security
+  - data protection
+  - digital content protection
+  - digital forensic
+  - distributed systems security
+  - electronic payments
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - integrity
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - network security
+  - phishing and spam prevention
+  - privacy
+  - risk analysis and management
+  - secure electronic voting
+  - security architectures
+  - security economics
+  - security metrics
+  - security models
+  - security and privacy in cloud scenarios
+  - security and privacy in complex systems
+  - security and privacy in location services
+  - security and privacy for mobile code
+  - security and privacy in pervasive/ubiquitous computing
+  - security and privacy policies
+  - security and privacy in social networks
+  - security and privacy in web services
+  - security verification
+  - software security
+  - steganography
+  - systems security
+  - trust models and management
+  - trustworthy user devices
+  - web security
+  - wireless security
+pc:
+  - "Program committee":
+    - Claudio A. Ardagna, Universita` degli Studi di Milano, Italy
+    - Alessandro Armando, Universita` di Genova, Italy
+    - Mikhail Atallah, Purdue University, USA
+    - Michael Backes, Saarland University, Germany
+    - David A. Basin, ETH Zurich, Switzerland
+    - Kevin Bauer, University of Waterloo, Canada
+    - Joachim Biskup, University of Dortmund, Germany
+    - Marina Blanton, University of Notre Dame, USA
+    - Carlo Blundo, Universita` degli Studi di Salerno, Italy
+    - Kevin R.B. Bulter, University of Oregon, USA
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Liqun Chen, HP Labs, UK
+    - Seung-Geol Choi, University of Maryland, USA
+    - Veronique Cortier, LORIA, France
+    - Marco Cova, University of Birmingham, UK
+    - Jason Crampton, University of London, UK
+    - Frederic Cuppens, Telecom Bretagne, France
+    - Anupam Datta, Carnegie Mellon University, USA
+    - Sabrina De Capitani di Vimercati, Univ. degli Studi di Milano, Italy
+    - Claudia Diaz, K.U. Leuven, Belgium
+    - Sven Dietrich, Stevens Institute of Technology, USA
+    - Roberto Di Pietro, Roma Tre University of Rome, Italy
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Spain
+    - Wenliang Du, Syracuse University, USA
+    - Riccardo Focardi, University of Venice, Italy
+    - Simon Foley, University College Cork, Ireland
+    - Keith B. Frikken, Miami University, USA
+    - Dieter Gollmann, TU Hamburg-Harburg, Germany
+    - Dimitris Gritzalis, AUEB, Greece
+    - Ryan Henry, University of Waterloo, Canada
+    - Amir Herzberg, Bar-Ilan University, Israel
+    - Sushil Jajodia, George Mason University, USA
+    - Aaron Johnson, U.S. Naval Research Lab, USA
+    - Stefan Katzenbeisser, TU Darmstadt, Germany
+    - KwangJo Kim, KAIST, Korea
+    - Markulf Kohlweiss, Microsoft Research, UK
+    - Michiharu Kudo, IBM Tokyo Research Laboratory, Japan
+    - Miroslaw Kutylowski, Wroclaw University of Technology, Poland
+    - Adam J. Lee, Univeristy of Pittsburgh, USA
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Dongdai Lin, Chinese Academy of Sciences, China
+    - Javier Lopez, University of Malaga, Spain
+    - Wenjing Lou, Virginia Polytechnic Institute and State University, USA
+    - John C. Mitchell, Stanford University, USA
+    - Atsuko Miyaji, JAIST, Japan
+    - David Naccache, ENS, France
+    - Peng Ning, North Carolina State University, USA
+    - Stefano Paraboschi, Universita` degli Studi di Bergamo, Italy
+    - Guenther Pernul, University of Regensburg, Germany
+    - Benny Pinkas, Bar Ilan University, Israel
+    - Michalis Polychronakis, Columbia University, USA
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Indrakshi Ray, Colorado State University, USA
+    - Kui Ren, Illinois Institute of Technology, USA
+    - Peter Ryan, University of Luxembourg, Luxembourg
+    - Ahmad-Reza Sadeghi, TU Darmstadt, Germany
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Kouichi Sakurai, Kyushu University, Japan
+    - Pierangela Samarati, Universita` degli Studi di Milano, Italy
+    - R. Sekar, Stony Brook University, USA
+    - Elaine Shi, PARC/UC Berkley, USA
+    - Einar Snekkenes, Gjovik University College, Norway
+    - Abhinav Srivastava, AT&T Labs - Research, USA
+    - Carmela Troncoso, K.U. Leuven, Belgium
+    - Yevgeniy Vahlis, AT&T, USA
+    - Jaideep Vaidya, Rutgers University, USA
+    - Michael Waidner, TU Darmstadt, Germany
+    - Shouhai Xu, University of Texas at San Antonio, USA
+    - Ting Yu, North Carolina State University, USA
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2012-04-10"
+      acceptance: "2012-06-10"
+      camera-ready: "2012-06-20"
+# 16 pages net, 20 total, LNCS

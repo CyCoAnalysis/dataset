@@ -1,0 +1,148 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20141121122936/http://esorics2014.pwr.wroc.pl/
+topics:
+  - access control
+  - accountability
+  - anonymity
+  - applied cryptography
+  - attack methods
+  - authentication
+  - audit and certification
+  - biometrics
+  - data protection
+  - design methodology for security and privacy protection
+  - digital content protection
+  - digital forensic
+  - electronic payments
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - integrity
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - mobile code security
+  - phishing and spam prevention
+  - personal identity documents
+  - privacy
+  - risk analysis and management
+  - system security
+  - steganography
+  - trust models and management
+  - trustworthy user devices
+  - web security
+  - usable security
+  - security visualization
+  - "security and privacy":
+    - architectures
+    - economics
+    - metrics
+    - models
+    - policies
+    - verification
+  - "security and privacy issues in":
+    - ad hoc networks
+    - cloud scenarios
+    - complex systems
+    - computer networks
+    - database systems
+    - distributed systems
+    - operating systems
+    - telecommunication and location services
+    - security and privacy for mobile code
+    - pervasive/ubiquitous computing
+    - social networks
+    - voting and other issues of e-democracy
+    - web services
+    - wireless systems
+pc:
+  - "Program committee":
+    - Masayuki Abe, NTT Secure Platform Laboratories, Japan
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Mikhail Atallah, Purdue University, USA
+    - Vijay Atluri, Rutgers University, USA
+    - Kun Bai, IBM TJ Watson Research Center, USA
+    - Giampaolo Bella, UniversitÃ  di Catania, Italy
+    - Marina Blanton, University of Notre Dame, USA
+    - Kevin Butler, University of Oregon, USA
+    - Zhenfu Cao, Shanghai Jiao Tong University, P.R.C.
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Liqun Chen, Hewlett-Packard Laboratories, UK
+    - Xiaofeng Chen, Xidian University, P.R.C.
+    - Sherman S. M. Chow, Chinese University of Hong Kong
+    - Veronique Cortier, CNRS, LORIA, France
+    - Marco Cova, University of Birmingham, UK
+    - Laszlo Csirmaz, Central European University, Budapest, Hungary
+    - Frederic Cuppens, TELECOM Bretagne, France
+    - Nora Cuppens-Boulahia, TELECOM Bretagne, France
+    - Reza Curtmola, New Jersey Institute of Technology, USA
+    - Ozgur Dagdelen, Technische Universitaet Darmstadt, Germany
+    - Sabrina De Capitani Di Vimercati, UniversitÃ  degli Studi di Milano, Italy
+    - Roberto Di Pietro, UniversitÃ  di Roma Tre, Italy
+    - Claudia Diaz, KU Leuven, Belgium
+    - Josep Domingo-Ferrer, UniversitÃ  Rovira i Virgili, Catalonia
+    - Wenliang Du, Syracuse University, USA
+    - Simon Foley, University College Cork, Ireland
+    - Philip W. L. Fong, University of Calgary, Canada
+    - Sara Foresti, UniversitÃ  degli Studi di Milano, Italy
+    - Keith Frikken, Miami University, Ohio, USA
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Dimitris Gritzalis, Athens University of Economics and Business, Greece
+    - Ehud Gudes, Ben-Gurion University, Israel
+    - Thorsten Holz, Ruhr-University Bochum, Germany
+    - Yuan Hong, University at Albany, SUNY, USA
+    - Xinyi Huang, Fujian Normal University, P.R.C.
+    - Sushil Jajodia, George Mason University, USA
+    - Sokratis Katsikas, University of Piraeus, Greece
+    - Stefan Katzenbeisser, Technische Universitaet Darmstadt, Germany
+    - Florian Kerschbaum, SAP, Germany
+    - Kwangjo Kim, KAIST, Korea
+    - Marek Klonowski, Wroclaw University of Technology, Poland
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Adam J. Lee, University of Pittsburgh, USA
+    - Helger Lipmaa, University of Tartu, Estonia
+    - Peng Liu, The Pennsylvania State University, USA
+    - Javier Lopez, University of Malaga, Spain
+    - Haibing Lu, Santa Clara University, USA
+    - Emil Lupu, Imperial College, UK
+    - Mark Manulis, University of Surrey, UK
+    - Krystian Matusiewicz, Intel Technology, Poland
+    - Christoph Meinel, Hasso-Plattner-Institut, Germany
+    - Refik Molva, EURECOM, France
+    - David Naccache, Ecole Normale Suprieure, France
+    - Stefano Paraboschi, UniversitÃ  di Bergamo, Italy
+    - Gunther Pernul, Universitaet Regensburg, Germany
+    - Indrakshi Ray, Colorado State University, USA
+    - Christian Rechberger, Technical University of Denmark
+    - Kui Ren, University of Buffalo, SUNY, USA
+    - Ahmad-Reza Sadeghi, Technische Universitaet Darmstadt, Germany
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, UniversitÃ  degli Studi di Milano, Italy
+    - Andreas Schaad, SAP, Germany
+    - Basit Shafiq, Lahore University of Management Sciences, Pakistan
+    - Radu Sion, Stony Brook University, USA
+    - Shamik Sural, IIT, Kharagpur, India
+    - Willy Susilo, University of Wollongong, Australia
+    - Krzysztof Szczypiorski, Warsaw University of Technology, Poland
+    - Mahesh Tripunitara, The University of Waterloo, Canada
+    - Michael Waidner, Fraunhofer SIT, Germany
+    - Lingyu Wang, Concordia University, Canada
+    - Felix Wu, University of California, Davis, USA
+    - Yang Xiang, Deakin University, Australia
+    - Xun Yi, Victoria University, Australia
+    - Ting Yu, Qatar Computing Research Institute, Qatar
+    - Meng Yu, Virginia Commonwealth University, USA
+    - Rui Zhang, Chinese Academy of Sciences, P.R.C.
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2014-04-02"
+      acceptance: "2014-06-10"
+      camera-ready: "2014-06-21"
+# 16 pages net, 20 total, LNCS
+# awards: true
+anonymous: false

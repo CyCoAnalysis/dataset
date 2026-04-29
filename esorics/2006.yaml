@@ -1,0 +1,87 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20060721232505/http://www.esorics06.tu-harburg.de/callforpapers.html
+topics:
+  - access control
+  - accountability
+  - applied cryptography
+  - authentication
+  - covert channels
+  - cryptographic protocols
+  - cybercrime
+  - data and application security
+  - denial of service attacks
+  - digital rights management
+  - distributed trust management
+  - formal methods in security
+  - identity management
+  - inference control
+  - information assurance
+  - information dissemination controls
+  - information flow controls
+  - information warfare
+  - intellectual property protection
+  - intrusion tolerance
+  - language-based security
+  - network security
+  - peer-to-peer security
+  - privacy-enhancing technology
+  - secure electronic commerce
+  - security as quality of service
+  - security evaluation
+  - security management
+  - security models
+  - security requirements engineering
+  - smartcards
+  - subliminal channels
+  - system security
+  - trust models
+  - trustworthy user devices
+pc:
+  - "Program committee":
+    - Tuomas Aura, Microsoft Research Cambridge, UK
+    - Michael Backes, Saarland University, Germany
+    - Gilles Barthe, INRIA Sophia-Antipolis, France
+    - Lynn Batten, Deakin University, Australia
+    - Giampaolo Bella, University of Catania, Italy
+    - Joachim Biskup, University of Dortmund, Germany
+    - Jan Camenisch, IBM Zurich Research Laboratory, Switzerland
+    - Jason Crampton, Royal Holloway, UK
+    - Frederic Cuppens, ENST Bretagne, France
+    - Marc Dacier, Institut Eurécom, France
+    - George Danezis, University of Leuven, Belgium
+    - Sabrina De Capitani di Vimercati, University of Milan, Italy
+    - Robert Deng, Singapore Management University, Singapore
+    - Ulfar Erlingsson, Microsoft Research, USA
+    - Simon Foley, University College, Ireland
+    - Philippe Golle, Palo Alto Research Center, USA
+    - Pieter Hartel, Twente University, Netherlands
+    - Jaap-Henk Hoepman, Radboud University Nijmegen, Netherlands
+    - Sushil Jajodia, George Mason University, USA
+    - Alan Jeffrey, Bell Labs, USA
+    - Audun Josang, QUT, Australia
+    - Jan Juerjens, TU Munich, Germany
+    - Markus Kuhn, University of Cambridge, UK
+    - Xuejia Lai, Shanghai Jiaotong University, China
+    - Kwok-Yan Lam, Tsinghua University, China
+    - Volkmar Lotz, SAP, France
+    - Heiko Mantel, RWTH Aachen, Germany
+    - Vashek Matyas, Masaryk University Brno, Czech Republic
+    - Flemming Nielson, DTU, Denmark
+    - Peter Ryan, University of Newcastle upon Tyne, UK
+    - Babak Sadighi, SICS, Sweden
+    - Kazue Sako, NEC Corporation, Japan
+    - Andre Scedrov, U. Pennsylvania, USA
+    - Christoph Schuba, Linköping University, Sweden
+    - Einar Snekkenes, Gjøvik University College, Norway
+    - Eijiro Sumii, Tohoku University, Japan
+    - Paul Syverson, NRL, USA
+    - Mariemma I. Yagüe, University of Malaga, Spain
+    - Alf Zugenmaier, DoCoMo Labs Europe, Germany
+cycles:
+  - first:
+      submission: "2006-03-31"
+      acceptance: "2006-05-30"
+      camera-ready: "2006-06-30"
+# 15 pages, 20 total, suggested LNCS

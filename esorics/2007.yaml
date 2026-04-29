@@ -1,0 +1,67 @@
+website:
+  url: https://dud.inf.tu-dresden.de/esorics2007/
+  available: true
+  archive: null
+topics:
+- security architecture and secure components (trusted computing modules, smartcards, personal computing devices, networks, information systems, applications, peer-to-peer connections, language-based security, ... )
+- access control (authorization, privileges, delegation, revocation, credentials, authentication, accountability, safety analysis, ... )
+- information control (data flows, information flows, inferences, covert channel analysis, ... )
+- applied cryptography (protocol design, protocol verification, authentication protocols, identity management, key distribution, ... )
+- tolerance and survivability (attack models, vulnerability analysis, intrusion detection, malware collection and analysis, ... )
+- security management (requirements engineering, policy specification, trust evaluation, policy enforcement, ... )
+- secure electronic commerce, administration, and government (digital rights management, intellectual property protection, privacy-enhancing technologies, e-voting, ... )
+- formal methods in security (security models, security verification, ... )
+pc:
+  - "Program committee":
+    - Anas Abou el Kalam, ENSIB, France
+    - Ross Anderson, Cambridge University, UK
+    - Vijay Atluri, Rutgers University, USA
+    - Michael Backes, Saarland University, Germany
+    - Joan Borrell, Autonomous University of Barcelona, Spain
+    - Gilles Barthe, INRIA Sophia-Antipolis, France
+    - David Basin, ETH Zurich, Switzerland
+    - Elisa Bertino, Purdue University, USA
+    - David Chadwick, University of Kent, UK
+    - Bruno Crispo, Free University Amsterdam, Netherlands
+    - Frederic Cuppens, ENST Bretagne, France
+    - Marc Dacier, Institut Eurecom, France
+    - Sabrina De Capitani di Vimercati, University of Milan, Italy
+    - Robert Deng, Singapore Management University, Singapore
+    - Josep Domingo-Ferrer, Rovira i Virgili University, Spain
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Pieter Hartel, Twente University, Netherlands
+    - Audun Josang, Queensland University of Technology, Australia
+    - Christopher Kruegel, Vienna University of Technology, Austria
+    - Michiharu Kudo, IBM Tokyo Research, Japan
+    - Helmut Kurth, ATSEC, Germany
+    - Miroslaw Kutylowski, Wroclaw University of Technology, Poland
+    - Kwok-Yan Lam, Tsinghua University, China
+    - Heiko Mantel, RWTH Aachen, Germany
+    - Fabio Martinelli, CNR Pisa, Italy
+    - Fabio Massacci, University of Trento, Italy
+    - Catherine Meadows, Naval Research, USA
+    - Naftaly Minsky, Rutgers University, USA
+    - David Naumann, Stevens Institute of Technology, USA
+    - Flemming Nielson, Technical University of Denmark, Denmark
+    - Martin Olivier, University of Pretoria, South Africa
+    - Jose Onieva, University of Malaga, Spain
+    - Bart Preneel, Catholic University Leuven/Louvain, Belgium
+    - Jean-Jacques Quisquater, Catholic University Leuven/Louvain, Belgium
+    - Peter Ryan, University of Newcastle upon Tyne, UK
+    - Pierangela Samarati, University of Milan, Italy
+    - Shiuhpyng Shieh, National Chiao Tung University, Taiwan
+    - Vitaly Shmatikov, University of Texas, USA
+    - Einar Snekkenes, Gjøvik University College, Norway
+    - Michael Waidner, IBM Zurich Research, Switzerland
+    - Duminda Wijesekera, George Mason University, USA
+    - Marianne Winslett, University of Illinois, USA
+    - Avishai Wool, Tel Aviv University, Israel
+    - Jianying Zhou, I2R, Singapore
+cycles:
+  - first:
+      submission: "2007-04-04"
+      acceptance: "2007-06-01"
+      camera-ready: "2007-06-29"
+# 15 pages, 20 total, suggested LNCS
+# abstract word limit (300)
+# keywords

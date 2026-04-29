@@ -1,0 +1,97 @@
+website:
+  url: https://esorics2013.isg.rhul.ac.uk/
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn , Arizona State University
+    - Massimiliano Albanese , George Mason University
+    - Claudio Agostino Ardagna , Università degli Studi di Milano
+    - Alessandro Armando , University of Genova and Fondazione Bruno Kessler
+    - Michael Backes , Max Planck Institute for Software Systems
+    - David Basin , ETH Zurich
+    - Kevin Bauer , MIT Lincoln Laboratory
+    - Lujo Bauer , Carnegie Mellon University
+    - Konstantin Beznosov , University of British Columbia
+    - Marina Blanton , University of Notre Dame
+    - Carlo Blundo , Università di Salerno
+    - Kevin Butler , University of Oregon
+    - Srdjan Capkun , ETH Zurich
+    - Liqun Chen , Hewlett-Packard Laboratories
+    - Sherman Chow , Chinese University of Hong Kong
+    - Marco Cova , University of Birmingham
+    - Jason Crampton (Co-chair) , Royal Holloway, University of London
+    - Frédéric Cuppens , TELECOM Bretagne
+    - Sabrina De Capitani Di Vimercati , Università degli Studi di Milano
+    - Roberto Di Pietro , Università di Roma Tre
+    - Claudia Diaz , Katholieke Universiteit Leuven
+    - Josep Domingo-Ferrer , Rovira i Virgili University
+    - Wenliang Du , Syracuse University
+    - Riccardo Focardi , Università Ca’ Foscari di Venezia
+    - Simon Foley , University College Cork
+    - Sara Foresti , Università degli Studi di Milano
+    - Cedric Fournet , Microsoft Research
+    - Keith Frikken , Miami University
+    - Dieter Gollmann , Hamburg University of Technology
+    - Dimitris Gritzalis , Athens University of Economics and Business
+    - Gerhard Hancke , Royal Holloway, University of London
+    - Amir Herzberg , Bar Ilan University
+    - Michael Huth , Imperial College London
+    - Sushil Jajodia (Co-chair) , George Mason University
+    - Aaron Johnson , Naval Research Laboratory
+    - Jonathan Katz , University of Maryland
+    - Stefan Katzenbeisser , Technische Universität Darmstadt
+    - Engin Kirda , Northeastern University
+    - Markulf Kohlweiss , Microsoft Research Cambridge
+    - Steve Kremer , INRIA Nancy – Grand Est
+    - Miroslaw Kutylowski , Wroclaw University of Technology
+    - Adam J. Lee , University of Pittsburgh
+    - Wenke Lee , Georgia Institute of Technology
+    - Yingjiu Li , Singapore Management University
+    - Benoit Libert , Technicolor
+    - Javier Lopez , University of Malaga
+    - Wenjing Lou , Virginia Polytechnic Institute and State University
+    - Gregory Neven , IBM Research, Zurich
+    - Pratyusa K Manadhata , Hewlett-Packard Laboratories
+    - Luigi Mancini , Universita di Roma La Sapienza
+    - Fabio Martinelli , IIT-CNR
+    - Sjouke Mauw , University of Luxembourg
+    - Atsuko Miyaji , Japan Advanced Institute of Science and Technology
+    - Stefano Paraboschi , Universita di Bergamo
+    - Kenneth Paterson , Royal Holloway, University of London
+    - Dusko Pavlovic , Royal Holloway, University of London
+    - Günther Pernul , Universität Regensburg
+    - Frank Piessens , Katholieke Universiteit Leuven
+    - Michalis Polychronakis , Columbia University
+    - Alexander Pretschner , Technische Universität München
+    - Kui Ren , State University of New York at Buffalo
+    - Mark Ryan , University of Birmingham
+    - Peter Ryan , University of Luxembourg
+    - Andrei Sabelfeld , Chalmers University of Technology
+    - Ahmad-Reza Sadeghi , Technische Universität Darmstadt
+    - Rei Safavi-Naini , University of Calgary
+    - Pierangela Samarati , Università degli Studi di Milano
+    - Radu Sion , Stony Brook University
+    - Nigel Smart , University of Bristol
+    - Einar Snekkenes , Gjovik University College
+    - Vipin Swarup , The MITRE Corporation
+    - Roberto Tamassia , Brown University
+    - Carmela Troncoso , Gradiant
+    - Yevgeniy Vahlis , University of Toronto
+    - Jaideep Vaidya , Rutgers University
+    - Vijay Varadharajan , Macquarie University
+    - Venkat Venkatakrishnan , University of Illinois at Chicago
+    - Luca Viganò , University of Verona
+    - Michael Waidner , Fraunhofer SIT
+    - Bogdan Warinschi , University of Bristol
+    - Ting Yu , North Carolina State University
+    - Moti Yung , Columbia University
+cycles:
+  - first:
+      submission: "2013-04-10"
+      acceptance: "2013-06-10"
+      camera-ready: "2013-06-21"
+# 16 pages net, 20 total, LNCS
+# awards: true
+anonymous: false

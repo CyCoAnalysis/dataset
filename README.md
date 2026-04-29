@@ -28,7 +28,7 @@ We currently cover the following conferences, tracking all editions since 2005:
 - ACSAC
 <!-- - ASIA CCS -->
 - CSF
-<!-- - ESORICS -->
+- ESORICS
 - Euro S&P
 <!-- - RAID -->
 

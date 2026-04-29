@@ -1,0 +1,141 @@
+website:
+  url: https://esorics2015.sba-research.org/
+  available: true
+  archive: null
+topics:
+  - access control
+  - accountability
+  - ad hoc networks
+  - anonymity
+  - applied cryptography
+  - authentication
+  - biometrics
+  - database security
+  - data protection
+  - digital content protection
+  - digital forensic
+  - distributed systems security
+  - electronic payments
+  - embedded systems security
+  - inference control
+  - information hiding
+  - identity management
+  - information flow control
+  - integrity
+  - intrusion detection
+  - formal security methods
+  - language-based security
+  - network security
+  - phishing and spam prevention
+  - privacy
+  - risk analysis and Management
+  - secure electronic voting
+  - security architectures
+  - security economics
+  - security metrics
+  - security models
+  - security and privacy in cloud scenarios
+  - security and privacy in complex systems
+  - security and privacy in location services
+  - security and privacy for mobile code
+  - security and privacy in pervasive/ubiquitous computing
+  - security and privacy policies
+  - security and privacy in social networks
+  - security and privacy in web services
+  - security verification
+  - software security
+  - steganography
+  - systems security
+  - trust models and management
+  - trustworthy user devices
+  - web security
+  - wireless security
+pc:
+  - "Program committee":
+    - David A. Basin, ETH Zurich, Switzerland
+    - Alessandro Armando, Universita` di Genova, Italy
+    - Vijay Atluri, Rutgers University, USA
+    - Michael Backes, Saarland University, Germany
+    - Feng Bao, Security and Privacy Lab, Huawei, China
+    - Giampaolo Bella, Università di Catania, Italy
+    - Carlo Blundo, Universita` degli Studi di Salerno, Italy
+    - Stefan Brunthaler, SBA Research, Austria
+    - John C. Mitchell, Stanford University, USA
+    - Ran Canetti, Tel Aviv University, Israel
+    - Liqun Chen, HP Labs, UK
+    - Michael Clarkson, Cornell University, USA
+    - Jason Crampton, University of London, UK
+    - Cas Cremers, University of Oxford, UK
+    - Frédéric Cuppens, Telecom Bretagne, France
+    - Nora Cuppens-Boulahia, Telecom Bretagne, France
+    - Sabrina De Capitani di Vimercati, Universita` degli Studi di Milano, Italy
+    - Wenliang Du, Syracuse University, USA
+    - Dimitris E. Simos, SBA Research, Austria
+    - Hannes Federrath, University of Hamburg, Germany
+    - Simon Foley, University College Cork, Ireland
+    - Sara Foresti, Universita` degli Studi di Milano, Italy
+    - Felix Freiling, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+    - Michael Goldsmith, University of Oxford, UK
+    - Dieter Gollmann, TU Hamburg-Harburg, Germany
+    - Dimitris Gritzalis, AUEB, Greece
+    - Joshua Guttman, MTIRE Corp and Worcester Polytechnic, USA
+    - Feng Hao, Newcastle University, UK
+    - Amir Herzberg, Bar-Ilan University, Israel
+    - Xinyi Huang, Fujian Normal University, China
+    - Michael Huth, Imperial College, UK
+    - Sotiris Ioannidis, FORTH, Crete
+    - Adam J. Lee, University of Pittsburgh, USA
+    - Sushil Jajodia, George Mason University, USA
+    - Markus Jakobsson, Qualcomm, USA
+    - Sokratis K. Katsikas, University of Piraeus, Greece
+    - Stefan Katzenbeisser, TU Darmstadt, Germany
+    - Florian Kerschbaum, SAP, Germany
+    - Steve Kremer, INRIA Nancy and LORIA, France
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Yingjiu Li, Singapore Management University, Singapore
+    - Peng Liu, Pennsylvania State University, USA
+    - Javier Lopez, University of Malaga, Spain
+    - Wenjing Lou, Virginia Polytechnic Institute and State University, USA
+    - Haibing Lu, Santa Clara University, USA
+    - Antonio Maña, Univeristy of Malaga, Spain
+    - Roy Maxion, Carnegie Mellon University, USA
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Carroll Morgan, University of New South Wales, Australia
+    - Martin Mulazzani, SBA Research, Austria
+    - David Naccache, ENS, France
+    - Rolf Oppliger, eSecurity Technologies, Switzerland
+    - Stefano Paraboschi, Universita` degli Studi di Bergamo, Italy
+    - Olivier Pereira, UCL Crypto Group, Belgium
+    - Günther Pernul, University of Regensburg, Germany
+    - Bart Preneel, Katholieke Universiteit Leuven , Belgium
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Kui Ren, State University of New York, Buffalo, USA
+    - Mark Ryan, University of Birmingham, UK
+    - Ahmad-Reza Sadeghi, TU Darmstadt, Germany
+    - Pierangela Samarati, Universita` degli Studi di Milano, Italy
+    - Nitesh Saxena, University of Alabama at Birmingham, USA
+    - Andreas Schaad, SAP, Germany
+    - Steve Schneider, University of Surrey, UK
+    - Jörg Schwenk, Ruhr University Bochum, Germany
+    - Basit Shafiq, Lahore University of Management Sciences, Pakistan
+    - Einar Snekkenes, Gjovik University College, Norway
+    - Philip Stark, University of California, Berkeley, USA
+    - Vanessa Teague, University of Melbourne, Australia
+    - Jaideep Vaidya, Rutgers University, USA
+    - Paulo Verissimo, University of  Luxembourg, Luxembourg
+    - Luca Viganò, King’s College London, UK
+    - Michael Waidner, TU Darmstadt, Germany
+    - Cong Wang, City University of Hong Kong, China
+    - Lingyu Wang, University of Concordia, Canada
+    - Ting Yu, North Carolina State University, USA
+    - Meng Yu, Virginia Commonwealth University, USA
+    - Moti Yung, Google, USA
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+    - Sencun Zhu, Pennsylvania State University, USA
+cycles:
+  - first:
+      submission: "2015-04-13"
+      acceptance: "2015-06-15"
+      camera-ready: "2015-06-29"
+# 16 pages net, 20 total, LNCS
+anonymous: false

@@ -1,0 +1,90 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20140715210255/http://www.esorics2010.aueb.gr/
+topics:
+  - Access Control
+  - Privacy Enhancing Technologies
+  - Accountability
+  - Risk Analysis and Management
+  - Anonymity
+  - Secure Electronic Voting
+  - Applied Cryptography
+  - Security Architectures
+  - Attacks and Viral Software
+  - Security Economics
+  - Authentication and Delegation
+  - Security for Mobile Code
+  - Data Integrity
+  - Security for Dynamic Coalitions
+  - Database Security
+  - Security in Location Services
+  - Inference Control
+  - Security in Social Networks
+  - Identity Management
+  - Security Models
+  - Information Flow Control
+  - Security Verification
+  - Intrusion Tolerance
+  - System Security
+  - Formal Security Methods
+  - Trust Models and Management
+  - Language-based Security
+  - Trust Theories
+  - Network Security
+  - Trustworthy User Devices
+pc:
+  - "Program committee":
+    - V. Atluri, Rutgers University (US)
+    - M. Backes, Saarland University and MPI-SWS (D)
+    - F. Bao, Institute for Infocomm Research (SG)
+    - J. Biskup, University of Dortmund (D)
+    - C. Blundo, Università di Salerno (I)
+    - X. Boyen, Stanford University (US)
+    - J. Camenisch, IBM Research Zurich (CH)
+    - S. Capkun, ETH Zurich (CH)
+    - R. Clayton, Cambridge University (UK)
+    - V. Cortier, LORIA-CNRS (F)
+    - F. Cuppens, IT TELECOM Bretagne (F)
+    - G. Danezis, Microsoft Research (UK)
+    - S. De Capitani di Vimercati, Università degli Studi di Milano (I)
+    - C. Diaz, K.U.Leuven (B)
+    - S. Foley, University College Cork (IE)
+    - C. Fournet, Microsoft Research (UK)
+    - D. Frincke, Pacific Northwest National Lab (US)
+    - D. Kesdogan, University of Siegen (D)
+    - D. Gollmann, Hamburg Univ. of Technology (D)
+    - T. Holz, Vienna University of Technology (A)
+    - B. Jacobs, University of Nijmegen (NL)
+    - S. Jajodia, George Mason University (US)
+    - T. Karygiannis, NIST (US)
+    - S. Katzenbeisser, T.U. Darmstadt (D)
+    - A. Kiayias, University of Athens (GR)
+    - M. Kudo, IBM Research Tokyo (J)
+    - K. Kursawe, Philips Research (NL)
+    - C. Lambrinoudakis, University of Piraeus (GR)
+    - J. Lopez, University of Malaga (E)
+    - W. Lee, Georgia Institute of Technology (US)
+    - I. Mavridis, University of Macedonia (GR)
+    - C. Mitchell, University of London (UK)
+    - J. Mitchell, Stanford University (US)
+    - R. Perlman, Intel Corporation (US)
+    - A. Pfitzmann, T.U. Dresden (D)
+    - B. Pinkas, University of Haifa (IL)
+    - P. Ryan, University of Luxembourg (LU)
+    - M. Reiter, University of North Carolina (US)
+    - R. Safavi-Naini, University of Calgary (CA)
+    - P. Samarati, Università degli Studi di Milano (I)
+    - E. Snekkenes, Gjovik University College (NO)
+    - G. Spanoudakis, City University London (UK)
+    - I. Stamatiou, University of Ioannina (GR)
+    - P. Syverson, Naval Research Laboratory (US)
+    - B. Tsoumas, Ernst & Young and AUEB (GR)
+    - M. Waidner, IBM Corporation (US)
+    - D. Westhoff, HAW Hamburg (D)
+cycles:
+  - first:
+      submission: "2010-04-07"
+      acceptance: "2010-06-10"
+      camera-ready: "2010-06-30"
+# 16 pages net, LNCS
