@@ -1,0 +1,135 @@
+website:
+  url: https://www.acsac.org/2019/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity
+  - Applied Cryptography
+  - Assurance
+  - Audit
+  - Big Data for Security
+  - Biometrics
+  - Security case studies
+  - Cloud Security
+  - Cyber-Physical Systems
+  - Denial of Service
+  - Distributed Systems Security
+  - Embedded Systems Security
+  - Enterprise Security Management
+  - Digital Forensics
+  - Identity Management
+  - Incident Response
+  - Insider Threat Protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Malware
+  - Mobile/Wireless Security
+  - Multimedia Security
+  - Network Security
+  - OS Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Resilience
+  - Security and Privacy of the Internet of Things
+  - Security Engineering
+  - Software Security
+  - Software-Defined Programmable Security (e.g., SDN, NFV)
+  - Supply Chain Security
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Yousra Aafer, Purdue University
+    - Ehab Al-Shaer, UNC Charlotte
+    - Magnus Almgren, Chalmers University of Technology
+    - Elias Athanasopoulos, University of Cyprus
+    - Adam Aviv, U.S. Naval Academy
+    - Tiffany Bao, Arizona State University
+    - Leyla Bilge, Symantec Research Lab
+    - Lorenzo Cavallaro, King's College London
+    - Yingying Chen, Rutgers University
+    - Sarah Chmielewski, MIT Lincoln Laboratory
+    - Jin-Hee Cho Virginia Tech
+    - Cristina Cifuentes, Oracle Labs Australia
+    - Adam Doupe, Arizona State University
+    - Manuel Egele, Boston University
+    - William Enck, North Carolina State University
+    - Yanick Fratantonio, Eurecom
+    - Carrie Gates, Securelytix
+    - Neil Gong, Iowa State University
+    - Christophe Hauser, University of Southern California
+    - Amir Houmansadr, University of Massachussetts, Amherst
+    - Hongxin Hu, Clemson University
+    - Martin Johns, SAP
+    - Alexandros Kapravelos, North Carolina State University
+    - Vasileios Kemerlis, Brown University
+    - Florian Kerschbaum, University of Waterloo
+    - Yonghwi Kwon, University of Virginia
+    - Andrea Lanzi, University of Milan
+    - Sangho Lee, Microsoft Research
+    - Fengjun Li, University of Kansas
+    - Qi Li, Tsinghua University
+    - Xiaojing Liao, Indiana University Bloomington
+    - Zhiqiang Lin, Ohio State
+    - Martina Lindorfer, TU Wien
+    - Lannan (Lisa) Luo, University of South Carolina
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Di Ma, University Michigan - Dearborn
+    - Morley Mao, University of Michigan
+    - Evangelos Markatos, FORTH
+    - Collin Mulliner, Cruise Automation
+    - Giancarlo Pellegrino, Saarland University
+    - Chunyi Peng, Purdue University
+    - Roberto Perdisci, University of Georgia
+    - Christina Popper, NYU Abu Dhabi
+    - Jeyavijayan Rajendran, Texas A&M University
+    - Konrad Rieck, Technische Universität Braunschweig,
+    - Kevin Alejandro Roundy, Symantec Research Labs
+    - Nitesh Saxena, University of Alabama at Birmingham
+    - Patrick Schaumont, Virginia Tech
+    - Kent Seamons, Brigham Young University
+    - Seungwon Shin, KAIST, Korea
+    - Xiaokui Shu, IBM Research
+    - Claudio Soriente, NEC Labs Europe
+    - Anna Squicciarini, Penn State University
+    - Ben Stock, CISPA Helmholtz Center i.G.
+    - Gianluca Stringhini, University College London
+    - Kun Sun, George Mason University
+    - Xiaoyan Sun, California State University, Sacramento
+    - Yixin Sun, Princeton University
+    - Juan Tapiador, Universidad Carlos III de Madrid
+    - Michel van Eeten, Delft University of Technology
+    - Hayawardh Vijayakumar, Samsung Research America
+    - Bimal Viswanath, Virginia Tech
+    - Cong Wang, City University of Hong Kong
+    - Gang Wang, Virginia Tech
+    - Hui (Wendy) Wang, Stevens Institute of Technology
+    - Maverick Woo, Carnegie Mellon University
+    - Charles Wright, Portland State University
+    - Xinyu Xing, Penn State University
+    - Zhaoyan Xu, Palo Alto Networks
+    - Fabian Yamaguchi, ShiftLeft
+    - Attilla Altay Yavuz, University of South Florida
+    - Yanfang (Fanny) Ye, West Virginia University
+    - Ting-Fang Yen, DataVisor
+    - Heng Yin, UC Riverside
+    - Katsunari Yoshioka, Yokohama National University
+    - Daniel Zappala, Brigham Young University
+    - Fengwei Zhang, Wayne State University
+    - Jialong Zhang, ByteDance AI Lab
+    - Yupeng Zhang, Texas A&M University
+cycles:
+  - first:
+      submission: "2019-06-15"
+      early-reject: "2019-07-24"
+      acceptance: "2019-08-23"
+anonymous: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Deployable and Impactful Security
+# artifact evaluation

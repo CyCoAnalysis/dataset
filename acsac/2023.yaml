@@ -1,0 +1,167 @@
+website:
+  url: https://www.acsac.org/2023/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control, Assurance, Audit
+  - Anonymity, Privacy
+  - Application Security
+  - Big Data for Security
+  - Cloud and Virtualization Security
+  - Cyber-Physical Systems, Embedded Systems, and IoT Security
+  - Data Integrity and Protection
+  - Denial of Service Attacks and Defenses
+  - Deployable Trustworthy Systems (Hard Topic)
+  - Digital Forensics
+  - Distributed Systems Security
+  - Enterprise Security Management and Incident Response
+  - Hardware and Supply Chain Security
+  - Identity Management
+  - Intrusion Detection and Prevention
+  - Machine Learning Security
+  - Malware
+  - Mobile/Wireless Security
+  - Network Security
+  - OS and Systems Security
+  - Resilience
+  - Software Security
+  - Software-defined Programmable Security
+  - Usability and Human-centered Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Acar Tamersoy, Gen Digital
+    - Adrian Dabrowski, CISPA Helmholtz Center for Information Security
+    - Adwait Nadkarni, William & Mary
+    - Aisha Ali-Gombe, Louisiana State University
+    - Alberto Dainotti, Georgia Institute of Technology
+    - Amin Kharraz, Florida International University
+    - Andrea Continella, University of Twente
+    - Andrea Lanzi, University of Milan
+    - Andrea Mambretti, IBM Research Europe - Zurich
+    - Andreas Peter, University of Oldenburg
+    - Anita Nikolich, UIUC
+    - Antonio Bianchi, Purdue University
+    - Anupam Das, North Carolina State University
+    - Aravind Machiry, Purdue University
+    - Aurore Fass, CISPA Helmholtz Center for Information Security
+    - Baris Coskun, Amazon AWS
+    - Bo Chen, Michigan Technological University
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Byoungyoung Lee, Seoul National University
+    - Chenglin Miao, Iowa State University
+    - Chenxiong Qian, The University of Hong Kong
+    - Chia-Che Tsai, Texas A&M University
+    - Christian Wressnegger, Karlsruhe Institute of Technology (KIT)
+    - Christophe Hauser, Information Sciences Institute, University of Southern California
+    - Daniel Arp, TU Berlin
+    - Dave (Jing) Tian, Purdue University
+    - Davide Maiorca, University of Cagliari, Italy
+    - Ding Wang, Nankai University
+    - Eleonora Losiouk, University of Padua
+    - Elias Athanasopoulos, University of Cyprus
+    - Elisa Bertino, Purdue University
+    - Eugene Vasserman, Kansas State University
+    - Evangelos Markatos, FORTH and University of Crete
+    - Fabian Monrose, Georgia Institute of Technology
+    - Federico Maggi, Amazon AWS
+    - Fengjun Li, University of Kansas
+    - Fengwei Zhang, Southern University of Science and Technology (SUSTech)
+    - Gang Wang, UIUC
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Gianluca Stringhini, Boston University
+    - Giorgio Giacinto, University of Cagliari, Italy
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Guangliang Yang, Fudan University
+    - Hongxin Hu, University at Buffalo
+    - Hussain Almohri, Kuwait University
+    - Hyungjoon (Kevin) Koo, Sungkyunkwan University
+    - Jaewoo Lee, University of Georgia
+    - Jialong Zhang, Tencent Security
+    - Jie Yang, Florida State University
+    - Jin-Hee Cho, Virginia Tech
+    - Jinpeng Wei, University of North Carolina at Charlotte
+    - Johanna Ullrich, SBA Research/University of Vienna
+    - Johannes Kinder, LMU Munich
+    - Kang Li, CertiK
+    - Kapil Singh, IBM T.J. Watson Research Center
+    - Karthika Subramani, Georgia Institute of Technology
+    - Katsunari Yoshioka, Yokohama National University
+    - Kaveh Razavi, ETH Zurich
+    - Kevin Borgolte, Ruhr University Bochum
+    - Konrad Rieck, TU Berlin
+    - Kun Sun, George Mason University
+    - Kyu Hyung Lee, University of Georgia
+    - Lannan (Lisa) Luo, George Mason University
+    - Le Guan, University of Georgia
+    - Leigh Metcalf, CERT
+    - Lejla Batina, Radboud University
+    - Long Cheng, Clemson University
+    - Lorenzo Cavallaro, UCL
+    - Lorenzo De Carli , University of Calgary
+    - Magnus Almgren, Chalmers University of Technology
+    - Man-Ki Yoon, North Carolina State University
+    - Manos Antonakakis, Georgia Institute of Technology
+    - Marco Balduzzi, Trend Micro
+    - Marco Squarcina, TU Wien
+    - Marcus Botacin, Texas A&M University
+    - Martin Johns, TU Braunschweig
+    - Maura Pintor, University of Cagliari
+    - Maverick Woo, Carnegie Mellon University
+    - Michalis Polychronakis, Stony Brook University
+    - Mu Zhang, University of Utah
+    - Nick Nikiforakis, Stony Brook University
+    - Ning Zhang, Washington University in St. Louis
+    - Nitesh Saxena, Texas A&M University
+    - Oleksii Starov, Palo Alto Networks
+    - Omar Alrawi, Georgia Tech
+    - Phani Vadrevu, University of New Orleans
+    - Qi Li, Tsinghua University
+    - Ram Krishnan, University of Texas at San Antonio
+    - Sang Kil Cha, KAIST
+    - Sangho Lee, Microsoft Research
+    - Sarah Chmielewski, MIT Lincoln Laboratory
+    - Savio Sciancalepore, Technische Universiteit Eindhoven (TU/e)
+    - Selcuk Uluagac, Florida International University
+    - Seungwon Shin, KAIST
+    - Shagufta Mehnaz, Penn State University
+    - Shanchieh (Jay) Yang, Rochester institute of Technology
+    - Shuang Hao, University of Texas at Dallas
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Stefano Traverso, Ermes Cyber Security SRL
+    - Stefano Zanero, Politecnico di Milano
+    - Thang Hoang, Virginia Tech
+    - Tuba Yavuz, University of Florida
+    - Vasileios Kemerlis, Brown University
+    - Vinod Yegneswaran, SRI International
+    - Wei Meng, The Chinese University of Hong Kong
+    - Wenwen Wang, University of Georgia
+    - William Melicher, Palo Alto Networks
+    - Xiaojing Liao, Indiana University Bloomington
+    - Xiaoyan Sun, California State University, Sacramento
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Yao Liu, University of South Florida
+    - Yingying Chen, Rutgers University
+    - Yinzhi Cao, Johns Hopkins University
+    - Yue Duan, Illinois Institute of Technology
+    - Yuzhe Tang, Syracuse University
+    - Zachary Tudor, Idaho National Laboratory
+    - Zhaoyan Xu, Bytedance US
+    - Zhen Huang, DePaul University
+    - Zhiqiang Lin, Ohio State University
+cycles:
+  - first:
+      abstract: "2023-05-22"
+      submission: "2023-05-26"
+      early-reject: "2023-07-06"
+      rebuttal-start: "2023-08-02"
+      rebuttal-end: "2023-08-07"
+      acceptance: "2023-08-16"
+anonymous: true
+ethics-discussion: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Deployable Trustworthy Systems
+# artifact evaluation, with indication at submission time
+# minor revision (with a shepherd)
+# DEI

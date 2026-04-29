@@ -1,0 +1,111 @@
+website:
+  url: https://www.acsac.org/2014/cfp/
+  available: true
+  archive: null
+topics:
+-   Access control
+-   Assurance
+-   Audit
+-   Biometrics
+-   Boundary control
+-   Cloud security
+-   Cybersecurity
+-   Denial of service protection
+-   Distributed systems security
+-   Electronic commerce security
+-   Enterprise security management
+-   Forensics
+-   Identity management
+-   Incident response planning
+-   Insider threat protection
+-   Integrity
+-   Intellectual property rights protection
+-   Intrusion detection and prevention
+-   Malware
+-   Mobile and wireless security
+-   Multimedia security
+-   Network resiliency
+-   Operating systems security
+-   Peer-to-peer security
+-   Privacy and data protection
+-   Privilege management
+-   Product evaluation and compliance
+-   Resilience
+-   Security engineering
+-   Security usability
+-   Software security
+-   Supply chain risk
+-   Trust management
+-   Virtualization security
+-   VoIP security
+-   Web 2.0/3.0 security
+pc:
+  - "Program committee":
+    - Adam Aviv, US Naval Academy
+    - Lucas Ballard, Google
+    - David Barrera, Carleton University
+    - Rida Bazzi, Arizona State University
+    - Matt Bishop, UC Davis
+    - Srdjan Capkun, ETH Zurich
+    - Justin Cappos, NYU
+    - Henry Carter, Georgia Institute of Technology
+    - Hao Chen, UC Davis
+    - Gabriela Ciocarlie, SRI International
+    - Jeremy Clark, Concordia University
+    - Petros Efstathopoulos, Symantec Research Labs
+    - William Enck, NC State
+    - Ariel Feldman, University of Chicago
+    - Matthew Fredrikson, University of Wisconsin
+    - Ryan Gerdes, Utah State University
+    - Steven J. Greenwald, Independent Consultant
+    - Guofei Gu, Texas A&M
+    - Ragib Hasan, University of Alabama Birmingham
+    - Amir Houmansadr, University of Massachussetts, Amherst
+    - Trent Jaeger, Penn State University
+    - Rob Jansen, U.S. Naval Research Laboratory
+    - Adam J. Lee, University of Pittsburgh
+    - Brian Levine, University of Massachussetts, Amherst
+    - Zhiqiang Lin, UT Dallas
+    - Ulf Lindqvist, SRI International
+    - Long Lu, Stony Brook University
+    - Mohammad Mannan, Concordia University
+    - Wojciech Mazurczyk, Warsaw University of Technology
+    - Stephen McCamant, University of Minnesota
+    - Damon McCoy, George Mason University
+    - John McDermott, Naval Research Laboratory
+    - Stephen McLaughlin, Narus Inc.
+    - Thomas Moyer, MIT Lincoln Laboratory
+    - Steve Myers, Indiana University
+    - Daniela Oliveira, University of Florida
+    - Xinming Ou, Kansas State University
+    - Zachary Peterson, Cal Poly State University
+    - Michalis Polychronakis, Columbia University
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Raj Rajagopalan, Honeywell
+    - William Robertson, Northeastern University
+    - Franziska Roesner, University of Washington
+    - Ahmad-Reza Sadeghi, Technische Universität Darmstadt
+    - Joshua Schiffman, Advanced Micro Devices, Inc.
+    - Gaurav Shah, Google
+    - Clay Shields, Georgetown University
+    - Kapil Singh, IBM T.J. Watson Research Center
+    - Robin Sommer, ICSI/LBNL
+    - Abhinav Srivastava, AT&T Research
+    - Cynthia Sturton, UNC Chapel Hill
+    - Patrick Tague, CMU
+    - Eugene Vasserman, Kansas State University
+    - Hayawardh Vijaykumar, Samsung R&D, USA
+    - Andrew West, Verisign Labs
+    - Charles Wright, Portland State University
+    - Dongyan Xu, Purdue University
+    - Danfeng (Daphne) Yao, Virginia Tech
+    - Heng Yin, Syracuse University
+    - Wenchao Zhou, Georgetown University
+cycles:
+  - first:
+      submission: "2014-06-08"
+      acceptance: "2014-08-15"
+anonymous: true
+# 10 pages acm
+# awards: true
+# special topic: CPS security (again)

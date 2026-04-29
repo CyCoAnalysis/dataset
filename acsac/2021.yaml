@@ -1,0 +1,151 @@
+website:
+  url: https://www.acsac.org/2021/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity
+  - Applied Cryptography
+  - Assurance
+  - Audit
+  - Big Data for Security
+  - Biometrics
+  - Security case studies
+  - Cloud Security
+  - Cyber-Physical Systems
+  - Denial of Service
+  - Distributed Systems Security
+  - Embedded Systems Security
+  - Enterprise Security Management
+  - Digital Forensics
+  - Identity Management
+  - Incident Response
+  - Insider Threat Protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Machine Learning Security
+  - Malware
+  - Mobile/Wireless Security
+  - Network Security
+  - OS Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Resilience
+  - Security and Privacy of the Internet of Things
+  - Security Engineering
+  - Software Security
+  - Software-Defined Programmable Security
+  - Supply Chain Security
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Adwait Nadkarni, William & Mary
+    - Aiping Xiong, Penn State University
+    - Aisha Ali-Gombe, Towson University
+    - Andrea Lanzi, University of Milan
+    - Andrew Paverd, Microsoft Research Cambridge
+    - Anna Squicciarini, Penn State University
+    - Anupam Das, North Carolina State University
+    - Aravind Prakash, Binghamton University
+    - Attilla Altay Yavuz, University of South Florida
+    - Behnaz Hassanshahi, Oracle Labs Australia
+    - Benjamin E. Ujcich, Georgetown University
+    - Berkay Celik, Purdue University
+    - Bimal Viswanath, Virginia Tech
+    - Bo Chen, Michigan Tech
+    - Brendan Saltaformaggio, Georgia Tech
+    - Briland Hitaj, SRI International
+    - Carrie Gates, Bank of America
+    - Christophe Hauser, University of Southern California/ISI
+    - Dave (Jing) Tian, Purdue University
+    - Ding Wang, Nankai University
+    - Dolière Francis Somé, CISPA
+    - Elena Ferrari, University of Insubria
+    - Elias Athanasopoulos, University of Cyprus
+    - Elizabeth Stobert, Carleton University
+    - Eugene Vasserman, Kansas State University
+    - Evangelos Markatos, FORTH and University of Crete
+    - Fabian Monrose, UNC at Chapel Hill
+    - Fabian Yamaguchi, ShiftLeft
+    - Fengjun Li, University of Kansas
+    - Fengwei Zhang, Southern University of Science and Technology
+    - Gang Wang, University of Illinois at Urbana-Champaign
+    - Giancarlo Pellegrino, CISPA
+    - Gianluca Stringhini, Boston University
+    - Haya Shulman, Fraunhofer SIT
+    - Hayawardh Vijayakumar, Samsung Research America
+    - Hongxin Hu, University at Buffalo, SUNY
+    - Hussain Almohri, Kuwait University
+    - Jarilyn Hernández, MIT Lincoln Laboratory
+    - Jeyavijayan Rajendran, Texas A&M
+    - University Jialong Zhang, ByteDance
+    - Jie Yang, Florida State University
+    - Jin-Hee Cho, Virginia Tech
+    - Juan Tapiador, Universidad Carlos III de Madrid
+    - Julie Haney, National Institute of Standards and Technology
+    - Katsunari Yoshioka, Yokohama National University
+    - Kevin Alejandro Roundy, NortonLifelock Research Group
+    - Kun Sun, George Mason University
+    - Lannan (Lisa) Luo, University of South Carolina
+    - Lejla Batina, Radboud University
+    - Lingwei Chen, Penn State University
+    - Long Cheng, Clemson University
+    - Magnus Almgren, Chalmers University of Technology
+    - Manuel Egele, Boston University
+    - Martin Johns, TU Braunschweig
+    - Maverick Woo, Carnegie Mellon University
+    - Michel van Eeten, TU Delft
+    - Min Xu, Mastercard
+    - Ming Li, University of Arizona
+    - Mu Zhang, University of Utah
+    - Neil Gong, Duke University
+    - Nitesh Saxena, University of Alabama at Birmingham
+    - Patrick Schaumont, Worcester Polytechnic Institute
+    - Qi Alfred Chen, UC Irvine
+    - Qi Li, Tsinghua University
+    - Qian Feng, Baidu USA
+    - Roberto Perdisci, University of Georgia
+    - Sang Kil Cha, KAIST
+    - Sangho Lee, Microsoft Research
+    - Sarah Chmielewski, MIT Lincoln Laboratory
+    - Sébastien Bardin, CEA, France
+    - Seungwon Shin, KAIST
+    - Shanchieh (Jay) Yang, Rochester Institute of Technology
+    - Sooel Son, KAIST
+    - Shagufta Mehnaz, Dartmouth College
+    - Thang Hoang, Virginia Tech
+    - Vasileios Kemerlis, Brown University
+    - Wendy (Hui) Wang, Stevens Institute of Technology
+    - Xiaojing Liao, Indiana University Bloomington
+    - Xiaokui Shu, IBM Research
+    - Xiaoyan Sun, California State University, Sacramento
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Yanfang (Fanny) Ye, Case Western Reserve University
+    - Yanick Fratantonio, Cisco Talos
+    - Yao Liu, University of South Florida
+    - Yingying Chen, Rutgers University
+    - Yonghwi Kwon, University of Virginia
+    - Yousra Aafer, University of Waterloo
+    - Yuan Tian, University of Virginia
+    - Yue Duan, Illinois Institute of Technology
+    - Yuval Yarom, University of Adelaide and Data61
+    - Zachary Tudor, Idaho National Laboratory
+    - Zhaoyan Xu, Bytedance
+    - Zhiqiang Lin, Ohio State University
+cycles:
+  - first:
+      submission: "2021-06-28"
+      early-reject: "2021-07-25"
+      acceptance: "2021-08-25"
+      camera-ready: "2021-10-16"
+anonymous: true
+ethics-discussion: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Deployable and Impactful Security (again again)
+# artifact evaluation

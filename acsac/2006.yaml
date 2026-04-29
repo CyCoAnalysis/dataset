@@ -1,0 +1,71 @@
+website:
+  url: https://www.acsac.org/2006/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Applied cryptography
+  - Audit and audit reduction
+  - Biometrics
+  - Certification and accreditation
+  - Database security
+  - Denial of service protection
+  - Defensive information warfare
+  - Electronic commerce security
+  - Enterprise security
+  - Firewalls and other boundary control devices
+  - Forensics
+  - Identification and authentication
+  - Information survivability
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Incident response planning
+  - Intrusion detection and event correlation
+  - Malware
+  - Middleware and distributed systems security
+  - Mobile and wireless security
+  - Modeling and simulation related to security
+  - Operating systems security
+  - Product evaluation criteria and compliance
+  - Privacy
+  - Risk/vulnerability assessment
+  - Security engineering and management
+  - Service Oriented Architectures
+  - Software assurance
+  - VoIP Security
+  - Wireless Security
+pc:
+  - "Program committee":
+    - Tuomas Aura, Microsoft Research, UK
+    - Lujo Bauer, Carnegie Mellon University
+    - Terry Benzel, USC - ISI
+    - Konstantin Beznosov, University of British Columbia
+    - Rafae Bhatti, Florida International University
+    - Marc Dacier, Eurecom Institute
+    - Carrie Gates, CA Labs
+    - Dieter Gollmann, Hamburg University of Technology
+    - Wesley Higaki, Symantec Corporation
+    - Cynthia Irvine, Naval Postgraduate School
+    - Paul Jardetzky, Network Appliance, Inc.
+    - Jan Jürjens, TU Munich
+    - Myong Kang, Naval Research Laboratory
+    - James Kempf, DoCoMo Labs USA
+    - Angelos Keromitis, Columbia University
+    - Carl Landwehr, University of Maryland
+    - Peng Liu, Pennsylvania State University
+    - Javier Lopez, University of Malaga
+    - Bryan Lyles, Telcordia Technologies
+    - Patrick McDaniel, Pennsylvania State University
+    - John McDermott, Naval Research Laboratory
+    - Joon S. Park, Syracuse University
+    - Andre dos Santos, University of Puerto Rico at Mayaguez
+    - Anoop Singhal, NIST
+    - Giovanni Vigna, University of California Santa Barbara
+    - Simon Wiseman, QinetiQ
+    - Diego Zamboni, IBM Zürich Research Laboratory
+cycles:
+  - first:
+      submission: "2006-06-10"
+      acceptance: "2006-08-13"
+# formatting unclear

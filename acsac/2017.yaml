@@ -1,0 +1,114 @@
+website:
+  url: https://www.acsac.org/2017/cfp/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity
+  - Applied Cryptography
+  - Assurance
+  - Audit
+  - Big Data *for* Security (Hard Topic Theme!)
+  - Biometrics
+  - Security case studies
+  - Cloud Security
+  - Cyber-Physical Systems
+  - Denial of Service Protection
+  - Distributed Systems Security
+  - Embedded Systems Security
+  - Enterprise Security Management
+  - Evaluation and Compliance
+  - Digital Forensics
+  - Identity Management
+  - Incident Response
+  - Insider Threat protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Malware
+  - Mobile/Wireless Security
+  - Multimedia Security
+  - Network Security
+  - OS Security
+  - P2P Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Resilience
+  - Security and Privacy of the Internet of Things
+  - Security Engineering
+  - Software Security
+  - Supply Chain Security
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Magnus Almgren - Chalmers University of Technology
+    - Johanna Amann - ICSI
+    - Manos Antonakakis - Georgia Tech
+    - Elias Athanasopoulos - University of Cyprus
+    - Adam Aviv - U.S. Naval Academy
+    - Graham Baker - MIT Lincoln Laboratory
+    - Adam Bates - University of Illinois at Urbana-Champaign
+    - Kevin Butler - University of Florida
+    - Lorenzo Cavallaro - Royal Holloway
+    - Mihai Christodorescu - Qualcomm Research
+    - Lucas Davi - University of Duisburg-Essen
+    - Brendan Dolan-Gavitt - NYU
+    - Adam Doupe - Arizona State University
+    - Michel van Eeten - Delft University of Technology
+    - Petros Efstathopoulos - Symantec Research Lab
+    - Manuel Egele - Boston University
+    - Guofei Gu - Texas A&M University
+    - Martin Johns - SAP
+    - Amir Houmansadr - University of Massachussetts, Amherst
+    - Christophe Hauser - University of Southern California
+    - Chris Kanich - University of Illinois at Chicago
+    - Alexandros Kapravelos - North Carolina State University
+    - Vasileios Kemerlis - Brown University
+    - Yongdae Kim - Korea Advanced Institute of Science and Technology
+    - Andrea Lanzi - University of Milan
+    - Sangho Lee - Georgia Tech
+    - Kirill Levchenko - UC San Diego
+    - Zhiqiang Lin - UT Dallas
+    - Ben Livshits - Imperial College
+    - Federico Maggi - Trend Micro
+    - Clementine Maurice - Graz University of Technology
+    - Collin Mulliner - Square
+    - Nick Nickiforakis - Stony Brook
+    - Daniela Oliveira - University of Florida
+    - Xinming Ou - University of South Florida
+    - Mathias Payer - Purdue University
+    - Giancarlo Pellegrino - Saarland University
+    - Zachary Peterson - Cal Poly State University
+    - Michalis Polychronakis - Stony Brook University
+    - Aravind Prakash - Binghamton University
+    - Konrad Rieck - Technische Universität Braunschweig,
+    - Christian Rossow - Saarland
+    - Kevin Snow - ZeroPoint Dynamics
+    - Gianluca Stringhini - University College London
+    - Abhradeep Guha Thakurta - University of California Santa Cruz
+    - Omer Tripp - Google
+    - Julien Vanegue - Bloomberg LP / Cornell University
+    - Hayawardh Vijaykumar - Samsung Research America
+    - Maverick Woo - Carnegie Mellon University
+    - Charles Wright - Portland State University
+    - Danfeng (Daphne) Yao - Virginia Tech
+    - Attilla Altay Yavuz - Oregon State University
+    - Heng Yin - UC Riverside
+    - Fabian Yamaguchi - ShiftLeft
+    - Katsunari Yoshioka - Yokohama National University
+    - Fengwei Zhang - Wayne State University
+    - Michael Zhivich - Akamai
+cycles:
+  - first:
+      submission: "2017-06-08"
+      acceptance: "2017-08-18"
+anonymous: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Big Data for Security
+# early rejection and appeals (no dates)
+# artifact evaluation

@@ -1,0 +1,96 @@
+website:
+  url: https://www.acsac.org/2012/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Assurance
+  - Audit
+  - Biometrics
+  - Boundary control
+  - Cloud security
+  - Cybersecurity
+  - Denial of service protection
+  - Distributed systems security
+  - Electronic commerce security
+  - Enterprise security management
+  - Forensics
+  - Identity management
+  - Incident response planning
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Intrusion detection and prevention
+  - Malware
+  - Mobile and wireless security
+  - Multimedia security
+  - Network resiliency
+  - Operating systems security
+  - Peer-to-peer security
+  - Privacy and data protection
+  - Privilege management
+  - Product evaluation and compliance
+  - Resilience
+  - Security engineering
+  - Security usability
+  - Software security
+  - Supply chain risk
+  - Trust management
+  - Virtualization security
+  - VoIP security
+  - Web 2.0/3.0 security
+pc:
+  - "Program committee":
+    - A. Selcuk Uluagac, Georgia Institute of Technology
+    - Abhinav Srivastava, AT&T Labs Research
+    - Angelos Stavrou, George Mason University
+    - Anil Somayaji, Carleton University
+    - Bryan D. Payne, Nebula, Inc.
+    - Carrie Gates, CA Technologies
+    - Chris Masone, Google, Inc.
+    - Christian Collberg, University of Arizona
+    - Christoph Schuba, Oracle Corp.
+    - Cristina Serban, AT&T Security Research Center
+    - Darrell Bethea, University of North Carolina at Chapel Hill
+    - Dongyan Xu, Purdue University
+    - Gabriela F. Ciocarlie, SRI International
+    - Gaurav Shah, Google, Inc.
+    - Gaven Watson, University of Bristol
+    - Georgios Portokalidis, Columbia University
+    - Guofei Gu, Texas A&M University
+    - Hao Chen, University of California, Davis
+    - Jelena Mirkovic, USC ISI
+    - John Aycock, University of Calgary
+    - John McDermott, Naval Research Laboratory
+    - John Wilander, Svenska Handelsbanken
+    - Jon Oberheide, Duo Security
+    - Julie Thorpe, University of Ontario Institute of Technology
+    - Justin Cappos, NYU Poly
+    - Kapil Singh, IBM T.J. Watson Research Center
+    - Kevin Butler, University of Oregon
+    - Larry Wagoner, National Security Agency
+    - Laura Tinnel, SRI
+    - Lucas Ballard, Google, Inc.
+    - Micah Sherr, Georgetown University
+    - Michael Franz, UC Irvine
+    - Michalis Polychronakis, Columbia University
+    - Mihai Christodorescu, IBM Research
+    - Phillipa Gill, University of Toronto
+    - Pierangela Samarati, Universitá degli Studi di Milano
+    - Richard Ford, Florida Institute of Technology
+    - Sara Sinclair Brody, Google, Inc.
+    - Sean Heelan, Immunitysec, Inc.
+    - Steve Myers, University of Indiana
+    - Steven J. Greenwald, Independent Consultant
+    - Sven Dietrich, Stevens Institute of Technology
+    - Thomas Moyer, MIT Lincoln Laboratory
+    - Trent Jaeger, Pennsylvania State University
+    - Weidong Cui, Microsoft Research
+    - Yingfei Dong, University of Hawaii
+cycles:
+  - first:
+      submission: "2012-06-08"
+      acceptance: "2012-08-15"
+anonymous: true
+# 10 pages acm
+# awards: true

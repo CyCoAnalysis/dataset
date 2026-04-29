@@ -1,0 +1,151 @@
+website:
+  url: https://www.acsac.org/2022/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity
+  - Applied Cryptography
+  - Assurance
+  - Audit
+  - Big Data for Security
+  - Biometrics
+  - Security case studies
+  - Cloud Security
+  - Cyber-Physical Systems
+  - Denial of Service
+  - Distributed Systems Security
+  - Embedded Systems Security
+  - Enterprise Security Management
+  - Digital Forensics
+  - Identity Management
+  - Incident Response
+  - Insider Threat Protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Machine Learning Security
+  - Malware
+  - Mobile/Wireless Security
+  - Network Security
+  - OS Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Resilience
+  - Security and Privacy of the Internet of Things
+  - Security Engineering
+  - Software Security
+  - Software-Defined Programmable Security
+  - Supply Chain Security
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Adwait Nadkarni, William & Mary
+    - Aisha Ali-Gombe, Towson University
+    - Alexandros Kapravelos, North Carolina State University
+    - Ambra Demontis, University of Cagliari
+    - Amin Kharraz, Florida International University
+    - Anita Nikolich, University of Illinois - Urbana Champaign
+    - Anna Squicciarini, Penn State University
+    - Attila A Yavuz, University of South Florida
+    - Baris Coskun, Amazon AWS
+    - Benjamin E. Ujcich, Georgetown University
+    - Bo Chen, Michigan Technological University
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Byoungyoung Lee, Seoul National University (SNU)
+    - Christian Wressnegger, Karlsruhe Institute of Technology (KIT)
+    - Christophe Hauser, Information Sciences Institute, University of Southern California
+    - Cong Wang, City University of Hong Kong
+    - Dave (Jing) Tian, Purdue University
+    - Davide Maiorca, University of Cagliari, Italy
+    - Ding Wang, Nankai University
+    - Elias Athanasopoulos, University of Cyprus
+    - Elisa Bertino, Purdue University
+    - Andrea Continella, University of Twente
+    - Amir Houmansadr, University of Massachusetts Amherst
+    - Eugene Vasserman, Kansas State University
+    - Evangelos Markatos, University of Crete and FORTH
+    - Federico Maggi, Huawei Technologies
+    - Fengwei Zhang, Southern University of Science and Technology (SUSTech)
+    - François Gauthier, Oracle Labs
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Gianluca Stringhini, Boston University
+    - Giorgio Giacinto, University of Cagliari, Italy
+    - Guenevere (Qian) Chen, The University of Texas at San Antonio
+    - Haya Shulman, Goethe-Universität Frankfurt and Fraunhofer SIT
+    - Hayawardh Vijayakumar, Samsung Research America
+    - Hongxin Hu, University at Buffalo
+    - Hussain Almohri, Kuwait University
+    - Jarilyn Hernandez Jimenez, MIT Lincoln Laboratory
+    - Jeyavijayan Rajendran, Texas A&M University
+    - Jie Yang, Florida state university
+    - Jin-Hee Cho, Virginia Tech
+    - Juan Caballero, IMDEA Software Institute
+    - Kapil Singh, IBM T.J. Watson Research Center
+    - Kevin Alejandro Roundy, Norton Research Group
+    - Kun Sun, George Mason University
+    - Kyu Hyung Lee, University of Georgia
+    - Lannan Lisa Luo, University of South Carolina
+    - Le Guan, University of Georgia
+    - Leigh Metcalf, CERT,  Software Engineering Institute,  CMU
+    - Lingwei Chen, Wright State University
+    - Long Cheng, Clemson University
+    - Lorenzo De Carli, Worcester Polytechnic Institute
+    - Magnus Almgren, Chalmers University of Technology
+    - Man-Ki Yoon, Yale University
+    - Manos Antonakakis, Georgia Tech
+    - Manuel Egele, Boston University
+    - Marco Balduzzi, Trend Micro Research
+    - Martin Johns, TU Braunschweig
+    - Martina Lindorfer, TU Wien
+    - Maverick Woo, Carnegie Mellon University
+    - Ming Li, University of Arizona
+    - Mu Zhang, University of Utah
+    - Mustakimur Rahman Khandaker, University of Georgia
+    - Nick Nikiforakis, Stony Brook University
+    - Nitesh Saxena, Texas A&M University
+    - Oleksii Starov, Palo Alto Networks
+    - Omar Alrawi, Georgia Institute of Technology
+    - Patrick Schaumont, Worcester Polytechnic Institute
+    - Phani Vadrevu, University of New Orleans
+    - Qi Alfred Chen, University of California, Irvine
+    - Qi Li, Tsinghua University
+    - Qian Feng, Baidu USA
+    - Ram Krishnan, University of Texas at San Antonio
+    - Sang Kil Cha, KAIST
+    - Sangho Lee, Microsoft Research
+    - Sarah Chmielewski, MIT Lincoln Laboratory
+    - Sébastien Bardin, Université Paris-Saclay, CEA LIST
+    - Seungwon Shin, KAIST
+    - Shanchieh (Jay) Yang, Rochester Institute of Technology
+    - Sooel Son, KAIST
+    - Stefano Calzavara, Università Ca' Foscari Venezia
+    - Stjepan Picek, Radboud University
+    - Tamara Rezk, INRIA
+    - Thang Hoang, Virginia Tech
+    - Xiaojing Liao, Indiana University Bloomington
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Yanfang (Fanny) Ye, University of Notre Dame
+    - Yeongjin Jang, Oregon State University
+    - Yinzhi Cao, Johns Hopkins University
+    - Yonghwi Kwon, University of Virginia
+    - Yousra Aafer, University of Waterloo
+    - Yue Duan, Illinois Institute of Technology
+    - Zachary Tudor, Idaho National Laboratory
+    - Zhiqiang Lin, Ohio State University
+cycles:
+  - first:
+      submission: "2022-06-29"
+      early-reject: "2022-08-01"
+      acceptance: "2022-09-02"
+      camera-ready: "2022-10-17"
+anonymous: true
+ethics-discussion: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Trustworthy Systems
+# artifact evaluation, with indication at submission time

@@ -1,0 +1,113 @@
+website:
+  url: https://www.acsac.org/2016/cfp/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Anonymity
+  - Applied Cryptography
+  - Assurance
+  - Audit
+  - Biometrics
+  - Case studies
+  - Cloud Security
+  - Cyber-Physical Systems
+  - Denial of Service Protection
+  - Distributed Systems Security
+  - Electronic Commerce
+  - Enterprise Security Management
+  - Evaluation and Compliance
+  - Forensics
+  - Identity Management
+  - Incident Response Planning
+  - Insider Threat protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Malware
+  - Mobile/Wireless Security
+  - Multimedia Security
+  - Network Security
+  - OS Security
+  - P2P Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Resilience
+  - Security and Privacy of the Internet of Things (Hard Topic Theme!)
+  - Security Engineering
+  - Software Security
+  - Supply Chain Security
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Devdatta Akhawe, Dropbox, Inc.
+    - Magnus Almgren, Chalmers University of Technology
+    - Johanna Amann, ICSI
+    - Manos Antonakakis, Georgia Tech
+    - Adam Aviv, U.S. Naval Academy
+    - Graham Baker, MIT Lincoln Laboratory
+    - Lucas Ballard, Google
+    - Adam Bates, University of Florida
+    - Matt Bishop, University of California at Davis
+    - Lorenzo Cavallaro, Royal Holloway
+    - Gabriela Ciocarlie, SRI International
+    - Sandy Clark, University of Pennsylvania
+    - Lucas Davi, TU Darmstadt
+    - Brendan Dolan-Gavitt, NYU
+    - Manuel Egele, Boston University
+    - Ariel Feldman, University of Chicago
+    - Aurélien Francillon, Eurecom
+    - Guofei Gu, Texas A&M University
+    - Adam Hahn, Washington State University
+    - Amir Houmansadr, University of Massachussetts, Amherst
+    - Aaron Johnson, U.S. Naval Research Laboratory
+    - Alexandros Kapravelos, North Carolina State University
+    - Andrea Lanzi, University of Milan
+    - Sangho Lee, Georgia Tech
+    - Brian Levine, University of Massachussetts, Amherst
+    - Zhiqiang Lin, UT Dallas
+    - Long Lu, Stony Brook University
+    - Federico Maggi, Politecnico di Milano
+    - Stephen McCamant, University of Minnesota
+    - John McDermott, U.S. Naval Research Lab
+    - Suzanne McIntosh, NYU / Cloudera
+    - Thomas Moyer, MIT Lincoln Laboratory
+    - Nick Nikiforakis, Stony Brook
+    - Jon Oberheide, Duo Security
+    - Daniela Oliveira, University of Florida
+    - Alina Oprea, RSA Laboratories, Cambridge
+    - Xinming (Simon) Ou, University of South Florida
+    - Zachary Peterson, Cal Poly State University
+    - Michalis Polychronakis, Stony Brook University
+    - Aravind Prakash, Binghamton University
+    - Vanishree Rao, Xerox PARC
+    - Konrad Rieck, Technische Universität Braunschweig
+    - Christian Rossow, Saarland
+    - Kapil Singh, IBM T.J. Watson Research Center
+    - Kevin Snow, ZeroPoint Dynamics
+    - Gianluca Stringhini, University College London
+    - Hassan Takabi, University of North Texas
+    - Omer Tripp, IBM Watson
+    - Julien Vanegue, Bloomberg LP
+    - Hayawardh Vijaykumar, Samsung Research America
+    - Chris Wacek, Invincea Labs
+    - Maverick Woo, Carnegie Mellon University
+    - Charles Wright, Portland State University
+    - Dongyan Xu, Purdue University
+    - Danfeng (Daphne) Yao, Virginia Tech
+    - Katsunari Yoshioka, Yokohama National University
+    - Fengwei Zhang, Wayne State University
+    - Wenchao Zhou, Georgetown University
+cycles:
+  - first:
+      submission: "2016-06-08"
+      acceptance: "2016-08-18"
+anonymous: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Security and Privacy in the Internet of Things (again)
+# early rejection and appeals (no dates)

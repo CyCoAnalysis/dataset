@@ -1,0 +1,136 @@
+website:
+  url: https://www.acsac.org/2019/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control
+  - Advanced Persistent Threats
+  - Adversarial Machine Learning
+  - Anonymity and Anonymization
+  - Applied Cryptography
+  - Assurance
+  - Attacking Machine Learning
+  - Attribution And Non-Attribution
+  - Audit
+  - Automated Decision Making and Response
+  - Autonomous Vehicle/System Security
+  - Big Data for Security (Hard Topic Theme!)
+  - Biometrics
+  - Security case studies
+  - Cloud Security
+  - Cyber Threat Intelligence
+  - Cyber-Physical Systems
+  - Deception
+  - Denial of Service
+  - Digital Forensics
+  - Distributed Systems Security
+  - Embedded Systems Security
+  - Enterprise Security Management
+  - Event Correlation
+  - Digital Forensics
+  - Identity Management
+  - Incident Response
+  - Insider Threat and Protection
+  - Integrity
+  - Intrusion Detection
+  - Intellectual Property
+  - Large-Scale Data Processing And Analysis
+  - Machine Learning For Security
+  - Malware
+  - Mobile/Wireless Security
+  - Moving Target Defense
+  - Multimedia Security
+  - Network Security
+  - OS Security
+  - Privacy & Data Protection
+  - Privilege Management
+  - Red Teaming Techniques
+  - Resilience
+  - Reverse Engineering
+  - Security Architectures
+  - Security and Privacy of the Internet of Things
+  - Security Engineering
+  - Security Policies
+  - Sensors
+  - Software Security
+  - Software-Defined Programmable Security (e.g., SDN, NFV)
+  - Supply Chain Security
+  - Threat Hunting
+  - Trust Management
+  - Trustworthy Computing
+  - Usability and Human-centric Aspects of Security
+  - Virtualization Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Magnus Almgren, Chalmers University of Technology
+    - Ehab Al-Shaer, UNC Charlotte
+    - Manos Antonakakis, Georgia Tech
+    - Elias Athanasopoulos, University of Cyprus
+    - Adam Aviv, U.S. Naval Academy
+    - Leyla Bilge, Symantec Research Lab
+    - Kevin Butler, University of Florida
+    - Lorenzo Cavallaro, Royal Holloway
+    - Gabriela Ciocarlie, SRI International
+    - Adam Doupe, Arizona State University
+    - Petros Efstathopoulos, Symantec Research Lab
+    - Manuel Egele, Boston University
+    - Yanick Fratantonio, Eurecom
+    - Carrie Gates, Bank of America
+    - Neil Gong, Iowa State University
+    - Christophe Hauser, University of Southern California
+    - Amir Houmansadr, University of Massachussetts, Amherst
+    - Hongxin Hu, Clemson University
+    - Martin Johns, SAP
+    - Alexandros Kapravelos, North Carolina State University
+    - Vasileios Kemerlis, Brown University
+    - Florian Kerschbaum, University of Waterloo
+    - Boris Koepf, IMDEA Software Institute
+    - Katharina Krombholz, SBA Research
+    - Yonghwi Kwon, Purdue University
+    - Andrea Lanzi, University of Milan
+    - Sangho Lee, Georgia Tech
+    - Zhiqiang Lin, Ohio State
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Federico Maggi, Trend Micro
+    - Evangelos Markatos, FORTH
+    - Collin Mulliner, Cruise Automation
+    - Daniela Oliveira, University of Florida
+    - Nicolas Papernot, Pennsylvania State University
+    - Giancarlo Pellegrino, Saarland University
+    - Roberto Perdisci, University of Georgia
+    - Zachary Peterson, Cal Poly State University
+    - Michalis Polychronakis, Stony Brook University
+    - Konrad Rieck, Technische Universität Braunschweig
+    - Kevin Alejandro Roundy, Symantec Research Labs
+    - Kent Seamons, Brigham Young University
+    - Seungwon Shin, KAIST
+    - Claudio Soriente, NEC Labs Europe
+    - Ben Stock, CISPA Helmholtz Center i.G.
+    - Gianluca Stringhini, University College London
+    - Juan Tapiador, Universidad Carlos III de Madrid
+    - Abhradeep Guha Thakurta, University of California Santa Cruz
+    - Michel van Eeten, Delft University of Technology
+    - Julien Vanegue, Bloomberg LP / Cornell University
+    - Hayawardh Vijayakumar, Samsung Research America
+    - Gang Wang, Virginia Tech
+    - Maverick Woo, Carnegie Mellon University
+    - Charles Wright, Portland State University
+    - Fabian Yamaguchi, ShiftLeft
+    - Danfeng (Daphne) Yao, Virginia Tech
+    - Attilla Altay Yavuz, Oregon State University
+    - Heng Yin, UC Riverside
+    - Katsunari Yoshioka, Yokohama National University
+    - Daniel Zappala, Brigham Young University
+    - Fengwei Zhang, Wayne State University
+    - Jialong Zhang, IBM Research
+cycles:
+  - first:
+      submission: "2018-06-15"
+      acceptance: "2018-08-23"
+anonymous: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Big Data for Security (again)
+# early rejection and appeals (no dates)
+# artifact evaluation

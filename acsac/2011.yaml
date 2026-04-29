@@ -1,0 +1,107 @@
+website:
+  url: https://www.acsac.org/2011/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Assurance
+  - Audit and audit reduction
+  - Biometrics
+  - Boundary control devices
+  - Certification and accreditation
+  - Database security
+  - Denial of service protection
+  - Distributed systems security
+  - Electronic commerce security
+  - Enterprise security management
+  - Forensics
+  - Identity management
+  - Incident response planning
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Intrusion detection and prevention
+  - Malware
+  - Mobile and wireless security
+  - Multimedia security
+  - Network resiliency
+  - Operating systems security
+  - Peer-to-peer security
+  - Privacy and data protection
+  - Privilege management
+  - Product evaluation criteria and compliance
+  - Risk/vulnerability assessment
+  - Securing cloud infrastructures
+  - Security engineering and management
+  - Security in service oriented architectures
+  - Security usability
+  - Software security
+  - Supply chain risk management
+  - Trust management
+  - Virtualization security
+  - VoIP security
+  - Web 2.0/3.0 security
+pc:
+  - "Program committee":
+    - Mark Aldrich, Delloite & Touche
+    - Vijay Atluri, Rutgers University
+    - Tuomas Aura, Microsoft Research
+    - Lee Badger, U.S. National Institute of Standards and Technology (NIST)
+    - Elisa Bertino, Purdue University
+    - Matt Bishop, University of California, Davis
+    - Nikolaos Bourbakis, Wright State University
+    - Kevin Butler, University of Oregon
+    - Srjdan Capkun, ETH Zurich
+    - Justin Cappos, University of Washington
+    - Christian Collberg, University of Arizona
+    - Michael Collins, Redjack
+    - George Coker, US Government
+    - Baris Coskun, AT&T Security Research Center
+    - Marc Dacier, Symantec Corporation
+    - Mary Denz, U.S. Air Force Research Laboratory
+    - Sven Dietrich, Stevens Institute of Technology
+    - Yingfei Dong, University of Hawaii
+    - Zhenhai Duan, Florida State University
+    - Mohamed Eltowiessy, Pacific Northwest National Laboratory
+    - Jeremy Epstein, SRI International
+    - Richard Ford, Florida Institute of Technology
+    - Michael Franz, University of California, Irvine
+    - Leo Freitas, Newcastle University
+    - Carrie Gates, CA Labs
+    - Tyrone Grandison, IBM Almaden Research Center
+    - Steven Greenwald, Independent Security Advisor
+    - Guofei Gu, Texas A&M University Cynthia Irvine, U.S. Naval Postgraduate School
+    - Trent Jaeger, Pennsylvania State University
+    - Apu Kapadia, Indiana University Bloomington
+    - Angelos Keromytis, Columbia University
+    - Michiharu Kudoh, IBM Tokyo Research Laboratory
+    - Ben Laurie, Google Research
+    - Milo Martin, University of Pennsylvania
+    - Chris Masone, Google Research
+    - Wojciech Mazurczyk, Warsaw University of Technology
+    - Patrick McDaniel, Pennsylvania State University
+    - John McHugh, University of North Carolina
+    - Peng Ning, North Carolina State University
+    - Charles Payne, Adventium Labs
+    - Katrin Borcea-Pfitzmann, Technische Universität Dresden
+    - Christian Probst, Technical University of Denmark (DTU)
+    - Lillian Røstad, Norwegian University of Science and Technology
+    - Reiner Sailer, IBM T.J. Watson Research Center
+    - Pierangela Samarati, University of Milan
+    - Christoph Schuba, Oracle Corporation
+    - R. Sekar, Stony Brook University
+    - Cristina Serban, AT&T Security Research Center
+    - Brian Snow, Independent Security Advisor
+    - Anil Somayaji, Carleton University
+    - Angelos Stavrou, George Mason University
+    - Patrick Traynor, Georgia Institute of Technology
+    - Venkat Venkatakrishnan, University of Illinois at Chicago
+    - Dongyan Xu, Purdue University
+    - Alec Yansinsac, University of South Alabama
+cycles:
+  - first:
+      submission: "2011-06-13"
+      acceptance: "2011-08-15"
+anonymous: true
+# 10 pages acm, but submission in single column
+# awards: true

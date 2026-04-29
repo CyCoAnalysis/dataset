@@ -1,0 +1,224 @@
+website:
+  url: https://www.acsac.org/2024/submissions/papers/
+  available: true
+  archive: null
+topics:
+  - Access Control, Assurance, Audit
+  - Anonymity, Privacy
+  - Application Security
+  - Big Data for Security
+  - Cloud and Virtualization Security
+  - Cyber-Physical Systems, Embedded Systems, and IoT Security
+  - Data Integrity and Protection
+  - Denial of Service Attacks and Defenses
+  - Deployable Trustworthy Systems
+  - Digital Forensics
+  - Distributed Systems Security
+  - Enterprise Security Management and Incident Response
+  - Hardware and Supply Chain Security
+  - Identity Management
+  - Intrusion Detection and Prevention
+  - Machine Learning Security
+  - Malware
+  - Mobile/Wireless Security
+  - Network Security
+  - OS and Systems Security
+  - Resilience
+  - Security Applications of Generative AI (Hard Topic)
+  - Software Security
+  - Software-defined Programmable Security
+  - Usability and Human-centered Security
+  - Web Security
+pc:
+  - "Program committee":
+    - Adrian Dabrowski, CISPA Helmholtz Center for Information Security
+    - Adwait Nadkarni, William & Mary
+    - Afsah Anwar, University of New Mexico
+    - Aisha Ali-Gombe, Louisiana State University
+    - Alessio Merlo, University of Genova
+    - Alex Starov, Palo Alto Networks
+    - Amit Kumar Sikder, Georgia Tech
+    - Andrea Mambretti, IBM Zurich
+    - Andrea Continella, University of Twente
+    - Andreas Peter, University of Oldenburg
+    - Ang Li, The University of Michigan-Dearborn
+    - Anita Nikolich, UIUC
+    - Anne Kouam, TU Berlin
+    - Antonio Bianchi, Purdue University
+    - Aolin Ding, Accenture Labs
+    - Aravind Machiry, Purdue University
+    - Arslan Khan, Purdue University
+    - Ashraf Matrawy, Carleton University
+    - Aurore Fass, CISPA Helmholtz Center for Information Security
+    - Azadeh Tabiban, University of Manitoba
+    - Azqa Nadeem, University of Twente
+    - Basavesh Ammanaghatta Shivakumar, Virginia Tech
+    - Ben Gras, Intel
+    - Berk Gulmezoglu, Iowa State University
+    - Bo Chen, Michigan Tech
+    - Chao Zhang, Tsinghua University
+    - Chenglin Miao, University of Iowa
+    - Chenxiong Qian, The University of Hong Kong
+    - Chia-Che Tsai, Texas A&M University
+    - Christine Utz, Radboud University
+    - Christof Ferreira Torres, ETH Zürich
+    - Christophe Hauser, University of Southern California/ISI
+    - Christian Wressnegger, Karlsruhe Institute of Technology
+    - Coby Wang, Visa Research
+    - Daisuke Mashima, Illinois Advanced Research Center at Singapore and National University of Singapore
+    - Daniel Arp, University College London
+    - Daoyuan Wu, The Chinese University of Hong Kong
+    - Dave (Jing) Tian, Purdue University
+    - Davide Maiorca, University of Cagliari
+    - Ding Wang, Nankai University
+    - Dong Du, Shanghai Jiao Tong University
+    - Doowon Kim, University of Tennessee, Knoxville
+    - Eduard Marin, Telefonica Research
+    - Eleonora Losiouk, University of Padua
+    - Elias Athanasopoulos, University of Cyprus
+    - Elisa Bertino, Purdue University
+    - Eman Alashwali, KAUST, KAU and CMU
+    - Eugene Vasserman, Kansas State University
+    - Euijin Choo, University of Alberta
+    - Evangelos Markatos, FORTH and University of Crete
+    - Fabian Monrose, Georgia Institute of Technology
+    - Federico Maggi, Amazon AWS
+    - Fengwei Zhang, Southern University of Science and Technology
+    - Filipo Sharevski, De Paul University
+    - Flavio Toffalini, EPFL
+    - Gaoning Pan, Hangzhou Dianzi University
+    - Gautam Akiwate, Stanford University
+    - Gianluca Stringhini, Boston University
+    - Giovanni Apruzzese, University of Liechtenstein
+    - Guowen Xu, City University of Hong Kong
+    - Guozhu Meng, Institute of Information Engineering, Chinese Academy of Sciences, China
+    - Hongxin Hu, University at Buffalo, SUNY
+    - Huaming Chen, The University of Sydney
+    - Hyoungshick Kim, Sungkyunkwan University
+    - Hyungjoon (Kevin) Koo, Sungkyunkwan University
+    - Imtiaz Karim, Purdue University
+    - Ioannis Agadakos, AWS
+    - Jiameng Pu, TikTok
+    - Jian Zhang, Nanyang Technological University
+    - Jin-Hee Cho, Virginia Tech
+    - Johanna Ullrich, SBA Research/Universität Wien
+    - Johannes Kinder, LMU Munich
+    - Junghwan Rhee, University of Central Oklahoma
+    - Kai Li, San Diego State University
+    - Karthika Subramani, Georgia Tech
+    - Kevin Borgolte, Ruhr-University Bochum
+    - Konrad Rieck, TU Berlin
+    - Kun Sun, George Mason University
+    - Kyu Hyung Lee, University of Georgia
+    - Lannan (Lisa) Luo, University of South Carolina
+    - Le Guan, University of Georgia
+    - Leigh Metcalf, CERT/CMU
+    - Leonardo Regano, University of Cagliari
+    - Li Yu, The Chinese University of Hong Kong
+    - Liu Chengwei, Nanyang Technological University
+    - Lyuye Zhang, Nanyang Technological University
+    - Long Cheng, Clemson University
+    - Lorenzo De Carli, University of Calgary
+    - Magnus Almgren, Chalmers University of Technology
+    - Man-Ki Yoon, North Carolina State University
+    - Marco Balduzzi, Trend Micro
+    - Marcus Botacin, Texas A&M
+    - Marius Muench, University of Birmingham
+    - Martin Johns, TU Braunschweig
+    - Martina Lindorfer, TU Wien
+    - Matteo Große-Kampmann, Rhine-Waal University of Applied Sciences
+    - Matthew Edwards, University of Bristol
+    - Maverick Woo, CMU
+    - Maura Pintor, University of Cagliari
+    - Michele Carminati, Politecnico di Milano
+    - Ming Xu, National University of Singapore
+    - Muhammad Lutfor Rahman, California State University San Marcos
+    - Nektarios Leontiadis, Meta
+    - Nick Nikiforakis, Stony Brook University
+    - Nidhi Rastogi, Rochester Institute of Technology
+    - Nikolaos Alexopoulos, TU Darmstadt
+    - Ning Zhang, Washington University in St. Luis
+    - Nitesh Saxena, Texas A&M University
+    - Nurullah Demir, Institute for Internet Security
+    - Omar Alrawi, Georgia Tech
+    - Omid Mirzaei, Cisco Talos
+    - Panagiotis Andriotis, University of Birmigham
+    - Panos Kintis, Georgia Tech
+    - Pascal Cotret, Lab-STICC / ENSTA Bretagne
+    - Pedro Adão, Instituto Superior Técnico, Universidade de Lisboa
+    - Peng Gao, Virginia Tech
+    - Phani Vadrevu, Louisiana State University
+    - Pietro Frigo, Qualcomm
+    - Pubali Datta, University of Massachusetts, Amherst
+    - Qi Li, Tsinghua University
+    - Rafael Uetz, Fraunhofer FKIE
+    - Ruimin Sun, Florida international university
+    - Sanchari Das, University of Denver
+    - Sang Kil Cha, KAIST
+    - Sangho Lee, Microsoft Research
+    - Savio Sciancalepore, TU Eindhoven
+    - Sebastien Bardin, CEA List, Université Paris-Saclay
+    - Sepideh Ghavanati, University of Maine
+    - Seungwon Shin, KAIST
+    - Seyedhamed Ghavamnia, University of Connecticut
+    - Shagufta Mehnaz, Penn State University
+    - Shanchieh (Jay) Yang, Rochester Institute of Technology
+    - Shuai Hao, Old Dominion University
+    - Shuang Hao, UT Dallas
+    - Shuo Wang, CSIRO
+    - Seongil Wi, Ulsan National Institute of Science & Technology (UNIST)
+    - Srdjan Matic, IMDEA Software Institute
+    - Stefano Traverso, ERMES
+    - Stefano Zanero, Politechnico di Milano
+    - Stephen Herwig, William & Mary
+    - Steffen Wendzel, Hochschule Worms and FernUniversität in Hagen
+    - Tao Hou, University of North Texas
+    - Thang Hoang, Virginia Tech
+    - Tianshuo Cong, Tsinghua University
+    - Tobias Urban, Institute for Internet Security
+    - Tobias Fiebig, MPI-INF
+    - Tuba Yavuz, University of Florida
+    - Vasileios Kemerlis, Brown University
+    - Veelasha Moonsamy, Ruhr University Bochum
+    - Vikram Narayanan, University of Utah
+    - Wei Sun, UCSD
+    - Wenwen Wang, University of Georgia
+    - Billy Melicher, PaloAlto Networks
+    - Xiaokuan Zhang, George Mason University
+    - Xiaoyan (Sherry) Sun, Worcester Polytechnic Institute
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Xingliang Yuan, University of Melbourne
+    - Xinlei He, Hong Kong University of Science and Technology (Guangzhou)
+    - Yang Xiao, University of Kentucky
+    - Yang Zhang, CISPA
+    - Yao Liu, University of South Florida
+    - Yigitcan Kaya, UCSB
+    - Yingying Chen, Rutgers University
+    - Yinzhi Cao, Johns Hopkins University
+    - Yizhuo Zhai, Georgia Tech
+    - Yue Zhang, Drexel University
+    - Yue Duan, Illinois Institute of Technology
+    - Yury Zhauniarovich, TU Delft
+    - Yuzhe Tang, Yuzhe Tang
+    - Zhaoyan Xu, Bytedance Inc
+    - Zheng Li, CISPA Helmholtz Center for Information Security
+    - Zhibo Sun, Drexel University
+    - Zhihao Yao, New Jersey Institute of Technology
+    - Zhiqiang Lin, Ohio State University
+    - Ziming Zhao, University at Buffalo
+cycles:
+  - first:
+      submission: "2024-05-28"
+      early-reject: "2024-07-08"
+      rebuttal-start: "2024-08-02"
+      rebuttal-end: "2024-08-07"
+      acceptance: "2024-08-19"
+anonymous: true
+ethics-discussion: true
+# 10 pages acm, excluding refs and appendix (+5)
+# awards: true
+# hard topic: Security Applications of Generative AI
+# R+R papers
+# artifact evaluation, with indication at submission time
+# minor revision (with a shepherd)
+# DEI

@@ -1,0 +1,94 @@
+website:
+  url: https://www.acsac.org/2010/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Applied cryptography
+  - Audit and audit reduction
+  - Biometrics
+  - Boundary control devices
+  - Certification and accreditation
+  - Cyber Security
+  - Database security
+  - Denial of service protection
+  - Distributed systems security
+  - Electronic commerce security
+  - Enterprise security management
+  - Forensics
+  - Identification and authentication
+  - Identity management
+  - Incident response planning
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Intrusion detection
+  - Malware
+  - Mobile and wireless security
+  - Multimedia security
+  - Network Resiliency
+  - Operating systems security
+  - Peer-to-peer security
+  - Privacy and data protection
+  - Privilege Management
+  - Product evaluation criteria and compliance
+  - Risk/vulnerability assessment
+  - Securing Cloud Infrastructures
+  - Security engineering and management
+  - Security in IT outsourcing
+  - Service Oriented Architectures
+  - Software assurance
+  - Supply Chain Risk Management
+  - Trust management
+  - Virtualization security
+  - VoIP security
+  - Web 2.0/3.0 Security
+pc:
+  - "Program committee":
+    - Vijay Atluri, Rutgers University
+    - Tuomas Aura, Microsoft Research
+    - Lee Badger, U.S. National Institute of Standards and Technology (NIST)
+    - Elisa Bertino, Purdue University
+    - Konstantin Beznosov, University of British Columbia
+    - Matt Bishop, University of California, Davis
+    - Sjdan Capcun, ETH Zurich
+    - Fred Chong, University of California, Santa Barbara
+    - Christian Collberg, University of Arizona
+    - Marc Dacier, Symantec Corporation
+    - Mary Denz, U.S. Air Force Research Laboratory
+    - Sven Dietrich, Stevens Institute of Technology
+    - Jeremy Epstein, SRI International
+    - David Evans, University of Virginia
+    - Richard Ford, Florida Institute of Technology
+    - Tyrone Grandison, IBM Almaden Research Center
+    - Steven Greenwald, Independent Security Advisor
+    - Cynthia Irvine, U.S. Naval Postgraduate School
+    - Trent Jaeger, Pennsylvania State University
+    - Hongxia Jin, IBM Almaden Research Center
+    - Michiharu Kudoh, IBM Tokyo Research Laboratory
+    - Michael Locasto, University of Calgary
+    - Patrick McDaniel, Pennsylvania State University
+    - Peng Ning, North Carolina State University
+    - Charles Payne, Adventium Labs
+    - Andreas Pfitzmann,Technische Universitaet Dresden
+    - Christian Probst, Technical University of Denmark
+    - Lillian Røstad, Norwegian University of Science and Technology (NTNU)
+    - Reiner Sailer, IBM T.J. Watson Research Center
+    - R. Sekar, Stony Brook University
+    - Pierangela Samarati, University of Milan
+    - Cristina Serban, AT&T
+    - Frederick Sheldon, Oak Ridge National Laboratory
+    - Christoph Schuba, Oracle
+    - Brian Snow, Independent Security Advisor
+    - Anil Somayaji, Carleton University
+    - Angelos Stavrou, George Mason University
+    - Bhavani Thuraisingham, University of Texas, Dallas
+    - Patrick Traynor, Georgia Institute of Technology
+    - Venkat Venkatakrishnan, University of Illinois at Chicago
+cycles:
+  - first:
+      submission: "2010-06-22"
+      acceptance: "2010-08-16"
+anonymous: true
+# 15 pages total
+# awards: true

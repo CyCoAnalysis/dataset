@@ -1,0 +1,98 @@
+website:
+  url: https://www.acsac.org/2008/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Applied cryptography
+  - Audit and audit reduction
+  - Biometrics
+  - Boundary control devices
+  - Certification and accreditation
+  - Database security
+  - Defensive information warfare
+  - Denial of service protection
+  - Distributed systems security
+  - Electronic commerce security
+  - Enterprise security
+  - Forensics
+  - Identification and authentication
+  - Identity management
+  - Incident response planning
+  - Information survivability
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Intrusion detection
+  - Malware
+  - Mobile and wireless security
+  - Multimedia security
+  - Operating systems security
+  - Peer-to-peer security
+  - Privacy and data protection
+  - Product evaluation criteria and compliance
+  - Risk/vulnerability assessment
+  - Secure location services
+  - Security engineering and management
+  - Security in IT outsourcing
+  - Service Oriented Architectures
+  - Software assurance
+  - Trust management
+  - Virtualization security
+  - VoIP security
+pc:
+  - "Program committee":
+    - Pierangela Samarati, University of Milan, Italy (Program Chair)
+    - Charles Payne, Adventium Labs, USA (Program Co-chair)
+    - Anas Abou El Kalam, IRIT / ENSEEIHT, France
+    - Claudio Agostino Ardagna, Universita' degli Studi di Milano, Italy
+    - Vijay Atluri, Rutgers University, United States
+    - Tuomas Aura, , United Kingdom
+    - Kosta Beznosov, UBC, Canada
+    - Marco Casassa Mont, Hewlett-Packard Labs, United Kingdom
+    - Marc Dacier, Symantec, France
+    - Robert Deng, Singapore Management University, Singapore
+    - Mary Denz, Air Force Research Laboratory, United States
+    - Philip Fong, University of Regina, Canada
+    - Sara Foresti, Universita' degli Studi di Milano, Italy
+    - Vinod Ganapathy, Rutgers University, United States
+    - Carrie Gates, CA Labs, United States
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Steven Greenwald, Information Security Advisor, United States
+    - Dimitris Gritzalis, Athens University of Economics & Business, Greece
+    - Tom Haigh, Adventium Labs , United States
+    - Wesley Higaki, Symantec Corporation, United States
+    - Cynthia Irvine, Naval Postgraduate School, United States
+    - Sushil Jajodia, George Mason University, United States,
+    - Hongxia Jin, IBM Almaden Research Center, United States
+    - Wenke Lee, Georgia Institute of Technology, United States
+    - Ulf Lindqvist, SRI International, United States
+    - Peng Liu, Penn State University, United States
+    - Javier Lopez, University of Malaga, Spain
+    - John McDermott, Naval Research Laboratory, United States
+    - Peng Ning, NC State University, United States
+    - Stefano Paraboschi, Università di Bergamo, Italy
+    - Guenther Pernul, University of Regensburg, Germany
+    - Marco Pistoia, IBM T. J. Watson Research Center, United States
+    - Lillian Røstad, NTNU, Norway
+    - Reiner Sailer, IBM, United States
+    - Andre Santos, UPRM, United States
+    - Christoph Schuba, Sun Microsystems, Inc., United States
+    - Fabio Scotti, University of Milan, Italy
+    - Kent Seamons, Brigham Young University, United States
+    - Randall Smith, The Boeing Company, United States
+    - Angelos Stavrou, George Mason University, United States
+    - Vipin Swarup, MITRE, United States
+    - Dan Thomsen, Cyber Defense Agency, LLC, United States
+    - Patrick Traynor, Georgia Institute of Technology, United States
+    - Venkat Venkatakrishnan, University of Illinois at Chicago, United States
+    - Giovanni Vigna, UCSB, United States
+    - David Whyte, Communications Security Establishment Canada, Canada
+    - Alec Yasinsac, University of South Alabama, United States
+cycles:
+  - first:
+      submission: "2008-06-08"
+      acceptance: "2008-08-18"
+anonymous: true
+# 15 pages total
+# awards: true

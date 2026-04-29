@@ -1,0 +1,100 @@
+website:
+  url: https://www.acsac.org/2013/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Assurance
+  - Audit
+  - Biometrics
+  - Boundary control
+  - Cloud security
+  - Cybersecurity
+  - Denial of service protection
+  - Distributed systems security
+  - Electronic commerce security
+  - Enterprise security management
+  - Forensics
+  - Identity management
+  - Incident response planning
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Intrusion detection and prevention
+  - Malware
+  - Mobile and wireless security
+  - Multimedia security
+  - Network resiliency
+  - Operating systems security
+  - Peer-to-peer security
+  - Privacy and data protection
+  - Privilege management
+  - Product evaluation and compliance
+  - Resilience
+  - Security engineering
+  - Security usability
+  - Software security
+  - Supply chain risk
+  - Trust management
+  - Virtualization security
+  - VoIP security
+  - Web 2.0/3.0 security
+pc:
+  - "Program committee":
+    - Chaitrali Amrutkar, Georgia Tech
+    - Adam Aviv, US Naval Academy
+    - Lucas Ballard, Google
+    - David Barrera, Carleton University
+    - Raheem Beyah, Georgia Tech
+    - Srdjan Capkun, ETH Zurich
+    - Justin Cappos, NYU Poly
+    - Hao Chen, U. California Davis
+    - Gabriela Ciocarlie, SRI International
+    - Weidong Cui Microsoft Research
+    - Sarah Diesburg, University of N. Iowa
+    - William Enck, NC State
+    - Matthew Fredrikson, U. of Wisconsin - Madison
+    - Phillipa Gill, University of Toronto
+    - Steven J. Greenwald Independent Consultant
+    - Guofei Gu, Texas A&M
+    - Ragib Hasan, U. of Alabama Birmingham
+    - Amir Houmansadr, Texas Austin
+    - Trent Jaeger, Penn State
+    - Chris Kanich, U of Illinois - Chicago
+    - Apu Kapadia Indiana
+    - Adam J. Lee University of Pittsburgh
+    - Ulf Lindqvist, SRI International
+    - Long Lu Georgia Tech
+    - Damon McCoy George Mason
+    - John McDermott, Naval Research Laboratory
+    - Stephen McLaughlin, Penn State University
+    - Thomas Moyer, MIT Lincoln Laboratory
+    - Steve Myers Indiana
+    - Jon Oberhide, Duo Security
+    - Daniela Oliveira, Bowdoin
+    - Xinming (Simon) Ou, Kansas State
+    - Bryan Payne Nebula, Inc
+    - Zachary Peterson, Naval PostGraduate School
+    - Michalis Polychronakis, Columbia
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Ahmad-Reza Sadeghi, TU Darmstadt
+    - Joshua Schiffman, Advanced Micro Devices Inc
+    - Gaurav Shah Google
+    - Micah Sherr Georgetown
+    - Kapil Singh IBM Research
+    - Abhinav Srivastava, AT&T Labs - Research
+    - Angelos Stavrou George Mason University
+    - Patrick Tague, CMU
+    - A. Selcuk Uluagac, Georgia Tech
+    - Charles Wright, Portland State University
+    - Matthew Wright, U of Texas at Arlington
+    - Dongyan Xu, Purdue University
+    - Wenyuan Xu, U. of South Carolina
+cycles:
+  - first:
+      submission: "2013-06-04"
+      acceptance: "2013-08-15"
+anonymous: true
+# 10 pages acm
+# awards: true
+# special topic: CPS security

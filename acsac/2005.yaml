@@ -1,0 +1,70 @@
+website:
+  url: https://www.acsac.org/2005/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Applied cryptography
+  - Audit and audit reduction
+  - Biometrics
+  - Certification and accreditation
+  - Database Security
+  - Denial of service protection
+  - Defensive information warfare
+  - Electronic commerce security
+  - Enterprise Security
+  - Firewalls and other boundary control devices
+  - Forensics
+  - Identification and Authentication
+  - Information Survivability
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Incident response planning
+  - Intrusion detection and event correlation
+  - Middleware and distributed systems security
+  - Mobile Security
+  - Modeling and simulation related to security
+  - Operating systems security
+  - Privacy
+  - Product evaluation criteria and compliance
+  - Risk/vulnerability assessment
+  - Security engineering
+  - Security management
+  - Software safety and program correctness
+  - Wireless Security
+pc:
+  - "Program committee":
+    - Terry Benzel, USC - ISI
+    - Konstantin Beznosov, University of British Columbia
+    - Germano Caronni, Sun Microsystems, Inc.
+    - Ramaswamy Chandramouli, National Institute of Standards and Technology
+    - Marc Dacier, Eurecom Institute
+    - Ernesto Damianti, University of Milan
+    - Gary Ellison, InterTrust Technologies Corp.
+    - Dieter Gollmann ,Technische Universitaet Hamburg-Harburg
+    - Steven J. Greenwald, Independent Consultant
+    - Wesley Higaki, Symantec Corporation
+    - Trent Jaeger, IBM T.J. Watson Research Center
+    - Tom Keefe, Oracle Corp.
+    - James Kempf, DoCoMo Labs USA
+    - Carl Landwehr, University of Maryland
+    - Peng Liu, Pennsylvania State University
+    - Tom Longstaff, Carnegie Mellon University
+    - Bryan Lyles, Telcordia Technologies
+    - Patrick McDaniel, Pennsylvania State University
+    - John McDermott, Naval Research Laboratory
+    - Paul Van Oorschot, Carleton University (Canada)
+    - Jong-Sou Park, Hankuk Aviation University
+    - Vern Paxson, International Computer Science Institute
+    - Andre dos Santos, Georgia Tech
+    - Sami Saydjari, Cyber Defense Agency, LLC
+    - Giovanni Vigna, University of California Santa Barbara
+    - Simon Wiseman, QinetiQ
+    - Diego Zamboni, IBM Zurich Research Laboratory
+cycles:
+  - first:
+      submission: "2005-06-03"
+      acceptance: "2005-08-14"
+# awards: true
+# formatting unclear

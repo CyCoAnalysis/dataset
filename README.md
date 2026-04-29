@@ -25,7 +25,7 @@ We currently cover the following conferences, tracking all editions since 2005:
 - NDSS
 - S&P
 - USENIX Security
-<!-- - ACSAC -->
+- ACSAC
 <!-- - ASIA CCS -->
 - CSF
 <!-- - ESORICS -->

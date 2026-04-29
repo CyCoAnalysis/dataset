@@ -1,0 +1,51 @@
+website:
+  url: https://www.acsac.org/2007/cfp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Applied cryptography
+  - Audit and audit reduction
+  - Biometrics
+  - Certification and accreditation
+  - Database security
+  - Denial of service protection
+  - Defensive information warfare
+  - Electronic commerce security
+  - Enterprise security
+  - Firewalls and other boundary control devices
+  - Forensics
+  - Identification and authentication
+  - Identity Management
+  - Information survivability
+  - Insider threat protection
+  - Integrity
+  - Intellectual property rights protection
+  - Incident response planning
+  - Intrusion detection and event correlation
+  - Malware
+  - Middleware and distributed systems security
+  - Mobile and wireless security
+  - Modeling and simulation related to security
+  - Operating systems security
+  - Peer-to-peer security
+  - Product evaluation criteria and compliance
+  - Privacy
+  - Risk/vulnerability assessment
+  - Secure location services
+  - Security engineering and management
+  - Security in IT outsourcing
+  - Service Oriented Architectures
+  - Software assurance
+  - Trust management
+  - VoIP Security
+  - Wireless Security
+pc:
+  - "Program committee": [] # not listed
+cycles:
+  - first:
+      submission: "2007-06-10"
+      acceptance: "2007-08-13"
+anonymous: true
+# 15 pages total
+# awards: true
