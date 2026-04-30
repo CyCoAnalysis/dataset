@@ -1,0 +1,140 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20200706183931/https://asiaccs2020.cs.nthu.edu.tw/
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Big data security and Privacy
+  - Biometrics
+  - Blockchain and alternatives
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical system security
+  - Data and application security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Adam Doup, Arizona State University, USA
+    - Ahmad-Reza Sadeghi, TU Darmstadt, Germany
+    - Alex Kapravelos, North Carolina State University, USA
+    - Alexandra Dmitrienko, University of Würzburg
+    - Amin Kharraz, University of Illinois, USA
+    - Audun Josang, University of Oslo, Norway
+    - Cas Cremers, CISPA, Germany
+    - Chao Zhang, Tsinghua University, China
+    - Chengyu Song, University of California, Riverside, USA
+    - Christian Probst, Unitec Institute of Technology, New Zealand
+    - Cong Wang, City University of Hong Kong, Hong Kong
+    - Dan Wallach, Rice University
+    - Daniel Xiapu Luo, The Hong Kong Polytechnic University, Hong Kong
+    - David Naccache, École normale supérieure, France
+    - Davide Balzarotti, Eurecom, France
+    - Debin Gao, Singapore Management University, Singapore
+    - Di Ma, University of Michigan-Dearborn
+    - Fan Zhang, Zhejiang University, China
+    - Fang Song, Texas A&M; University
+    - Giancarlo Pellegrino, Stanford University / CISPA Helmholtz Center for Information Security
+    - Hai Jin, Huazhong University of Science and Technology, China
+    - Heng Yin, University of California, Riverside, USA
+    - Hong-sheng Zhou, Virginia Commonwealth University
+    - Hongxin Hu, Clemson University
+    - Jialong Zhang, ByteDance AI Lab
+    - Jianying Zhou, Singapore University of Technology and Design, Singapore
+    - Josef Pieprzyk, Queensland University of Technology, Australia
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Spain
+    - Joseph K. Liu, Monash University, Australia
+    - Junjie Zhang, Wright State University
+    - Kai Chen, Chinese Academy of Science, China
+    - Kehuan Zhang, Chinese University of Hong Kong, Hong Kong
+    - Kevin Borgolte, Princeton University, USA
+    - Kwok-yan Lam, Nanyang Technological University, Singapore
+    - Lorenzo Cavallaro, King's College London, UK
+    - Lucas Davi, University of Duisburg-Essen, Germany
+    - Man Ho Allen Au, Hong Kong Polytechnic University
+    - Manuel Egele, Boston University, USA
+    - Mauro Conti, University of Padua, Italy
+    - Mihai Christodorescu, Visa Research, USA
+    - Min Suk Kang, National University of Singapore, Singapore
+    - Min Yang, Fudan University, China
+    - Neil Gong, Iowa State University/Duke University
+    - Ninghui Li, Purdue University, USA
+    - Nitesh Saxena, University of Alabama at Birmingham
+    - Peeter Laud, Cybernetica AS, Estonia
+    - Purui Su, Chinese Academy of Science, China
+    - Qi Li, Tsinghua University
+    - Qiang Tang, New Jersey Institute of Technology
+    - Qiang Zeng, University of South Carolina
+    - R. Sekar, Stony Brook University, USA
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Reza Shroki, National University of Singapore, Singapore
+    - Sang Kil Cha, KAIST, Korea
+    - Selcuk Uluagac, Florida International University, USA
+    - Seungwon Shin, KAIST, Korea
+    - Sherman S. M. Chow, The Chinese University of Hong Kong, Hong Kong
+    - Siu-Ming Yiu, Hong Kong University, Hong Kong
+    - Sotiris Ioannidis, FORTH, Greece
+    - Susan Hohenberger, Johns Hopkins University
+    - Tamara Rezk, INRIA Sophia Antipolis-Méditerranée
+    - Tanja Lange, Eindhoven University of Technology, Netherlands
+    - Tao Wei, Baidu USA LLC, USA
+    - Tibor Jager, Paderborn University, Germany
+    - Ting Yu, Qatar Computing Research Institute, Qatar
+    - Tobias Lauinger, University of Chicago
+    - Vinod Ganapathy, Indian Institute of Science, India
+    - Wenliang Du, Syracuse University, USA
+    - William Robertson, Northeastern University, USA
+    - Xiao Wang, Northwestern University
+    - Xiaojing Liao, Indiana University Bloomington
+    - Xiaolong Bai, Alibaba Group, China
+    - Xinyi Huang, Fujian Normal University, China
+    - Xiuzhen Cheng, The George Washington University, USA
+    - Yajin Zhou, Zhejiang University, China
+    - Yan Huang, Indiana University Bloomington
+    - Yan Shoshitaishvili, Arizona State University
+    - Yang Liu, Nanyang Technological University, Singapore
+    - Yeongjin Jang, Oregon State University, USA
+    - Yinqian Zhang, Ohio State University, USA
+    - Yong Guan, Iowa State University, USA
+    - Yongdae Kim, KAIST, Korea
+    - Yu Yu, Shanghai Jiao Tong University, China
+    - Yuan Tian, University of Virginia, USA
+    - Yupeng Zhang, Texas A&M; University
+    - Zhaoyan Xu, Palo Alto Networks
+cycles:
+  - first:
+      submission: "2019-08-20"
+      acceptance: "2019-10-25"
+      camera-ready: "2019-11-25"
+  - second:
+      submission: "2019-12-10"
+      acceptance: "2020-02-15"
+      camera-ready: "2020-07-08"
+anonymous: true
+ethics-discussion: true
+# 12 pages including bibliography acm, 3 appendix
+# revision
+# early reject with appeal

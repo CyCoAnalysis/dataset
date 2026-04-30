@@ -26,7 +26,7 @@ We currently cover the following conferences, tracking all editions since 2005:
 - S&P
 - USENIX Security
 - ACSAC
-<!-- - ASIA CCS -->
+- ASIACCS
 - CSF
 - ESORICS
 - Euro S&P

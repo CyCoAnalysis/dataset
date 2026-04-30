@@ -1,0 +1,121 @@
+website:
+  url: null
+  available: false
+  archive: https://www.ieee-security.org/Calendar/cfps/cfp-ASIACCS2015.html
+  # http://www.i2r.a-star.edu.sg/icsd/asiaccs15/ excluded from internet archive
+topics:
+  - Access control
+  - Mobile computing security
+  - Accounting and audit
+  - Network security
+  - Applied cryptography
+  - Operating system security
+  - Authentication
+  - Privacy-enhancing technology
+  - Cloud computing security
+  - Security architectures
+  - Cyber-physical security
+  - Security metrics
+  - Data and application security
+  - Software security
+  - Digital forensics
+  - Smart grid security
+  - Embedded systems security
+  - Threat modelling
+  - Formal methods for security
+  - Trusted computing
+  - Hardware-based security
+  - Usable security and privacy
+  - Intrusion detection
+  - Web security
+  - Key management
+  - Wireless security
+  - Malware and botnets
+pc:
+  - "Program committee":
+    - N. Asokan (University of Helsinki, Finland)
+    - Elisa Bertino (Purdue University, USA)
+    - Rainer Boehme (University of Munster, Germany)
+    - Kevin Butler (University of Oregon, USA)
+    - Aldar C-F. Chan (ASTRI, HK)
+    - Binbin Chen (Advanced Digital Sciences Center, Singapore)
+    - Chen-Mou Cheng (National Taiwan University, Taiwan)
+    - Sherman S. M. Chow (Chinese University of Hong Kong, HK)
+    - Xuhua Ding (Singapore Management University, Singapore)
+    - Xinshu Dong (Advanced Digital Sciences Center, Singapore)
+    - Orr Dunkelman (University of Haifa, Israel)
+    - Sara Foresti (The University of Milan, Italy)
+    - Debin Gao (Singapore Management University, Singapore)
+    - Dieter Gollmann (Hamburg University of Technology, Germany)
+    - Guofei Gu (Texas A&M University, USA)
+    - Yong Guan (Iowa State University, USA)
+    - Jin Han (Twitter, USA)
+    - Jinguang Han (Nanjing Univ. of Finance & Economics, China)
+    - Feng Hao (Newcastle University, UK)
+    - Matt Henricksen (Institute for Infocomm Research, Singapore)
+    - Xinyi Huang (Fujian Normal University, China)
+    - Murat Kantarcioglu (University of Texas at Dallas, USA)
+    - Steve Kremer (INRIA, France)
+    - S. P. T. Krishnan (Institute for Infocomm Research, Singapore)
+    - Miroslaw Kutylowski (Wroclaw University of Technology, Poland)
+    - Xuejia Lai (Shanghai Jiaotong University, China)
+    - Adam J. Lee (University of Pittsburgh, USA)
+    - Ming Li (Utah State University, USA)
+    - Ninghui Li (Purdue University, USA)
+    - Yingjiu Li (Singapore Management University, Singapore)
+    - Zhenkai Liang (National University of Singapore, Singapore)
+    - Zhiqiang Lin (University of Texas at Dallas, USA)
+    - Dongdai Lin (Chinese Academy of Sciences, China)
+    - Javier Lopez (University of Malaga, Spain)
+    - Di Ma (University of Michigan-Dearborn, USA)
+    - Harsha Madhyastha (University of Michigan, USA)
+    - Mark Manulis (University of Surrey, UK)
+    - Aziz Mohaisen (Verisign Labs, USA)
+    - Shiho Moriai (NICT, Japan)
+    - Yi Mu (University of Wollongong, Australia)
+    - Jianwei Niu (University of Texas at San Antonio, USA)
+    - Guevara Noubir (Northeastern University, USA)
+    - Daniela Oliveira (University of Florida, USA)
+    - Xinming Ou (Kansas State University, USA)
+    - Philippe Owezarski (LAAS-CNRS, France)
+    - Mathias Payer (UC Berkeley, USA)
+    - Zachary Peterson (Cal Poly, San Luis Obispo, USA)
+    - Michalis Polychronakis (Columbia University, USA)
+    - Georgios Portokalidis (Stevens Inst. of Tech., USA)
+    - Kui Ren (State University of New York at Buffalo, USA)
+    - Giovanni Russello (University of Auckland, NZ)
+    - Mark Ryan (University of Birmingham, UK)
+    - Rei Safavi-Naini (University of Calgary, Canada)
+    - Pierangela Samarati (The University of Milan, Italy)
+    - Joshua Schiffman (AMD, USA)
+    - Dongwan Shin (New Mexico Tech, USA)
+    - Christian Skalka (University of Vermont, USA)
+    - Miguel Soriano (Universitat Politcnica de Catalunya, Spain)
+    - Anna Squicciarini (Pennsylvania State University, USA)
+    - Abhinav Srivastava (AT&T Labs-Research, USA)
+    - Scott Stoller (Stony Brook University, USA)
+    - Willy Susilo (University of Wollongong, Austrilia)
+    - Patrick Tague (Carnegie Mellon University, USA)
+    - Tsuyoshi Takagi (Kyushu University, Japan)
+    - Gang Tan (Lehigh University, USA)
+    - Vrizlynn Thing (Institute for Infocomm Research, Singapore)
+    - Eugene Vasserman (Kansas State University, USA)
+    - Hayawardh Vijayakumar (Pennsylvania State University, USA)
+    - Tao Wan (Huawei, Canada)
+    - Cong Wang (City University of Hong Kong, HK)
+    - Rui Wang (Microsoft Research, USA)
+    - Guoliang Xue (Arizona State University, USA)
+    - Danfeng Yao (Virginia Tech, USA)
+    - David Yau (Singapore Univ. of Technology and Design, Singapore)
+    - Ting Yu (Qatar Computing Research Institute, Qatar)
+    - Jie Zhang (Nanyang Technological University, Singapore)
+    - Rui Zhang (University of Hawaii, USA)
+    - Yanchao Zhang (Arizona State University, USA)
+cycles:
+  - first:
+      submission: "2014-10-26"
+      acceptance: "2014-12-22"
+      camera-ready: "2015-01-20"
+anonymous: true
+# 12 pages acm
+# awards: true

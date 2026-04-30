@@ -1,0 +1,155 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20180224152628/http://asiaccs2018.org/
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Big data security and privacy
+  - Biometrics
+  - Blockchain and alternatives
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical system security
+  - Data and application security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Ahmad-Reza Sadeghi, TU Darmstadt, Germany
+    - Alexandra Dmitrienko, ETH Zürich, Switzerland
+    - Andrea Lanzi, University of Milan, Italy
+    - Andreas Schaad, WIBU Sytems, Germany
+    - Ardalan Amiri Sani, UC Irvine, USA
+    - Aziz Mohaisen, University of Central Florida, USA
+    - Baishakhi Ray, University Of Virginia, USA
+    - Benny Pinkas, Bar Ilan University, Israel
+    - Blase Ur, University of Chicago, USA
+    - Bogdan Carbunar, FIU, USA
+    - Brent Byunghoon Kang, KAIST, South Korea
+    - Bruno Crispo, KU Leuven, Belgium
+    - Byoungyoung Lee, Purdue University, USA
+    - Cas Cremers, University of Oxford, UK
+    - Chengyu Song, UC Riverside, USA
+    - Chia-Che Tsai, Stony Brook University, USA
+    - Chunyi Peng, Purdue University, USA
+    - Daphne Yao, Virginia Tech, USA
+    - David Naccache, ENS – Paris, France
+    - Davide Balzarotti, Eurecom, France
+    - Debin Gao, Singapore Management University, Singapore
+    - Di Ma, University of Michigan-Dearborn, USA
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Dominique Schröder, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+    - Erman Ayday, Bilkent University, Turkey
+    - Federico Maggi, Trend Micro, Inc., Italy
+    - Florian Kerschbaum, University of Waterloo, Canada
+    - Frederik Armknecht, University of Mannheim, Germany
+    - George Theodorakopoulos, Cardiff University, UK
+    - Georgios Portokalidis, Stevens Institute of Technology, USA
+    - Gerhard Hancke, City University of Hong Kong, Hong Kong
+    - Guilin Wang, Huawei International Pte Ltd, Singapore
+    - Guofei Gu, Texas A&M University, USA
+    - Hamed Okhravi, MIT Lincoln Laboratory, USA
+    - Hao Chen, University of California, Davis, USA
+    - Heejo Lee, Korea University, South Korea
+    - Heng Yin, University of California, Riverside, USA
+    - Hongxin Hu, Clemson University, USA
+    - Huy Kang Kim, Korea University, South Korea
+    - Hyoungshick Kim, Sungkyunkwan University, South Korea
+    - Ivan Martinovic, University of Oxford, UK
+    - Jeyavijayan Rajendran, Texas A&M Univ., USA
+    - Jialong Zhang, IBM Research, USA
+    - Jianying Zhou, SUTD, Singapore
+    - Josep Domingo-Ferrer, Universitat Rovira i Virgili, Catalonia
+    - Joseph K. Liu, Monash University, Australia
+    - Juan Tapiador, Universidad Carlos III de Madrid, Spain
+    - Juan Caballero, IMDEA Software Institute, Spain
+    - Kangjie Lu, University of Minnesota, USA
+    - Kapil Singh, IBM T.J. Watson Research Center, USA
+    - Kasper Rasmussen, University of Oxford, UK
+    - Kevin Butler, University of Florida, USA
+    - Konrad Rieck, TU Braunschweig, Germany
+    - Kui Ren, SUNY Buffalo, USA
+    - Kyu Hyung Lee, University of Georgia, USA
+    - Levente Buttyán, CrySyS Lab, BME, Hungary
+    - Liqun Chen, University of Surrey, UK
+    - Long Lu, Northeastern University, USA
+    - Loukas Lazos, University of Arizona, USA
+    - Lucas Davi, University of Duisburg-Essen, Germany
+    - Manuel Egele, Boston University, USA
+    - Manuel Barbosa, INESC TEC and FCUP, Portugal
+    - Mark Manulis, University of Surrey, UK
+    - Marten van Dijk, University of Connecticut, USA
+    - Mathias Payer, Purdue University, USA
+    - Mauro Conti, University of Padua, Italy
+    - Maverick Woo, Carnegie Mellon University, USA
+    - Michail Maniatakos, New York University Abu Dhabi, United Arab Emirates
+    - Mike Burmester, Florida State University, USA
+    - Mohammad Mannan, Concordia University, Canada
+    - Nick Nikiforakis, Stony Brook University, USA
+    - Nicolas Papernot, Penn State University, USA
+    - Olivier Pereira, Université catholique de Louvain, Belgium
+    - Peeter Laud, Cybernetica AS, Estonia
+    - Per Larsen, University of California, Irvine, USA
+    - Pierangela Samarati, Università degli Studi di Milano, Italy
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Roberto Di Pietro, HBKU, Qatar
+    - Sang Kil Cha, KAIST, South Korea
+    - Sangho Lee, Georgia Tech, USA
+    - Sencun Zhu, Penn State University, USA
+    - Seungwon Shin, KAIST, South Korea
+    - Sherman S. M. Chow, Chinese University of Hong Kong, Hong Kong
+    - Sokratis Katsikas, Norwegian University of Science and Technology, Norway
+    - Sooel Son, KAIST, South Korea
+    - Sotiris Ioannidis, FORTH, Greece
+    - Stephen McCamant, University of Minnesota, USA
+    - Suman Jana, Columbia University, USA
+    - Tatsuya Mori, Waseda University, Japan
+    - Thomas Schneider, TU Darmstadt, Germany
+    - Tibor Jager, Paderborn University, Germany
+    - Vasileios P. Kemerlis, Brown University, USA
+    - Vinod Ganapathy, Indian Institute of Science, India
+    - Wenliang Du, Syracuse University, USA
+    - Wenyuan Xu, Zhejiang University, China
+    - Willy Susilo, University of Wollongong, Australia
+    - XiaoFeng Wang, Indiana University, USA
+    - Xinyi Huang, Fujian Normal University, China
+    - Xinyu Xing, Penn State University, USA
+    - Yeongjin Jang, Oregon State University, USA
+    - Yinzhi Cao, Lehigh University, USA
+    - Zhiqiang Lin, University of Texas at Dallas, USA
+    - Zhiyun Qian, UC Riverside, USA
+cycles:
+  - first:
+      submission: "2017-12-19"
+      early-reject: "2018-01-29"
+      # Deadline for appeal (for early rejection papers only) : Feb 1, 2018
+      acceptance: "2018-03-03"
+      camera-ready: "2018-03-31"
+anonymous: true
+ethics-discussion: true
+conflicts: true
+# 12 pages including bibliography acm, 3 appendix
+# early reject with appeal

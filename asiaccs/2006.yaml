@@ -1,0 +1,77 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20060813091727/http://www.iis.sinica.edu.tw/asiaccs06/indexhome.html
+topics:
+  - Access control and authorization
+  - Applied cryptography
+  - Authentication, biometrics, smartcards
+  - Data integrity and audit
+  - Database security
+  - Digital Rights Management
+  - Distributed systems security
+  - E-commerce and mobile e-commerce
+  - Electronic privacy, anonymity
+  - Formal verification and testing
+  - Hardware design
+  - High speed networks
+  - Information flow
+  - Intrusion detection and survivability
+  - Mobile code and mobile agent security
+  - P2P & ad hoc networks
+  - RFID applications
+  - Security protocols
+  - Viruses and other malicious codes
+  - Watermarking and data hiding
+  - Wireless communications
+  - Wireless sensor networks
+pc:
+  - "Program committee":
+    - Vijay Atluri, Rutgers U, USA
+    - Aditya Bagchi, ISI, India
+    - Hao Chen, UC Davis, USA
+    - Kefei Chen, Shanghai Jiaotung U, PRC
+    - Tsuhan Chen, CMU, USA
+    - Ed Dawson, QUT, AU
+    - Robert Deng, SMU, Singapore
+    - Yvo Desmedt, UCL&FSU, UK
+    - Wenliang Du, Syracuse U, USA
+    - Simon Foley, U College Cork, Ireland
+    - Virgil Gligor, U of Maryland, USA
+    - Dieter Gollmann, TUHH, Germany
+    - Ravi Iyer, UIUC, USA
+    - Pradeep Khosla, CMU, USA
+    - Kwangjo Kim, ICU, Korea
+    - Michiharu Kudoh, IBM Tokyo Lab, Japan
+    - Chi-Sung Laih, ChenKung U, Taiwan
+    - Kwok-Yan Lam, Tsinghua U, PRC
+    - Chin-Laung Lei, Taiwan U, Taiwan
+    - Peng Liu, Penn State U, USA
+    - Sharad Mehrotra UC Irvine, USA
+    - Jonathan Millen, MITRE,  USA
+    - Peng Ning, NC State U, USA
+    - Eiji Okamoto, U of Tsukuba, Japan
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Mike Reiter, CMU, USA
+    - Rei Safavi-Naini, U Wollogong, AU
+    - Pierangela Samarati, U of Milano, Italy
+    - Ravi Sandhu, GMU, USA
+    - R. Sekar, Stony Brook U, USA
+    - Hovav Shacham, Standford U, USA
+    - Sean Smith, Dartmouth, USA
+    - Dawn Song, CMU, USA
+    - Michael Steiner, IBM, USA
+    - Wen-Guey Tzeng, Chiao Tung U, Taiwan
+    - Doug Tygar, UC Berkerley, USA
+    - Vijay Varadharajan, Macquarie U, AU
+    - Huaxiong Wang, Macquarie U, AU
+    - Victor Wei, Chinese U of HK, HK
+    - Felix Wu, UC Davis, USA
+    - Tzong-Chen Wu, NTUST, Taiwan
+    - Moti Yung, Columbia U, USA
+cycles:
+  - first:
+      submission: "2005-10-01"
+      acceptance: "2005-12-05"
+      camera-ready: "2005-12-20"
+# 20 pages net, 25 total, single-column

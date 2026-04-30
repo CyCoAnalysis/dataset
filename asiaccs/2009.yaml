@@ -1,0 +1,88 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20091119053536/http://www.comp.mq.edu.au/conferences/asiaccs2009/
+topics:
+  - Public-Key Cryptography
+  - Intrusion Detection
+  - Implementations
+  - Trusted Computing
+  - Symmetric-Key Cryptography
+  - Security Analysis
+  - Cryptographic Protocols
+  - Software Security
+  - Hash Functions
+  - Hardware Security
+  - Network Security
+  - Mobile Computing Security
+  - Anonymity and Privacy
+  - Theory of Security
+  - Wireless Security
+  - Formal Security Models
+  - RFID Security
+  - Digital Rights Management
+  - Security Policy
+  - Secure Systems
+  - Security Management
+  - Information Hiding
+  - Access Control
+  - Quantum Cryptography
+  - Security Verification
+  - Secure Electronic Commerce
+pc:
+  - "Program committee":
+    - Masayuki Abe, NTT Corporation, Japan
+    - N. Asokan, Nokia Research Center, Finland
+    - Mike Atallah, Purdue University, USA
+    - Tuomas Aura, Microsoft Research, USA
+    - David Basin, ETH Zurich, Switzerland
+    - Elisa Bertino, Purdue University, USA
+    - Xavier Boyen, Stanford University, USA
+    - Alvaro Cardenas, University of California, USA
+    - Liqun Chen, HP Labs, UK
+    - Jason Crampton, Royal Holloway, University of London, UK
+    - Bruno Crispo, University of Trento, Italy
+    - George Danezis, Microsoft Research , UK
+    - Robert Deng, Singapore Management University, Singapore
+    - Alain Durand, Thomson, France
+    - Nelly Fazio, IBM T.J. Watson, USA
+    - Vinod Ganapathy, Rutgers University, USA
+    - Virgil Gligor, Carnegie Mellon University, USA
+    - Phillppe Golle, Palo Alto Research Center, USA
+    - Dieter Gollmann, TUHH, Germany
+    - Guenter Karjoth, IBM Research, Zurich, Switzerland
+    - Aggelos Kiayias, University of Connecticut, USA
+    - Kwangjo Kim, ICU , Korea
+    - Evangelos Kranakis, Carleton University, Canada
+    - Chih sung Laih, National Cheng Kung University, Taiwan
+    - Wenke Lee, Georgia Institute of Technology, USA
+    - Yingjiu Li, Singapore Management University, Singapore
+    - Javier Lopez, University of Malaga, Spain
+    - Kanta Matsuura, University of Tokyo, Japan
+    - Cathy Meadows, Naval Research Laboratory, USA
+    - Alfred Menezes, University of Waterloo, Canada
+    - Chris Mitchell, Royal Holloway, University of London, UK
+    - George Mohay, Queensland University of Technology, Australia
+    - Refik Molva, EURECOM, France
+    - David Naccache, ENS, France
+    - Eiji Okamoto, University of Tsukuba, Japan
+    - Raphael Phan, Loughborough University, UK
+    - Kui Ren, Illinois Institute of Technology, USA
+    - Reiner Sailer, IBM T.J. Watson Research Center, USA
+    - Kouichi Sakurai, Kyushu University, Japan
+    - Pierangela Samarati, University of Milan, Italy
+    - Palash Sarkar, Indian Statistical Institute, India
+    - Shiuhpyng Shieh, National Chiao Tung University, Taiwan
+    - Jessica Staddon, Palo Alto Research Center, USA
+    - Clark Thomborson, University of Auckland, New Zealand
+    - Bhavani Thurasingham, University of Texas, Dallas, USA
+    - Gene Tsudik, University of California, Irvine, USA
+    - Duncan Wong, City University of Hong Kong, Hong Kong
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2008-09-20"
+      acceptance: "2008-12-01"
+      camera-ready: "2008-12-14"
+anonymous: true
+# 12 pages net, no strict format, acm proceeding

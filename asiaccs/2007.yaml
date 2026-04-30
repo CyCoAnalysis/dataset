@@ -1,0 +1,33 @@
+website:
+  url: null
+  available: false
+  archive: https://www.ieee-security.org/Calendar/cfps/cfp-ASIACCS2007.html
+  # http://asiaccs07.i2r.a-star.edu.sg/ excluded from archive.org
+topics:
+  - Access control and authorization
+  - Applied cryptography
+  - Authentication, biometrics, smartcards
+  - Data integrity and audit
+  - Database security
+  - Digital Rights Management
+  - Distributed systems security
+  - E-commerce and mobile e-commerce
+  - Electronic privacy, anonymity
+  - Formal verification and testing
+  - Hardware design
+  - High speed networks
+  - Information flow
+  - Intrusion detection and survivability
+  - Mobile code and mobile agent security
+  - P2P & ad hoc networks
+  - RFID applications
+  - Security protocols
+  - Viruses and other malicious codes
+  - Watermarking and data hiding
+  - Wireless communications
+  - Wireless sensor networks
+pc:
+  - "Program committee": []
+cycles:
+  - first:
+      submission: "2006-10-01"

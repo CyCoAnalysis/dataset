@@ -1,0 +1,166 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20210616003556/https://asiaccs2021.comp.polyu.edu.hk/
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Automotive security
+  - Big data security and privacy
+  - Biometrics
+  - Blockchain and alternatives
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical system security
+  - Data and application security
+  - Edge computing security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Aisling Connolly, Ingenico and UC San Diego
+    - Alexandra Dmitrienko, University of Wuerzburg
+    - Alvaro Cardenas, University of California Santa Cruz
+    - Amin Kharraz, Florida International University
+    - Andrea Lanzi, University of Milan
+    - Aniello Castiglione, University of Naples Parthenope
+    - Aniket Kate, Purdue University
+    - Antonio Bianchi, Purdue University
+    - Aravind Prakash, Binghamton University
+    - Aydin Aysu, NC State
+    - Bin Xiao, Department of Computing, The Hong Kong Polytechnic University
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Byoungyoung Lee, Seoul National University
+    - Chao Zhang, Institute for Network Science and Cyberspace of Tsinghua University
+    - Chengyu Song, UC Riverside
+    - Cong Wang, City University of Hong Kong
+    - Daniel Genkin, University of Michigan
+    - Daniel Gruss, Graz University of Technology
+    - Daniele Antonioli, EPFL
+    - Dave (Jing) Tian, Purdue University
+    - Dimitrios Papadopoulos, Hong Kong University of Science and Technology
+    - Ding Wang, Nankai University
+    - Duong Hieu Phan, Telecom Paris, Institut Polytechnique de Paris, France
+    - Fengwei Zhang, Southern University of Science and Technology (SUSTech)
+    - Fengyuan Xu, National Key Lab for Novel Software Technology, Nanjing University
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Guoxing Chen, Facebook, Inc.
+    - Hong Hu, Penn State University
+    - Hongxin Hu, Clemson University
+    - Jesus Diaz, IBM Research GmbH
+    - Jianying Zhou, Singapore University of Technology and Design
+    - Jorge Blasco, Royal Holloway, University of London
+    - Joseph Liu, Monash University
+    - Juan Caballero, IMDEA Software Institute
+    - Jun Xu, Stevens Institute of Technology
+    - Junghwan “John” Rhee, University of Central Oklahoma
+    - Kangjie Lu, University of Minnesota
+    - Kaveh Razavi, ETH Zurich
+    - Kehuan Zhang, The Chinese University of Hong Kong
+    - Kevin Borgolte, Princeton University
+    - Kevin Hamlen, University of Texas at Dallas
+    - Kevin Yeo, Google
+    - Khoa Nguyen, Nanyang Technological University
+    - Koji Nuida, The University of Tokyo / National Institute of Advanced Industrial Science and Technology
+    - Lannan Luo, University of South Carolina
+    - Man Ho Au, The University of Hong Kong
+    - Manuel Egele, Boston University
+    - Martin Ochoa, AppGate Inc.
+    - Mathy Vanhoef, New York University Abu Dhabi
+    - Minhui (Jason) Xue, The University of Adelaide
+    - Miroslaw Kutylowski, Wroclaw University of Science and Technology
+    - Moti Yung (Chair), Snap Inc./ Columbia
+    - Mu Zhang, University of Utah
+    - Neil Gong, Duke University
+    - Nikos Leonardos, University of Athens
+    - Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security
+    - Nitesh Saxena, The University of Alabama at Birmingham
+    - Peihan Miao, University of Illinois at Chicago
+    - Pino Caballero-Gil, University of La Laguna
+    - Purui Su, Institute of Software/CAS China
+    - Qi Alfred Chen, UC Irvine
+    - Qiang Tang, New Jersey Institute of Technology
+    - Qingchuan Zhao, The Ohio State University
+    - Raphal Phan, Monash University, Malaysia
+    - Reihaneh Savafi-Naini, University of Calgary
+    - Rongmao Chen, National University of Defense Technology
+    - Ruoyu “Fish” Wang, Arizona State University
+    - Ryan Riley, Carnegie Mellon University Qatar
+    - Sang Kil Cha, KAIST
+    - Seung Geol Choi, US Naval Acadeamy
+    - Sherman S. M. Chow, The Chinese University of Hong Kong, Hong Kong
+    - Shiqing Ma, Rutgers University
+    - Shuai Wang, HKUST
+    - Somindu Chaya Ramanna, Indian Institute of Technology Kharagpur, India
+    - Syed Rafiul Hussain, Pennsylvania State University
+    - Taegyu Kim, Purdue University
+    - Thomas Peters, UCLouvain
+    - Tianhao Wang, Purdue University
+    - Tianwei Zhang, Nanyang Technological University
+    - Tiffany Bao, Arizona State University
+    - Timothy Barron, Yale University
+    - Ting Yu, Qatar Computing Research Institute
+    - Wei Meng, The Chinese University of Hong Kong
+    - Wenwen Wang, University of Georgia
+    - William Enck, North Carolina State University
+    - Xiaojing Liao, Indiana University Bloomington
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Xingliang Yuan, Monash University
+    - Xinyi Huang, Fujian Normal University, China
+    - Yajin Zhou, Zhejiang University
+    - Yan Huang, Indiana University
+    - Yanfang (Fanny) Ye, Case Western Reserve University
+    - Yang Zhang, CISPA Helmholtz Center for Information Security
+    - Yanick Fratantonio, EURECOM
+    - Yeongjin Jang, Oregon State University
+    - Yonghwi Kwon, University of Virginia
+    - Young Park, San Jose State University
+    - Yousra Aafer, University of Waterloo
+    - Yu Yu, Shanghai Jiao Tong University
+    - Yuan Zhang, Fudan University
+    - Yue Duan, Illinois Institute of Technology
+    - Yueqiang Cheng, Baidu Xlab
+    - Yuhong Nan, Purdue University
+    - Yupeng Zhang, Texas A&M University
+    - Yuval Yarom, University of Adelaide and Data61
+    - Zhenkai Liang, National University of Singapore
+    - Zhiqiang Lin (Chair), Ohio State University
+    - Zhou Li, University of California, Irvine
+cycles:
+  - first:
+      submission: "2020-08-21"
+      acceptance: "2020-10-24"
+      camera-ready: "2020-11-25"
+  - second:
+      submission: "2020-12-11"
+      acceptance: "2021-02-15"
+      camera-ready: "2021-03-15"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+# 12 pages including bibliography acm, 3 appendix
+# revision
+# early reject with appeal

@@ -1,0 +1,100 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20130506044812/http://hise.hznu.edu.cn/asiaccs/Call.html
+topics:
+  - access control
+  - identity management
+  - security in ubiquitous computing
+  - accounting and audit
+  - inference control and disclosure
+  - security management
+  - applied cryptography
+  - intrusion detection
+  - security verification
+  - authentication
+  - key management
+  - smartcards
+  - cloud computing security
+  - malware and botnets
+  - software security
+  - data/system integrity
+  - mobilecomputing security
+  - trusted computing
+  - data and application security
+  - operating system security
+  - usable security and privacy
+  - digitalrights management
+  - phishing and countermeasures
+  - wireless security
+  - formal methods for security
+  - privacy-enhancing technology
+  - web security
+  - hardware-based security
+  - security architecture
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Michael Backes, Saarland University, Germany
+    - Lujo Bauer, Carnegie Mellon University, USA
+    - Elisa Bertino, Purdue University, USA
+    - Ioana Boureanu, EPFL, Switzerland
+    - Kefei Chen, Shanghai Jiao Tong University, China
+    - Liqun Chen, Hewlett Packard Bristol Labs, UK
+    - Sherman S. M. Chow, Chinese University of Hong Kong, Hong Kong
+    - Robert Deng, Singapore Management University, Singapore
+    - Wenliang Du, Syracuse University, USA
+    - Chun-I Fan, National Sun Yat-sen University, Taiwan
+    - Philip Fong, University of Calgary, Canada
+    - Debin Gao, Singapore Management University, Singapore
+    - Deepak Garg, Max Planck Institute for Software Systems, Germany
+    - Virgil Gligor, Carnegie Mellon University, USA
+    - Ragib Hasan, University of Alabama at Birmingham, USA
+    - Trent Jaeger, Penn State University, USA
+    - Sushil Jajodia, George Mason University, USA
+    - Xuxian Jiang, North Carolina State University, USA
+    - Yongdae Kim, KAIST, South Korea
+    - Ponnurangam Kumaraguru, Indraprastha Institute of Information Technology, India
+    - Xuejia Lai, Shanghai Jiao Tong University, China
+    - Ruby Lee, Princeton University, USA
+    - Chin-Laung Lei, National Taiwan University, Taiwan
+    - Zhichun Li, NEC Labs, USA
+    - Yingjiu Li , Singapore Management University, Singapore
+    - Jiangtao Li, Intec, USA
+    - Zhengkai Liang, National University of Singapore, Singapore
+    - David Lie, University of Toronto, Canada
+    - Dongdai Lin, Chinese Academy of Sciences, China
+    - Zhiqiang Lin, University of Texas at Dallas, USA
+    - Peng Liu , Penn State University, USA
+    - Javier Lopez, University of Malaga, Spain
+    - Z. Morley Mao, University of Michigan, USA
+    - Ian Molloy, IBM Research, USA
+    - David Naccache, Ecole Normale Supeerieure, France
+    - Charalampos Papamanthou , UC Berkeley, USA
+    - Kui Ren, University at Buffalo, USA
+    - Ryan Riley, Qatar University, Qatar
+    - Ahmad-Reza Sadeghi, Technische Universitaet Darmstadt and Intel-CRISC, Germany
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, University of Milan, Italy
+    - Kouichi Sakurai, KyuShu University, Japan
+    - Shiuhpyng Shieh, National Chiao Tung University, Taiwan
+    - Willy Susilo, University of Wollongong, Australia
+    - Mahesh Tripunitara, University of Waterloo, Canada
+    - Wen-Guey Tzeng, National Chiao Tung University, Taiwan
+    - Vijay Varadharajan, Macquarie University, Australia
+    - Huaxiong Wang, Nanyang Technological University, Singapore
+    - Rui Wang, Microsoft Research, USA
+    - Guoliang Xue , Arizona State University, USA
+    - Danfeng Yao, Virginia Tech University, USA
+    - Moti Yung, Google Inc. and Columbia University, USA
+    - Fangguo Zhang, Sun Yat-sen University, China
+    - Kehuan Zhang, Chinese University of Hong Kong, Hong Kong
+    - Xiangyu Zhang, Purdue University, USA
+cycles:
+  - first:
+      submission: "2012-12-03"
+      acceptance: "2013-01-23"
+      camera-ready: "2013-02-24"
+anonymous: true
+# 10 pages acm, 12 total, buying additional
+# short papers, not specified

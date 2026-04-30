@@ -1,0 +1,110 @@
+website:
+  url: https://asiaccs2014.nict.go.jp/index.html
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accounting and audit
+  - Anonymity
+  - Applied cryptography
+  - Authentication
+  - Cloud computing security
+  - Data and application security
+  - Digital forensics
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security
+  - Inference control and disclosure
+  - Intrusion detection
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Privacy-enhancing technology
+  - Security architectures
+  - Security metrics
+  - Software security
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Joonsang Baek, Khalifa University of ST&R, UAE
+    - Elisa Bertino, Purdue University, USA
+    - Ioana Boureanu, EPFL, Switzerland
+    - Kevin Butler, University of Oregon, USA
+    - Justin Cappos, NYU Polytechnic University, USA
+    - Alvaro Cardenas, UT Dallas, USA
+    - Kefei Chen, Shanghai Jiaotong University, China
+    - Liqun Chen, HP Labs, UK
+    - Sherman S. M. Chow, Chinese University of Hong Kong, China
+    - Michael Clarkson, George Washington University, USA
+    - Matthew Fredrikson, University of Wisconsin, Madison, USA
+    - Debin Gao, Singapore Management University, Singapore
+    - Thomas Gross, University of Newcastle, UK
+    - Guofei Gu, Texas A&M University, USA
+    - Ragib Hasan, University of Alabama, Birmingham, USA
+    - Sushil Jajodia, George Mason University, USA
+    - Xuxian Jiang, North Carolina State University, USA
+    - Ruediger Kapitza, TU Braunschweig, Germany
+    - Stefan Katzenbeisser, TU Darmstadt, Germany
+    - Hiroaki Kikuchi, Meiji University, Japan
+    - Dong Seong Kim, University of Canterbury, New Zealand
+    - Engin Kirda, Northeastern University, USA
+    - Xuejia Lai, Shanghai Jiaotong University, China
+    - Ruby Lee, Princeton University, USA
+    - Chin-Laung Lei, National Taiwan University, Taiwan
+    - Jiangtao Li, Intel Corporation, USA
+    - Ninghui Li, Purdue University, USA
+    - Yingjiu Li, Singapore Management University, Singapore
+    - Zhichun Li, NEC Labs, USA
+    - Zhiwei Li, UC Berkeley, USA
+    - Zhenkai Liang, National University, Singapore
+    - Zhiqiang Lin, UT Dallas, USA
+    - Harsha Madhyastha, UC Riverside, USA
+    - Aziz Mohaisen, Verisign Labs, USA
+    - David Naccache, Ecole Normale Suprieure, France
+    - Daniela Oliveira, Bowdoin College, USA
+    - Xinming Ou, Kansas State University, USA
+    - Mathias Payer, UC Berkeley, USA
+    - Zachary Peterson, Cal Poly SLO, USA
+    - Michalis Polychronakis, Columbia University, USA
+    - Georgios Portokalidis, Stevens Institute of Technology, USA
+    - Christian Probst, TU of Denmark, Denmark
+    - Zhiyun Qian, NEC Labs, USA
+    - Kui Ren, University of Buffalo, USA
+    - Susmita Ruj, University of Ottawa, Canada
+    - Pierangela Samarati, University of Milan, Italy
+    - Nuno Santos, MPI-SWS, Germany
+    - Joshua Schiffman, Advanced Micro Devices, USA
+    - Micah Sherr, Georgetown University, USA
+    - Dongwan Shin, New Mexico Tech University, USA
+    - Christian Skalka, University of Vermont, USA
+    - Abhinav Srinistava, AT&T Labs -- Research, USA
+    - Angelos Stavrou, George Mason University, USA
+    - Willy Susilo, University of Wollongong, Australia
+    - Patrick Tague, CMU Silicon Valley, USA
+    - Gang Tan, Lehigh University, USA
+    - Mahesh Tripunitara, University of Waterloo, Canada
+    - Wen-Guey Tzeng, National Chiao Tung University, Taiwan
+    - Eugene Vasserman, Kansas State University, USA
+    - Hayawardh Vijayakumar, Penn State University, USA
+    - Huaxiong Wang, Nanyang Technological University, Singapore
+    - Rui Wang, Microsoft Research, USA
+    - Yuji Watanabe, IBM Research, Japan
+    - Guoliang Xue, Arizona State University, USA
+    - Danfeng Yao, Virginia Tech University, USA
+    - Moti Yung, Google & Columbia University, USA
+    - Fangguo Zhang, Sun Yat-sen University, China
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2013-12-16"
+      acceptance: "2014-02-04"
+      camera-ready: "2014-03-31"
+anonymous: true
+# 10 pages acm, 12 total, buying additional
+# short papers, not specified

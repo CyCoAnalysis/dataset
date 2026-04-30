@@ -1,0 +1,156 @@
+website:
+  url: https://asiaccs2025.hust.edu.vn/
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Abdelrahaman Aly, Technology Innovation Institute, UAE
+    - Abhishek Bichhawat, IIT Gandhinagar
+    - Adithya Vadapalli, IIT Kanpur
+    - Alejandro Cuevas, Carnegie Mellon University
+    - Alessandro Brighente, University of Padova
+    - Alptekin Küpçü, Koç University
+    - Andreas Kogler, Graz University of Technology
+    - Anjia Yang, Jinan University
+    - Annabelle McIver, Macquarie University
+    - Awais Rashid, University of Bristol, UK
+    - Bo Chen, Michigan Technological University
+    - Carlos Rubio-Medrano, Texas A&M University- Corpus Christi
+    - Changhai Ou, Wuhan University
+    - Charalambos Konstantinou, KAUST
+    - Chenglu Jin, CWI Amsterdam
+    - Chia-Mu Yu, National Yang Ming Chiao Tung University
+    - Coby Wang, Visa Research
+    - Daisuke Mashima, Singapore University of Technology and Design
+    - Debin Gao, Singapore Management University
+    - Ding Wang, Nankai University
+    - Duc Le (Cycle 1 only), Visa Research
+    - Fabio De Gaspari, Sapienza University of Rome
+    - Fan Zhang, Zhejiang University
+    - Fei Zuo, University of Central Oklahoma
+    - Gabriele Oligeri, Hamad bin Khalifa University
+    - George Stergiopoulos, University of the Aegean
+    - Ghada Almashaqbeh, University of Connecticut
+    - Guoxing Chen, Shanghai Jiao Tong University
+    - Gustavo Banegas, INRIA
+    - Haifeng Yu, National University of Singapore
+    - Hao Zhou, The Hong Kong Polytechnic University
+    - Haoyu Ma, Zhejiang Lab
+    - Haoyu Wang, Huazhong University of Science and Technology
+    - Hervé Debar, Télécom SudParis
+    - Huawei Huang, Sun Yat-sen University
+    - Hung Nguyen, The University of Adelaide
+    - Hyoungshick Kim, Sungkyunkwan University
+    - Ioannis Demertzis, UCSC
+    - Jianliang Wu, Simon Fraser University
+    - Jianyu Niu, Southern University of Science and Technology
+    - Jin-Hee Cho, Virginia Tech
+    - Joaquin GARCIA ALFARO, Institut Polytechnique de Paris
+    - Juanru Li, Shanghai Jiao Tong University
+    - Jun Sakuma, Tokyo Institute of Technology
+    - Kan Yang, University of Memphis
+    - Kasper Rasmussen, University of Oxford
+    - Katerina Mitrokotsa, University of St. Gallen, Switzerland
+    - Katsunari Yoshioka, Yokohama National University
+    - Kehuan Zhang, The Chinese University of Hong Kong
+    - Kevin Leach, Vanderbilt University
+    - Kristen Moore, CSIRO’s Data61
+    - Kun Sun, George Mason University
+    - Kwok-Yan Lam, Nanyang Technological University, Singapore
+    - Lei Xu, Nanjing University of Science and Technology
+    - Lei Yu, Rensselaer Polytechnic Institute
+    - Leo Zhang, Griffith University
+    - Lilas Alrahis, Khalifa University
+    - Man Ho Au (Cycle 1 only), The Hong Kong Polytechnic University
+    - Manaar Alam, New York University Abu Dhabi
+    - Marcus Botacin, Texas A&M University
+    - Mengyuan Li, USC
+    - Michele Carminati, Politecnico di Milano
+    - Min Chen (Cycle 1 only), CISPA Helmholtz Center for Information Security
+    - Minghong Fang, University of Louisville
+    - Minghui Xu, Shandong University
+    - Mohammad Ashiqur Rahman, Florida International University
+    - Nalin Arachchilage, RMIT University, Australia
+    - Natalia Stakhanova, University of Saskatchewan, Canada
+    - Neetesh Saxena, Cardiff University
+    - Nektarios Tsoutsos, University of Delaware
+    - Ning Wang, University of South Florida
+    - Ning Zhang, Washington University in St. Louis
+    - Ningyu He, The Hong Kong Polytechnic University
+    - Nir Drucker, IBM Research – Israel
+    - Olga Gadyatskaya, Leiden University
+    - Peng Gao, Virginia Tech
+    - Pengfei Hu, Shandong University
+    - Prabhu Karthikeyan Rajasekaran, Google
+    - Prashant Hari Narayan Rajput, InterSystems
+    - Qingyang Wang, Louisiana State University
+    - Rakesh Bobba, Oregon State University
+    - Roberto Guanciale, KTH
+    - Roopa Vishwanathan, New Mexico State University
+    - Rui Ning (Cycle 1 only), Old Dominion University
+    - Runchao Han, Babylon Labs
+    - Salil Kanhere, University of New South Wales
+    - Sandra Rueda, Universidad de los Andes, Colombia
+    - Sanghyun Hong (Cycle 1 only), Oregon State University
+    - Satoshi Obana, Hosei University
+    - Seetal Potluri, University at Albany, SUNY
+    - Seunghoon Woo, Korea University
+    - Shalabh Jain, Bosch Research
+    - Sherman S. M. Chow, The Chinese University of Hong Kong
+    - Shih-Wei Li, National Taiwan University
+    - Shuo Wang, Shanghai Jiao Tong University
+    - Siqi Ma, The University of New South Wales
+    - Sofia Celi, Brave
+    - Song Fang, University of Oklahoma
+    - Soteris Demetriou, Imperial College London
+    - Steve Granda, National Renewable Energy Laboratory
+    - Sven Dietrich, City University of New York
+    - Sze Yiu Chau, The Chinese University of Hong Kong
+    - Tingmin Wu, CSIRO’s Data61
+    - Viet Vo, Swinburne University of Technology
+    - Weijia Wang, Shandong University
+    - William Blair, SpaceX
+    - Xiang Li, Nankai University
+    - Xianghang Mi, USTC
+    - Xiangkun Jia, Institute of Software Chinese Academy of Sciences
+    - Xiaokuan Zhang, George Mason University
+    - Xiaoli ZHANG, University of Science and Technology Beijing
+    - Xiaoning Liu, RMIT University, Australia
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Xinda Wang, University of Texas at Dallas
+    - Xingliang Yuan, University of Melbourne
+    - Xinlei He, Hong Kong University of Science and Technology (Guangzhou)
+    - Xueqiang Wang, University of Central Florida
+    - Xuhua Ding, SMU
+    - Yan Lin, Jinan University
+    - Yanjiao Chen, Zhejiang University
+    - Yansong Gao, Data61, CSIRO
+    - Yifeng Zheng, The Hong Kong Polytechnic University
+    - Yinzhi Cao, Johns Hopkins University
+    - Yuanchao Xu, University of California Santa Cruz
+    - Zhe Wang, ICT, CAS
+    - Zhenyu Ning, Hunan University
+    - Zhi Zhang, The University of Western Australia
+    - Zhibo Wang, Zhejiang University
+    - Ziming Zhao, Northeastern University
+    - Zubair Baig, Deakin University
+cycles:
+  - first:
+      submission: "2024-09-20"
+      early-reject: "2024-10-25"
+      acceptance: "2024-12-13"
+      camera-ready: "2025-01-11"
+  - second:
+      submission: "2025-01-20"
+      early-reject: "2025-02-28"
+      acceptance: "2025-04-19"
+      camera-ready: "2025-05-25"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+# sok: true
+# 12 pages excluding bibliography acm, 10 bib+appendix
+# revision
+# early reject with appeal
+# blockchains or machine learning discouraged

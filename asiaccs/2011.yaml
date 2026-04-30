@@ -1,0 +1,98 @@
+website:
+  url: https://i.cs.hku.hk/~asiaccs/
+  available: true
+  archive: null
+topics:
+  - anonymity
+  - inference/controlled disclosure
+  - cryptographic protocols
+  - access control
+  - intellectual-property protection
+  - data/system integrity
+  - secure networking
+  - digital-rights management
+  - information warfare
+  - accounting and audit
+  - trusted computing
+  - formal methods for security
+  - key management
+  - phishing and countermeasures
+  - identity management
+  - intrusion detection
+  - commercial and industry security
+  - security in ubiquitous computing, e.g., RFIDs
+  - authentication
+  - security management
+  - smartcards
+  - web security
+  - security and privacy for emerging technologies, e.g., VoIP, peer-to-peer and overlay network systems, Web 2.0
+  - data and application security
+  - applied cryptography
+  - malware and botnets
+  - mobile-computing security
+  - privacy-enhancing technology
+  - software security
+pc:
+  - "Program committee":
+    - Vijay Atluri (Rutgers Univ., USA)
+    - Michael Backes (Saarland Univ. and MPI-SWS, Germany)
+    - Joonsang Baek (I2R, Singapore)
+    - David Basin (ETH Zurich, Switzerland)
+    - Colin Boyd (QUT, Australia)
+    - David Brumley (Carnegie Mellon Univ., USA)
+    - Mike Burmester (Florida State Univ., USA)
+    - Zhenfu Cao (Shanghai Jiao Tong Univ., China)
+    - Srdjan Capkun (ETH Zurich, Switzerland)
+    - Kefei Chen (Shanghai Jiao Tong Univ., China)
+    - Liqun Chen (HP Labs, UK)
+    - Tzi-cker Chiueh (Stony Brook Univ., USA)
+    - Marc Dacier (Symantec Research Labs Europe)
+    - Robert Deng (SMU, Singapore)
+    - Feng Bao (I2R, Singapore)
+    - Dengguo Feng (Chinese Academy of Sciences, China)
+    - Eiichiro Fujisaki (NTT Labs, Japan)
+    - Adonis Fung (Chinese University of Hong Kong, China)
+    - Jun Furukawa (NEC, Japan)
+    - David Galindo (Univ. of Luxembourg, Luxembourg)
+    - Virgil Gligor (Carnegie Mellon Univ., USA)
+    - Guofei Gu (Texas A&M Univ., USA)
+    - Qijun Gu (Texas State Univ., USA)
+    - Apu Kapadia (Indiana Univ., USA)
+    - Kwangjo Kim (KAIST, Korea)
+    - Adam J. Lee (Univ. of Pittsburgh, USA)
+    - Yingjiu Li (SMU, Singapore)
+    - Dongdai Lin (Chinese Academy of Sciences, China)
+    - Peng Liu (Pennsylvania State Univ., USA)
+    - Mark Manulis (TU Darmstadt, Germany)
+    - Sjouke Mauw (Univ. of Luxembourg, Luxembourg)
+    - Catherine Meadows (Naval Research Laboratory, USA)
+    - Chris Mitchell (Royal Holloway, Univ. of London, UK)
+    - Yi Mu (Univ. of Wollongong, Australia)
+    - David Naccache (ENS, France)
+    - Eiji Okamoto (Univ. of Tsukuba, Japan)
+    - Panagiotis Papadimitratos (EPFL Lausanne, Switzerland)
+    - Josef Pieprzyk (Macquarie Univ., Australia)
+    - Alexander Pretschner (Karlsruhe Institute of Technology, Germany)
+    - Kui Ren	(Illinois Institute of Technology, USA)
+    - Michael Rusinowitch (LORIA-INRIA-Lorraine, France)
+    - Rei Safavi-Naini (Univ. of Calgary, Canada)
+    - Pierangela Samarati (Univ. of Milan, Italy)
+    - Shiuhpyng Shieh (Chiao Tung Univ., Chinese Taipei)
+    - Sean W. Smith (Dartmouth College, USA)
+    - Anna Squicciarini (Pennsylvania State Univ., USA)
+    - Willy Susilo (Univ. of Wollongong, Australia)
+    - Tsuyoshi Takagi (Kyushu Univ., Japan)
+    - Bhavani Thuraisingham (Univ. of Texas, Dallas, USA)
+    - Dongyan Xu (Purdue Univ., USA)
+    - Damien Vergnaud (ENS, France)
+    - Xun Yi	(Victoria Univ., Australia)
+    - Fangguo Zhang (Sun Yat-sen Univ., China)
+    - Jianying Zhou (I2R, Singapore)
+cycles:
+  - first:
+      submission: "2010-10-08"
+      acceptance: "2010-12-05"
+      camera-ready: "2010-12-28"
+anonymous: true
+# 10 pages acm, 12 total, buying additional
+# awards: true

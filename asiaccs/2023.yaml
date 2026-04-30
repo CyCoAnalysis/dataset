@@ -1,0 +1,127 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20230321211638/https://asiaccs2023.org/
+topics: []
+pc:
+  - "Program committee":
+    - Alexios Voulimeneas, imec-DistriNet, KU Leuven, Belgium
+    - Alptekin Küpçü, Koç University, Turkey
+    - Angelos Stavrou, Virginia Tech, USA
+    - Anna Lisa Ferrara , University of Molise, Italy
+    - Annabelle Mclver , Macquarie University, Australia
+    - Aravind Machiry, Purdue University, USA
+    - Ashish Kundu, Cisco Research, USA
+    - Betül Durak, Microsoft Research, USA
+    - Bo Chen, Michigan Technological University, USA
+    - Bruno Crispo, University of Trento, Italy
+    - Chao Zhang, Tsinghua University, China
+    - Christopher Wood, Cloudflare, USA
+    - Cristian-Alexandru Staicu (First Round Only), CISPA Helmholtz Center for Information Security, Germany
+    - Cristina Alacaraz, University of Malaga, Spain
+    - Damith Ranasinghe, The University of Adelaide, Australia
+    - Daniele Antonioli, EURECOM, France
+    - Debdeep Mukhopadhyay, Indian Institute of Technology Kharagpur, India
+    - Debin Gao, Singapore Management University, Singapore
+    - Di Ma, University of Michigan-Dearborn, USA
+    - Dokyung Song, Yonsei University, Republic of Korea
+    - Doowon Kim, University of Tennessee, USA
+    - Edgar Weippl, University of Vienna, SBA Research, Austria
+    - Elisabeth Oswald, University of Klagenfurt, Austria
+    - Gabriele Oligeri, Hamad bin Khalifa University, Qatar
+    - Ghassan Karame, Ruhr University Bochum, Germany
+    - Giovanni Russello, University of Auckland, New Zealand
+    - Guomin Yang, University of Wollongong, Australia
+    - Haehyun Cho, Soongsil University, Republic of Korea
+    - Hervé Debar, Télécom SudParis, Institut Polytechnique de Paris, France
+    - Hyoungshick Kim, Sungkyunkwan University, Republic of Korea
+    - Ileana Buhan, Radboud University Nijmengen, Netherlands
+    - Jie Yang, Florida State University, USA
+    - Jin-Hee Cho, Virginia Tech, USA
+    - Joaquin Garcia-Alfaro, Institut Polytechnique de Paris, France
+    - Jorge Blasco Alis, Royal Holloway, University of London, UK
+    - Jorge Guajardo, Robert Bosch LLC – Research and Technology Center, USA
+    - Juanru Li, Shanghai Jiao Tong University, China
+    - Jun Sakuma, University of Tsukuba, Japan
+    - Junghwan “John” Rhee, University of Central Oklahoma, USA
+    - Kapil Singh, IBM T.J. Watson Research Center, USA
+    - Kari Kostiainen, ETH Zurich, Switzerland
+    - Kasper Rasmussen, University of Oxford, UK
+    - Katerina Mitrokotsa, University of St. Gallen, Swizerland
+    - Katsunari Yoshioka, Yokohama National University, Japan
+    - Kiran Balagani, New York Institute of Technology, USA
+    - Kun Sun, George Mason University, USA
+    - Kwok-Yan Lam, Nanyang Technological University, Singapore
+    - Lorenzo De Carli, Worcester Polytechnic Institute, USA
+    - Luca Viganò, King’s College London, UK
+    - Lucas Davi, University of Duisburg-Essen, Germany
+    - Lucca Hirschi, Inria, France
+    - Mads Dam, KTH Royal Institute of Technology, Sweden
+    - Mahmoud Ammar, Huawei Research, Germany
+    - Man Ho Au, The University of Hong Kong, Hong Kong
+    - Mark Manulis, Universität der Bundeswehr München, Germany
+    - Mathieu Cunche (First Round Only), INSA-Lyon / Inria, France
+    - Mathy Vanhoef, imec-DistriNet, KU Leuven, Belgium
+    - Melek Önen, EURECOM, France
+    - Michael Sirivianos, Cyprus University of Technology, Cyprus
+    - Mitsuaki Akiyama, NTT, Japan
+    - Miyako Ohkubo, National Institute of Information and Communications Technology, Japan
+    - Mohammad Mannan, Concordia University, Canada
+    - Mu Zhang, University of Utah, USA
+    - Muhammad Ikram, Macquarie University, Australia
+    - Muhammed Esgin, Monash University, Australia
+    - Ning Zhang, Washington University in St. Louis, USA
+    - Nuno Santos, INESC-ID / Instituto Superior Técnico, Universidade de Lisboa, Portugal
+    - Olga Gadyatskaya, LIACS, Leiden University, The Netherlands
+    - Qi Li, Tsinghua University, China
+    - Qiang Tang, The University of Sydney, Australia
+    - Rahmadi Trimananda, University of California, Irvine, USA
+    - Reza Curtmola, New Jersey Institute of Technology, USA
+    - Rishab Nithyanand (First Round Only), University of Iowa, USA
+    - Roberto Guanciale, KTH, Sweden
+    - Rolf Oppliger, eSECURITY Technologies, Switzerland
+    - Sanjay Jha (First Round Only), UNSW, Australia
+    - Satoshi Obana, Hosei University, Japan
+    - Satyanarayana Vusirikala, DFINITY, USA
+    - Saurabh Bagchi, Purdue University and KeyByte, USA
+    - Selcuk Uluagac, Florida International University, USA
+    - Seung Geol Choi, US Naval Academy, USA
+    - Shabnam Kasra Kermanshahi, RMIT, Australia
+    - Shuohuai Xu, University of Colorado Colorado Springs, USA
+    - Siqi Ma, UNSW, Australia
+    - Stefan Katzenbeisser, University of Passau, Germany
+    - Steven Galbraith, University of Auckland, New Zealand
+    - Sven Dietrich, City University of New York, USA
+    - Tatsuya Mori, Waseda University, Japan
+    - Thorsten Strufe, KIT, Germany
+    - Tingmin Wu, Data61, CSIRO, Australia
+    - Vanesa Daza, Pompeu Fabra University, Spain
+    - Veelasha Moonsamy, Ruhr University Bochum, Germany
+    - William Robertson, Northeastern University, USA
+    - Willy Susilo, University of Wollongong, Australia
+    - Xavier Carpent, University of Nottingham, UK
+    - Xiapu Luo, The Hong Kong Polytechnic University, China
+    - Xingliang Yuan, Monash University, Australia
+    - Younghee Park, San Jose State University, USA
+    - Yuan Hong, Illinois Institute of Technology, USA
+    - Zhi Zhang, Data61, CSIRO, Australia
+    - Zhen Huang, DePaul University, USA
+cycles:
+  - first:
+      submission: "2022-09-01"
+      early-reject: "2022-10-02"
+      acceptance: "2022-11-23"
+      camera-ready: "2022-12-20"
+  - second:
+      submission: "2022-12-15"
+      early-reject: "2023-01-30"
+      acceptance: "2023-03-22"
+      camera-ready: "2023-04-24"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+# sok: true
+# 12 pages including bibliography acm, 3 appendix
+# revision
+# early reject with appeal
+# blockchains or machine learning discouraged

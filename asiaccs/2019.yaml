@@ -1,0 +1,147 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20190123051808/https://asiaccs2019.blogs.auckland.ac.nz/call/call-for-papers/
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Big data security and privacy
+  - Biometrics security
+  - Blockchain security and privacy
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical system security
+  - Data and application security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Frederik Armknecht , University of Mannheim, Germany
+    - Tuomas Aura , Aalto University, Finland
+    - Guangdong Bai , Griffith University, Australia
+    - Davide Balzarotti , Eurecom, France
+    - Kevin Borgolte , Princeton University, USA
+    - Lorenzo Cavallaro , King’s College London, UK
+    - Berkay Çelik , Pennsylvania State University, USA
+    - Sang Kil Cha , KAIST, Korea
+    - Haibo Chen , Shanghai Jiao Tong University, China
+    - Kai Chen , Chinese Academy of Science, China
+    - Hao Chen , University of California, Davis, USA
+    - Liqun Chen , University of Surrey, UK
+    - Xiuzhen Cheng , The George Washington University, USA
+    - Mihai Christodorescu , Visa Research, USA
+    - Sherman S. M. Chow , The Chinese University of Hong Kong, Hong Kong
+    - Mauro Conti , University of Padua, Italy
+    - Cas Cremers , CISPA, Germany
+    - Marc Dacier , Eurecom, France
+    - Lucas Davi , University of Duisburg-Essen, Germany
+    - Josep Domingo-Ferrer , Universitat Rovira i Virgili, Spain
+    - Adam Doupé , Arizona State University, USA
+    - Wenliang Du , Syracuse University, USA
+    - Manuel Egele , Boston University, USA
+    - Vinod Ganapathy , Indian Institute of Science, India
+    - Debin Gao , Singapore Management University, Singapore
+    - Neil Gong , Iowa State University, USA
+    - Yong Guan , Iowa State University, USA
+    - Yao Guo , Peking University, China
+    - Gerhard Hancke , City University of Hong Kong, Hong Kong
+    - Hong Hu , Georgia Institute of Technology, USA
+    - Xinyi Huang , Fujian Normal University, China
+    - Sotiris Ioannidis , FORTH, Greece
+    - Tibor Jager , Paderborn University, Germany
+    - Lech Janczewski , University of Auckland, New Zealand
+    - Yeongjin Jang , Oregon State University, USA
+    - Yaoqi Jia , Zilliqa Inc., Singapore
+    - Hai Jin , Huazhong University of Science and Technology, China
+    - Xiaoyu Ji , Zhejiang University, China
+    - Audun Jøsang , University of Oslo, Norway
+    - Min Suk Kang , National University of Singapore, Singapore
+    - Brent Byunghoon Kang , KAIST, Korea
+    - Alex Kapravelos , North Carolina State University, USA
+    - Amin Kharraz , University of Illinois, USA
+    - Hiroaki Kikuchi , Meiji University, Japan
+    - Yongdae Kim , KAIST, Korea
+    - Kwok-yan Lam , Nanyang Technological University, Singapore
+    - Tanja Lange , Technical University Eindhoven, Netherlands
+    - Peeter Laud , Cybernetica AS, Estonia
+    - Tobias Lauinger , Northeastern University, USA
+    - Martina Lindorfer , TU Wien, Austria
+    - Yang Liu , Nanyang Technological University, Singapore
+    - Ninghui Li , Purdue University, USA
+    - Joseph K. Liu , Monash University, Australia
+    - Long Lu , Northeastern University, USA
+    - Daniel Xiapu Luo , The Hong Kong Polytechnic University, Hong Kong
+    - Jian Mao , Beihang University, China
+    - Keith Martin , Royal Holloway, University of London, UK
+    - Vashek Matyas , Masaryk University, Czech Republic
+    - Tatsuya Mori , Waseda University, Japan
+    - Arsalan Mosenia , Princeton University, USA
+    - Collin Mulliner , Cruise Automation, USA
+    - David Naccache , ENS – Paris, France
+    - Kaan Onarlioglu , Akamai, USA
+    - Melek Onen , Eurecom, France
+    - Giancarlo Pellegrino , Stanford University, USA
+    - Roberto Perdisci , University of Georgia, USA
+    - Josef Pieprzyk , Queensland University of Technology, Australia
+    - Aravind Prakash , SUNY Binghamton, USA
+    - Christian Probst , Unitec Institute of Technology, New Zealand
+    - Kui Ren , Zhejiang University, China
+    - William Robertson , Northeastern University, USA
+    - Ahmad-Reza Sadeghi , TU Darmstadt, Germany
+    - Rei Safavi-Naini , University of Calgary, Canada
+    - R. Sekar , Stony Brook University, USA
+    - Reza Shroki , National University of Singapore, Singapore
+    - Chengyu Song , University of California, Riverside, USA
+    - Rainer Steinwandt , Florida Atlantic University, USA
+    - Gianluca Stringhini , Boston University, USA
+    - Purui Su , Chinese Academy of Science, China
+    - Yuan Tian , University of Virginia, USA
+    - Selcuk Uluagac , Florida International University, USA
+    - Xiaofeng Wang , Indiana University, USA
+    - Cong Wang , City University of Hong Kong, Hong Kong
+    - Guilin Wang , Huawei International Pte Ltd, Singapore
+    - Tao Wei , Baidu USA LLC, USA
+    - Jeff Yan , Linköping University, Sweden
+    - Heng Yin , University of California, Riverside, USA
+    - Siu-Ming Yiu , Hong Kong University, Hong Kong
+    - Ting Yu , Qatar Computing Research Institute, Qatar
+    - Fan Zhang , Zhejiang University, China
+    - Chao Zhang , Tsinghua University, China
+    - Kehuan Zhang , Chinese University of Hong Kong, Hong Kong
+    - Yinqian Zhang , Ohio State University, USA
+    - Jianying Zhou , Singapore University of Technology and Design, Singapore
+    - Yajin Zhou , Zhejiang University, China
+cycles:
+  - first:
+      abstract: "2019-01-15"
+      submission: "2019-01-22"
+      early-reject: "2019-03-08"
+      acceptance: "2019-04-03"
+      camera-ready: "2019-04-30"
+anonymous: true
+ethics-discussion: true
+# sok: true
+# 12 pages including bibliography acm, 3 appendix
+# early reject with appeal

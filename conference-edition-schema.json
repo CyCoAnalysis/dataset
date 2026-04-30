@@ -81,10 +81,6 @@
         "maxProperties": 1,
         "additionalProperties": {
           "type": "object",
-          "required": [
-            "submission",
-            "acceptance"
-          ],
           "properties": {
             "abstract": { "type": "string" },
             "submission": { "type": "string" },

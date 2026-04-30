@@ -1,0 +1,86 @@
+website:
+  url: https://www.rcis.aist.go.jp/asiaccs08/
+  available: true
+  archive: null
+topics:
+  - Public-Key Cryptography
+  - Intrusion Detection
+  - Symmetric-Key Cryptography
+  - Security Analysis
+  - Cryptographic Protocols
+  - Software Security
+  - Hash Functions
+  - Hardware Security
+  - Network Security
+  - Mobile Security
+  - Anonymity and Privacy
+  - Fundamentals
+  - RFID Security
+  - Digital Rights Management
+  - Security Policy
+  - Information Hiding
+  - Access Control
+  - Quantum Cryptography
+  - Formal Method
+  - Implementations
+pc:
+  - "Program committee":
+    - Michel Abdalla, ENS, France
+    - N. Asokan, Nokia Research Center, Finland
+    - Giuseppe Ateniese, The Johns Hopkins University, USA
+    - Michael Backes, University of Saarland, Germany
+    - Feng Bao, I2R, Singapore
+    - David Basin, ETH Zurich, Switzerland
+    - Lujo Bauer, CMU, USA
+    - Steven Bellovin, Columbia University, USA
+    - Carlo Blundo, Universita degli Studi di Salerno, Italy
+    - Emmanuel Bresson, DCSSI Crypto Lab, France
+    - Liqun Chen, HP Labs, UK
+    - Jason Crampton, Royal Holloway University of London, UK
+    - Robert Deng, Singapore Management University, Singapore
+    - Yvo Desmedt, University College London, UK
+    - Giovanni Di Crescenzo, Telcordia Technologies, USA
+    - Marc Fischlin, Darmstadt University of Technology, Germany
+    - Philippe Golle, PARC, USA
+    - Amir Herzberg, Bar-Ilan University, Israel
+    - Tetsu Iwata, Nagoya University, Japan
+    - Richard Kemmerer, UC Santa Barbara, USA
+    - Aggelos Kiayias, University of Connecticut, USA
+    - Yongdae Kim, Umiversity of Minnesota, USA
+    - Michiharu Kudo, IBM Japan, Japan
+    - Wenke Lee, Georgia Tech, USA
+    - Patrick McDaniel, Pennsylvania State University, USA
+    - John McLean, Naval Research Laboratory, USA
+    - Catherine Meadows, Naval Research Laboratory, USA
+    - Jonathan Millen, Mitre Corporation, USA
+    - Shiho Moriai, Sony, Japan
+    - Yi Mu, Wollongong University, Australia
+    - Jorn Muller-Quade, Universitat Karlsruhe, Germany
+    - Chanathip Namprempre, Thammasat University, Thailand
+    - Peng Ning, North Carolina State University, USA
+    - Cristina Nita-Rotaru, Purdue, USA
+    - Satoshi Obana, NEC, Japan
+    - Miyako Ohkubo, IPA, Japan
+    - Tatsuaki Okamoto, NTT, Japan
+    - Panos Papadimitratos, EPFL Lausanne, Switzerland
+    - Raphael Phan, EPFL, Switzerland
+    - Jean-Jacques Quisquater, UCL, Belgium
+    - Pandu Rangan, Indian Institute of Technology, India
+    - Michael Reiter, University of North Carolina at Chapel Hill, USA
+    - Reihaneh Safavi-Naini, University of Calgary, Canada
+    - Tomas Sander, HP Laboratories, USA
+    - Ravi Sandhu, University of Texas San Antonio & TriCipher, USA
+    - Shiuhpyng Shieh, National Chiao Tung University, Taiwan
+    - Sean Smith, Dartmouth University, USA
+    - René Struik, Certicom, Canada
+    - Wen-Guey Tzeng, National Chio Tung University, Taiwan
+    - Cliff Wang, North Carolina State University, USA
+    - Huaxiong Wang, Nanyang Tech. Univ., Singapore
+    - Huafei Zhu, I2R, Singapore
+cycles:
+  - first:
+      submission: "2007-10-01"
+      acceptance: "2007-11-28"
+      camera-ready: "2007-12-08"
+anonymous: true
+# 12 pages net, no strict format, acm proceeding

@@ -1,0 +1,132 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20151130170916/http://meeting.xidian.edu.cn/conference/AsiaCCS2016/calls.html
+topics:
+  - Access control
+  - Applied cryptography
+  - Authentication
+  - Cloud computing security
+  - Cyber-physical security
+  - Data and application security
+  - Digital forensics
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security
+  - Intrusion detection
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Privacy-enhancing technology
+  - Security architectures
+  - Security metrics
+  - Software security
+  - Smart grid security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security
+pc:
+  - "Program committee":
+    - Man Ho Au, Hong Kong Polytechnic University, Hong Kong
+    - Erman Ayday, Bilkent University, Turkey
+    - Elisa Bertino, Purdue University, USA
+    - Rainer Boehme, University of Innsbruck, Austria
+    - Juan Caballero, IMDEA Software Institute, Spain
+    - Aniello Castiglione, University of Salerno, Italy
+    - Kai Chen, CAS, IIE, China
+    - Hao Chen, UC Davis, USA
+    - Yangyi Chen, Google, USA
+    - Mihai Christodorescu, Qualcomm, USA
+    - Sherman S. M. Chow, Chinese University of Hong Kong, Hong Kong
+    - Xiaolei Dong, East China Normal University, China
+    - Haixin Duan, Tsinghua University, China
+    - Xuhua Ding, Singapore Management University, Singapore
+    - Sara Foresti, Univ. degli Studi di Milano, Italy
+    - Debin Gao, Singapore Management University, Singapore
+    - Haichang Gao, Xidian University, China
+    - Michael Grace, Samsung Research, USA
+    - Dawu Gu, Shanghai Jiao Tong University, China
+    - Guofei Gu, Taxas A&M;, USA
+    - Yong Guan, Iowa State University, USA
+    - Carl Gunter, UIUC, USA
+    - Jin Han, Twitter, USA
+    - Feng Hao, Newcastle University, UK
+    - Weili Han, Fudan University, China
+    - Amir Houmansadr, UMass, USA
+    - Yan Huang, Indiana university, USA
+    - Brent Byunghoon Kang, Graduate School of Information Security, KAIST, Korea
+    - Murat Kantarcioglu, Univ. of Texas at Dallas, USA
+    - Yongdae Kim, KAIST, South Korea
+    - Steve Kremer, INRIA, France
+    - Miroslaw Kutylowski, Wroclaw University of Technology, Poland
+    - Adam J. Lee, University of Pittsburgh, USA
+    - Jin Li, Guangzhou University, China
+    - Kang Li, University of Georgia, China
+    - Ming Li, University of Arizona, USA
+    - Ninghui Li, Purdue University, USA
+    - Tieyan Li, Huawei, Singapore
+    - Yingjiu Li, Singapore Management University, Singapore
+    - Zhou Li, RSA Research, USA
+    - Zhenkai Liang, NUS, Singapore
+    - Dongdai Lin, Chinese Academy of Sciences, China
+    - Jingqiang Lin, Chinese Academy of Sciences, China
+    - Xiaodong Lin, University of Ontario Institute of Technology, Canada
+    - Zhiqiang Lin, University of Texas at Dallas, USA
+    - Joseph Liu, Monash University, Australia
+    - Javier Lopez, University Malaga, Spain
+    - Rongxing Lu, Nanyang Technological University, Singapore
+    - Xiapu Luo, The Hong Kong Polytechnic University, Hong Kong
+    - Di Ma, University of Michigan-Dearborn, USA
+    - Zhuoqing Morley Mao, University of Michigan, USA
+    - Aziz Mohaisen, Verisign Labs, USA
+    - Yi Mu, University of Wollongong, Australia
+    - Guevara Noubir, Northeastern University, USA
+    - Alina Oprea, RSA Research, USA
+    - Roberto Perdisci, University of Georgia, USA
+    - Feng Qian, Indiana University Bloomington, USA
+    - Zhiyun Qian, UC Riverside, USA
+    - Kui Ren,State University of New York at Buffalo, USA
+    - William Robertson, Northeastern University, USA
+    - Ahmad-Reza Sadeghi, TU-Darmstadt, Germany
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Pierangela Samarati, U. degli Studi di Milano, Italy
+    - Jörg Schwenk, Bochum University, Germany
+    - R. Sekar, Stonybrook, USA
+    - Seungwon Shin, Graduate School of Information Security, KAIST, Korea
+    - Willy Susilo, University of Wollongong, Australia
+    - Patrick Tague, Carnegie Mellon University, USA
+    - Shaohua Tang, South China University of Technology, China
+    - Venkat Venkatakrishnan, UIC, USA
+    - Cong Wang, City University of Hong Kong, Hong Kong
+    - Qian Wang, Wuhan University, China
+    - Wei Wang, Beijing Jiao Tong University, China
+    - Jian Weng, Jinan University, China
+    - Qianhong Wu, Beijing University of Aeronautics & Astronautics, China
+    - Dongyan Xu, Purdue University, USA
+    - Rui Xue, CAS, IIE, China
+    - Yi Xun, RMIT, Australia
+    - Danfeng Yao, Virginia Tech, USA
+    - Min Yang, Fudan University, China
+    - Ting Yu, Qatar Computing Research Institute, Qatar
+    - Fangguo Zhang, Sun Yat-Sen University, China
+    - Kehuan Zhang, Chinese University of Hong Kong, China
+    - Yinqian Zhang, The Ohio State University, USA
+    - Zhenfeng Zhang, Chinese Academy of Sciences, China
+    - Zonghua Zhang, Institut Mines-Télécom/TELECOM Lille Villeneuve d'Ascq, France
+    - Sheng Zhong, Nanjing University, China
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+    - Xiaoyong Zhou, Samsung Research, USA
+    - Yuchen Zhou, University of Virginia, USA
+    - Haojin Zhu, Shanghai Jiao Tong University, China
+cycles:
+  - first:
+      submission: "2015-11-27"
+      acceptance: "2016-02-01"
+      camera-ready: "2016-03-15"
+anonymous: true
+# 12+3 pages acm
+# awards: true

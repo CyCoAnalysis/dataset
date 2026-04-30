@@ -1,0 +1,131 @@
+website:
+  url: https://asiaccs2024.sutd.edu.sg/
+  available: true
+  archive: null
+topics: []
+pc:
+  - "Program committee":
+    - Sridhar Adepu (First Round), University of Bristol
+    - Mitsuaki Akiyama, NTT
+    - Abdelrahaman Aly, Technology Innovation Institute, Abu Dhabi
+    - Daniele Antonioli, EURECOM
+    - Mónica P. Arenas, University of Luxembourg
+    - Man Ho Au, The Hong Kong Polytechnic University
+    - Rakesh Bobba, Oregon State University
+    - Marcus Botacin, Texas A&M University
+    - Sadullah Canakci (Second Round), Advanced Micro Devices
+    - Yinzhi Cao, Johns Hopkins University
+    - Sofia Celi, Brave
+    - Ee-Chien Chang (First Round), National University of Singapore
+    - Bo Chen, Michigan Technological University
+    - Min Chen, CISPA Helmholtz Center for Information Security
+    - Yanjiao Chen, Zhejiang University
+    - Jin-Hee Cho, Virginia Tech
+    - Gabriela Ciocarlie, University of Texas at San Antonio
+    - Alejandro Cuevas, Carnegie Mellon University
+    - Joanna Cecilia da Silva Santos, University of Notre Dame
+    - Lorenzo De Carli, University of Calgary
+    - Hervé Debar, Télécom SudParis
+    - Ioannis Demertzis, UCSC
+    - Soteris Demetriou (Second Round), Imperial College London
+    - Sven Dietrich, City University of New York
+    - Xuhua Ding, Singapore Management University
+    - Daniel Escudero, J.P. Morgan
+    - Olga Gadyatskaya, Leiden University
+    - Yansong Gao (Second Round), CSIRO’s Data61
+    - Luis Garcia, University of Southern California
+    - Joaquin Garcia-Alfaro, Institut Polytechnique de Paris
+    - Jairo Giraldo (First Round), University of Utah
+    - Steve Granda, National Renewable Energy Laboratory
+    - Roberto Guanciale, KTH
+    - Xueyuan Han, Wake Forest University
+    - Xinlei He,  The Hong Kong University of Science and Technology (Guangzhou)
+    - Muhammad Ikram (First Round), Macquarie University
+    - Shalabh Jain (Second Round), Bosch Research
+    - Doowon Kim, University of Tennessee, Knoxville
+    - Hyoungshick Kim, Sungkyunkwan University
+    - Hyungsub Kim, Purdue University
+    - Andreas Kogler, Graz University of Technology
+    - Alptekin Küpçü, Koç University
+    - Kwok Yan Lam, Nanyang Technological University
+    - Kevin Leach, Vanderbilt University
+    - Mohsen Lesani (First Round), University of California, Santa Cruz
+    - Juanru Li, Shanghai Qi Zhi Institute
+    - Jun Li, University of Oregon
+    - Qi Li, Tsinghua University
+    - Yan Lin, Jinan University
+    - Yang Liu (First Round), Nanyang Technological University
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Haoyu Ma, Zhejiang Lab
+    - Siqi Ma, The University of New South Wales
+    - Daisuke Mashima, Illinois at Singapore Pte Ltd and National University of Singapore
+    - Annabelle McIver, Macquarie University
+    - Katerina Mitrokotsa, University of St. Gallen
+    - Sibin Mohan, The George Washington University
+    - Collins Munyendo, The George Washington University
+    - Rui Ning (Second Round), Old Dominion University
+    - Sina Nordhoff (Second Round), TU Delft
+    - Satoshi Obana, Hosei University
+    - Martín Ochoa (First Round), ZHAW
+    - Gabriele Oligeri, Hamad bin Khalifa University
+    - Rolf Oppliger, eSECURITY Technologies
+    - Andreas Peter, University of Oldenburg
+    - Han Qiu (First Round), Tsinghua University
+    - Awais Rashid, University of Bristol
+    - Kasper Rasmussen, University of Oxford
+    - Carlos Rozas (First Round), Intel Labs
+    - Carlos Rubio-Medrano, Texas A&M University – Corpus Christi
+    - Sandra Rueda (Second Round), Universidad de Los Andes
+    - Hampei Sasahara (Second Round), Tokyo Institute of Technology
+    - Jun Sakuma, Tokyo Institute of Technology
+    - Neetesh Saxena, Cardiff University
+    - Lucy Simko, George Washington University
+    - Kapil Singh (First Round), IBM T.J. Watson Research Center
+    - Meera Sridhar, University of North Carolina, Charlotte
+    - Natalia Stakhanova, University of Saskatchewan
+    - Kun Sun, George Mason University
+    - Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security
+    - Santiago Torres-Arias, Purdue University
+    - Luca Viganò, King’s College London
+    - Alexios Voulimeneas, TU Delft
+    - Qingyang Wang (Second Round), Louisiana State University
+    - Shuo Wang, CSIRO
+    - Xinda Wang (Second Round), University of Texas at Dallas
+    - Chenkai Weng, Northwestern University
+    - Daoyuan Wu, The Hong Kong University of Science and Technology
+    - Tingmin Wu, CSIRO’s Data61
+    - Yuanchao Xu (Second Round), University of California, Santa Cruz
+    - Jie Yang (First Round), Florida State University
+    - Kan Yang (Second Round), University of Memphis
+    - Katsunari Yoshioka, Yokohama National University
+    - Haifeng Yu, National University of Singapore
+    - Fan Zhang (Second Round), Zhejiang University
+    - Jiaheng Zhang (First Round), National University of Singapore
+    - Mi Zhang, Fudan University
+    - Mu Zhang, University of Utah
+    - Ning Zhang, Washington University in St. Louis
+    - Xiaokuan Zhang, George Mason University
+    - Zhi Zhang (Second Round), University of Western Australia
+    - Zhuo Zhang, Purdue University
+    - Ziming Zhao (Second Round), Univeristy at Buffalo
+    - Hao Zhou, The Hong Kong Polytechnic University
+    - Ziqiao Zhou, Microsoft Research
+cycles:
+  - first:
+      submission: "2023-08-21"
+      early-reject: "2023-09-26"
+      acceptance: "2023-11-14"
+      camera-ready: "2023-12-12"
+  - second:
+      submission: "2023-12-07"
+      early-reject: "2024-01-23"
+      acceptance: "2024-03-12"
+      camera-ready: "2024-04-16"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+# sok: true
+# 12 pages excluding bibliography acm, 10 bib+appendix
+# revision
+# early reject with appeal
+# blockchains or machine learning discouraged

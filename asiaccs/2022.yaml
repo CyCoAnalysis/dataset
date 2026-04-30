@@ -1,0 +1,171 @@
+website:
+  url: https://asiaccs2022.conferenceservice.jp/
+  available: true
+  archive: null
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Automotive security
+  - Big data security and privacy
+  - Biometrics
+  - Blockchain and alternatives
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical system security
+  - Data and application security
+  - Edge computing security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Aisling Connolly, DFINITY’USA
+    - Alex Biryukov, University of Luxembourg
+    - Amin Kharraz, Florida International University
+    - Andrea Lanzi, University of Milan
+    - Aravind Machiry, Purdue University
+    - Aydin Aysu, NC State
+    - Bo Chen, Michigan Technological University
+    - Byoungyoung Lee, Seoul National University
+    - Chao Zhang, Institute for Network Science and Cyberspace of Tsinghua University
+    - Chenggang Wu, Institute of Computing Technology Chinese Academy of Sciences
+    - Chengyu Song, UC Riverside
+    - Cong Wang, City University of Hong Kong
+    - Cristian-Alexandru Staicu, CISPA Helmholtz Center for Information Security
+    - Dali Kaafar, Macquarie University
+    - Daniel Gruss, Graz University of Technology
+    - Daniele Antonioli, EURECOM
+    - Dave (Jing) Tian, Purdue University
+    - Debin Gao, Singapore Management University
+    - Dimitrios Papadopoulos, Hong Kong University of Science and Technology
+    - Ding Wang, Nankai University
+    - Doowon Kim, University of Tennessee, Knoxville
+    - Duong Hieu PHAN, Telecom Paris, Institut Polytechnique de Paris
+    - F. Betül Durak, Microsoft Research
+    - Fengwei Zhang, Southern University of Science and Technology (SUSTech)
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Ghassan Karame, Ruhr-University Bochum
+    - Giancarlo Pellegrino, CISPA Helmholtz Center for Information Security
+    - Guofei Gu, Texas A&M
+    - Guomin Yang, University of Wollongong
+    - Guoxing Chen, Shanghai Jiao Tong University
+    - Haehyun Cho, Soongsil University
+    - Herve Debar, Telecom SudParis
+    - Hong Hu, The Pennsylvania State University
+    - Hongxin Hu, University at Buffalo
+    - Ivan De Oliveira Nunes, Rochester Institute of Technology
+    - Jason (Minhui) Xue, The University of Adelaide
+    - Jesus Diaz, Output Global Switzerland
+    - Jie Yang, Florida State University
+    - Jin-Hee Cho, Virginia Tech
+    - Jingqiang Lin, University of Science and Technology of China
+    - Jiska Classen, SEEMOO, TU Darmstadt
+    - Joaquin Garcia-Alfaro, Telecom SudParis
+    - John Junghwan Rhee, University of Central Oklahoma
+    - John Mitchell, Stanford
+    - Jorge Blasco, Royal Holloway, University of London
+    - Jun Sakuma, University of Tsukuba
+    - Jun Xu, The University of Utah
+    - Kangjie Lu, University of Minnesota
+    - Katsunari Yoshioka, Yokohama National University
+    - Kevin Hamlen, University of Texas at Dallas
+    - Kevin Yeo, Google
+    - Khoa Nguyen, University of Wollongong
+    - Kwok-Yan Lam, Nanyang Technological University
+    - Lannan Luo, University of South Carolina
+    - Lejla Batina, Radboud University
+    - Liqun Chen, University of Surrey
+    - Luca Viganò, King's College London
+    - Mahdi Nasrullah Al-Ameen, Utah State University
+    - Mark Manulis, Universität der Bundeswehr München
+    - Martin Ochoa, ETH Zurich
+    - Mathy Vanhoef, mec-DistriNet, KU Leuven
+    - Mauro Conti, University of Padua
+    - Maverick Woo, Carnegie Mellon University
+    - Melek Önen, EURECOM
+    - Michael Waidner, ATHENE, TU Darmstadt, Fraunhofer SIT
+    - Mitsuaki Akiyama, NTT
+    - Miyako Ohkubo, NICT
+    - Mu Zhang, University of Utah
+    - Neil Gong, Duke University
+    - Nils Tippenhauer, CISPA Helmholtz Center for Information Security
+    - Ning Zhang, Washington University in St. Louis
+    - Nitesh Saxena, The University of Alabama at Birmingham
+    - Olga Gadyatskaya, Leiden University
+    - Peng Liu, The Pennsylvania State University
+    - Qi Li, Tsinghua University
+    - Qiang Tang, The University of Sydney
+    - Rolf Oppliger, eSECURITY Technologies
+    - Ruoyu "Fish" Wang, Arizona State University
+    - Sang Kil Cha, KAIST
+    - Satoshi Obana, Hosei University
+    - Sencun Zhu, The Pennsylvania State University
+    - Seung Geol Choi, US Naval Acadeamy
+    - Sherman S. M. Chow, Chinese University of Hong Kong
+    - Shiqing Ma, Rutgers University
+    - Shuai Wang, HKUST
+    - Stefan Katzenbeisser, University of Passau
+    - Sungwook Kim, Seoul Women's University
+    - Sushmita Ruj, University of New South Wales
+    - Taegyu Kim, The Pennsylvania State University
+    - Tatsuya Mori, Waseda University
+    - Tianhao Wang, University of Virginia
+    - Tianwei Zhang, Nanyang Technological University
+    - Ting Yu, Qatar Computing Research Institute
+    - Veelasha Moonsamy, Ruhr University Bochum
+    - Wei Meng, The Chinese University of Hong Kong
+    - William Enck, North Carolina State University
+    - Willy Susilo, University of Wollongong
+    - Xiapu Luo, The Hong Kong Polytechnic University
+    - Xingliang YUAN, Monash University
+    - Yajin Zhou, Zhejiang University
+    - Yan Chen, Northwestern University
+    - Yang Liu, Nanyang Technological University
+    - Yang Zhang, CISPA Helmholtz Center for Information Security
+    - Yousra Aafer, University of Waterloo
+    - Yuan Zhang, Fudan University
+    - Yue Duan, Illinois Institute of Technology
+    - Yueqiang Cheng, NIO Security Research
+    - Yuhong Nan, Sun Yat-sen University
+    - Yusuke Sakai, National Institute of Advanced Industrial Science and Technology
+    - Zekeriya Erkin, Delft University of Technology
+    - Zhou Li, University of California, Irvine
+cycles:
+  - first:
+      submission: "2021-07-30"
+      early-reject: "2021-08-30"
+      acceptance: "2021-10-18"
+      camera-ready: "2021-11-15"
+  - second:
+      submission: "2021-11-19"
+      early-reject: "2021-12-13"
+      acceptance: "2022-02-07"
+      camera-ready: "2022-03-06"
+anonymous: true
+conflicts: true
+ethics-discussion: true
+# sok: true
+# 12 pages including bibliography acm, 3 appendix
+# revision
+# early reject with appeal

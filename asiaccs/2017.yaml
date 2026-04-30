@@ -1,0 +1,159 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20170629185045/http://asiaccs2017.com/
+topics:
+  - Access control
+  - Accounting and audit
+  - Applied cryptography
+  - Authentication
+  - Big data security and privacy
+  - Biometrics
+  - Blockchain and alternatives
+  - Cloud computing security
+  - Computer forensics
+  - Cyber-physical security
+  - Data and application security
+  - Embedded systems security
+  - Formal methods for security
+  - Hardware-based security and applications
+  - IoT security and privacy
+  - Key management
+  - Malware and botnets
+  - Mobile computing security
+  - Network security
+  - Operating system security
+  - Practical post-quantum security
+  - Privacy-enhancing technology
+  - Runtime attacks and defenses
+  - Secure computation
+  - Security architectures
+  - Security of critical infrastructures
+  - Security metrics
+  - Software security
+  - Threat modeling
+  - Trusted computing
+  - Usable security and privacy
+  - Web security
+  - Wireless security and privacy
+pc:
+  - "Program committee":
+    - Gail-Joon Ahn, Arizona State University, USA
+    - Elli Androulaki, IBM Research – Zurich, Switzerland
+    - Frederik Armknecht, University of Mannheim, Germany
+    - N. Asokan, Aalto University, Finland
+    - Erman Ayday, Bilkent University, Turkey
+    - Manuel Barbosa, HASLab INESC-TEC and DCC-FC University of Porto, Portugal
+    - David Barrera, IBM Research – Zurich, Switzerland
+    - Elisa Bertino, Purdue University, USA
+    - Andrey Bogdanov, Technical University of Denmark, Denmark
+    - Billy Brumley, Tampere University of Technology, Finland
+    - Mike Burmester, Florida State University, USA
+    - Kevin Butler, University of Florida, USA
+    - Levente Buttyan, CrySyS Lab, Budapest University of Technology and Economics, Hungary
+    - Juan Caballero, IMDEA Software Institute, Spain
+    - Bogdan Carbunar, Florida International University, USA
+    - Lorenzo Cavallaro, Royal Holloway, University of London, UK
+    - Hao Chen, University of California, Davis, USA
+    - Liqun Chen, University of Surrey, UK
+    - Sherman S. M. Chow, Chinese University of Hong Kong, Hong Kong
+    - Mauro Conti, University of Padua, Italy
+    - Cas Cremers, University of Oxford, UK
+    - Bruno Crispo, DistriNet – Katholieke Universiteit Leuven, Belgium
+    - Emiliano De Cristofaro, University College London, UK
+    - Lucas Davi, Technische Universität Darmstadt, Germany
+    - Alexandra Dmitrienko, ETH Zurich, Switzerland
+    - Brendan Dolan-Gavitt, New York University, USA
+    - Wenliang Du, Syracuse University, USA
+    - Orr Dunkelman, University Of Haifa, Israel
+    - Manuel Egele, Boston University, USA
+    - William Enck, North Carolina State University, USA
+    - Aurélien Francillon, Eurecom, France
+    - Michael Franz, University of California, Irvine, USA
+    - Vinod Ganapathy, Rutgers, The State University of New Jersey, USA
+    - Dieter Gollmann, Hamburg University of Technology, Germany
+    - Thomas Gross, Newcastle University, UK
+    - Guofei Gu, Texas A&M University, USA
+    - Tim Erhan Güneysu, University of Bremen & DFKI, Germany
+    - Gerhard P. Hancke, City University of Hong Kong, Hong Kong
+    - Feng Hao, Newcastle University, UK
+    - Matthias Hollick, Technische Universität Darmstadt, Germany
+    - Sotiris Ioannidis, Foundation for Research and Technology – Hellas, Greece
+    - Trent Jaeger, Pennsylvania State University, USA
+    - Tibor Jager, Ruhr-Universität Bochum, Germany
+    - Suman Jana, Columbia University, USA
+    - Kimmo Järvinen, Aalto University, Finland
+    - Yier Jin, University of Central Florida, USA
+    - Ghassan Karame, NEC Research Laboratories, Germany
+    - Stefan Katzenbeisser, Technische Universität Darmstadt, Germany
+    - Florian Kerschbaum, SAP, Germany
+    - Yongdae Kim, Korea Advanced Institute of Science and Technology, Korea
+    - Markulf Kohlweiss, Microsoft Research, UK
+    - Farinaz Koushanfar, Rice University, USA
+    - Andrea Lanzi, University of Milan, Italy
+    - Per Larsen, University of California, Irvine & Immunant, Inc., USA
+    - Peeter Laud, Tartu University, Cybernetica AS, Estonia
+    - Loukas Lazos, University of Arizona, USA
+    - Zhenkai Liang, National University of Singapore, Singapore
+    - Dongdai Lin, Chinese Academy of Sciences, China
+    - Joseph K. Liu, Monash University, Australia
+    - Long Lu, Stony Brook University, USA
+    - Di Ma, University of Michigan, USA
+    - Federico Maggi, Trend Micro Inc., Italy
+    - Michail Maniatakos, New York University Abu Dhabi, United Arab Emirates
+    - Mohammad Mannan, Concordia University, Canada
+    - Mark Manulis, University of Surrey, UK
+    - Ivan Martinovic, University of Oxford, UK
+    - Azalia Mirhoseini, Google Inc., USA
+    - Mahtab Mirmohseni, Sharif University of Technology, Iran
+    - Tatsuya Mori, Waseda University, Japan
+    - Gregory Neven, IBM Research – Zurich, Switzerland
+    - Guevara Noubir, Northeastern University, USA
+    - Hamed Okhravi, MIT Lincoln Laboratory, USA
+    - Panos Papadimitratos, KTH Royal Institute of Technology, Sweden
+    - Mathias Payer, Purdue University, USA
+    - Olivier Pereira, Université catholique de Louvain, Belgium
+    - Roberto Di Pietro, Nokia Bell Labs, Paris and University of Padua, Italy, USA
+    - Benny Pinkas, Bar Ilan University, Israel
+    - Michalis Polychronakis, Stony Brook University, USA
+    - Christina Pöpper, New York University Abu Dhabi, United Arab Emirates
+    - Georgios Portokalidis, Stevens Institute of Technology, USA
+    - Bart Preneel, KU Leuven & iMinds, Belgium
+    - Jeyavijayan (JV) Rajendran, The University of Texas at Dallas, USA
+    - Kui Ren, University at Buffalo, State University of New York, USA
+    - Konrad Rieck, Technische Universität Braunschweig, Germany
+    - Mark Ryan, University of Birmingham, UK
+    - Rei Safavi-Naini, University of Calgary, Canada
+    - Ardalan Amiri Sani, University of California, Irvine, USA
+    - Andreas Schaad, Huawei German Research Center, Germany
+    - Thomas Schneider, Technische Universität Darmstadt, Germany
+    - Dominique Schröder, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
+    - Felix Schuster, Microsoft Research, UK
+    - Kapil Singh, IBM T. J. Watson Research Center, USA
+    - Gianluca Stringhini, University College London, UK
+    - Willy Susilo, University of Wollongong, Australia
+    - Patrick Tague, Carnegie Mellon University, USA
+    - George Theodorakopoulos, Cardiff University, UK
+    - Gene Tsudik, University of California, Irvine, USA
+    - Ivan Visconti, University of Salerno, Italy
+    - Cong Wang, City University of Hong Kong, Hong Kong
+    - Xiaofeng Wang, Indiana University at Bloomington, USA
+    - Bogdan Warinschi, University of Bristol, UK
+    - Susanne Wetzel, Stevens Institute of Technology, USA
+    - Yubin Xia, Shanghai Jiao Tong University, China
+    - Wenyuan Xu, University of South Carolina & Zhejiang University, USA, China
+    - Daphne Yao, Virginia Polytechnic Institute and State University, USA
+    - Heng Yin, University of California, Riverside, USA
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2016-11-15"
+      acceptance: "2017-01-24"
+      camera-ready: "2017-02-15"
+anonymous: true
+ethics-discussion: true
+conflicts: true
+# 12 pages including bibliography acm, 3 appendix
+# awards: true
+# possibility of early rejects
+# shadow pc (not mentioned in the cfp)

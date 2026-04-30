@@ -1,0 +1,44 @@
+website:
+  url: null
+  available: false
+  archive: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=5825&copyownerid=2
+  # https://web.archive.org/web/20100811030125/http://www.dacas.cn/asiaccs2010/ not indexed properly
+topics:
+  - anonymity
+  - access control
+  - secure networking
+  - accounting and audit
+  - key management
+  - intrusion detection
+  - authentication
+  - smartcards
+  - data and application security
+  - Malware and botnets
+  - privacy-enhancing technology
+  - software security
+  - inference/controlled disclosure
+  - intellectual-property protection
+  - digital-rights management
+  - trusted computing
+  - phishing and countermeasures
+  - commercial and industry security
+  - security management
+  - web security
+  - applied cryptography
+  - mobile-computing security
+  - cryptographic protocols
+  - data/system integrity
+  - information warfare
+  - formal methods for security
+  - identity management
+  - security in ubiquitous computing, e.g., RFIDs
+  - security and privacy for emerging technologies, e.g., VoIP, peer-to-peer and overlay network systems, Web 2.0
+pc:
+  - "Program committee": []
+cycles:
+  - first:
+      submission: "2009-09-28"
+      acceptance: "2009-12-08"
+      camera-ready: "2010-01-08"
+anonymous: true
+# 10 pages acm, 12 total
