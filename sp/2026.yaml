@@ -379,5 +379,5 @@ anonymous: true
 conflicts: true
 ethics-discussion: true
 meta-review: true
-cves: false
+anonymous-cves: true
 genai: true

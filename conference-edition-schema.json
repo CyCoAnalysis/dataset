@@ -103,7 +103,7 @@
     "conflicts": { "type": "boolean" },
     "ethics-discussion": { "type": "boolean" },
     "meta-review": { "type": "boolean" },
-    "cves": { "type": "boolean" },
+    "anonymous-cves": { "type": "boolean" },
     "genai": { "type": "boolean" }
   },
 
