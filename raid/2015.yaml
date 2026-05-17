@@ -1,0 +1,61 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20150812095308/https://www.raid2015.org/
+topics:
+  - Malware and botnet analysis, detection, and mitigation
+  - Smartphone and other embedded systems security
+  - Network & active defenses
+  - Web application security
+  - New attacks against computers and networks
+  - Denial-of-Service Attacks
+  - Insider attack detection
+  - Formal models, analysis, and standards
+  - Deception systems and honeypots
+  - Vulnerability analysis
+  - Secure software development
+  - Machine learning for security
+  - Computer security visualization techniques
+  - Network exfiltration
+  - Online money laundering and underground economy
+  - Hardware vulnerabilities
+  - Binary analysis and reverse engineering
+  - Digital forensics
+  - Security and Privacy
+  - Intrusion detection and prevention
+pc:
+  - "Program committee":
+    - Manos Antonakakis, Georgia Tech
+    - Elias Athanasopoulos, FORTH
+    - Herbert Bos, Vrije Universiteit / VU University Amsterdam
+    - Gabriela Ciocarlie, SRI International
+    - Lucas Davi, Intel CRI-SC at TU Darmstadt
+    - Tudor Dumitras, University of Maryland
+    - Petros Efstathopoulos, Symantec Research Labs
+    - William Enck, North Carolina State University
+    - Bryan Ford, EPFL
+    - Aurélien Francillon, Eurecom
+    - Flavio Garcia, University of Birmingham
+    - Chris Kanich, University of Illinois at Chicago
+    - Christopher Kruegel, UC Santa Barbara
+    - Andrea Lanzi, U. of Milan
+    - Corrado Leita, LastLine, Inc.
+    - Brian Levine, UMass Amherst
+    - Fabian Monrose, University of North Carolina at Chapel Hill.
+    - Zachary Peterson, Cal Poly, San Luis Obispo
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Niels Provos, Google
+    - Konrad Rieck, University of Göttingen
+    - William Robertson, Northeastern University
+    - Christian Rossow, Saarland University
+    - Andrei Sabelfeld, Chalmers
+    - Stelios Sidiroglou-Douskos, MIT
+    - Patrick Traynor, U. of Florida
+    - XiaoFeng Wang, Indiana University
+    - Dongyan Xu, Purdue University
+cycles:
+  - first:
+      submission: "2015-06-05"
+      acceptance: "2015-08-14"
+# 20 pages lncs, +2 for addressing comments
+anonymous: true

@@ -1,0 +1,61 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20161115081448/https://raid2016.org/
+topics:
+  - Malware and unwanted software
+  - Mobile and Web security and privacy
+  - Cloud computing security
+  - Computer and network security
+  - Denial-of-Service attacks
+  - Formal models, analysis, and standards
+  - Vulnerability analysis
+  - Secure software development
+  - Machine learning for security
+  - Computer security visualization techniques
+  - Cyber crime and underground economies
+  - Hardware security
+  - Program analysis and reverse engineering
+  - Digital forensics
+  - Usable security and privacy
+  - Intrusion detection and prevention
+  - Cyber physical systems
+  - Security measurement studies
+  - Security and privacy of the Internet of Things
+  - Threats against critical infrastructures and mitigation thereof
+  - Cyber intelligence techniques and threats intel sharing
+pc:
+  - "Program committee":
+    - Magnus Almgren,  Chalmers University, Sweden
+    - Johanna Amann,  International Computer Science Institute, US
+    - Manos Antonakakis, Georgia Institute of Technology, US
+    - Michael Bailey, University of Illinois at Urbana-Champaign, US
+    - Lucas Ballard, Google, US
+    - Leyla Bilge, Symantec, US
+    - Lucas Davi, Technische Universität Darmstadt, Germany
+    - Hervé Debar, Telecom SudParis, France
+    - Petros Efstathopoulos, Symantec, US
+    - Manuel Egele, Boston University, US
+    - William Enck, North Carolina State University, US
+    - Vasileios Kemerlis, Brown University, US
+    - Andrea Lanzi, University of Milan, Italy
+    - Pavel Laskov, Huawei European Research Center, Germany
+    - Zhiqiang Lin, University of Texas at Dallas, US
+    - Daniela Oliveira, University of Florida, US
+    - Roberto Perdisci, University of Georgia, US
+    - Michalis Polychronakis, Stony Brook University, US
+    - Konrad Rieck, TU Braunschweig, Germany
+    - Christian Rossow, Saarland University, Germany
+    - Stelios Sidiroglou-Douskos, Massachusetts Institute of Technology, US
+    - Kapil Singh, IBM T.J. Watson, US
+    - Kevin Snow, Zeropoint, US
+    - Cynthia Sturton, University of North Carolina at Chapel Hill, US
+    - Dongyan Xu, Purdue University, US
+cycles:
+  - first:
+      submission: "2016-04-08"
+      acceptance: "2016-06-03"
+      camera-ready: "2016-07-08"
+# 20 pages lncs
+anonymous: true
+# We expect all papers to provide enough detail to enable reproducibility of the experimental results.

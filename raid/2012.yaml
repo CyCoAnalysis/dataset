@@ -1,0 +1,66 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20120730120534/http://www.raid2012.com/
+topics:
+  - Intrusion detection and prevention
+  - Malware prevention, detection, analysis, and containment
+  - Embedded System Security
+  - Web application security
+  - New attacks against computers and networks
+  - Insider attack detection
+  - IDS cooperation and event correlation
+  - Intrusion detection assessment and benchmarking
+  - Formal models, analysis, and standards
+  - Deception systems and honeypots
+  - Vulnerability analysis
+  - Digital forensics
+  - Secure Software Development
+  - Adversarial machine learning for security
+  - Visualization techniques
+  - Legal, social, and privacy issues
+  - Network exfiltration
+  - Botnet analysis, detection, and mitigation
+  - Phishing and Spam detection and prevention
+  - Security and privacy in cloud computing
+  - Online money laundering and Underground economy
+  - Hardware vulnerabilities
+  - Binary analysis and Reverse engineering
+  - Security and Privacy of Social Networks
+  - Smartphone Security
+pc:
+  - "Program committee":
+    - Anil Somayaji, Carleton University, Canada
+    - Michael Bailey, University of Michigan, US
+    - Mihai Christodorescu, IBM T.J. Watson Research Center, US
+    - Juan Caballero, IMDEA Software Software Institute, Spain
+    - Srdjan Capkun, ETH Zurich, Switzerland
+    - Marco Cova, University of Birmingham, UK
+    - Nick Feamster, Georgia Tech, US
+    - Debin Gao, Singapore Management University, Singapore
+    - Guofei Gu, Texas A&M, US
+    - Guillaume Hiet, Supelec, France
+    - Thorsten Holz, Ruhr-University Bochum, Germany
+    - Sotiris Ioannidis, FORTH, Greece
+    - Gregor Maier, ICSI, US
+    - Christian Kreibich, ICSI, US
+    - Christopher Kruegel, UC Santa Barbara, US
+    - Andrea Lanzi, EURECOM, France
+    - Corrado Leita, Symantec Research, France
+    - Benjamin Livshits, Microsoft Research, US
+    - Fabian Monrose, University of North Carolina at Chapel Hill, US
+    - Benjamin Morin, ANSSI, France
+    - Roberto Perdisci, University of Georgia, US
+    - William Robertson, Northeastern University, US
+    - Abhinav Srivastava, AT&T Labs-Research, US
+    - Angelos Stavrou, George Mason University, US
+    - Dongyan Xu, Purdue, US
+    - Charles Wright, MIT Lincoln Laboratory, US
+cycles:
+  - first:
+      submission: "2012-04-13"
+      acceptance: "2012-06-02"
+      camera-ready: "2012-06-16"
+# 20 pages lncs
+anonymous: false
+# For its 15th anniversary, the RAID symposium changes its name from "Recent Advances in Intrusion Detection" to "Research in Attacks, Intrusions and Defenses"

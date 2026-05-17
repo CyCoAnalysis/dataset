@@ -1,0 +1,65 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20200920225438/https://raid2020.org/call-for-papers/
+topics:
+  - Computer, network, and cloud computing security
+  - Malware and unwanted software
+  - Program analysis and reverse engineering
+  - Mobile Security
+  - Web security and privacy
+  - Vulnerability analysis techniques
+  - Usable security and privacy
+  - Intrusion detection and prevention
+  - Hardware security
+  - Cyber physical systems security and threats against critical infrastructures
+  - IoT security
+  - Statistical and adversarial learning for computer security
+  - Cyber crime and underground economies
+  - Denial-of-Service attacks and defenses
+  - Security measurement studies
+  - Digital forensics
+pc:
+  - "Program committee":
+    - Aisha Ibrahim Ali-Gombe, Towson University
+    - Tiffany Bao, Arizona State University
+    - Kevin Borgolte, Princeton University
+    - Lorenzo Cavallaro, King’s College London
+    - Kai Chen, Institute of Information Engineering, Chinese Academy of Sciences
+    - Yaohui Chen, Facebook
+    - Adrian Dabrowski, UC Irvine
+    - Nathan Dautenhahn, Rice University
+    - Lorenzo De Carli, Worcester Polytechnic Institute
+    - Tobias Fiebig, TU Delft
+    - Yanick Fratantonio, Eurecom
+    - Carrie Gates, Bank of America
+    - Luca Invernizzi, Google, Inc.
+    - Vasilis Kemerlis, Brown University
+    - Amin Kharraz, UIUC
+    - Johannes Kinder, Bundeswehr University Munich
+    - Andrea Lanzi, University of Milan
+    - Nick Nikiforakis, Stony Brook University
+    - Shirin Nilizadeh, UT Arlington
+    - Kaan Onarlioglu, Akamai
+    - Jason Polakis, University of Illinois at Chicago
+    - Georgios Portokalidis, Stevens Institute of Technology
+    - Aravind Prakash, Binghamton
+    - William Robertson, Northeastern University
+    - Brendan Saltaformaggio, Georgia Institute of Technology
+    - Yun Shen, NortonLifeLock Research Group
+    - Dave Tian, Purdue
+    - Fish Wang, Arizona State University
+    - Zach Weinberg, University of Massachusetts, Amherst
+    - Michael Weissbacher, Square
+    - Chao Zhang, Tsinghua University
+    - Yang Zhang, CISPA
+cycles:
+  - first:
+      submission: "2020-04-07"
+      acceptance: "2020-05-27"
+      camera-ready: "2020-07-23"
+anonymous: true
+ethics-discussion: true
+# 11 pages content usenix, 16 pages total for camera-ready (also published by usenix)
+# We expect all papers to provide enough detail to enable reproducibility of the experimental results.
+# We encourage authors to make both the tools and data publicly available.

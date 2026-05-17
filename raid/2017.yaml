@@ -1,0 +1,69 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20171014190933/https://www.raid2017.org/
+topics:
+  - Computer, network and cloud computing security
+  - SDN for/against security
+  - Malware and unwanted software
+  - Program analysis and reverse engineering
+  - Mobile and Web security and privacy
+  - Vulnerability analysis techniques
+  - Usable security and privacy
+  - Intrusion detection and prevention
+  - Cyber intelligence techniques and (privacy preserving) threats intel sharing
+  - Threats against critical infrastructures and mitigation thereof
+  - Hardware security, Cyber physical systems, IoT security
+  - Statistical and adversarial learning for computer security
+  - Cyber crime and underground economies
+  - The ecosystem behind Denial-of-Service attacks
+  - Security measurement studies
+  - Digital forensics
+  - Computer security visualization techniques
+pc:
+  - "Program committee":
+    - Almgren, Magnus , Chalmers University of Technology
+    - Amann, Johanna , ICSI
+    - Bilge, Leyla , Symantec Research Labs
+    - Cavallaro, Lorenzo , Royal Holloway, University of London
+    - Christodorescu, Mihai , Qualcomm Research
+    - Debar, Herve , Telecom SudParis
+    - Egele, Manuel , Boston University
+    - Ettale, Sandro , Technical University Eindhoven
+    - Francillon, Aurélien , Eurecom
+    - Giffin, Jon , HPE Fortify
+    - Gligor, Virgil , Carnegie Mellon University
+    - Gu, Guofei , Texas A&M University
+    - Ioannidis, Sotiris , FORTH
+    - Kim, Yongdae , Korea Advanced Institute of Science and Technology
+    - Lanzi, Andrea , University of Milan
+    - Lee, Wenke , Georgia Tech
+    - Leita, Corrado , Lastline
+    - Naccache, David , ENS Paris
+    - Perdisci, Roberto , University of Georgia
+    - Polakis, Jason , University of Illinois at Chicago
+    - Sanders, Bill , University of Illinois at Urbana-Champaign
+    - Snow, Kevin , Zeropoint
+    - Stavrou, Angelos , George Mason University
+    - Stolfo, Sal , Columbia University
+    - Su, Purui , Institute of Software/CAS, China
+    - Tehranipoor, Mark , University of Florida
+    - Valdes, Al , University of Illinois at Urbana Champaign
+    - Wang, X. Sean , Fudan University
+    - Wang, Xiaogang (Cliff) , US Army Research Office and adjunct with NC State U
+    - Yen, Ting Fang , DataVisor, Inc
+    - Zhang, Kehuan , Chinese University of Hong Kong
+cycles:
+  - first:
+      submission: "2017-03-29"
+      rebuttal-start: "2017-05-19"
+      rebuttal-end: "2017-05-21"
+      acceptance: "2017-05-30"
+      camera-ready: "2017-06-27"
+# 20 pages lncs, +2 for addressing comments
+# summary of the reviews posted alongside paper
+meta-review: true
+anonymous: true
+# We expect all papers to provide enough detail to enable reproducibility of the experimental results.
+# no details about the rebuttal
+# huge steering committee

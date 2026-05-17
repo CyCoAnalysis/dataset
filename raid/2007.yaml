@@ -1,0 +1,59 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20070429082540/http://www.isi.qut.edu.au/events/conferences/raid07/
+topics:
+  - Intrusion detection and prevention techniques
+  - High-performance intrusion detection
+  - Intrusion detection in special environments (e.g., mobile networks)
+  - IDS cooperation and event correlation
+  - Formal models and analysis
+  - Attack response, countermeasures, and intrusion tolerance
+  - Survivability and selfprotection
+  - Attacks against IDS and evasion
+  - Insider threat detection and mitigation
+  - Deception systems and honeypots
+  - Malicious code detection and containment
+  - Visualization techniques
+  - Intrusion detection assessment and benchmarking
+  - IDS interoperability standards and standardization
+  - Vulnerability analysis and risk assessment
+  - Legal and social issues
+pc:
+  - "Program committee":
+    - Michael Behringer, Cisco Systems Inc., France
+    - Sungdeok Cha, Korea Advanced Institute of Science and Technology, Korea
+    - Andrew Clark, Queensland University of Technology, Australia
+    - Marc Dacier, Eurecom, France
+    - Herve Debar, France Telecom R&D;, France
+    - Ulrich Flegel, University of Dortmund, Germany
+    - Jonathon Giffin, Georgia Tech, USA
+    - Thorsten Holz, University of Mannheim, Germany
+    - Farnam Jahanian, University of Michigan and Arbor Networks, USA
+    - Richard A. Kemmerer, University of California, Santa Barbara, USA
+    - Kwok-Yan Lam, Tsinghua University, China
+    - Wenke Lee, Georgia Tech, USA
+    - Richard Lippmann, MIT Lincoln Laboratory, USA
+    - Raffael Marty, ArcSight Inc., USA
+    - Roy Maxion, Carnegie Mellon University, USA
+    - Ludovic Me, Supelec, France
+    - George Mohay, Queensland University of Technology, Australia
+    - Aloysius Mok, University of Texas, Austin, USA
+    - Benjamin Morin, Supelec, France
+    - Rei Safavi-Naini, University of Wollongong, Australia
+    - Vern Paxson, LBNL/ICSI, USA
+    - Robin Sommer, LBNL/ICSI, USA
+    - Dawn Song, Carnegie Mellon University, USA
+    - Salvatore Stolfo, Columbia University, USA
+    - Toshihiro Tabata, Okayama University, Japan
+    - Vijay Varadharajan, Macquarie University, Australia
+    - Giovanni Vigna, University of California, Santa Barbara, USA
+    - Jianying Zhou, Institute for Infocomm Research, Singapore
+cycles:
+  - first:
+      submission: "2007-04-08"
+      acceptance: "2007-06-01"
+      camera-ready: "2007-06-16"
+# short papers: 10 pages
+# 20 pages lncs
+anonymous: false

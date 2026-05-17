@@ -1,0 +1,98 @@
+website:
+  url: https://raid2023.org/welcome.html
+  available: true
+  archive: null
+topics:
+  - Computer, network, and cloud computing security
+  - Malware and unwanted software
+  - Program analysis and reverse engineering
+  - Mobile Security
+  - Web security and privacy
+  - Vulnerability analysis techniques
+  - Usable security and privacy
+  - Intrusion detection and prevention
+  - Hardware security
+  - Cyber physical systems security and threats against critical infrastructures
+  - IoT security
+  - Statistical and adversarial learning for computer security
+  - Cyber crime and underground economies
+  - Denial-of-Service attacks and defenses
+  - Security measurement studies
+  - Digital forensics
+pc:
+  - "Program committee":
+    - Adrian Coleșa , Technical University of Cluj-Napoca
+    - Alessandro Sorniotti , IBM Research Europe
+    - Amin Kharraz , Florida International University
+    - Antonio Bianchi , Purdue University
+    - Aurélien Francillon , EURECOM
+    - Babak Amin Azad , Cloudflare
+    - Balakrishnan Chandrasekaran , VU Amsterdam
+    - Biswabandan Panda , Indian Institute of Technology Bombay
+    - BumJun Kwon , Samsung Research
+    - Carrie Gates , Bank of America
+    - Daoyuan Wu , The Chinese University of Hong Kong
+    - Ding Wang , Nankai University
+    - Diogo Barradas , University of Waterloo
+    - Doowon Kim , University of Tennessee, Knoxville
+    - Fabian Schwarz , CISPA Helmholtz Center for Information Security
+    - Gautam Akiwate , Stanford University
+    - Georgios Smaragdakis , TU Delft
+    - Ghada Dessouky , Google
+    - Gururaj Saileshwar , University of Toronto / NVIDIA Research
+    - Haining Wang , Virginia Tech
+    - Haixin Duan , Tsinghua University
+    - Hamed Okhravi , MIT Lincoln Laboratory
+    - Heng Yin , University of California Riverside
+    - Hongjun Choi , DGIST
+    - Hyungsub Kim , Purdue University
+    - Imtiaz Karim , Purdue University
+    - Jiyong Jang , IBM Research
+    - Kangjie Lu , University of Minnesota
+    - Kevin Borgolte , Ruhr University Bochum
+    - Khaled Serag , Purdue University
+    - Kimberly Ruth , Stanford University
+    - Konrad Rieck , TU Berlin
+    - Liz Izhikevich , Stanford University
+    - Lorenzo Cavallaro , University College London
+    - Marco Cova , VMware
+    - Marcus Botacin , Texas A&M University
+    - Martin Henze , RWTH Aachen University & Fraunhofer FKIE
+    - Matteo Große-Kampmann , AWARE7 GmbH
+    - Meng Xu , University of Waterloo
+    - Merve Sahin , SAP Security Research
+    - Mridula Singh , CISPA Helmholtz Center for Information Security
+    - Mu Zhang , University of Utah
+    - Mulong Luo , Cornell University
+    - Nathan Burow , MIT Lincoln Laboratory
+    - Nick Nikiforakis , Stony Brook University
+    - Omar Alrawi ,
+    - Parjanya Vyas , University of Waterloo
+    - Peisen Yao , Zhejiang University
+    - Qingchuan Zhao , City University of Hong Kong
+    - Ruimin Sun , Florida International University
+    - Sanghyun Hong , Oregon State University
+    - Sherman S. M. Chow , Chinese University of Hong Kong
+    - Shiqing Ma , Rutgers University
+    - Shuai Hao , Old Dominion University
+    - Simone Aonzo , EURECOM
+    - Srdjan Matic , IMDEA Software Institute
+    - Stefano Zanero , Politecnico di Milano
+    - Thijs van Ede , University of Twente
+    - Wei You , Renmin University of China
+    - Yuan Hong , University of Connecticut
+    - Yue Duan , Illinois Institute of Technology
+    - Yue Zhang , The Ohio State University
+    - Yueqi Chen , University of Colorado Boulder
+    - Zachary Weinberg , CMU
+    - Zhenpeng Lin , Northwestern University
+cycles:
+  - first:
+      submission: "2023-03-29"
+      acceptance: "2023-06-15"
+      camera-ready: "2023-07-13"
+anonymous: true
+ethics-discussion: true
+# 12 pages acm excluding references
+# We expect all papers to provide enough detail to enable reproducibility of the experimental results.
+# We encourage authors to make both the tools and data publicly available.

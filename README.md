@@ -30,7 +30,7 @@ We currently cover the following conferences, tracking all editions since 2005:
 - CSF
 - ESORICS
 - Euro S&P
-<!-- - RAID -->
+- RAID
 
 ## Structure
 

@@ -1,0 +1,59 @@
+website:
+  url: null
+  available: false
+  archive: https://web.archive.org/web/20110903193318/http://raid2011.org/
+topics:
+  - Network and host intrusion detection and prevention
+  - Anomaly and specification-based approaches
+  - IDS cooperation and event correlation
+  - Malware prevention, detection, analysis, containment
+  - Web application security
+  - Insider attack detection
+  - Intrusion response, tolerance, and self-protection
+  - Operational experiences with current approaches
+  - Intrusion detection assessment and benchmarking
+  - Attacks against intrusion detection systems
+  - Formal models, analysis, and standards
+  - Deception systems and honeypots
+  - Vulnerability analysis and forensics
+  - Adversarial machine learning for security
+  - Visualization techniques
+  - High-performance intrusion detection
+  - Legal, social, and privacy issues
+  - Network exfiltration detection
+  - Botnet analysis, detection, and mitigation
+  - Cyber-physical systems
+pc:
+  - "Program committee":
+    - Michael Bailey, University of Michigan, US
+    - Elie Bursztein, Stanford University, US
+    - Juan Caballero, IMDEA Software, Spain
+    - Michael Collins, RedJack, US
+    - Manuel Costa, Microsoft Research, UK
+    - Marco Cova, University of Birmingham, UK
+    - Holger Dreger, Siemens AG, Germany
+    - Debin Gao, Singapore Management University, Singapore
+    - Jonathan Giffin, Georgia Tech, US
+    - Guofei Gu, Texas A&M, US
+    - Guillaume Hiet, Supélec, France
+    - Thorsten Holz, Ruhr-University Bochum, Germany
+    - Sotiris Ioannidis, FORTH, Greece
+    - Jaeyeon Jung, Intel Labs Seattle, US
+    - Syed Ali Khayam, Nat. Univ. of S&T (NUST), Pakistan
+    - Christian Kreibich, ICSI, US
+    - Christopher Kruegel, UC Santa Barbara, US
+    - Corrado Leita, Symantec Research, France
+    - Gregor Maier, ICSI, US
+    - Benjamin Morin, ANSSI, France
+    - Phil Porras, SRI International, US
+    - William Robertson, UC Berkeley, US
+    - Anil Somayaji, Carleton University, Canada
+    - Angelos Stavrou, George Mason University, US
+    - Charles Wright, MIT Lincoln Laboratory, US
+cycles:
+  - first:
+      submission: "2011-04-07"
+      acceptance: "2011-06-02"
+      camera-ready: "2011-06-16"
+# 20 pages lncs
+anonymous: false
