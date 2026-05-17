@@ -559,18 +559,18 @@ cycles:
       early-reject: "October 15, 2024"
       rebuttal-start: "November 18, 2024"
       rebuttal-end: "November 25, 2024"
-      acceptance: "December 11, 2024"
+      notification: "December 11, 2024"
       shepherding-submission: "January 16, 2025"
-      shepherding-acceptance: "January 23, 2025"
+      shepherding-notification: "January 23, 2025"
       camera-ready: "January 30, 2025"
   - second:
       submission: "January 22, 2025"
       early-reject: "March 4, 2025"
       rebuttal-start: "April 7, 2025"
       rebuttal-end: "April 14, 2025"
-      acceptance: "April 30, 2025"
+      notification: "April 30, 2025"
       shepherding-submission: "May 29, 2025"
-      shepherding-acceptance: "June 5, 2025"
+      shepherding-notification: "June 5, 2025"
       camera-ready: "June 12, 2025"
 anonymous: true
 conflicts: true

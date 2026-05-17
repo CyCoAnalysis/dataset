@@ -547,14 +547,14 @@ cycles:
       early-reject: "Feb 27, 2024"
       rebuttal-start: "Mar 18, 2024"
       rebuttal-end: "Mar 22, 2024"
-      acceptance: "Apr 3, 2024"
+      notification: "Apr 3, 2024"
       camera-ready: ""
   - second:
       submission: "April 29th, 2024"
       early-reject: "May 29, 2024"
       rebuttal-start: "June 18, 2024"
       rebuttal-end: "June 21, 2024"
-      acceptance: "July 4, 2024"
+      notification: "July 4, 2024"
       camera-ready: ""
 anonymous: true
 conflicts: true

@@ -93,13 +93,13 @@ pc:
 cycles:
   - first:
       submission: "2020-05-08"
-      acceptance: "2020-07-10"
+      notification: "2020-07-10"
   - second:
       submission: "2020-10-02"
-      acceptance: "2020-12-07"
+      notification: "2020-12-07"
   - third:
       submission: "2021-02-08"
-      acceptance: "2021-04-18"
+      notification: "2021-04-18"
 # major revisions, resubmission in later cycles (not anonymous, 16 pages total)
 # 12 pages ieee
 # special sessions

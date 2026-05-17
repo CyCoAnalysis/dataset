@@ -93,7 +93,7 @@ pc:
 cycles:
   - first:
       submission: "November 16, 2012"  # i think this was extended?
-      acceptance: "January 28, 2013"
+      notification: "January 28, 2013"
       camera-ready: "March 4, 2013"
 anonymous: true
 conflicts: false

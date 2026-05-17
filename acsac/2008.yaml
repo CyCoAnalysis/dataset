@@ -92,7 +92,7 @@ pc:
 cycles:
   - first:
       submission: "2008-06-08"
-      acceptance: "2008-08-18"
+      notification: "2008-08-18"
 anonymous: true
 # 15 pages total
 # awards: true

@@ -93,7 +93,7 @@ pc:
 cycles:
   - first:
       submission: "2012-12-03"
-      acceptance: "2013-01-23"
+      notification: "2013-01-23"
       camera-ready: "2013-02-24"
 anonymous: true
 # 10 pages acm, 12 total, buying additional

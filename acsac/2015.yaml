@@ -107,7 +107,7 @@ pc:
 cycles:
   - first:
       submission: "2015-06-08"
-      acceptance: "2015-08-15"
+      notification: "2015-08-15"
 anonymous: true
 # 10 pages acm
 # awards: true

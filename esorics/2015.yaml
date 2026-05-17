@@ -135,7 +135,7 @@ pc:
 cycles:
   - first:
       submission: "2015-04-13"
-      acceptance: "2015-06-15"
+      notification: "2015-06-15"
       camera-ready: "2015-06-29"
 # 16 pages net, 20 total, LNCS
 anonymous: false

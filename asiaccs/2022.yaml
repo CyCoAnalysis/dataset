@@ -155,12 +155,12 @@ cycles:
   - first:
       submission: "2021-07-30"
       early-reject: "2021-08-30"
-      acceptance: "2021-10-18"
+      notification: "2021-10-18"
       camera-ready: "2021-11-15"
   - second:
       submission: "2021-11-19"
       early-reject: "2021-12-13"
-      acceptance: "2022-02-07"
+      notification: "2022-02-07"
       camera-ready: "2022-03-06"
 anonymous: true
 conflicts: true

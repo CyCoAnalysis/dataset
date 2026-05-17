@@ -248,17 +248,17 @@ cycles:
       submission: "January 20, 2021"
       rebuttal-start: "March 5, 2021"
       rebuttal-end: "March 20, 2021"
-      acceptance: "March 22, 2021"  # delayed
+      notification: "March 22, 2021"  # delayed
       revision-submission: "April 22, 2021"  # delayed
-      revision-acceptance: "May 5, 2021"
+      revision-notification: "May 5, 2021"
       camera-ready: "September 15, 2021"  # moved early
   - second:
       submission: "May 6, 2021"
       rebuttal-start: "June 29, 2021"  # delayed
       rebuttal-end: "July 13, 2021"  # delayed
-      acceptance: "July 20, 2021"
+      notification: "July 20, 2021"
       revision-submission: "August 20, 2021"
-      revision-acceptance: "September 4, 2021"
+      revision-notification: "September 4, 2021"
       camera-ready: "September 15, 2021"  # moved early
 anonymous: true
 conflicts: true

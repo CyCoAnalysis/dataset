@@ -681,7 +681,7 @@ cycles:
       early-reject: "Feb 10, 2025"
       rebuttal-start: "Mar 3, 2025"
       rebuttal-end: "Mar 6, 2025"
-      acceptance: "Mar 28, 2025"
+      notification: "Mar 28, 2025"
       camera-ready: ""
   - second:
       abstract: "April 7, 2025"
@@ -689,7 +689,7 @@ cycles:
       early-reject: "May 16, 2025"
       rebuttal-start: "June 7, 2025"
       rebuttal-end: "June 12, 2025"
-      acceptance: "July 1, 2025"
+      notification: "July 1, 2025"
       camera-ready: ""
 anonymous: true
 conflicts: true

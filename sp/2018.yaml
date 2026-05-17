@@ -121,40 +121,40 @@ pc:
 cycles:
   - first:
       submission: "July 1, 2017"
-      acceptance: "September 1, 2017"
+      notification: "September 1, 2017"
       camera-ready: "October 1, 2017"
       revision-submission: "December 1, 2017"
-      revision-acceptance: "January 1, 2018"
+      revision-notification: "January 1, 2018"
   - second:
       submission: "August 1, 2017"
-      acceptance: "October 1, 2017"
+      notification: "October 1, 2017"
       camera-ready: "November 1, 2017"
       revision-submission: "January 1, 2018"
-      revision-acceptance: "February 1, 2018"
+      revision-notification: "February 1, 2018"
   - third:
       submission: "September 1, 2017"
-      acceptance: "November 1, 2017"
+      notification: "November 1, 2017"
       camera-ready: "December 1, 2017"
       revision-submission: "February 1, 2018"
-      revision-acceptance: "March 1, 2018"
+      revision-notification: "March 1, 2018"
   - fourth:
       submission: "October 1, 2017"
-      acceptance: "December 1, 2017"
+      notification: "December 1, 2017"
       camera-ready: "January 1, 2018"
       revision-submission: "March 1, 2018"
-      revision-acceptance: "April 1, 2018"
+      revision-notification: "April 1, 2018"
   - fifth:
       submission: "November 1, 2017"
-      acceptance: "January 1, 2018"
+      notification: "January 1, 2018"
       camera-ready: "February 1, 2018"
       revision-submission: "April 1, 2018"
-      revision-acceptance: "May 1, 2018"
+      revision-notification: "May 1, 2018"
   - sixth:
       submission: "December 1, 2017"
-      acceptance: "February 1, 2018"
+      notification: "February 1, 2018"
       camera-ready: "March 1, 2018"
       revision-submission: "May 1, 2018"
-      revision-acceptance: "June 1, 2018"
+      revision-notification: "June 1, 2018"
 anonymous: true
 conflicts: true
 ethics-discussion: true

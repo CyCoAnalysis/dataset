@@ -114,7 +114,7 @@ pc:
 cycles:
   - first:
       submission: "2014-10-26"
-      acceptance: "2014-12-22"
+      notification: "2014-12-22"
       camera-ready: "2015-01-20"
 anonymous: true
 # 12 pages acm

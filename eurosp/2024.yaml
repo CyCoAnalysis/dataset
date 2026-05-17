@@ -87,7 +87,7 @@ cycles:
       early-reject: "2023-12-20"
       rebuttal-start: "2024-01-29"
       rebuttal-end: "2024-02-01"
-      acceptance: "2024-02-22"
+      notification: "2024-02-22"
       revision-submission: "2024-03-21"
 # sok: true
 anonymous: true

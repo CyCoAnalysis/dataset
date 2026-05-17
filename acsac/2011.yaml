@@ -101,7 +101,7 @@ pc:
 cycles:
   - first:
       submission: "2011-06-13"
-      acceptance: "2011-08-15"
+      notification: "2011-08-15"
 anonymous: true
 # 10 pages acm, but submission in single column
 # awards: true

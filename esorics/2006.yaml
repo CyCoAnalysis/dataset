@@ -82,6 +82,6 @@ pc:
 cycles:
   - first:
       submission: "2006-03-31"
-      acceptance: "2006-05-30"
+      notification: "2006-05-30"
       camera-ready: "2006-06-30"
 # 15 pages, 20 total, suggested LNCS

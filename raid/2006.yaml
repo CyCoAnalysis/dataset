@@ -54,7 +54,7 @@ pc:
 cycles:
   - first:
       submission: "2006-04-07"
-      acceptance: "2006-06-09"
+      notification: "2006-06-09"
       camera-ready: "2006-07-02"
 # theme:  theme for RAID 2006 is "Big Challenges, Big Ideas, evaluated by the steering committee
 # 20 pages lncs

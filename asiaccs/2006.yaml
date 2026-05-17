@@ -72,6 +72,6 @@ pc:
 cycles:
   - first:
       submission: "2005-10-01"
-      acceptance: "2005-12-05"
+      notification: "2005-12-05"
       camera-ready: "2005-12-20"
 # 20 pages net, 25 total, single-column

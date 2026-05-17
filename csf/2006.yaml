@@ -52,6 +52,6 @@ cycles:
   - first:
       abstract: "2006-01-30"
       submission: "2006-02-03"
-      acceptance: "2006-03-20"
+      notification: "2006-03-20"
       camera-ready: "2006-04-21"
 # 12 pages ieee or 20 pages lncs

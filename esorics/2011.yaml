@@ -93,6 +93,6 @@ pc:
 cycles:
   - first:
       submission: "2011-03-21"
-      acceptance: "2011-05-20"
+      notification: "2011-05-20"
       camera-ready: "2011-06-17"
 # 16 pages net, LNCS

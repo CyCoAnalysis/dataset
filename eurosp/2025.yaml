@@ -120,9 +120,9 @@ cycles:
       rebuttal-start: "2024-12-12"
       rebuttal-end: "2024-12-16"
       # there is a second rebuttal period: 	20 - 23 January 2025
-      acceptance: "2025-02-13"
+      notification: "2025-02-13"
       revision-submission: "2025-03-20"
-      revision-acceptance: "2025-04-03"
+      revision-notification: "2025-04-03"
       camera-ready: "2025-04-17"
 # sok: true
 anonymous: true

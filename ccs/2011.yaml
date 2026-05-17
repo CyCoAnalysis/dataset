@@ -64,7 +64,7 @@ cycles:
       submission: "May 6, 2011"
       rebuttal-start: "June 20, 2011"  # only for first-round reviews
       rebuttal-end: "June 23, 2011"
-      acceptance: "July 15, 2011"
+      notification: "July 15, 2011"
       camera-ready: "August 11, 2011"
 anonymous: false
 conflicts: false

@@ -121,7 +121,7 @@ cycles:
   - first:
       submission: "February 16, 2017"
       early-reject: "March 21, 2017"
-      acceptance: "May 12, 2017"
+      notification: "May 12, 2017"
       camera-ready: "June 29, 2017"
 anonymous: true
 conflicts: true

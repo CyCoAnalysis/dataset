@@ -110,7 +110,7 @@ pc:
 cycles:
   - first:
       submission: "February 28, 2014"  # extended
-      acceptance: "May 9, 2014"
+      notification: "May 9, 2014"
       camera-ready: "July 8, 2014"
 anonymous: true  # papers become deanonymized before the pc meeting
 conflicts: false

@@ -231,13 +231,13 @@ cycles:
       abstract: "2022-01-31"
       submission: "2022-01-31"
       early-reject: "2022-03-15"
-      acceptance: "2022-03-30"
+      notification: "2022-03-30"
       camera-ready: "2022-08-10"
   - second:
       abstract: "2022-05-22"
       submission: "2022-05-29"
       early-reject: "2022-07-09"
-      acceptance: "2022-07-23"
+      notification: "2022-07-23"
       camera-ready: "2022-08-10"
 # 16 pages net, 20 total, LNCS
 # awards: true

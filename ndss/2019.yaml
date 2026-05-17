@@ -110,7 +110,7 @@ cycles:
       early-reject: "October 2, 2018"
       rebuttal-start: "October 2, 2018"
       rebuttal-end: "October 4, 2018"
-      acceptance: "November 6, 2018"
+      notification: "November 6, 2018"
       camera-ready: ""
 anonymous: true
 conflicts: true

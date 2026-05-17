@@ -126,7 +126,7 @@ cycles:
   - first:
       abstract: "February 16, 2015"
       submission: "February 23, 2015"
-      acceptance: "May 12, 2015"
+      notification: "May 12, 2015"
       camera-ready: "June 30, 2015"
 anonymous: true  # papers become deanonymized before the pc meeting
 conflicts: true

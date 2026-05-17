@@ -46,6 +46,6 @@ cycles:
   - first:
       abstract: "2012-02-09"
       submission: "2012-02-10"
-      acceptance: "2012-03-29"
+      notification: "2012-03-29"
       camera-ready: "2012-04-13"
 # 12 pages ieee

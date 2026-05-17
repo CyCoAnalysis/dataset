@@ -456,14 +456,14 @@ cycles:
       early-reject: ""
       rebuttal-start: ""
       rebuttal-end: ""
-      acceptance: "17 March, 2023"
+      notification: "17 March, 2023"
       camera-ready: ""
   - second:
       submission: "4 May, 2023"
       early-reject: "3 June, 2023"
       rebuttal-start: "23 June, 2023"
       rebuttal-end: "27 June, 2023"
-      acceptance: "2 September, 2023"
+      notification: "2 September, 2023"
       camera-ready: ""
 anonymous: true
 conflicts: true

@@ -174,7 +174,7 @@ cycles:
   - first:
       abstract: "2020-04-17"
       submission: "2020-04-24"
-      acceptance: "2020-06-29"
+      notification: "2020-06-29"
       camera-ready: "2020-07-14"
 # 16 pages net, 20 total, LNCS
 # awards: true

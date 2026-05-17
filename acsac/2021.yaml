@@ -141,7 +141,7 @@ cycles:
   - first:
       submission: "2021-06-28"
       early-reject: "2021-07-25"
-      acceptance: "2021-08-25"
+      notification: "2021-08-25"
       camera-ready: "2021-10-16"
 anonymous: true
 ethics-discussion: true

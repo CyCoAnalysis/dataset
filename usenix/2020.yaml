@@ -169,28 +169,28 @@ cycles:
       early-reject: "June 17, 2019"
       rebuttal-start: "June 17, 2019"  # inferred
       rebuttal-end: "June 21, 2019"
-      acceptance: "August 19, 2019"
+      notification: "August 19, 2019"
       camera-ready: "September 19, 2019"
   - second:
       submission: "August 23, 2019"
       early-reject: "September 23, 2019"
       rebuttal-start: "September 23, 2019"  # inferred
       rebuttal-end: "September 27, 2019"
-      acceptance: "November 1, 2019"
+      notification: "November 1, 2019"
       camera-ready: "December 2, 2019"
   - third:
       submission: "November 15, 2019"
       early-reject: "December 15, 2019"
       rebuttal-start: "December 15, 2019"  # inferred
       rebuttal-end: "December 20, 2019"
-      acceptance: "February 1, 2020"
+      notification: "February 1, 2020"
       camera-ready: "March 2, 2020"
   - fourth:
       submission: "February 15, 2020"
       early-reject: "March 15, 2020"
       rebuttal-start: "March 15, 2020"  # inferred
       rebuttal-end: "March 20, 2020"
-      acceptance: "May 15, 2020"  # extended
+      notification: "May 15, 2020"  # extended
       camera-ready: "June 22, 2020"  # extended
 anonymous: true
 conflicts: true

@@ -85,6 +85,6 @@ pc:
 cycles:
   - first:
       submission: "2005-04-01"
-      acceptance: "2005-05-30"
+      notification: "2005-05-30"
       camera-ready: "2005-06-30"
 # 15 pages, 20 total, not much formatting detail

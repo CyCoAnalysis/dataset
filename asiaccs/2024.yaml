@@ -114,12 +114,12 @@ cycles:
   - first:
       submission: "2023-08-21"
       early-reject: "2023-09-26"
-      acceptance: "2023-11-14"
+      notification: "2023-11-14"
       camera-ready: "2023-12-12"
   - second:
       submission: "2023-12-07"
       early-reject: "2024-01-23"
-      acceptance: "2024-03-12"
+      notification: "2024-03-12"
       camera-ready: "2024-04-16"
 anonymous: true
 conflicts: true

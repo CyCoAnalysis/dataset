@@ -56,7 +56,7 @@ pc:
 cycles:
   - first:
       submission: "2020-04-07"
-      acceptance: "2020-05-27"
+      notification: "2020-05-27"
       camera-ready: "2020-07-23"
 anonymous: true
 ethics-discussion: true

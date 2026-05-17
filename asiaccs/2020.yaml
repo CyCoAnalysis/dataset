@@ -127,11 +127,11 @@ pc:
 cycles:
   - first:
       submission: "2019-08-20"
-      acceptance: "2019-10-25"
+      notification: "2019-10-25"
       camera-ready: "2019-11-25"
   - second:
       submission: "2019-12-10"
-      acceptance: "2020-02-15"
+      notification: "2020-02-15"
       camera-ready: "2020-07-08"
 anonymous: true
 ethics-discussion: true

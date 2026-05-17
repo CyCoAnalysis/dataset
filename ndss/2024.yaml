@@ -147,18 +147,18 @@ cycles:
       early-reject: "19 May 2023"
       rebuttal-start: "12 Jun 2023"
       rebuttal-end: "14 Jun 2023"
-      acceptance: "21 Jun 2023"
+      notification: "21 Jun 2023"
       revision-submission: "2 Aug 2023"
-      revision-acceptance: "16 Aug 2023"
+      revision-notification: "16 Aug 2023"
       camera-ready: "30 Aug 2023"
   - second:
       submission: "28 Jun 2023"
       early-reject: "4 Aug 2023"
       rebuttal-start: "4 Sep 2023"
       rebuttal-end: "6 Sep 2023"
-      acceptance: "13 Sep 2023"
+      notification: "13 Sep 2023"
       revision-submission: "1 Nov 2023"
-      revision-acceptance: "15 Nov 2023"
+      revision-notification: "15 Nov 2023"
       camera-ready: "29 Nov 2023"
 anonymous: true
 conflicts: true

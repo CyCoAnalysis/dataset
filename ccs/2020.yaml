@@ -156,17 +156,17 @@ cycles:
       submission: "January 20, 2020"
       rebuttal-start: "March 19, 2020"
       rebuttal-end: "March 26, 2020"
-      acceptance: "March 30, 2020"
+      notification: "March 30, 2020"
       revision-submission: "May 5, 2020"
-      revision-acceptance: "May 31, 2020"
+      revision-notification: "May 31, 2020"
       camera-ready: "August 20, 2020"
   - second:
       submission: "May 4, 2020"
       rebuttal-start: "July 10, 2020"
       rebuttal-end: "July 17, 2020"
-      acceptance: "July 28, 2020"  # delayed
+      notification: "July 28, 2020"  # delayed
       revision-submission: "August 25, 2020"  # delayed
-      revision-acceptance: "September 8, 2020"
+      revision-notification: "September 8, 2020"
       camera-ready: "August 20, 2020"
 anonymous: true
 conflicts: true

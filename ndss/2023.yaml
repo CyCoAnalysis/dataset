@@ -133,18 +133,18 @@ cycles:
       early-reject: "Jun 17, 2022"
       rebuttal-start: "Jul 19, 2022"
       rebuttal-end: "Jul 20, 2022"
-      acceptance: "Jul 27, 2022"  # delayed
+      notification: "Jul 27, 2022"  # delayed
       revision-submission: "Sep 5, 2022"
-      revision-acceptance: "Sep 22, 2022"
+      revision-notification: "Sep 22, 2022"
       camera-ready: "Oct 20, 2022"
   - second:
       submission: "Jul 29, 2022"
       early-reject: "Sep 2, 2022"
       rebuttal-start: "Sept 28, 2022"  # delayed
       rebuttal-end: "Oct 02, 2022"  # delayed
-      acceptance: "Oct 21, 2022"
+      notification: "Oct 21, 2022"
       revision-submission: "Dec  5, 2022"
-      revision-acceptance: "Dec 22, 2022"
+      revision-notification: "Dec 22, 2022"
       camera-ready: "Jan 16, 2023"
 anonymous: true
 conflicts: true

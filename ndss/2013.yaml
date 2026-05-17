@@ -90,7 +90,7 @@ cycles:
   - first:
       abstract: "1 August 2012"
       submission: "6 August 2012"
-      acceptance: "22 October 2012"
+      notification: "22 October 2012"
       camera-ready: "3 December 2012"
 anonymous: true
 conflicts: false

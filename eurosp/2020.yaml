@@ -99,7 +99,7 @@ cycles:
       early-reject: "2020-01-06"
       rebuttal-start: "2020-02-08"
       rebuttal-end: "2020-02-12"
-      acceptance: "2020-02-26"
+      notification: "2020-02-26"
       camera-ready: "2020-04-16"
 # sok: true
 anonymous: true

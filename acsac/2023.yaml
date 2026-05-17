@@ -156,7 +156,7 @@ cycles:
       early-reject: "2023-07-06"
       rebuttal-start: "2023-08-02"
       rebuttal-end: "2023-08-07"
-      acceptance: "2023-08-16"
+      notification: "2023-08-16"
 anonymous: true
 ethics-discussion: true
 # 10 pages acm, excluding refs and appendix (+5)

@@ -88,7 +88,7 @@ cycles:
       early-reject: "2016-10-20"
       rebuttal-start: "2016-10-20"
       rebuttal-end: "2016-10-22"
-      acceptance: "2016-10-17"
+      notification: "2016-10-17"
       camera-ready: "2017-02-13"
 anonymous: true
 ethics-discussion: true

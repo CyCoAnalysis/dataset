@@ -155,7 +155,7 @@ cycles:
       submission: "May 19, 2017"
       rebuttal-start: "July 7, 2017"  # only for first-round reviews
       rebuttal-end: "July 11, 2017"
-      acceptance: "August 2, 2017"
+      notification: "August 2, 2017"
       camera-ready: "September 1, 2017"
 anonymous: true
 conflicts: true

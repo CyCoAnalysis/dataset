@@ -321,17 +321,17 @@ cycles:
       submission: "January 14, 2022"
       rebuttal-start: "18 February, 2022"
       rebuttal-end: "March 6, 2022"
-      acceptance: "March 10, 2022"
+      notification: "March 10, 2022"
       revision-submission: "April 7, 2022"
-      revision-acceptance: "April 22, 2022"
+      revision-notification: "April 22, 2022"
       camera-ready: "September 2, 2022"
   - second:
       submission: "May 2, 2022"
       rebuttal-start: "June 19, 2022"
       rebuttal-end: "July 7, 2022"
-      acceptance: "July 15, 2022"
+      notification: "July 15, 2022"
       revision-submission: "August 11, 2022"
-      revision-acceptance: "August 27, 2022"
+      revision-notification: "August 27, 2022"
       camera-ready: "September 2, 2022"
 anonymous: true
 conflicts: true

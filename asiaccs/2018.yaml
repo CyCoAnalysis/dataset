@@ -146,7 +146,7 @@ cycles:
       submission: "2017-12-19"
       early-reject: "2018-01-29"
       # Deadline for appeal (for early rejection papers only) : Feb 1, 2018
-      acceptance: "2018-03-03"
+      notification: "2018-03-03"
       camera-ready: "2018-03-31"
 anonymous: true
 ethics-discussion: true

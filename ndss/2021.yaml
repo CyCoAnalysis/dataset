@@ -118,18 +118,18 @@ cycles:
       early-reject: "Jun 29, 2020"
       rebuttal-start: "Jul 28, 2020"
       rebuttal-end: "Jul 31, 2020"
-      acceptance: "Aug 07, 2020"
+      notification: "Aug 07, 2020"
       revision-submission: "Sep 21, 2020"
-      revision-acceptance: "Oct 21, 2020"
+      revision-notification: "Oct 21, 2020"
       camera-ready: "Nov 18, 2020"
   - second:
       submission: "Jul 31, 2020"
       early-reject: "Sep 11, 2020"
       rebuttal-start: "Oct 06, 2020"
       rebuttal-end: "Oct 09, 2020"
-      acceptance: "Oct 23, 2020"
+      notification: "Oct 23, 2020"
       revision-submission: "Dec 07, 2020"
-      revision-acceptance: "Dec 24, 2020"
+      revision-notification: "Dec 24, 2020"
       camera-ready: "Jan 07, 2021"
 anonymous: true
 conflicts: true

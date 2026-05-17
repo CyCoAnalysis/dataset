@@ -139,12 +139,12 @@ cycles:
   - first:
       submission: "2024-09-20"
       early-reject: "2024-10-25"
-      acceptance: "2024-12-13"
+      notification: "2024-12-13"
       camera-ready: "2025-01-11"
   - second:
       submission: "2025-01-20"
       early-reject: "2025-02-28"
-      acceptance: "2025-04-19"
+      notification: "2025-04-19"
       camera-ready: "2025-05-25"
 anonymous: true
 conflicts: true

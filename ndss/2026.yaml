@@ -297,18 +297,18 @@ cycles:
       early-reject: "28 May 2025"
       rebuttal-start: "18 Jun 2025"
       rebuttal-end: "Jun 20, 2025"
-      acceptance: "2 July 2025"
+      notification: "2 July 2025"
       revision-submission: "30 July 2025"
-      revision-acceptance: "13 August 2025"
+      revision-notification: "13 August 2025"
       camera-ready: "10 September 2025"
   - second:
       submission: "6 August 2025"
       early-reject: "17 September 2025"
       rebuttal-start: "8 October 2025"
       rebuttal-end: "10 October 2025"
-      acceptance: "22 October 2025"
+      notification: "22 October 2025"
       revision-submission: "19 November 2025"
-      revision-acceptance: "3 December 2025"
+      revision-notification: "3 December 2025"
       camera-ready: "17 December 2025"
 anonymous: true
 conflicts: true

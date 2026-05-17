@@ -98,7 +98,7 @@ cycles:
       early-reject: "2020-12-16"
       rebuttal-start: "2021-01-14"
       rebuttal-end: "2021-01-20"
-      acceptance: "2021-01-30"
+      notification: "2021-01-30"
       revision-submission: "2021-02-26"
       camera-ready: "2021-03-12"
 # sok: true

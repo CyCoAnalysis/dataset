@@ -51,7 +51,7 @@ pc:
     - Anil Somayaji, Carleton University, Canada
 cycles:
   - first:
-      acceptance: "2014-06-01"
+      notification: "2014-06-01"
       camera-ready: "2014-07-07"
 # 20 pages lncs
 anonymous: false

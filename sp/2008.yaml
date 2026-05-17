@@ -72,7 +72,7 @@ pc:
 cycles:
   - first:
       submission: "November 9, 2007"
-      acceptance: "January 25, 2008"
+      notification: "January 25, 2008"
       camera-ready: "March 1, 2008"
 anonymous: true
 conflicts: false

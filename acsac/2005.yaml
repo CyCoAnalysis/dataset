@@ -65,6 +65,6 @@ pc:
 cycles:
   - first:
       submission: "2005-06-03"
-      acceptance: "2005-08-14"
+      notification: "2005-08-14"
 # awards: true
 # formatting unclear

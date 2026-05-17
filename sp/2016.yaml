@@ -98,8 +98,8 @@ cycles:
       submission: "November 13, 2015"
       rebuttal-start: "January 13, 2016"  # early reject, also for earlier?
       rebuttal-end: "January 15, 2016"
-      acceptance: "February 7, 2016"
-      shepherding-acceptance: "February 26, 2016"
+      notification: "February 7, 2016"
+      shepherding-notification: "February 26, 2016"
       camera-ready: "March 18, 2016"
 anonymous: true
 conflicts: false

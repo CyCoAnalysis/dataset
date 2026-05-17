@@ -96,7 +96,7 @@ pc:
 cycles:
   - first:
       submission: "2024-04-15"
-      acceptance: "2024-06-24"
+      notification: "2024-06-24"
       camera-ready: "2024-07-22"
 anonymous: true
 ethics-discussion: true

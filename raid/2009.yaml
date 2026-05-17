@@ -57,7 +57,7 @@ pc:
 cycles:
   - first:
       submission: "2009-04-12"
-      acceptance: "2009-06-08"
+      notification: "2009-06-08"
       camera-ready: "2009-06-18"
 # 10-18 pages lncs
 anonymous: false

@@ -87,11 +87,11 @@
             "early-reject": { "type": "string" },
             "rebuttal-start": { "type": "string" },
             "rebuttal-end": { "type": "string" },
-            "acceptance": { "type": "string" },
+            "notification": { "type": "string" },
             "shepherding-submission": { "type": "string" },
-            "shepherding-acceptance": { "type": "string" },
+            "shepherding-notification": { "type": "string" },
             "revision-submission": { "type": "string" },
-            "revision-acceptance": { "type": "string" },
+            "revision-notification": { "type": "string" },
             "camera-ready": { "type": "string" }
           },
           "additionalProperties": false

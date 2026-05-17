@@ -134,7 +134,7 @@ cycles:
   - first:
       submission: "2020-06-16"
       early-reject: "2020-07-19"
-      acceptance: "2020-08-17"
+      notification: "2020-08-17"
       camera-ready: "2020-10-16"
 anonymous: true
 # 10 pages acm, excluding refs and appendix (+5)

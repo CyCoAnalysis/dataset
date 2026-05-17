@@ -183,14 +183,14 @@ cycles:
   # camera-ready deadlines unknown
   - first:
       submission: "February 5, 2019"
-      acceptance: "April 19, 2019"
+      notification: "April 19, 2019"
   - second:
       submission: "May 15, 2019"
-      acceptance: "July 30, 2019"
+      notification: "July 30, 2019"
   # there is a third cycle, but only for revision resubmissions
   - third:
       submission: "September 1, 2019"
-      acceptance: "September 16, 2019"
+      notification: "September 16, 2019"
 anonymous: true
 conflicts: true
 ethics-discussion: true

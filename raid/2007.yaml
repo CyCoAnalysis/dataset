@@ -52,7 +52,7 @@ pc:
 cycles:
   - first:
       submission: "2007-04-08"
-      acceptance: "2007-06-01"
+      notification: "2007-06-01"
       camera-ready: "2007-06-16"
 # short papers: 10 pages
 # 20 pages lncs

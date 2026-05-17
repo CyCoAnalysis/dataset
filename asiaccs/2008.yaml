@@ -80,7 +80,7 @@ pc:
 cycles:
   - first:
       submission: "2007-10-01"
-      acceptance: "2007-11-28"
+      notification: "2007-11-28"
       camera-ready: "2007-12-08"
 anonymous: true
 # 12 pages net, no strict format, acm proceeding

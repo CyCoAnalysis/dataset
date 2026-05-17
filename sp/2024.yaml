@@ -258,21 +258,21 @@ cycles:
       early-reject: "May 22, 2023"
       rebuttal-start: "June 19, 2023"
       rebuttal-end: "June 30, 2023"  # rebuttal text due: June 26, 2023
-      acceptance: "July 10, 2023"
+      notification: "July 10, 2023"
       camera-ready: "August 18, 2023"
   - second:
       submission: "August 3, 2023"
       early-reject: "September 11, 2023"
       rebuttal-start: "October 9, 2023"
       rebuttal-end: "October 20, 2023"  # rebuttal text due: October 16, 2023
-      acceptance: "October 27, 2023"
+      notification: "October 27, 2023"
       camera-ready: "December 8, 2023"
   - third:
       submission: "December 6, 2023"
       early-reject: "January 22, 2024"
       rebuttal-start: "February 19, 2024"
       rebuttal-end: "March 1, 2024"  # rebuttal text due: February 26, 2024
-      acceptance: "March 8, 2024"
+      notification: "March 8, 2024"
       camera-ready: "April 19, 2024"
 anonymous: true
 conflicts: true

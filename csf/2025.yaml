@@ -108,13 +108,13 @@ pc:
 cycles:
   - first:
       submission: "2024-05-28"
-      acceptance: "2024-07-30"
+      notification: "2024-07-30"
   - second:
       submission: "2024-10-01"
-      acceptance: "2024-12-03"
+      notification: "2024-12-03"
   - third:
       submission: "2025-02-04"
-      acceptance: "2025-04-08"
+      notification: "2025-04-08"
 # major revisions, resubmission in later cycles (anonymous this year, 16 pages total)
 # also shepherding
 # 12 pages ieee

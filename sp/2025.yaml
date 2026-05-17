@@ -263,14 +263,14 @@ cycles:
       early-reject: "July 22, 2024"
       rebuttal-start: "August 19, 2024"
       rebuttal-end: "August 30, 2024"  # rebuttal text due: August 26, 2024
-      acceptance: "September 9, 2024"
+      notification: "September 9, 2024"
       camera-ready: "October 18, 2024"
   - second:
       submission: "November 14, 2024"
       early-reject: "January 20, 2025"
       rebuttal-start: "February 17, 2025"
       rebuttal-end: "February 28, 2025"  # rebuttal text due: February 24, 2025
-      acceptance: "March 10, 2025"
+      notification: "March 10, 2025"
       camera-ready: "April 18, 2025"
 anonymous: true
 conflicts: true

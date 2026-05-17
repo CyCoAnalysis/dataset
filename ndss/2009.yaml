@@ -63,7 +63,7 @@ cycles:
   - first:
       abstract: "September 12, 2008"
       submission: "September 19, 2008"
-      acceptance: "November 3, 2008"
+      notification: "November 3, 2008"
       camera-ready: "December 12, 2008"
 anonymous: false
 conflicts: false

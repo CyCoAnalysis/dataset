@@ -220,7 +220,7 @@ cycles:
       early-reject: "2025-07-14"
       rebuttal-start: "2025-08-18"
       rebuttal-end: "2025-08-22"
-      acceptance: "2025-09-03"
+      notification: "2025-09-03"
       revision-submission: "2025-10-03"
       camera-ready: "2025-10-24"
 anonymous: true

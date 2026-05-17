@@ -48,6 +48,6 @@ pc:
 cycles:
   - first:
       submission: "2005-01-28"
-      acceptance: "2005-03-11"
+      notification: "2005-03-11"
       camera-ready: "2005-04-04"
 # 12 pages ieee or 20 pages lncs

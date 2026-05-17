@@ -126,7 +126,7 @@ cycles:
       early-reject: "July 25, 2019"
       rebuttal-start: "August 14, 2019"
       rebuttal-end: "August 17, 2019"
-      acceptance: "August 25, 2019"
+      notification: "August 25, 2019"
       revision-submission: "October 9, 2019"
       camera-ready: ""
   - second:
@@ -134,7 +134,7 @@ cycles:
       early-reject: "October 31, 2019"
       rebuttal-start: "November 21, 2019"
       rebuttal-end: "November 24, 2019"
-      acceptance: "December 8, 2019"
+      notification: "December 8, 2019"
       revision-submission: "January 24, 2020"
       camera-ready: ""
 anonymous: true

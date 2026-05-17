@@ -43,6 +43,6 @@ pc:
 cycles:
   - first:
       submission: "2009-02-06"
-      acceptance: "2009-03-30"
+      notification: "2009-03-30"
       camera-ready: "2009-04-24"
 # 12 pages ieee

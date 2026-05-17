@@ -130,7 +130,7 @@ cycles:
       submission: "May 16, 2015"
       rebuttal-start: "June 30, 2015"  # only for first-round reviews
       rebuttal-end: "July 6, 2015"
-      acceptance: "July 22, 2015"
+      notification: "July 22, 2015"
       camera-ready: "August 12, 2015"
 anonymous: true
 conflicts: false

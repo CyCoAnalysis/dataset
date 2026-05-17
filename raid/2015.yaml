@@ -56,6 +56,6 @@ pc:
 cycles:
   - first:
       submission: "2015-06-05"
-      acceptance: "2015-08-14"
+      notification: "2015-08-14"
 # 20 pages lncs, +2 for addressing comments
 anonymous: true

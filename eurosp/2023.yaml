@@ -58,7 +58,7 @@ cycles:
       early-reject: "2022-12-08"
       rebuttal-start: "2023-01-18"
       rebuttal-end: "2023-01-25"
-      acceptance: "2023-02-12"
+      notification: "2023-02-12"
       revision-submission: "2023-03-14"
       camera-ready: "2023-04-03"
 # sok: true

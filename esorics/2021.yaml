@@ -235,13 +235,13 @@ cycles:
       abstract: "2021-01-05"
       submission: "2021-01-12"
       rebuttal-end: "2021-02-25"
-      acceptance: "2021-03-12"
+      notification: "2021-03-12"
       camera-ready: "2021-08-12"
   - second:
       abstract: "2021-05-05"
       submission: "2021-05-12"
       rebuttal-end: "2021-06-25"
-      acceptance: "2021-07-12"
+      notification: "2021-07-12"
       camera-ready: "2021-08-12"
 # 16 pages net, 20 total, LNCS
 # awards: true

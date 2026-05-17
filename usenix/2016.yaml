@@ -126,7 +126,7 @@ cycles:
       early-reject: "April 6, 2016"
       rebuttal-start: "April 6, 2016"  # appeal
       rebuttal-end: "April 8, 2016"
-      acceptance: "May 16, 2016"
+      notification: "May 16, 2016"
       camera-ready: "June 28, 2016"
 anonymous: true  # papers become deanonymized before the pc meeting
 conflicts: true

@@ -97,7 +97,7 @@ pc:
 cycles:
   - first:
       submission: "May 8, 2007"
-      acceptance: "July 23, 2007"
+      notification: "July 23, 2007"
       camera-ready: "August 17, 2007"
 anonymous: true
 conflicts: false

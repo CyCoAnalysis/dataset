@@ -175,11 +175,11 @@ pc:
 cycles:
   - first:
       submission: "2024-01-08"
-      acceptance: "2024-03-18"
+      notification: "2024-03-18"
       camera-ready: "2024-04-19"
   - second:
       submission: "2024-04-19"
-      acceptance: "2024-06-14"
+      notification: "2024-06-14"
       camera-ready: "2024-06-28"
 # 16 pages net, 20 total, LNCS
 anonymous: false

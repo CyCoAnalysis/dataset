@@ -199,18 +199,18 @@ cycles:
       early-reject: "21 May 2024"
       rebuttal-start: "10 June 2024"
       rebuttal-end: "13 June 2024"
-      acceptance: "20 June 2024"
+      notification: "20 June 2024"
       revision-submission: "7 August 2024"
-      revision-acceptance: "29 August 2024"
+      revision-notification: "29 August 2024"
       camera-ready: "12 September 2024"
   - second:
       submission: "10 July 2024"
       early-reject: "20 August 2024"
       rebuttal-start: "9 September 2024"
       rebuttal-end: "13 September 2024"
-      acceptance: "19 September 2024"
+      notification: "19 September 2024"
       revision-submission: "30 October 2024"
-      revision-acceptance: "21 November 2024"
+      revision-notification: "21 November 2024"
       camera-ready: "5 December 2024"
 anonymous: true
 conflicts: true

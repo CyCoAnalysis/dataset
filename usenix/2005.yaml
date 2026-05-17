@@ -51,7 +51,7 @@ pc:
 cycles:
   - first:
       submission: "Friday, February 4, 2005"  # extended
-      acceptance: "Monday, April 4, 2005"
+      notification: "Monday, April 4, 2005"
       camera-ready: "Thursday, May 12, 2005"
 anonymous: false
 conflicts: false

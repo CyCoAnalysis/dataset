@@ -127,7 +127,7 @@ cycles:
   - first:
       submission: "2019-06-15"
       early-reject: "2019-07-24"
-      acceptance: "2019-08-23"
+      notification: "2019-08-23"
 anonymous: true
 # 10 pages acm, excluding refs and appendix (+5)
 # awards: true

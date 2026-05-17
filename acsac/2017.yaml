@@ -105,7 +105,7 @@ pc:
 cycles:
   - first:
       submission: "2017-06-08"
-      acceptance: "2017-08-18"
+      notification: "2017-08-18"
 anonymous: true
 # 10 pages acm, excluding refs and appendix (+5)
 # awards: true

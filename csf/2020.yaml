@@ -69,11 +69,11 @@ pc:
 cycles:
   - first:
       submission: "2019-10-04"
-      acceptance: "2019-12-13"
+      notification: "2019-12-13"
       camera-ready: "2020-01-31"
   - second:
       submission: "2020-02-07"
-      acceptance: "2020-04-17"
+      notification: "2020-04-17"
       camera-ready: "2020-05-08"
 # major revisions, resubmission in later cycles (not anonymous, 16 pages total)
 # 12 pages ieee

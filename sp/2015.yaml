@@ -99,8 +99,8 @@ cycles:
       submission: "November 14, 2014"
       rebuttal-start: "January 14, 2015"
       rebuttal-end: "January 16, 2015"
-      acceptance: "February 8, 2015"
-      shepherding-acceptance: "February 27, 2015"
+      notification: "February 8, 2015"
+      shepherding-notification: "February 27, 2015"
       camera-ready: "March 5, 2015"
 anonymous: true
 conflicts: false

@@ -150,14 +150,14 @@ cycles:
       early-reject: "December 14, 2018"
       rebuttal-start: "December 14, 2018"  # inferred
       rebuttal-end: "December 18, 2018"
-      acceptance: "January 18, 2019"
+      notification: "January 18, 2019"
       camera-ready: "February 18, 2019"
   - second:
       submission: "February 15, 2019"
       early-reject: "March 21, 2019"
       rebuttal-start: "March 21, 2019"  # inferred
       rebuttal-end: "March 26, 2019"
-      acceptance: "May 1, 2019"
+      notification: "May 1, 2019"
       camera-ready: "June 1, 2019"
 anonymous: true
 conflicts: true

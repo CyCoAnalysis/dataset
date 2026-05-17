@@ -174,22 +174,22 @@ cycles:
   - first:
       submission: "March 5, 2020"
       early-reject: "April 21, 2020"  # extended?
-      acceptance: "May 22, 2020"
+      notification: "May 22, 2020"
       camera-ready: "July 1, 2020"
   - second:
       submission: "June 4, 2020"
       early-reject: "July 17, 2020"
-      acceptance: "August 21, 2020"
+      notification: "August 21, 2020"
       camera-ready: "September 30, 2020"
   - third:
       submission: "September 3, 2020"
       early-reject: "October 16, 2020"
-      acceptance: "November 20, 2020"
+      notification: "November 20, 2020"
       camera-ready: "December 29, 2020"
   - fourth:
       submission: "December 3, 2020"
       early-reject: "January 15, 2021"
-      acceptance: "February 19, 2021"
+      notification: "February 19, 2021"
       camera-ready: "March 28, 2021"
 anonymous: true
 conflicts: true
