@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20151130170916/http://meeting.xidian.edu.cn/conference/AsiaCCS2016/calls.html
 topics:
   - Access control

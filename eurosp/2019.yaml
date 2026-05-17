@@ -1,6 +1,5 @@
 website:
   url: https://www.ieee-security.org/TC/EuroSP2019/cfp.php
-  available: true
   archive: null
 topics:
   - Access control

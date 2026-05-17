@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=5825&copyownerid=2
   # https://web.archive.org/web/20100811030125/http://www.dacas.cn/asiaccs2010/ not indexed properly
 topics:

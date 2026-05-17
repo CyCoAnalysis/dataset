@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://www.ieee-security.org/Calendar/cfps/cfp-ASIACCS2015.html
   # http://www.i2r.a-star.edu.sg/icsd/asiaccs15/ excluded from internet archive
 topics:

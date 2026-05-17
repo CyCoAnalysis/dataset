@@ -1,6 +1,5 @@
 website:
   url: https://www.ntnu.edu/esorics2017
-  available: true
   archive: null
 topics:
   - access control

@@ -1,6 +1,5 @@
 website:
   url: https://www.ieee-security.org/TC/EuroSP2021/cfp.html
-  available: true
   archive: null
 topics:
   - Access control

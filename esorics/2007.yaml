@@ -1,6 +1,5 @@
 website:
   url: https://dud.inf.tu-dresden.de/esorics2007/
-  available: true
   archive: null
 topics:
 - security architecture and secure components (trusted computing modules, smartcards, personal computing devices, networks, information systems, applications, peer-to-peer connections, language-based security, ... )

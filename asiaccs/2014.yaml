@@ -1,6 +1,5 @@
 website:
   url: https://asiaccs2014.nict.go.jp/index.html
-  available: true
   archive: null
 topics:
   - Access control

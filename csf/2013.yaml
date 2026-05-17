@@ -1,6 +1,5 @@
 website:
   url: https://csf2013.seas.harvard.edu/
-  available: true
   archive: null
 topics:
   - Access control

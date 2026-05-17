@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20110812015655/http://www.cosic.esat.kuleuven.be/esorics2011/
 topics:
   - Access Control

@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20090831230109/http://www.rennes.supelec.fr/RAID2009/
 topics:
   - Network and host intrusion detection and prevention

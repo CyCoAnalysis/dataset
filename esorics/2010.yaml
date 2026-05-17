@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20140715210255/http://www.esorics2010.aueb.gr/
 topics:
   - Access Control

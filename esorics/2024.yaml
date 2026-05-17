@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20241120190446/https://esorics2024.org/
 topics:
   - Access Control

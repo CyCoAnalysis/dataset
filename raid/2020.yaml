@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20200920225438/https://raid2020.org/call-for-papers/
 topics:
   - Computer, network, and cloud computing security

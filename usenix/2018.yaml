@@ -1,6 +1,5 @@
 website:
   url: https://www.usenix.org/conference/usenixsecurity18/call-for-papers
-  available: true
   archive: null
 topics:
   - "System security":

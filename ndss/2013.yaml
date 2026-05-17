@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20130821013409/http://www.internetsociety.org/events/ndss-symposium-2013/ndss-2013-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"

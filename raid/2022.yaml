@@ -1,6 +1,5 @@
 website:
   url: https://raid2022.cs.ucy.ac.cy/index.html
-  available: true
   archive: null
 topics:
   - Computer, network, and cloud computing security

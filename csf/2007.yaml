@@ -1,6 +1,5 @@
 website:
   url: https://www.cse.chalmers.se/~andrei/CSF07/cfp.html
-  available: true
   archive: null
 topics:
   - Authentication

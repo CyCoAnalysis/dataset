@@ -4,14 +4,11 @@
   "properties": {
     "website": {
       "type": "object",
-      "required": ["url", "available", "archive"],
+      "required": ["url", "archive"],
       "properties": {
         "url": {
           "type": ["string", "null"],
           "format": "uri"
-        },
-        "available": {
-          "type": "boolean"
         },
         "archive": {
           "type": ["string", "null"],

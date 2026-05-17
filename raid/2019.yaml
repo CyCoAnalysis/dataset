@@ -1,6 +1,5 @@
 website:
   url: http://www.raid-2019.org/index.html
-  available: true
   archive: null
 topics:
   - Computer, network, and cloud computing security

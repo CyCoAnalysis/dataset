@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20141121122936/http://esorics2014.pwr.wroc.pl/
 topics:
   - access control

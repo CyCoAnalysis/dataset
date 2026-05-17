@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20070429082540/http://www.isi.qut.edu.au/events/conferences/raid07/
 topics:
   - Intrusion detection and prevention techniques

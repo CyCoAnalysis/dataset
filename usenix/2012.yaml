@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20130508064609/https://www.usenix.org/conference/usenixsecurity12/call-for-papers
 topics:
   - Analysis of network and security protocols

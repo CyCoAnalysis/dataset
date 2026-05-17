@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20081106211800/http://www.cs.chalmers.se/~andrei/CSF08/cfp.html
 topics:
   - Access control

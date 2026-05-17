@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20060721232505/http://www.esorics06.tu-harburg.de/callforpapers.html
 topics:
   - access control

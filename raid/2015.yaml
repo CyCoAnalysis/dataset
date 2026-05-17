@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20150812095308/https://www.raid2015.org/
 topics:
   - Malware and botnet analysis, detection, and mitigation

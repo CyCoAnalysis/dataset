@@ -1,6 +1,5 @@
 website:
   url: https://i.cs.hku.hk/~asiaccs/
-  available: true
   archive: null
 topics:
   - anonymity

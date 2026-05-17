@@ -1,6 +1,5 @@
 website:
   url: http://csf2011.inria.fr/
-  available: true
   archive: null
 topics:
   - Access control

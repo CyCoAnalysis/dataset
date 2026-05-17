@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20080919084212/http://www.ll.mit.edu/RAID2008/
 topics:
   - Network and host intrusion detection and prevention

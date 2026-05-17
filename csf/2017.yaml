@@ -1,6 +1,5 @@
 website:
   url: https://csf2017.tecnico.ulisboa.pt/
-  available: true
   archive: null
 topics:
   - access control

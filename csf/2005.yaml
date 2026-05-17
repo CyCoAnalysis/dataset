@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20060502182338/http://www.ieee-security.org/CSFWweb/csfw18/index18.html
 topics:
   - Authentication

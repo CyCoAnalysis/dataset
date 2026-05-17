@@ -1,6 +1,5 @@
 website:
   url: https://www.rcis.aist.go.jp/asiaccs08/
-  available: true
   archive: null
 topics:
   - Public-Key Cryptography

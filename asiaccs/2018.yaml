@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20180224152628/http://asiaccs2018.org/
 topics:
   - Access control

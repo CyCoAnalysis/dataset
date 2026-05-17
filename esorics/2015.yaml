@@ -1,6 +1,5 @@
 website:
   url: https://esorics2015.sba-research.org/
-  available: true
   archive: null
 topics:
   - access control

@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20110520221310/http://www.isoc.org/isoc/conferences/ndss/12/cfp.shtml
 topics:
   - "Network perimeter controls: firewalls, packet filters, application gateways"

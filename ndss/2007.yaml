@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20081223194700/http://www.isoc.org/isoc/conferences/ndss/07/cfp.shtml
 topics:
   - "Integrating security in Internet protocols: routing, naming, TCP/IP, multicast, network management, and the Web."

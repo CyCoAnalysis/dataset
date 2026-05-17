@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20120730120534/http://www.raid2012.com/
 topics:
   - Intrusion detection and prevention

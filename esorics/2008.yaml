@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20080922192020/http://www.isac.uma.es/esorics08/cfp.html
 topics:
   - access control

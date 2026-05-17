@@ -1,6 +1,5 @@
 website:
   url: https://www.ieee-security.org/TC/SP2020/cfpapers.html
-  available: true
   archive: null
 proceedings:
   url: https://www.computer.org/csdl/proceedings/sp/2020/1lT0zWRhDWg

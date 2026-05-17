@@ -1,6 +1,5 @@
 website:
   url: https://www.cs.ox.ac.uk/conferences/csf2018/cfp.html
-  available: true
   archive: null
 topics:
   - access control

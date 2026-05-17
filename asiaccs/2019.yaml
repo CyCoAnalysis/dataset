@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20190123051808/https://asiaccs2019.blogs.auckland.ac.nz/call/call-for-papers/
 topics:
   - Access control

@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20050730002539/http://www.conjungi.com/RAID/
 topics:
   # there are more topics in prose

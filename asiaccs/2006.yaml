@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20060813091727/http://www.iis.sinica.edu.tw/asiaccs06/indexhome.html
 topics:
   - Access control and authorization

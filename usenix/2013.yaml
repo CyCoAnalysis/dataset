@@ -1,6 +1,5 @@
 website:
   url: https://www.usenix.org/conference/usenixsecurity13/call-for-papers
-  available: true
   archive: null
 topics:
   - Analysis of network and security protocols

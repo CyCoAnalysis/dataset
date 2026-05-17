@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20200706183931/https://asiaccs2020.cs.nthu.edu.tw/
 topics:
   - Access control

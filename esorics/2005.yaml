@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20050214032844/http://esorics05.dti.unimi.it/
 topics:
   - access control

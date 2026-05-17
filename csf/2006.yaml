@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20060426120637/http://www.ccs.neu.edu/home/guttman/csfw19-cfp.html
 topics:
   - Authentication

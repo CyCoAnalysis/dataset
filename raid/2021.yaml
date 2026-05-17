@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20210925211110/raid2021.org/
 topics:
   - Computer, network, and cloud computing security

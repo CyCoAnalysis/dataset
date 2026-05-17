@@ -1,6 +1,5 @@
 website:
   url: https://csf2016.tecnico.ulisboa.pt/cfp.html
-  available: true
   archive: null
 topics:
   - access control

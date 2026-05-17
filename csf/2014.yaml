@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20140304020725/http://csf2014.di.univr.it/callforpapers
 topics:
   - access control

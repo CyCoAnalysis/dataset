@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20100115065522/http://www.floc-conference.org/CSF-cfp.html
 topics:
   - Access control

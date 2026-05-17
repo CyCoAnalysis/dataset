@@ -1,6 +1,5 @@
 website:
   url: https://sp2026.ieee-security.org/cfpapers.html
-  available: true
   archive: null
 topics:
   - Applied cryptography

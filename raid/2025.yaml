@@ -1,6 +1,5 @@
 website:
   url: https://raid2024.github.io/index.html
-  available: true
   archive: null
 topics:
   - Cloud security

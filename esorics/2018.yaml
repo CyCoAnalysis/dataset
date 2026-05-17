@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=73201&copyownerid=22168
 topics:
   - access control

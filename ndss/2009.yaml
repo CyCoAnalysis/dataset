@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20081121032149/http://www.isoc.org/isoc/conferences/ndss/09/cfp.shtml
 topics:
   - "Security of Web-based applications and services."

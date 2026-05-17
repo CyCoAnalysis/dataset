@@ -1,6 +1,5 @@
 website:
   url: https://hosting.services.iit.cnr.it/esorics2012/
-  available: true
   archive: null
 topics:
   - access control

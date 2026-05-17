@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20140330211027/http://www.raid2014.eu/
 topics:
   - Intrusion detection and prevention.

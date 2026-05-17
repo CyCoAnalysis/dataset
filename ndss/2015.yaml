@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20140828203253/http://www.internetsociety.org/events/ndss-symposium-2015/ndss-2015-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"

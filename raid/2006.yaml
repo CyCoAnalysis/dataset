@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20060822001102/http://www.raid06.tu-harburg.de/
 topics:
   - Risk assessment and risk management

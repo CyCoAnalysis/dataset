@@ -1,6 +1,5 @@
 website:
   url: https://raid2013.org/
-  available: true
   archive: null
 topics:
   - Intrusion detection and prevention

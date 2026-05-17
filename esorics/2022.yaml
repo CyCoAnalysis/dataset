@@ -1,6 +1,5 @@
 website:
   url: https://esorics2022.compute.dtu.dk/index.html#intro
-  available: true
   archive: null
 topics:
   - Access Control

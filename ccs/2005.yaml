@@ -1,6 +1,5 @@
 website:
   url: https://www.sigsac.org/ccs/CCS2005/cfp-res.html
-  available: true
   archive: null
 topics:
   - access control

@@ -1,6 +1,5 @@
 website:
   url: https://esorics2025.sciencesconf.org/?lang=en
-  available: true
   archive: null
 topics:
   - Access Control

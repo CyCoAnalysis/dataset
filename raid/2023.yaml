@@ -1,6 +1,5 @@
 website:
   url: https://raid2023.org/welcome.html
-  available: true
   archive: null
 topics:
   - Computer, network, and cloud computing security

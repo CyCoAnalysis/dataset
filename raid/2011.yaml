@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20110903193318/http://raid2011.org/
 topics:
   - Network and host intrusion detection and prevention

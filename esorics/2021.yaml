@@ -1,6 +1,5 @@
 website:
   url: https://esorics2021.athene-center.de/
-  available: true
   archive: null
 topics:
   - Access control

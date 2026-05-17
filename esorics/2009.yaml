@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20090303221048/http://conferences.telecom-bretagne.eu/esorics2009/EN/callForPaper.php
 topics:
   - access control

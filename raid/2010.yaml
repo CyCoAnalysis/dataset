@@ -1,6 +1,5 @@
 website:
   url: https://raid2010.org/call-for-participation
-  available: true
   archive: null
 topics:
   - Network and host intrusion detection and prevention

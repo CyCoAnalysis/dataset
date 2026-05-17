@@ -1,6 +1,5 @@
 website:
   url: https://www.usenix.org/legacy/events/sec08/cfp/
-  available: true
   archive: null
 topics:
   - Adaptive security and system management

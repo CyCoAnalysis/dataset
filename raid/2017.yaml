@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20171014190933/https://www.raid2017.org/
 topics:
   - Computer, network and cloud computing security

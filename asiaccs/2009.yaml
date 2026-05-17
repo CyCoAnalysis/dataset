@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20091119053536/http://www.comp.mq.edu.au/conferences/asiaccs2009/
 topics:
   - Public-Key Cryptography

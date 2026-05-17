@@ -1,6 +1,5 @@
 website:
   url: https://www3.cs.stonybrook.edu/~csf09/
-  available: true
   archive: null
 topics:
   - Access control

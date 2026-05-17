@@ -1,6 +1,5 @@
 website:
   url: https://csf2025.ieee-security.org/cfp.html
-  available: true
   archive: null
 topics:
   - access control

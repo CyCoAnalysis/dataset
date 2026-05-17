@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20161115081448/https://raid2016.org/
 topics:
   - Malware and unwanted software

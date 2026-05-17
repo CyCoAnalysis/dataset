@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20150306233027/https://csf2015.di.univr.it/
 topics:
   - access control

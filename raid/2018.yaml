@@ -1,6 +1,5 @@
 website:
   url: https://raid2018.org/
-  available: true
   archive: null
 topics:
   - Computer, network, and cloud computing security

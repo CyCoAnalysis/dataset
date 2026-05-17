@@ -1,6 +1,5 @@
 website:
   url: null
-  available: false
   archive: https://web.archive.org/web/20221207105534/https://www.ndss-symposium.org/ndss2023/submissions/call-for-papers/
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
