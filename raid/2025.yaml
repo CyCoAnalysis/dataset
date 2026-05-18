@@ -26,118 +26,118 @@ topics:
   - Web security and privacy
 pc:
   - "Program committee":
-    - Abdullah Imran , Purdue University
-    - Adam Oest , Amazon
-    - Adrian Coleşa , Technical University of Cluj-Napoca, Romania
-    - Alessandro Brighente , University of Padova
-    - Alessandro Sorniotti , IBM Research Europe
-    - Amin Kharraz , Florida International University
-    - Andre Gregio , Federal University of Parana (UFPR)
-    - Andrea Lanzi , University of Milan
-    - Andrea Mambretti , IBM Research Europe - Zurich
-    - Andrea Marcelli , Data scientist, Cisco Talos
-    - Andrea Oliveri , EURECOM
-    - Anita Nikolich , University of Illinois - Urbana Champaign
-    - Antonio Bianchi , Purdue University
-    - Babak Amin Azad , Cloudflare
-    - Balakrishnan Chandrasekaran , Vrije Universiteit Amsterdam
-    - Bang Wu , RMIT
-    - Behzad Ousat , Florida International University
-    - Ben Gras , Intel Corporation
-    - Bo Feng , Zhejiang University
-    - Christophe Hauser , Dartmouth College
-    - Clement Fung , Carnegie Mellon University
-    - Daniel Arp , TU Wien
-    - Diksha Goel , CSIRO's Data61, Australia
-    - Eleonora Losiouk , University of Padua
-    - Elias Athanasopoulos , University of Cyprus
-    - Emanuele Cozzi , Microsoft
-    - Evangelos Markatos , FORTH and University of Crete
-    - Fabian Schwarz , NVIDIA
-    - Faysal Hossain Shezan , University of Texas at Arlington
-    - Fei Zuo , University of Central Oklahoma
-    - Flavio Toffalini , RUB
-    - Florian Hahn , University of Twente
-    - Georgios Smaragdakis , Delft University of Technology
-    - Giada Stivala , CISPA Helmholtz Center for Information Security
-    - Gianluca Stringhini , Boston University
-    - Giovanni Lagorio , University of Genoa
-    - Hayretdin Bahsi , School of Informatics Computing and Cyber Systems, Northern Arizona University, USA
-    - Hervé Debar , Télécom SudParis
-    - Hongsheng Hu , University of Newcastle
-    - Huaming Chen , The University of Sydney
-    - Huayi Duan , ETH Zurich
-    - Hyungsub Kim , Indiana University Bloomington
-    - Ilya Grishchenko , University of Toronto
-    - Imtiaz Karim , Purdue University
-    - Iskander Sanchez-Rola , Norton
-    - Jie Zhou , The George Washington University
-    - Jing Liu , MPI-SP & UC Irvine
-    - Jiyong Jang , IBM Research
-    - Juan Tapiador , University Carlos III of Madrid
-    - Kangjie Lu , University of Minnesota
-    - Kevin Borgolte , Ruhr University Bochum
-    - Konrad Rieck , BIFOLD & TU Berlin
-    - Kyle Zeng , Arizona State University
-    - Leon Trampert , CISPA Helmholtz Center for Information Security
-    - Lorenzo Binosi , Politecnico di Milano
-    - Luca Demetrio , University of Genoa
-    - Luca Mariot , University of Twente
-    - Mabon Ninan , Texas A&M University
-    - Magnus Almgren , Chalmers University of Technology
-    - Manuel Egele , Boston University
-    - Marcel Busch , EPFL
-    - Marco Casagrande , N/A
-    - Marco Cova , Wiz
-    - Marcus Botacin , Texas A&M University
-    - Mario Polino , N/A
-    - Marius Muench , University of Birmingham
-    - Martina Lindorfer , TU Wien
-    - Matteo Große-Kampmann , Rhine-Waal University of Applied Sciences
-    - Merve Sahin , SAP
-    - Michalis Polychronakis , Stony Brook University
-    - Michele Carminati , Politecnico di Milano
-    - Moritz Lipp , AWS
-    - Moritz Schloegel , Arizona State University
-    - Muslum Ozgur Ozmen , Arizona State University
-    - Nathan Burow , MIT Lincoln Laboratory
-    - Nilo Redini , N/A
-    - Octavian Suciu , Google Research
-    - Peng Jiang , Southeast University
-    - Qinhong Jiang , The Hong Kong Polytechnic University
-    - Roland Yap , National University of Singapore
-    - Seungwon Shin , KAIST
-    - Shangqi Lai , CSIRO's Data61
-    - Shirin Nilizadeh , The University of Texas at Arlington
-    - Shuang Hao , University of Texas at Dallas
-    - Shuo Wang , Shanghai Jiao Tong University
-    - Silvia Sebastián , CISPA
-    - Simone Aonzo , Eurecom
-    - Song Fang , University of Oklahoma
-    - Srdjan Matic , IMDEA Software Institute
-    - Stefano Zanero , Politecnico di Milano
-    - Sébastien Bardin , CEA List & Université Paris-Saclay
-    - Tanusree Sharma , Pennsylvania State University
-    - Thomas Schreck , Munich University of Applied Sciences
-    - Thorsten Eisenhofer , BIFOLD & TU Berlin
-    - Tianshuo Cong , Tsinghua University
-    - Vasileios Kemerlis , Brown University
-    - Vasilios Mavroudis , Alan Turing Institute
-    - Viet Vo , Swinburne University of Technology
-    - Vladislav Mladenov , Ruhr University Bochum
-    - Xabier Ugarte-Pedrero , Cisco Systems
-    - Xiang Li , Nankai University
-    - Xiapu Luo , The Hong Kong Polytechnic University
-    - Ye Dong , National University of Singapore
-    - Yigitcan Kaya , UC Santa Barbara
-    - Yinzhi Cao , Johns Hopkins University
-    - Yueqi Chen , University of Colorado Boulder
-    - Yuhao Wu , Washington University in St. Louis
-    - Yujin Huang , The University of Melbourne
-    - Zheng Li , Shandong University
-    - Zhuo Zhang , Purdue University
-    - Ziming Zhao , Northeastern University
-    - Zhibo Eric Sun , Drexel University
+      - Abdullah Imran , Purdue University
+      - Adam Oest , Amazon
+      - Adrian Coleşa , Technical University of Cluj-Napoca, Romania
+      - Alessandro Brighente , University of Padova
+      - Alessandro Sorniotti , IBM Research Europe
+      - Amin Kharraz , Florida International University
+      - Andre Gregio , Federal University of Parana (UFPR)
+      - Andrea Lanzi , University of Milan
+      - Andrea Mambretti , IBM Research Europe - Zurich
+      - Andrea Marcelli , Data scientist, Cisco Talos
+      - Andrea Oliveri , EURECOM
+      - Anita Nikolich , University of Illinois - Urbana Champaign
+      - Antonio Bianchi , Purdue University
+      - Babak Amin Azad , Cloudflare
+      - Balakrishnan Chandrasekaran , Vrije Universiteit Amsterdam
+      - Bang Wu , RMIT
+      - Behzad Ousat , Florida International University
+      - Ben Gras , Intel Corporation
+      - Bo Feng , Zhejiang University
+      - Christophe Hauser , Dartmouth College
+      - Clement Fung , Carnegie Mellon University
+      - Daniel Arp , TU Wien
+      - Diksha Goel , CSIRO's Data61, Australia
+      - Eleonora Losiouk , University of Padua
+      - Elias Athanasopoulos , University of Cyprus
+      - Emanuele Cozzi , Microsoft
+      - Evangelos Markatos , FORTH and University of Crete
+      - Fabian Schwarz , NVIDIA
+      - Faysal Hossain Shezan , University of Texas at Arlington
+      - Fei Zuo , University of Central Oklahoma
+      - Flavio Toffalini , RUB
+      - Florian Hahn , University of Twente
+      - Georgios Smaragdakis , Delft University of Technology
+      - Giada Stivala , CISPA Helmholtz Center for Information Security
+      - Gianluca Stringhini , Boston University
+      - Giovanni Lagorio , University of Genoa
+      - Hayretdin Bahsi , School of Informatics Computing and Cyber Systems, Northern Arizona University, USA
+      - Hervé Debar , Télécom SudParis
+      - Hongsheng Hu , University of Newcastle
+      - Huaming Chen , The University of Sydney
+      - Huayi Duan , ETH Zurich
+      - Hyungsub Kim , Indiana University Bloomington
+      - Ilya Grishchenko , University of Toronto
+      - Imtiaz Karim , Purdue University
+      - Iskander Sanchez-Rola , Norton
+      - Jie Zhou , The George Washington University
+      - Jing Liu , MPI-SP & UC Irvine
+      - Jiyong Jang , IBM Research
+      - Juan Tapiador , University Carlos III of Madrid
+      - Kangjie Lu , University of Minnesota
+      - Kevin Borgolte , Ruhr University Bochum
+      - Konrad Rieck , BIFOLD & TU Berlin
+      - Kyle Zeng , Arizona State University
+      - Leon Trampert , CISPA Helmholtz Center for Information Security
+      - Lorenzo Binosi , Politecnico di Milano
+      - Luca Demetrio , University of Genoa
+      - Luca Mariot , University of Twente
+      - Mabon Ninan , Texas A&M University
+      - Magnus Almgren , Chalmers University of Technology
+      - Manuel Egele , Boston University
+      - Marcel Busch , EPFL
+      - Marco Casagrande , N/A
+      - Marco Cova , Wiz
+      - Marcus Botacin , Texas A&M University
+      - Mario Polino , N/A
+      - Marius Muench , University of Birmingham
+      - Martina Lindorfer , TU Wien
+      - Matteo Große-Kampmann , Rhine-Waal University of Applied Sciences
+      - Merve Sahin , SAP
+      - Michalis Polychronakis , Stony Brook University
+      - Michele Carminati , Politecnico di Milano
+      - Moritz Lipp , AWS
+      - Moritz Schloegel , Arizona State University
+      - Muslum Ozgur Ozmen , Arizona State University
+      - Nathan Burow , MIT Lincoln Laboratory
+      - Nilo Redini , N/A
+      - Octavian Suciu , Google Research
+      - Peng Jiang , Southeast University
+      - Qinhong Jiang , The Hong Kong Polytechnic University
+      - Roland Yap , National University of Singapore
+      - Seungwon Shin , KAIST
+      - Shangqi Lai , CSIRO's Data61
+      - Shirin Nilizadeh , The University of Texas at Arlington
+      - Shuang Hao , University of Texas at Dallas
+      - Shuo Wang , Shanghai Jiao Tong University
+      - Silvia Sebastián , CISPA
+      - Simone Aonzo , Eurecom
+      - Song Fang , University of Oklahoma
+      - Srdjan Matic , IMDEA Software Institute
+      - Stefano Zanero , Politecnico di Milano
+      - Sébastien Bardin , CEA List & Université Paris-Saclay
+      - Tanusree Sharma , Pennsylvania State University
+      - Thomas Schreck , Munich University of Applied Sciences
+      - Thorsten Eisenhofer , BIFOLD & TU Berlin
+      - Tianshuo Cong , Tsinghua University
+      - Vasileios Kemerlis , Brown University
+      - Vasilios Mavroudis , Alan Turing Institute
+      - Viet Vo , Swinburne University of Technology
+      - Vladislav Mladenov , Ruhr University Bochum
+      - Xabier Ugarte-Pedrero , Cisco Systems
+      - Xiang Li , Nankai University
+      - Xiapu Luo , The Hong Kong Polytechnic University
+      - Ye Dong , National University of Singapore
+      - Yigitcan Kaya , UC Santa Barbara
+      - Yinzhi Cao , Johns Hopkins University
+      - Yueqi Chen , University of Colorado Boulder
+      - Yuhao Wu , Washington University in St. Louis
+      - Yujin Huang , The University of Melbourne
+      - Zheng Li , Shandong University
+      - Zhuo Zhang , Purdue University
+      - Ziming Zhao , Northeastern University
+      - Zhibo Eric Sun , Drexel University
 cycles:
   - first:
       submission: "2025-04-24"

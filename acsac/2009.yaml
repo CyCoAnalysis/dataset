@@ -43,53 +43,53 @@ topics:
   - Web 2.0/3.0 Security
 pc:
   - "Program committee":
-    - Charles Payne, Adventium Labs, USA (Program Chair)
-    - Michael Franz, University of California, Irvine, USA (Program Co-Chair)
-    - Anas Abou El Kalam, IRIT/ENSEEIHT
-    - Claudio Ardagna, U. of Milan
-    - Vijay Atluri, Rudgers U.
-    - Tuomas Aura, Microsoft Research
-    - Lee Badger, NIST
-    - Kosta Beznosov, U. of British Columbia
-    - Marco Casassa Mont, HP Labs
-    - Shiping Chen, Sybase, Inc.
-    - Marc Dacier, Symantec Corporation
-    - Robert Deng, Singapore Mgmt U.
-    - Mary Denz, Air Force Research Lab
-    - Jeremy Epstein, SRI International
-    - Philip Fong, U. of Regina
-    - Sara Foresti, U. of Milan
-    - Vinod Ganapathy, Rudgers U.
-    - Carrie Gates, CA Labs
-    - Dieter Gollman, Hamburg U. of Tech.
-    - Steven Greenwald, Info. Security Adv.
-    - Dimitris Gritzalis, Athens U.
-    - Tom Haigh, Adventium Labs
-    - Wesley Higaki, Criteria Vendors Forum
-    - Cynthia Irvine, Naval Postgraduate School
-    - Hongxia Jin, IBM Almaden
-    - Ulf Lindqvist, SRI International
-    - Peng Liu, Penn State U.
-    - Javier Lopez, U. of Malaga
-    - John McDermott, Naval Research Lab
-    - Peng Ning, North Carolina State U.
-    - Stefano Paraboschi, U. of Bergamo
-    - Guenther Pernul, U. of Regensburg
-    - Marco Pistoia, IBM T.J. Watson
-    - Lillian Røstad, NTNU
-    - Reiner Sailer, IBM
-    - Andre dos Santos, U. of Puerto Rico
-    - Christoph Schuba, Sun Microsystems, Inc.
-    - Kent Seamons, Brigham Young U.
-    - Cristina Serban, AT&T
-    - Randall Smith, Boeing Corporation
-    - Angelos Stavrou, George Mason U.
-    - Vipin Swarup, MITRE Corporation
-    - Dan Thomsen, Cyber Defense Agency
-    - Patrick Traynor, Georgia Inst. of Tech.
-    - Venkat Venkatakrishnan, UI at Chicago
-    - David Whyte, CSE
-    - Alec Yasinac, U. of South Alabama
+      - Charles Payne, Adventium Labs, USA (Program Chair)
+      - Michael Franz, University of California, Irvine, USA (Program Co-Chair)
+      - Anas Abou El Kalam, IRIT/ENSEEIHT
+      - Claudio Ardagna, U. of Milan
+      - Vijay Atluri, Rudgers U.
+      - Tuomas Aura, Microsoft Research
+      - Lee Badger, NIST
+      - Kosta Beznosov, U. of British Columbia
+      - Marco Casassa Mont, HP Labs
+      - Shiping Chen, Sybase, Inc.
+      - Marc Dacier, Symantec Corporation
+      - Robert Deng, Singapore Mgmt U.
+      - Mary Denz, Air Force Research Lab
+      - Jeremy Epstein, SRI International
+      - Philip Fong, U. of Regina
+      - Sara Foresti, U. of Milan
+      - Vinod Ganapathy, Rudgers U.
+      - Carrie Gates, CA Labs
+      - Dieter Gollman, Hamburg U. of Tech.
+      - Steven Greenwald, Info. Security Adv.
+      - Dimitris Gritzalis, Athens U.
+      - Tom Haigh, Adventium Labs
+      - Wesley Higaki, Criteria Vendors Forum
+      - Cynthia Irvine, Naval Postgraduate School
+      - Hongxia Jin, IBM Almaden
+      - Ulf Lindqvist, SRI International
+      - Peng Liu, Penn State U.
+      - Javier Lopez, U. of Malaga
+      - John McDermott, Naval Research Lab
+      - Peng Ning, North Carolina State U.
+      - Stefano Paraboschi, U. of Bergamo
+      - Guenther Pernul, U. of Regensburg
+      - Marco Pistoia, IBM T.J. Watson
+      - Lillian Røstad, NTNU
+      - Reiner Sailer, IBM
+      - Andre dos Santos, U. of Puerto Rico
+      - Christoph Schuba, Sun Microsystems, Inc.
+      - Kent Seamons, Brigham Young U.
+      - Cristina Serban, AT&T
+      - Randall Smith, Boeing Corporation
+      - Angelos Stavrou, George Mason U.
+      - Vipin Swarup, MITRE Corporation
+      - Dan Thomsen, Cyber Defense Agency
+      - Patrick Traynor, Georgia Inst. of Tech.
+      - Venkat Venkatakrishnan, UI at Chicago
+      - David Whyte, CSE
+      - Alec Yasinac, U. of South Alabama
 cycles:
   - first:
       submission: "2009-06-08"

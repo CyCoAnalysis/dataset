@@ -21,37 +21,37 @@ topics:
   - Computer security visualization techniques
 pc:
   - "Program committee":
-    - Almgren, Magnus , Chalmers University of Technology
-    - Amann, Johanna , ICSI
-    - Bilge, Leyla , Symantec Research Labs
-    - Cavallaro, Lorenzo , Royal Holloway, University of London
-    - Christodorescu, Mihai , Qualcomm Research
-    - Debar, Herve , Telecom SudParis
-    - Egele, Manuel , Boston University
-    - Ettale, Sandro , Technical University Eindhoven
-    - Francillon, Aurélien , Eurecom
-    - Giffin, Jon , HPE Fortify
-    - Gligor, Virgil , Carnegie Mellon University
-    - Gu, Guofei , Texas A&M University
-    - Ioannidis, Sotiris , FORTH
-    - Kim, Yongdae , Korea Advanced Institute of Science and Technology
-    - Lanzi, Andrea , University of Milan
-    - Lee, Wenke , Georgia Tech
-    - Leita, Corrado , Lastline
-    - Naccache, David , ENS Paris
-    - Perdisci, Roberto , University of Georgia
-    - Polakis, Jason , University of Illinois at Chicago
-    - Sanders, Bill , University of Illinois at Urbana-Champaign
-    - Snow, Kevin , Zeropoint
-    - Stavrou, Angelos , George Mason University
-    - Stolfo, Sal , Columbia University
-    - Su, Purui , Institute of Software/CAS, China
-    - Tehranipoor, Mark , University of Florida
-    - Valdes, Al , University of Illinois at Urbana Champaign
-    - Wang, X. Sean , Fudan University
-    - Wang, Xiaogang (Cliff) , US Army Research Office and adjunct with NC State U
-    - Yen, Ting Fang , DataVisor, Inc
-    - Zhang, Kehuan , Chinese University of Hong Kong
+      - Almgren, Magnus , Chalmers University of Technology
+      - Amann, Johanna , ICSI
+      - Bilge, Leyla , Symantec Research Labs
+      - Cavallaro, Lorenzo , Royal Holloway, University of London
+      - Christodorescu, Mihai , Qualcomm Research
+      - Debar, Herve , Telecom SudParis
+      - Egele, Manuel , Boston University
+      - Ettale, Sandro , Technical University Eindhoven
+      - Francillon, Aurélien , Eurecom
+      - Giffin, Jon , HPE Fortify
+      - Gligor, Virgil , Carnegie Mellon University
+      - Gu, Guofei , Texas A&M University
+      - Ioannidis, Sotiris , FORTH
+      - Kim, Yongdae , Korea Advanced Institute of Science and Technology
+      - Lanzi, Andrea , University of Milan
+      - Lee, Wenke , Georgia Tech
+      - Leita, Corrado , Lastline
+      - Naccache, David , ENS Paris
+      - Perdisci, Roberto , University of Georgia
+      - Polakis, Jason , University of Illinois at Chicago
+      - Sanders, Bill , University of Illinois at Urbana-Champaign
+      - Snow, Kevin , Zeropoint
+      - Stavrou, Angelos , George Mason University
+      - Stolfo, Sal , Columbia University
+      - Su, Purui , Institute of Software/CAS, China
+      - Tehranipoor, Mark , University of Florida
+      - Valdes, Al , University of Illinois at Urbana Champaign
+      - Wang, X. Sean , Fudan University
+      - Wang, Xiaogang (Cliff) , US Army Research Office and adjunct with NC State U
+      - Yen, Ting Fang , DataVisor, Inc
+      - Zhang, Kehuan , Chinese University of Hong Kong
 cycles:
   - first:
       submission: "2017-03-29"

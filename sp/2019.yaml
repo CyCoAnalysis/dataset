@@ -33,112 +33,112 @@ topics:
   - Usable security and privacy
 pc:
   - "Program committee":
-    - Abhi Shelat , Northeastern University
-    - Adam Bates , University of Illinois at Urbana-Champaign
-    - Adam Doupé , Arizona State University
-    - Adrian Perrig , ETH Zurich
-    - Adrienne Porter Felt , Google
-    - Aggelos Kiayias , University of Edinburgh & IOHK
-    - Alessandro Chiesa , UC Berkeley
-    - Alexandros Kapravelos , North Carolina State University
-    - Alina Oprea , Northeastern University
-    - Ananth Raghunathan , Google
-    - Anders Fogh , Intel Corporation
-    - Andrei Sabelfeld , Chalmers University of Technology
-    - Andrew Miller , University of Illinois at Urbana-Champaign
-    - Aniket Kate , Purdue University
-    - Anja Lehmann , IBM Research - Zurich
-    - Ari Juels , Cornell Tech
-    - Asia Slowinska , IBM Security
-    - Aurelien Francillon , EURECOM
-    - Aylin Caliskan , George Washington University
-    - Bo Li , UC Berkeley
-    - Brendan Dolan-Gavitt , NYU
-    - Cas Cremers , University of Oxford
-    - Chris Kanich , University of Illinois at Chicago
-    - Claudia Diaz , KU Leuven
-    - Cristiano Giuffrida , Vrije Universiteit Amsterdam
-    - Daniel Genkin , University of Pennsylvania and University of Maryland
-    - Daniela Oliveira , University of Florida
-    - Daphne Yao , Virginia Tech
-    - Dave Levin , University of Maryland
-    - David Evans , University of Virginia
-    - David Kotz , Dartmouth College
-    - Deian Stefan , UC San Diego
-    - Engin Kirda , Northeastern University
-    - Fabian Monrose , University of North Carolina at Chapel Hill
-    - Farinaz Koushanfar , University of California San Diego
-    - Foteini Baldimtsi , George Mason University
-    - Frank Piessens , KU Leuven
-    - Franziska Roesner , University of Washington
-    - Gianluca Stringhini , University College London
-    - Guofei Gu , Texas A&M University
-    - Herbert Bos , Vrije Universiteit Amsterdam
-    - Joseph Bonneau , New York University
-    - Juan Caballero , IMDEA Software Institute
-    - Kasper Rasmussen , University of Oxford
-    - Kenny Paterson , Royal Holloway University of London
-    - Konrad Rieck , TU Braunschweig
-    - Konstantin (Kosta) Beznosov , University of British Columbia
-    - Kurt Thomas , Google
-    - Leyla Bilge , Symantec Research Labs
-    - Long Lu , Northeastern University
-    - Lorrie Cranor , Carnegie Mellon University
-    - Lujo Bauer , Carnegie Mellon University
-    - Manos Antonakakis , Georgia Institute of Technology
-    - Manuel Egele , Boston University
-    - Mariana Raykova , Yale University
-    - Marina Blanton , University at Buffalo
-    - Mathias Payer , EPFL and Purdue University
-    - Matt Fredrikson , Carnegie Mellon University
-    - Matthew Hicks , Virginia Tech
-    - Michael Bailey , University of Illinois at Urbana-Champaign
-    - Michael Franz , University of California at Irvine
-    - Michalis Polychronakis , Stony Brook University
-    - Michelle Mazurek , University of Maryland
-    - Mihai Christodorescu , Visa Research
-    - Mike Reiter , University of North Carolina at Chapel Hill
-    - Mike Rosulek , Oregon State University
-    - Nick Feamster , Princeton University
-    - Nick Nikiforakis , Stony Brook University
-    - Nickolai Zeldovich , MIT CSAIL
-    - Nicolas Christin , Carnegie Mellon University
-    - Niels Provos , Google Inc
-    - Nikhil Swamy , Microsoft Research
-    - Nitesh Saxena , University of Alabama at Birmingham
-    - Omar Chowdhury , University of Iowa
-    - Payman Mohassel , Visa Research
-    - Piotr Mardziel , Carnegie Mellon University
-    - Prateek Mittal , Princeton University
-    - Ralf Kuesters , University of Stuttgart
-    - Reza Shokri , National University of Singapore (NUS)
-    - Rob Reeder , Google
-    - Robert Watson , University of Cambridge
-    - Roberto Perdisci , University of Georgia and Georgia Institute of Technology
-    - Rosario Gennaro , The City College of New York
-    - Roya Ensafi , University of Michigan
-    - Ruby Lee , Princeton University
-    - Sarah Meiklejohn , University College London
-    - Sascha Fahl , Leibniz University Hannover
-    - Sergio Maffeis , Imperial College London
-    - Somesh Jha , University of Wisconsin at Madison
-    - Srdjan Capkun , ETH Zurich
-    - Stefan Katzenbeisser , TU Darmstadt
-    - Taesoo Kim , Georgia Tech
-    - Thorsten Holz , Ruhr-Universität Bochum
-    - Tom Ristenpart , Cornell Tech
-    - Tom Shrimpton , University of Florida
-    - Trent Jaeger , Penn State University
-    - Tudor Dumitras , University of Maryland at College Park
-    - Veronique Cortier , CNRS and Loria
-    - Virgil Gligor , Carnegie Mellon University
-    - Vladimir Kolesnikov , Georgia Tech
-    - Vyas Sekar , Carnegie Mellon University
-    - Wenke Lee , Georgia Institute of Technology
-    - Wenyuan Xu , Zhejiang University
-    - William Robertson , Northeastern University
-    - XiaoFeng Wang , Indiana University
-    - Zhiyun Qian , University of California at Riverside
+      - Abhi Shelat , Northeastern University
+      - Adam Bates , University of Illinois at Urbana-Champaign
+      - Adam Doupé , Arizona State University
+      - Adrian Perrig , ETH Zurich
+      - Adrienne Porter Felt , Google
+      - Aggelos Kiayias , University of Edinburgh & IOHK
+      - Alessandro Chiesa , UC Berkeley
+      - Alexandros Kapravelos , North Carolina State University
+      - Alina Oprea , Northeastern University
+      - Ananth Raghunathan , Google
+      - Anders Fogh , Intel Corporation
+      - Andrei Sabelfeld , Chalmers University of Technology
+      - Andrew Miller , University of Illinois at Urbana-Champaign
+      - Aniket Kate , Purdue University
+      - Anja Lehmann , IBM Research - Zurich
+      - Ari Juels , Cornell Tech
+      - Asia Slowinska , IBM Security
+      - Aurelien Francillon , EURECOM
+      - Aylin Caliskan , George Washington University
+      - Bo Li , UC Berkeley
+      - Brendan Dolan-Gavitt , NYU
+      - Cas Cremers , University of Oxford
+      - Chris Kanich , University of Illinois at Chicago
+      - Claudia Diaz , KU Leuven
+      - Cristiano Giuffrida , Vrije Universiteit Amsterdam
+      - Daniel Genkin , University of Pennsylvania and University of Maryland
+      - Daniela Oliveira , University of Florida
+      - Daphne Yao , Virginia Tech
+      - Dave Levin , University of Maryland
+      - David Evans , University of Virginia
+      - David Kotz , Dartmouth College
+      - Deian Stefan , UC San Diego
+      - Engin Kirda , Northeastern University
+      - Fabian Monrose , University of North Carolina at Chapel Hill
+      - Farinaz Koushanfar , University of California San Diego
+      - Foteini Baldimtsi , George Mason University
+      - Frank Piessens , KU Leuven
+      - Franziska Roesner , University of Washington
+      - Gianluca Stringhini , University College London
+      - Guofei Gu , Texas A&M University
+      - Herbert Bos , Vrije Universiteit Amsterdam
+      - Joseph Bonneau , New York University
+      - Juan Caballero , IMDEA Software Institute
+      - Kasper Rasmussen , University of Oxford
+      - Kenny Paterson , Royal Holloway University of London
+      - Konrad Rieck , TU Braunschweig
+      - Konstantin (Kosta) Beznosov , University of British Columbia
+      - Kurt Thomas , Google
+      - Leyla Bilge , Symantec Research Labs
+      - Long Lu , Northeastern University
+      - Lorrie Cranor , Carnegie Mellon University
+      - Lujo Bauer , Carnegie Mellon University
+      - Manos Antonakakis , Georgia Institute of Technology
+      - Manuel Egele , Boston University
+      - Mariana Raykova , Yale University
+      - Marina Blanton , University at Buffalo
+      - Mathias Payer , EPFL and Purdue University
+      - Matt Fredrikson , Carnegie Mellon University
+      - Matthew Hicks , Virginia Tech
+      - Michael Bailey , University of Illinois at Urbana-Champaign
+      - Michael Franz , University of California at Irvine
+      - Michalis Polychronakis , Stony Brook University
+      - Michelle Mazurek , University of Maryland
+      - Mihai Christodorescu , Visa Research
+      - Mike Reiter , University of North Carolina at Chapel Hill
+      - Mike Rosulek , Oregon State University
+      - Nick Feamster , Princeton University
+      - Nick Nikiforakis , Stony Brook University
+      - Nickolai Zeldovich , MIT CSAIL
+      - Nicolas Christin , Carnegie Mellon University
+      - Niels Provos , Google Inc
+      - Nikhil Swamy , Microsoft Research
+      - Nitesh Saxena , University of Alabama at Birmingham
+      - Omar Chowdhury , University of Iowa
+      - Payman Mohassel , Visa Research
+      - Piotr Mardziel , Carnegie Mellon University
+      - Prateek Mittal , Princeton University
+      - Ralf Kuesters , University of Stuttgart
+      - Reza Shokri , National University of Singapore (NUS)
+      - Rob Reeder , Google
+      - Robert Watson , University of Cambridge
+      - Roberto Perdisci , University of Georgia and Georgia Institute of Technology
+      - Rosario Gennaro , The City College of New York
+      - Roya Ensafi , University of Michigan
+      - Ruby Lee , Princeton University
+      - Sarah Meiklejohn , University College London
+      - Sascha Fahl , Leibniz University Hannover
+      - Sergio Maffeis , Imperial College London
+      - Somesh Jha , University of Wisconsin at Madison
+      - Srdjan Capkun , ETH Zurich
+      - Stefan Katzenbeisser , TU Darmstadt
+      - Taesoo Kim , Georgia Tech
+      - Thorsten Holz , Ruhr-Universität Bochum
+      - Tom Ristenpart , Cornell Tech
+      - Tom Shrimpton , University of Florida
+      - Trent Jaeger , Penn State University
+      - Tudor Dumitras , University of Maryland at College Park
+      - Veronique Cortier , CNRS and Loria
+      - Virgil Gligor , Carnegie Mellon University
+      - Vladimir Kolesnikov , Georgia Tech
+      - Vyas Sekar , Carnegie Mellon University
+      - Wenke Lee , Georgia Institute of Technology
+      - Wenyuan Xu , Zhejiang University
+      - William Robertson , Northeastern University
+      - XiaoFeng Wang , Indiana University
+      - Zhiyun Qian , University of California at Riverside
 cycles:
   - first:
       submission: "January 1, 2018"

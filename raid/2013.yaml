@@ -26,33 +26,33 @@ topics:
   - Security and privacy of social networks
 pc:
   - "Program committee":
-    - Michael Bailey, University of Michigan, US
-    - Lucas Ballard, Google, US
-    - Malek Ben Salem, Accenture, US
-    - Herbert Bos, VU University Amsterdam, The Netherlands
-    - Juan Caballero, IMDEA Software Institute, Madrid, Spain
-    - Baris Coskun, AT&T Security Research Center, US
-    - Marco Cova, University of Birmingham, UK
-    - Gabriela Cretu-Ciocarlie, SRI International, US
-    - Deborah Frincke, DoD Research, US
-    - Debin Gao, Singapore Management University, Singapore
-    - Guofei Gu, Texas A&M, US
-    - Dina Hadžiosmanović , Univ of Twente, The Netherlands
-    - Thorsten Holz, Ruhr-University Bochum, Germany
-    - Sotiris Ioannidis, FORTH, Greece
-    - Engin Kirda, Northeastern University, US
-    - Christian Kreibich, ICSI, US
-    - Christopher Kruegel, UC Santa Barbara, US
-    - Andrea Lanzi, Institute Eurecom, France
-    - Wenke Lee, Georgia Tech, US
-    - Corrado Leita, Symantec Research Labs, France
-    - Damon McCoy , George Mason University, US
-    - Michalis Polychronakis, Columbia University, US
-    - Niels Provos, Google, US
-    - Simha Sethumadhavan , Columbia University, US
-    - Anil Somayaji, Carleton University, Canada
-    - Andreas Wespi, IBM Research, Switzerland
-    - Tamara Yu, MIT Lincoln Laboratory, US
+      - Michael Bailey, University of Michigan, US
+      - Lucas Ballard, Google, US
+      - Malek Ben Salem, Accenture, US
+      - Herbert Bos, VU University Amsterdam, The Netherlands
+      - Juan Caballero, IMDEA Software Institute, Madrid, Spain
+      - Baris Coskun, AT&T Security Research Center, US
+      - Marco Cova, University of Birmingham, UK
+      - Gabriela Cretu-Ciocarlie, SRI International, US
+      - Deborah Frincke, DoD Research, US
+      - Debin Gao, Singapore Management University, Singapore
+      - Guofei Gu, Texas A&M, US
+      - Dina Hadžiosmanović , Univ of Twente, The Netherlands
+      - Thorsten Holz, Ruhr-University Bochum, Germany
+      - Sotiris Ioannidis, FORTH, Greece
+      - Engin Kirda, Northeastern University, US
+      - Christian Kreibich, ICSI, US
+      - Christopher Kruegel, UC Santa Barbara, US
+      - Andrea Lanzi, Institute Eurecom, France
+      - Wenke Lee, Georgia Tech, US
+      - Corrado Leita, Symantec Research Labs, France
+      - Damon McCoy , George Mason University, US
+      - Michalis Polychronakis, Columbia University, US
+      - Niels Provos, Google, US
+      - Simha Sethumadhavan , Columbia University, US
+      - Anil Somayaji, Carleton University, Canada
+      - Andreas Wespi, IBM Research, Switzerland
+      - Tamara Yu, MIT Lincoln Laboratory, US
 cycles:
   - first:
       submission: "2013-04-08"

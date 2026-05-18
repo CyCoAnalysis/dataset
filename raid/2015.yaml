@@ -24,34 +24,34 @@ topics:
   - Intrusion detection and prevention
 pc:
   - "Program committee":
-    - Manos Antonakakis, Georgia Tech
-    - Elias Athanasopoulos, FORTH
-    - Herbert Bos, Vrije Universiteit / VU University Amsterdam
-    - Gabriela Ciocarlie, SRI International
-    - Lucas Davi, Intel CRI-SC at TU Darmstadt
-    - Tudor Dumitras, University of Maryland
-    - Petros Efstathopoulos, Symantec Research Labs
-    - William Enck, North Carolina State University
-    - Bryan Ford, EPFL
-    - Aurélien Francillon, Eurecom
-    - Flavio Garcia, University of Birmingham
-    - Chris Kanich, University of Illinois at Chicago
-    - Christopher Kruegel, UC Santa Barbara
-    - Andrea Lanzi, U. of Milan
-    - Corrado Leita, LastLine, Inc.
-    - Brian Levine, UMass Amherst
-    - Fabian Monrose, University of North Carolina at Chapel Hill.
-    - Zachary Peterson, Cal Poly, San Luis Obispo
-    - Georgios Portokalidis, Stevens Institute of Technology
-    - Niels Provos, Google
-    - Konrad Rieck, University of Göttingen
-    - William Robertson, Northeastern University
-    - Christian Rossow, Saarland University
-    - Andrei Sabelfeld, Chalmers
-    - Stelios Sidiroglou-Douskos, MIT
-    - Patrick Traynor, U. of Florida
-    - XiaoFeng Wang, Indiana University
-    - Dongyan Xu, Purdue University
+      - Manos Antonakakis, Georgia Tech
+      - Elias Athanasopoulos, FORTH
+      - Herbert Bos, Vrije Universiteit / VU University Amsterdam
+      - Gabriela Ciocarlie, SRI International
+      - Lucas Davi, Intel CRI-SC at TU Darmstadt
+      - Tudor Dumitras, University of Maryland
+      - Petros Efstathopoulos, Symantec Research Labs
+      - William Enck, North Carolina State University
+      - Bryan Ford, EPFL
+      - Aurélien Francillon, Eurecom
+      - Flavio Garcia, University of Birmingham
+      - Chris Kanich, University of Illinois at Chicago
+      - Christopher Kruegel, UC Santa Barbara
+      - Andrea Lanzi, U. of Milan
+      - Corrado Leita, LastLine, Inc.
+      - Brian Levine, UMass Amherst
+      - Fabian Monrose, University of North Carolina at Chapel Hill.
+      - Zachary Peterson, Cal Poly, San Luis Obispo
+      - Georgios Portokalidis, Stevens Institute of Technology
+      - Niels Provos, Google
+      - Konrad Rieck, University of Göttingen
+      - William Robertson, Northeastern University
+      - Christian Rossow, Saarland University
+      - Andrei Sabelfeld, Chalmers
+      - Stelios Sidiroglou-Douskos, MIT
+      - Patrick Traynor, U. of Florida
+      - XiaoFeng Wang, Indiana University
+      - Dongyan Xu, Purdue University
 cycles:
   - first:
       submission: "2015-06-05"

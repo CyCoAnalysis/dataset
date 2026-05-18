@@ -23,31 +23,31 @@ topics:
   - "Security of Web-based applications and services."
 pc:
   - "Program committee":
-    - Crispin Cowan, Mercenary Linux (Program co-chair)
-    - Giovanni Vigna, UC Santa Barbara (Program co-chair)
-    - Lujo Bauer, Carnegie Mellon University
-    - Konstantin Beznosov, UBC
-    - John Black, University of Colorado
-    - David Brumley, Carnegie Mellon University
-    - Jon Callas, PGP
-    - Hao Chen, UC Davis
-    - Charles Clarke, University of Waterloo
-    - Vinod Ganapathy, University of Wisconsin
-    - Jonathon Giffin, Georgia Tech
-    - Farnam Jahanian, University of Michigan
-    - Angelos Keromytis, Columbia University
-    - Engin Kirda, Vienna University of Technology
-    - Christopher Kruegel, Vienna University of Technology
-    - Ben Laurie, Google
-    - Wenke Lee, Georgia Tech
-    - Michael Locasto, Columbia University
-    - Fabian Monrose, Johns Hopkins University
-    - Niels Provos, Google
-    - Len Sassaman, Katholieke Universiteit Leuven
-    - R. Sekar, SUNY Stonybrook
-    - Sean Smith, Dartmouth College
-    - Zhendong Su, UC Davis
-    - Nick Weaver, ICSI
+      - Crispin Cowan, Mercenary Linux (Program co-chair)
+      - Giovanni Vigna, UC Santa Barbara (Program co-chair)
+      - Lujo Bauer, Carnegie Mellon University
+      - Konstantin Beznosov, UBC
+      - John Black, University of Colorado
+      - David Brumley, Carnegie Mellon University
+      - Jon Callas, PGP
+      - Hao Chen, UC Davis
+      - Charles Clarke, University of Waterloo
+      - Vinod Ganapathy, University of Wisconsin
+      - Jonathon Giffin, Georgia Tech
+      - Farnam Jahanian, University of Michigan
+      - Angelos Keromytis, Columbia University
+      - Engin Kirda, Vienna University of Technology
+      - Christopher Kruegel, Vienna University of Technology
+      - Ben Laurie, Google
+      - Wenke Lee, Georgia Tech
+      - Michael Locasto, Columbia University
+      - Fabian Monrose, Johns Hopkins University
+      - Niels Provos, Google
+      - Len Sassaman, Katholieke Universiteit Leuven
+      - R. Sekar, SUNY Stonybrook
+      - Sean Smith, Dartmouth College
+      - Zhendong Su, UC Davis
+      - Nick Weaver, ICSI
 cycles:
   - first:
       submission: "September 21, 2007"

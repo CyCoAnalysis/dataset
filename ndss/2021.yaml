@@ -24,93 +24,93 @@ topics:
   - "Trustworthy Computing software and hardware to secure networks and systems"
 pc:
   - "Program committee":
-    - Benjamin Andow, Google
-    - Cornelius Aschermann, Oracle
-    - Tiffany Bao, Arizona State University
-    - Adam Bates, University of Illinois
-    - Lejla Batina, Radboud University
-    - Lujo Bauer, Carnegie Mellon University
-    - Antonio Bianchi, Purdue University
-    - Jeremiah Blocki, Purdue University
-    - Kevin Butler, University of Florida
-    - Rosario Cammarota, Intel AI Research
-    - Srdjan Capkun, ETH Zurich
-    - Yingying Chen, Rutgers University
-    - Anupam Das, North Carolina State University
-    - Lucas Davi, University of Duisburg-Essen
-    - Alexandra Dmitrienko, University of Wuerzburg
-    - Brendan Dolan-Gavitt, NYU
-    - Adam Doupe, Arizona State University
-    - Manuel Egele, Boston University
-    - William Enck, North Carolina State University
-    - Sebastian Faust, TU Darmstadt
-    - Marc Fischlin, TU Darmstadt
-    - Aurélien Francillon, EURECOM
-    - Carrie Gates, Bank of America
-    - Xinyang Ge, Microsoft Research
-    - Neil Gong, Duke University
-    - Guofei Gu, Texas A&M
-    - Kevin Hamlen, University of Texas at Dallas
-    - Amir Houmansadr, UMass Amherst
-    - Hsu-Chun Hsiao, National Taiwan University
-    - Trent Jaeger, Penn State University
-    - Suman Jana, Columbia University
-    - Samuel Jero, MIT Lincoln Laboratory
-    - Limin Jia, CMU
-    - Yier Jin, University of Florida
-    - Brent ByungHoon Kang, KAIST
-    - Yongdae Kim, KAIST
-    - Sam King, UC Davis
-    - Engin Kirda, Northeastern University
-    - Katharina Kohls, Ruhr-University Bochum
-    - Per Larsen, UC Irvine and Immunant, Inc.
-    - Qi Li, Tsinghua University
-    - Zhou Li, UC Irvine
-    - Zhenkai Liang, National University of Singapore
-    - Xiaojing Liao, Indiana University Bloomington
-    - Christopher Liebchen, Google
-    - Kangjie Lu, University of Minnesota
-    - Long Lu, Northeastern University
-    - Lannan Luo, University of South Carolina
-    - Samuel Marchal, Aalto University
-    - Jon McCune, Google
-    - Nele Mentens, KU Leuven
-    - Markus Miettinen, TU Darmstadt
-    - Adwait Nadkarni, William & Mary University
-    - Muhammad Naveed, USC
-    - Hamed Okhravi, MIT Lincoln Laboratory
-    - Mathias Payer, EPFL
-    - Marcus Peinado, Microsoft Research
-    - Christina Poepper, New York University Abu Dhabi
-    - Zhiyun Qian, UC Riverside
-    - Syed Rafiul Hussain, Pennsylvania State University
-    - Jeyavijayan Rajendran, Texas A&M University
-    - Brad Reaves, North Carolina State University
-    - Konrad Rieck, TU Braunschweig
-    - Stefanie Roos, TU Delft
-    - Brendan Saltaformaggio, Georgia Institute of Technology
-    - Sooel Son, KAIST
-    - Fareena Saqib, UNC Charlotte
-    - Thomas Schneider, TU Darmstadt
-    - Maliheh Shirvanian, Visa Research
-    - Ben Stock, CISPA Helmholtz Center for Information Security
-    - Gang Tan, Penn State University
-    - Dave (Jing) Tian, Purdue University
-    - Yuan Tian, University of Virginia
-    - Patrick Traynor, University of Florida
-    - Selcuk Uluagac, Florida International University
-    - Bimal Viswanath, Virginia Tech University
-    - Dan Wallach, Rice
-    - Gang Wang, University of Illinois Urbana-Champaign
-    - Xiaofeng Wang, Indiana University
-    - Luyi Xing, Indiana University Bloomington
-    - Dongyan Xu, Purdue University
-    - Wenyuan Xu, Zhejiang University
-    - Minhui (Jason) Xue, The University of Adelaide
-    - Danfeng (Daphne) Yao, Virginia Tech, Dept of Computer Science
-    - Qiang Zeng, University of South Carolina
-    - Yinqian Zhang, Ohio State
-    - Saman Zonouz, Rutgers University
+      - Benjamin Andow, Google
+      - Cornelius Aschermann, Oracle
+      - Tiffany Bao, Arizona State University
+      - Adam Bates, University of Illinois
+      - Lejla Batina, Radboud University
+      - Lujo Bauer, Carnegie Mellon University
+      - Antonio Bianchi, Purdue University
+      - Jeremiah Blocki, Purdue University
+      - Kevin Butler, University of Florida
+      - Rosario Cammarota, Intel AI Research
+      - Srdjan Capkun, ETH Zurich
+      - Yingying Chen, Rutgers University
+      - Anupam Das, North Carolina State University
+      - Lucas Davi, University of Duisburg-Essen
+      - Alexandra Dmitrienko, University of Wuerzburg
+      - Brendan Dolan-Gavitt, NYU
+      - Adam Doupe, Arizona State University
+      - Manuel Egele, Boston University
+      - William Enck, North Carolina State University
+      - Sebastian Faust, TU Darmstadt
+      - Marc Fischlin, TU Darmstadt
+      - Aurélien Francillon, EURECOM
+      - Carrie Gates, Bank of America
+      - Xinyang Ge, Microsoft Research
+      - Neil Gong, Duke University
+      - Guofei Gu, Texas A&M
+      - Kevin Hamlen, University of Texas at Dallas
+      - Amir Houmansadr, UMass Amherst
+      - Hsu-Chun Hsiao, National Taiwan University
+      - Trent Jaeger, Penn State University
+      - Suman Jana, Columbia University
+      - Samuel Jero, MIT Lincoln Laboratory
+      - Limin Jia, CMU
+      - Yier Jin, University of Florida
+      - Brent ByungHoon Kang, KAIST
+      - Yongdae Kim, KAIST
+      - Sam King, UC Davis
+      - Engin Kirda, Northeastern University
+      - Katharina Kohls, Ruhr-University Bochum
+      - Per Larsen, UC Irvine and Immunant, Inc.
+      - Qi Li, Tsinghua University
+      - Zhou Li, UC Irvine
+      - Zhenkai Liang, National University of Singapore
+      - Xiaojing Liao, Indiana University Bloomington
+      - Christopher Liebchen, Google
+      - Kangjie Lu, University of Minnesota
+      - Long Lu, Northeastern University
+      - Lannan Luo, University of South Carolina
+      - Samuel Marchal, Aalto University
+      - Jon McCune, Google
+      - Nele Mentens, KU Leuven
+      - Markus Miettinen, TU Darmstadt
+      - Adwait Nadkarni, William & Mary University
+      - Muhammad Naveed, USC
+      - Hamed Okhravi, MIT Lincoln Laboratory
+      - Mathias Payer, EPFL
+      - Marcus Peinado, Microsoft Research
+      - Christina Poepper, New York University Abu Dhabi
+      - Zhiyun Qian, UC Riverside
+      - Syed Rafiul Hussain, Pennsylvania State University
+      - Jeyavijayan Rajendran, Texas A&M University
+      - Brad Reaves, North Carolina State University
+      - Konrad Rieck, TU Braunschweig
+      - Stefanie Roos, TU Delft
+      - Brendan Saltaformaggio, Georgia Institute of Technology
+      - Sooel Son, KAIST
+      - Fareena Saqib, UNC Charlotte
+      - Thomas Schneider, TU Darmstadt
+      - Maliheh Shirvanian, Visa Research
+      - Ben Stock, CISPA Helmholtz Center for Information Security
+      - Gang Tan, Penn State University
+      - Dave (Jing) Tian, Purdue University
+      - Yuan Tian, University of Virginia
+      - Patrick Traynor, University of Florida
+      - Selcuk Uluagac, Florida International University
+      - Bimal Viswanath, Virginia Tech University
+      - Dan Wallach, Rice
+      - Gang Wang, University of Illinois Urbana-Champaign
+      - Xiaofeng Wang, Indiana University
+      - Luyi Xing, Indiana University Bloomington
+      - Dongyan Xu, Purdue University
+      - Wenyuan Xu, Zhejiang University
+      - Minhui (Jason) Xue, The University of Adelaide
+      - Danfeng (Daphne) Yao, Virginia Tech, Dept of Computer Science
+      - Qiang Zeng, University of South Carolina
+      - Yinqian Zhang, Ohio State
+      - Saman Zonouz, Rutgers University
 cycles:
   - first:
       submission: "May 22, 2020"

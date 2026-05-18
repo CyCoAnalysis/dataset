@@ -38,59 +38,59 @@ topics:
   - Web security and privacy
 pc:
   - "Program committee":
-    - AbdelRahman Abdou , Carleton University, Canada
-    - Aleatha Parker-Wood , Amazon, United States of America
-    - Alexandra Dmitrienko , University of Würzburg, Germany
-    - Andrei Sabelfeld , Chalmers, Sweden
-    - Andrew Paverd , Microsoft, United Kingdom
-    - Battista Biggio , University Caliary, Italy
-    - Brendan Saltaformaggio , Georgia Tech, United States of America
-    - Carmela Troncoso , EPFL, Switzerland
-    - Catherine Meadows , Naval Research Lab, United States of America
-    - Christoph Dobraunig , Graz University of Technology, Austria
-    - Corina Pasareanu , NASA / CMU SV, United States of America
-    - Cristina Onete , University of Limoges, France
-    - David Evans , University of Virignia, United States of America
-    - Elizabeth Stobert , Carleton University, Canada
-    - Eyal Ronen , Tel Aviv University, Israel
-    - Florian Tramer , Standford, United States of America
-    - Gang Tan , Pennsylvania State University, United States of America
-    - Giovanni Cherubin , Alan Turing Institute, United Kingdom
-    - Guillermo Suarez-Tangil , IMDEA Networks, Spain
-    - Ingrid Verbauwhede , KU Leuven, Belgium
-    - Ioana Boureanu , Surrey, United Kingdom
-    - Jelena Mirkovic , USC/Information Sciences Institute, United States of America
-    - Julia Hesse , IBM Research - Zurich, Switzerland
-    - Kami Vaniea , University of Edinburgh, United Kingdom
-    - Kari Kostianen , ETH Zurich, Switzerland
-    - Katharina Kohls , Radboud University, Netherlands
-    - Laurent Simon , Cambridge University / Samsung, United Kingdom
-    - Lefteris Kokoris-Kogias , IST Austria and Facebook Novi, Austria
-    - Limin Jia , CMU, United States of America
-    - Lujo Bauer , Carnegie Mellon University, United States of America
-    - Marco Guarnieri , IMDEA Software Institute, Spain
-    - Marit Hansen , Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein, Germany
-    - Matthew Smith , University of Bonn, Fraunhofer FKIE, Germany
-    - Michael Specter , MIT, United States of America
-    - Musard Balliu , KTH Royal Institute of Technology, Sweden
-    - Nick Nikiforakis , Stony Brook University, United States of America
-    - Pauline Anthonysamy , Google, Switzerland
-    - Phillipp Schoppmann , Humbodt-Universität zu Berlin, Germany
-    - Ruba Abu-Salma , ICSI / UK Berkley, United States of America
-    - Sanjeev Das , IBM Research, United States of America
-    - Sébastien Gambs , Université du Quebec à Montreal (UQAM), Canada
-    - Stefano Calzavara , Università Ca' Foscari Venezia, Italy
-    - Steve Kremer , INRIA Nancy - Grand Est, France
-    - Tal Rabin , University of Pennsylvania and Algorand Foundation, United States of America
-    - Thyla van der Merwe , Mozilla, United Kingdom
-    - Tom Chotia , University of Birmingham, United Kingdom
-    - Ulrike Meyer , RWTH Aachen University, Germany
-    - Vanessa Teague , Thinking Cybersecurity Pty Ltd and the Australian National University, Australia
-    - Veelasha Moonsamy , Ruhr University Bochum, Germany
-    - Vera Rimmer , imec-DistriNet, KU Leuven, Belgium
-    - Yang Zhang , CISPA Helmholtz Center for Information Security, Germany
-    - Yuan Tian , University of Virginia, United States of America
-    - Yuang Zhang , Fudan University, China
+      - AbdelRahman Abdou , Carleton University, Canada
+      - Aleatha Parker-Wood , Amazon, United States of America
+      - Alexandra Dmitrienko , University of Würzburg, Germany
+      - Andrei Sabelfeld , Chalmers, Sweden
+      - Andrew Paverd , Microsoft, United Kingdom
+      - Battista Biggio , University Caliary, Italy
+      - Brendan Saltaformaggio , Georgia Tech, United States of America
+      - Carmela Troncoso , EPFL, Switzerland
+      - Catherine Meadows , Naval Research Lab, United States of America
+      - Christoph Dobraunig , Graz University of Technology, Austria
+      - Corina Pasareanu , NASA / CMU SV, United States of America
+      - Cristina Onete , University of Limoges, France
+      - David Evans , University of Virignia, United States of America
+      - Elizabeth Stobert , Carleton University, Canada
+      - Eyal Ronen , Tel Aviv University, Israel
+      - Florian Tramer , Standford, United States of America
+      - Gang Tan , Pennsylvania State University, United States of America
+      - Giovanni Cherubin , Alan Turing Institute, United Kingdom
+      - Guillermo Suarez-Tangil , IMDEA Networks, Spain
+      - Ingrid Verbauwhede , KU Leuven, Belgium
+      - Ioana Boureanu , Surrey, United Kingdom
+      - Jelena Mirkovic , USC/Information Sciences Institute, United States of America
+      - Julia Hesse , IBM Research - Zurich, Switzerland
+      - Kami Vaniea , University of Edinburgh, United Kingdom
+      - Kari Kostianen , ETH Zurich, Switzerland
+      - Katharina Kohls , Radboud University, Netherlands
+      - Laurent Simon , Cambridge University / Samsung, United Kingdom
+      - Lefteris Kokoris-Kogias , IST Austria and Facebook Novi, Austria
+      - Limin Jia , CMU, United States of America
+      - Lujo Bauer , Carnegie Mellon University, United States of America
+      - Marco Guarnieri , IMDEA Software Institute, Spain
+      - Marit Hansen , Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein, Germany
+      - Matthew Smith , University of Bonn, Fraunhofer FKIE, Germany
+      - Michael Specter , MIT, United States of America
+      - Musard Balliu , KTH Royal Institute of Technology, Sweden
+      - Nick Nikiforakis , Stony Brook University, United States of America
+      - Pauline Anthonysamy , Google, Switzerland
+      - Phillipp Schoppmann , Humbodt-Universität zu Berlin, Germany
+      - Ruba Abu-Salma , ICSI / UK Berkley, United States of America
+      - Sanjeev Das , IBM Research, United States of America
+      - Sébastien Gambs , Université du Quebec à Montreal (UQAM), Canada
+      - Stefano Calzavara , Università Ca' Foscari Venezia, Italy
+      - Steve Kremer , INRIA Nancy - Grand Est, France
+      - Tal Rabin , University of Pennsylvania and Algorand Foundation, United States of America
+      - Thyla van der Merwe , Mozilla, United Kingdom
+      - Tom Chotia , University of Birmingham, United Kingdom
+      - Ulrike Meyer , RWTH Aachen University, Germany
+      - Vanessa Teague , Thinking Cybersecurity Pty Ltd and the Australian National University, Australia
+      - Veelasha Moonsamy , Ruhr University Bochum, Germany
+      - Vera Rimmer , imec-DistriNet, KU Leuven, Belgium
+      - Yang Zhang , CISPA Helmholtz Center for Information Security, Germany
+      - Yuan Tian , University of Virginia, United States of America
+      - Yuang Zhang , Fudan University, China
 cycles:
   - first:
       submission: "2020-11-05"

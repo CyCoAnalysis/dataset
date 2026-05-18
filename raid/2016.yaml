@@ -25,31 +25,31 @@ topics:
   - Cyber intelligence techniques and threats intel sharing
 pc:
   - "Program committee":
-    - Magnus Almgren,  Chalmers University, Sweden
-    - Johanna Amann,  International Computer Science Institute, US
-    - Manos Antonakakis, Georgia Institute of Technology, US
-    - Michael Bailey, University of Illinois at Urbana-Champaign, US
-    - Lucas Ballard, Google, US
-    - Leyla Bilge, Symantec, US
-    - Lucas Davi, Technische Universität Darmstadt, Germany
-    - Hervé Debar, Telecom SudParis, France
-    - Petros Efstathopoulos, Symantec, US
-    - Manuel Egele, Boston University, US
-    - William Enck, North Carolina State University, US
-    - Vasileios Kemerlis, Brown University, US
-    - Andrea Lanzi, University of Milan, Italy
-    - Pavel Laskov, Huawei European Research Center, Germany
-    - Zhiqiang Lin, University of Texas at Dallas, US
-    - Daniela Oliveira, University of Florida, US
-    - Roberto Perdisci, University of Georgia, US
-    - Michalis Polychronakis, Stony Brook University, US
-    - Konrad Rieck, TU Braunschweig, Germany
-    - Christian Rossow, Saarland University, Germany
-    - Stelios Sidiroglou-Douskos, Massachusetts Institute of Technology, US
-    - Kapil Singh, IBM T.J. Watson, US
-    - Kevin Snow, Zeropoint, US
-    - Cynthia Sturton, University of North Carolina at Chapel Hill, US
-    - Dongyan Xu, Purdue University, US
+      - Magnus Almgren,  Chalmers University, Sweden
+      - Johanna Amann,  International Computer Science Institute, US
+      - Manos Antonakakis, Georgia Institute of Technology, US
+      - Michael Bailey, University of Illinois at Urbana-Champaign, US
+      - Lucas Ballard, Google, US
+      - Leyla Bilge, Symantec, US
+      - Lucas Davi, Technische Universität Darmstadt, Germany
+      - Hervé Debar, Telecom SudParis, France
+      - Petros Efstathopoulos, Symantec, US
+      - Manuel Egele, Boston University, US
+      - William Enck, North Carolina State University, US
+      - Vasileios Kemerlis, Brown University, US
+      - Andrea Lanzi, University of Milan, Italy
+      - Pavel Laskov, Huawei European Research Center, Germany
+      - Zhiqiang Lin, University of Texas at Dallas, US
+      - Daniela Oliveira, University of Florida, US
+      - Roberto Perdisci, University of Georgia, US
+      - Michalis Polychronakis, Stony Brook University, US
+      - Konrad Rieck, TU Braunschweig, Germany
+      - Christian Rossow, Saarland University, Germany
+      - Stelios Sidiroglou-Douskos, Massachusetts Institute of Technology, US
+      - Kapil Singh, IBM T.J. Watson, US
+      - Kevin Snow, Zeropoint, US
+      - Cynthia Sturton, University of North Carolina at Chapel Hill, US
+      - Dongyan Xu, Purdue University, US
 cycles:
   - first:
       submission: "2016-04-08"

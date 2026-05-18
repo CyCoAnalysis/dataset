@@ -40,7 +40,7 @@ topics:
   - VoIP Security
   - Wireless Security
 pc:
-  - "Program committee": [] # not listed
+  - "Program committee": []  # not listed
 cycles:
   - first:
       submission: "2007-06-10"

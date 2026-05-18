@@ -2,6 +2,7 @@
 
 set -e
 
+# schema validation
 for dir in */; do
     echo "Validating conference: $dir"
     cd "$dir"

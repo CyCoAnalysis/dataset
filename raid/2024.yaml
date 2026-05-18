@@ -20,78 +20,78 @@ topics:
   - Digital forensics
 pc:
   - "Program committee":
-    - Adam Doupé , Arizona State University
-    - Adrian Coleșa , Technical University of Cluj-Napoca
-    - Adrian Dabrowski , CISPA Helmholtz Center for Information Security
-    - Alessandro Mantovani , Qualcomm Inc.
-    - Alessandro Sorniotti , IBM Research - Europe
-    - Andrea Mambretti , IBM Research Europe - Zurich
-    - Andrea Oliveri , EURECOM
-    - Antonio Bianchi , Purdue University
-    - Aolin Ding , Accenture Labs
-    - Aravind Machiry , Purdue University
-    - Babak Amin Azad , Cloudflare
-    - BumJun Kwon , Samsung Research
-    - Carrie Gates , Bank of America
-    - Carter Yagemann , Ohio State University
-    - Christian Mainka , Ruhr University Bochum
-    - Clémentine Maurice , CNRS
-    - Daniel Andriesse , Intel
-    - Daniele Antonioli , EURECOM
-    - Daoyuan Wu , Hong Kong University of Science and Technology
-    - Dario Nisi , EURECOM
-    - Ding Wang , Nankai University
-    - Doowon Kim , University of Tennessee, Knoxville
-    - Emanuele Cozzi , Microsoft
-    - Fabian Schwarz , CISPA Helmholtz Center for Information Security
-    - Fei Zuo , University of Central Oklahoma
-    - Guanhong Tao , Purdue University
-    - Gururaj Saileshwar , University of Toronto
-    - Gwangmu Lee , CSCS
-    - Haining Wang , Virginia Tech
-    - Hamed Okhravi , MIT Lincoln Laboratory
-    - Hyungsub Kim , Purdue University
-    - Ilya Grishchenko , University of California, Santa Barbara
-    - Imtiaz Karim , Purdue University
-    - Iskander Sanchez-Rola , Norton
-    - Jianliang Wu , Simon Fraser University
-    - Jiyong Jang , IBM Research
-    - Kangjie Lu , University of Minnesota
-    - Kehuan Zhang , The Chinese University of Hong Kong
-    - Kimberly Ruth , Stanford University
-    - Marco Cova , VMware
-    - Marcus Botacin , Texas A&M University
-    - Mariano Graziano , N/A
-    - Marius Muench , University of Birmingham
-    - Martin Henze , RWTH Aachen University & Fraunhofer FKIE
-    - Nathan Burow , MIT Lincoln Laboratory
-    - Nilo Redini , Qualcomm, Inc
-    - Nils Lukas , University of Waterloo
-    - Omar Alrawi , Georgia Tech
-    - Parjanya Vyas , University of Waterloo
-    - Pietro Frigo , Qualcomm
-    - Qingchuan Zhao , City University of Hong Kong
-    - Sanghyun Hong , Oregon State University
-    - Shagufta Mehnaz , Penn State
-    - Sherman S. M. Chow , The Chinese University of Hong Kong
-    - Shuang Hao , University of Texas at Dallas
-    - Simone Aonzo , EURECOM
-    - Srdjan Matic , IMDEA Software Institute
-    - Syed Rafiul Hussain , Pennsylvania State University
-    - Sze Yiu Chau , The Chinese University of Hong Kong
-    - Thijs van Ede , University of Twente
-    - Thorsten Eisenhofer , TU Berlin
-    - Urs Hengartner , University of Waterloo
-    - Vladislav Mladenov , Ruhr University Bochum
-    - Wei You , Renmin University of China
-    - Xinda Wang , University of Texas at Dallas
-    - Yigitcan Kaya , UC Santa Barbara
-    - Yihui Zeng , Arizona State University
-    - Youqian Zhang , The Hong Kong Polytechnic University
-    - Yuan Hong , University of Connecticut
-    - Yue Duan , Singapore Management University
-    - Yuzhe Tang , Syracuse University
-    - Zhuo Zhang , Purdue University
+      - Adam Doupé , Arizona State University
+      - Adrian Coleșa , Technical University of Cluj-Napoca
+      - Adrian Dabrowski , CISPA Helmholtz Center for Information Security
+      - Alessandro Mantovani , Qualcomm Inc.
+      - Alessandro Sorniotti , IBM Research - Europe
+      - Andrea Mambretti , IBM Research Europe - Zurich
+      - Andrea Oliveri , EURECOM
+      - Antonio Bianchi , Purdue University
+      - Aolin Ding , Accenture Labs
+      - Aravind Machiry , Purdue University
+      - Babak Amin Azad , Cloudflare
+      - BumJun Kwon , Samsung Research
+      - Carrie Gates , Bank of America
+      - Carter Yagemann , Ohio State University
+      - Christian Mainka , Ruhr University Bochum
+      - Clémentine Maurice , CNRS
+      - Daniel Andriesse , Intel
+      - Daniele Antonioli , EURECOM
+      - Daoyuan Wu , Hong Kong University of Science and Technology
+      - Dario Nisi , EURECOM
+      - Ding Wang , Nankai University
+      - Doowon Kim , University of Tennessee, Knoxville
+      - Emanuele Cozzi , Microsoft
+      - Fabian Schwarz , CISPA Helmholtz Center for Information Security
+      - Fei Zuo , University of Central Oklahoma
+      - Guanhong Tao , Purdue University
+      - Gururaj Saileshwar , University of Toronto
+      - Gwangmu Lee , CSCS
+      - Haining Wang , Virginia Tech
+      - Hamed Okhravi , MIT Lincoln Laboratory
+      - Hyungsub Kim , Purdue University
+      - Ilya Grishchenko , University of California, Santa Barbara
+      - Imtiaz Karim , Purdue University
+      - Iskander Sanchez-Rola , Norton
+      - Jianliang Wu , Simon Fraser University
+      - Jiyong Jang , IBM Research
+      - Kangjie Lu , University of Minnesota
+      - Kehuan Zhang , The Chinese University of Hong Kong
+      - Kimberly Ruth , Stanford University
+      - Marco Cova , VMware
+      - Marcus Botacin , Texas A&M University
+      - Mariano Graziano , N/A
+      - Marius Muench , University of Birmingham
+      - Martin Henze , RWTH Aachen University & Fraunhofer FKIE
+      - Nathan Burow , MIT Lincoln Laboratory
+      - Nilo Redini , Qualcomm, Inc
+      - Nils Lukas , University of Waterloo
+      - Omar Alrawi , Georgia Tech
+      - Parjanya Vyas , University of Waterloo
+      - Pietro Frigo , Qualcomm
+      - Qingchuan Zhao , City University of Hong Kong
+      - Sanghyun Hong , Oregon State University
+      - Shagufta Mehnaz , Penn State
+      - Sherman S. M. Chow , The Chinese University of Hong Kong
+      - Shuang Hao , University of Texas at Dallas
+      - Simone Aonzo , EURECOM
+      - Srdjan Matic , IMDEA Software Institute
+      - Syed Rafiul Hussain , Pennsylvania State University
+      - Sze Yiu Chau , The Chinese University of Hong Kong
+      - Thijs van Ede , University of Twente
+      - Thorsten Eisenhofer , TU Berlin
+      - Urs Hengartner , University of Waterloo
+      - Vladislav Mladenov , Ruhr University Bochum
+      - Wei You , Renmin University of China
+      - Xinda Wang , University of Texas at Dallas
+      - Yigitcan Kaya , UC Santa Barbara
+      - Yihui Zeng , Arizona State University
+      - Youqian Zhang , The Hong Kong Polytechnic University
+      - Yuan Hong , University of Connecticut
+      - Yue Duan , Singapore Management University
+      - Yuzhe Tang , Syracuse University
+      - Zhuo Zhang , Purdue University
 cycles:
   - first:
       submission: "2024-04-15"

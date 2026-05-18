@@ -24,35 +24,35 @@ topics:
   - Botnet analysis, detection, and mitigation
 pc:
   - "Program committee":
-    - Anil Somayaji, Carleton University, Canada
-    - Benjamin Morin, Central Directorate for Information System Security (DCSSI), France
-    - Christopher Kruegel, University of California, Santa Barbara, USA
-    - Collin Jackson, Stanford University, USA
-    - Corrado Leita, Symantec Research Europe, France
-    - David Brumley, Carnegie Mellon University, USA
-    - Davide Balzarotti, Eurecom, France
-    - Dongyan Xu, Purdue University, USA
-    - Engin Kirda, Eurecom, France
-    - Giovanni Vigna, University of California, Santa Barbara, USA
-    - Guevara Noubir, North Eastern University, USA
-    - Guofei Gu, Texas A & M University, USA
-    - Jaeyeon Jung, Intel Research, USA
-    - John Viega, Stonewall Software, USA
-    - Jonathan Giffin, Georgia Institute of Technology, USA
-    - Jouni Viinikka, Orange Labs, France
-    - Kathy Wang, MITRE
-    - Manuel Costa, Microsoft Research, Cambridge, UK
-    - Michael Bailey, University of Michigan, USA
-    - Mihai Christodorescu, IBM T.J. Watson, USA
-    - Olivier Festor, INRIA, France
-    - R. Sekar, Stoney Brook University, USA
-    - Radu State, University of Luxembourg, Luxembourg
-    - Robert Cunningham, MIT Lincoln Labs
-    - Robin Sommer, International Computer Science Institute, USA
-    - Somesh Jha, University of Wisconsin, USA
-    - Sotiris Ioannidis, FORTH, Greece
-    - Thorsten Holz, University of Mannheim, Germany
-    - Xuxian Jiang, North Carolina State University, USA
+      - Anil Somayaji, Carleton University, Canada
+      - Benjamin Morin, Central Directorate for Information System Security (DCSSI), France
+      - Christopher Kruegel, University of California, Santa Barbara, USA
+      - Collin Jackson, Stanford University, USA
+      - Corrado Leita, Symantec Research Europe, France
+      - David Brumley, Carnegie Mellon University, USA
+      - Davide Balzarotti, Eurecom, France
+      - Dongyan Xu, Purdue University, USA
+      - Engin Kirda, Eurecom, France
+      - Giovanni Vigna, University of California, Santa Barbara, USA
+      - Guevara Noubir, North Eastern University, USA
+      - Guofei Gu, Texas A & M University, USA
+      - Jaeyeon Jung, Intel Research, USA
+      - John Viega, Stonewall Software, USA
+      - Jonathan Giffin, Georgia Institute of Technology, USA
+      - Jouni Viinikka, Orange Labs, France
+      - Kathy Wang, MITRE
+      - Manuel Costa, Microsoft Research, Cambridge, UK
+      - Michael Bailey, University of Michigan, USA
+      - Mihai Christodorescu, IBM T.J. Watson, USA
+      - Olivier Festor, INRIA, France
+      - R. Sekar, Stoney Brook University, USA
+      - Radu State, University of Luxembourg, Luxembourg
+      - Robert Cunningham, MIT Lincoln Labs
+      - Robin Sommer, International Computer Science Institute, USA
+      - Somesh Jha, University of Wisconsin, USA
+      - Sotiris Ioannidis, FORTH, Greece
+      - Thorsten Holz, University of Mannheim, Germany
+      - Xuxian Jiang, North Carolina State University, USA
 cycles:
   - first:
       submission: "2009-04-12"

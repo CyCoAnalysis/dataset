@@ -23,22 +23,22 @@ topics:
   - Trust and trust management
 pc:
   - "Program committee":
-    - Martin Abadi
-    - Michael Backes
-    - Bruno Blanchet
-    - Veronique Cortier
-    - Anupam Datta
-    - Philippa Gardner
-    - Andrew D. Gordon
-    - Joshua Guttman
-    - Gavin Lowe
-    - Jon Millen
-    - John Mitchell
-    - Andrew Myers
-    - Andrei Sabelfeld
-    - Pierangela Samarati
-    - Vitaly Shmatikov
-    - Scott D. Stoller
+      - Martin Abadi
+      - Michael Backes
+      - Bruno Blanchet
+      - Veronique Cortier
+      - Anupam Datta
+      - Philippa Gardner
+      - Andrew D. Gordon
+      - Joshua Guttman
+      - Gavin Lowe
+      - Jon Millen
+      - John Mitchell
+      - Andrew Myers
+      - Andrei Sabelfeld
+      - Pierangela Samarati
+      - Vitaly Shmatikov
+      - Scott D. Stoller
 cycles:
   - first:
       submission: "2009-02-06"

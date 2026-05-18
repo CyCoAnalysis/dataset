@@ -20,37 +20,37 @@ topics:
   - Digital forensics
 pc:
   - "Program committee":
-    - Sadia Afroz , University of California at Berkeley
-    - Magnus Almgren , Chalmers University of Technology
-    - Johanna Amann , International Computer Science Institute
-    - Leyla Bilge , Symantec
-    - Srdjan Capkun , ETH Zurich
-    - Lorenzo Cavallaro , Royal Holloway, University of London
-    - Lucas Davi , University Duisburg-Essen
-    - Tudor Dumitras , University of Maryland
-    - Zakir Durumeric , Stanford University and Zcorp
-    - Manuel Egele , Boston University
-    - Roya Ensafi , University of Michigan
-    - Giulia Fanti , Carniegie Mellon University
-    - Carrie Gates , Securelytix
-    - Jon Giffin , Google LLC
-    - Guofei Gu , Texas A&M University
-    - Amin Kharraz , University of Illinois at Urbana-Champaign
-    - Tim Leek , MIT Lincoln Laboratory
-    - Corrado Leita , Lastline
-    - Bo Li , University of Illinois at Urbana-Champaign
-    - Fabian Monrose , University of North Carolina at Chapel Hill
-    - Benjamin Morin , French Network and Information Security Agency (ANSSI)
-    - Alina Oprea , Northeastern University
-    - Jason Polakis , University of Illinois at Chicago
-    - Christina Pöpper , New York University
-    - William Robertson , Northeastern University
-    - Brendan Saltaformaggio , Georgia Institute of Technology
-    - Angelos Stavrou , George Mason University
-    - Kurt Thomas , Google LLC
-    - Eric Wustrow , University of Colorado Boulder
-    - Dongyun Xu , Purdue University
-    - Vaibhav Rastogi , University of Wisconsin-Madison
+      - Sadia Afroz , University of California at Berkeley
+      - Magnus Almgren , Chalmers University of Technology
+      - Johanna Amann , International Computer Science Institute
+      - Leyla Bilge , Symantec
+      - Srdjan Capkun , ETH Zurich
+      - Lorenzo Cavallaro , Royal Holloway, University of London
+      - Lucas Davi , University Duisburg-Essen
+      - Tudor Dumitras , University of Maryland
+      - Zakir Durumeric , Stanford University and Zcorp
+      - Manuel Egele , Boston University
+      - Roya Ensafi , University of Michigan
+      - Giulia Fanti , Carniegie Mellon University
+      - Carrie Gates , Securelytix
+      - Jon Giffin , Google LLC
+      - Guofei Gu , Texas A&M University
+      - Amin Kharraz , University of Illinois at Urbana-Champaign
+      - Tim Leek , MIT Lincoln Laboratory
+      - Corrado Leita , Lastline
+      - Bo Li , University of Illinois at Urbana-Champaign
+      - Fabian Monrose , University of North Carolina at Chapel Hill
+      - Benjamin Morin , French Network and Information Security Agency (ANSSI)
+      - Alina Oprea , Northeastern University
+      - Jason Polakis , University of Illinois at Chicago
+      - Christina Pöpper , New York University
+      - William Robertson , Northeastern University
+      - Brendan Saltaformaggio , Georgia Institute of Technology
+      - Angelos Stavrou , George Mason University
+      - Kurt Thomas , Google LLC
+      - Eric Wustrow , University of Colorado Boulder
+      - Dongyun Xu , Purdue University
+      - Vaibhav Rastogi , University of Wisconsin-Madison
 cycles:
   - first:
       submission: "2018-04-03"

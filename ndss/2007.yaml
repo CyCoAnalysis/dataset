@@ -20,28 +20,28 @@ topics:
   - "Security for large-scale systems and critical infrastructures."
 pc:
   - "Program committee":
-    - William Arbaugh, University of Maryland (Program co-chair)
-    - Crispin Cowan, Novell (Program co-chair)
-    - Angelos D. Keromytis, Columbia University
-    - Helen Wang, Microsoft Research
-    - Mike Reiter, CMU
-    - Wenke Lee, Georgia Tech
-    - John Ioannidis, Columbia University
-    - Fabian Monrose, Johns Hopkins University
-    - Lee Badger, DARPA
-    - Bill Cheswick, Lumeta
-    - Jonathan Shapiro, Johns Hopkins University
-    - Barton Miller, University of Wisconsin
-    - Trent Jaeger, Penn State University
-    - Jon Callas, PGP
-    - Rodney Thayer, Network World
-    - Charles Clarke, U. Waterloo
-    - Virgil Gligor, University of Maryland
-    - Jesse Walker, Intel
-    - Dan Boneh, Stanford
-    - Sean Smith, Dartmouth
-    - Radia Perlman, Sun
-    - Doug Szajda, Universtiy of Richmond
+      - William Arbaugh, University of Maryland (Program co-chair)
+      - Crispin Cowan, Novell (Program co-chair)
+      - Angelos D. Keromytis, Columbia University
+      - Helen Wang, Microsoft Research
+      - Mike Reiter, CMU
+      - Wenke Lee, Georgia Tech
+      - John Ioannidis, Columbia University
+      - Fabian Monrose, Johns Hopkins University
+      - Lee Badger, DARPA
+      - Bill Cheswick, Lumeta
+      - Jonathan Shapiro, Johns Hopkins University
+      - Barton Miller, University of Wisconsin
+      - Trent Jaeger, Penn State University
+      - Jon Callas, PGP
+      - Rodney Thayer, Network World
+      - Charles Clarke, U. Waterloo
+      - Virgil Gligor, University of Maryland
+      - Jesse Walker, Intel
+      - Dan Boneh, Stanford
+      - Sean Smith, Dartmouth
+      - Radia Perlman, Sun
+      - Doug Szajda, Universtiy of Richmond
 cycles:
   - first:
       submission: "September 10, 2006"

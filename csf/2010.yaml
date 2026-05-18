@@ -24,19 +24,19 @@ topics:
   - Trust and trust management
 pc:
   - "Program committee":
-    - Adam Barth, UC Berkeley, United States
-    - Bruno Blanchet
-    - Stephen Chong, Harvard University, United States
-    - George Danezis, Microsoft Research, United Kingdom
-    - Ulfar Erlingsson, Reykjavik University, Iceland
-    - Andy Gordon, Microsoft Research, United Kingdom
-    - Matteo Maffei, Saarland University, Germany
-    - Catherine Meadows, NRL, United States
-    - Jon Millen, MITRE, United States
-    - John Mitchell, Stanford University, United States
-    - Mark Ryan, Uni Birmingham, United Kingdom
-    - David Sands, Chalmers, Sweden
-    - Vitaly Shmatikov, The University of Texas at Austin, United States
+      - Adam Barth, UC Berkeley, United States
+      - Bruno Blanchet
+      - Stephen Chong, Harvard University, United States
+      - George Danezis, Microsoft Research, United Kingdom
+      - Ulfar Erlingsson, Reykjavik University, Iceland
+      - Andy Gordon, Microsoft Research, United Kingdom
+      - Matteo Maffei, Saarland University, Germany
+      - Catherine Meadows, NRL, United States
+      - Jon Millen, MITRE, United States
+      - John Mitchell, Stanford University, United States
+      - Mark Ryan, Uni Birmingham, United Kingdom
+      - David Sands, Chalmers, Sweden
+      - Vitaly Shmatikov, The University of Texas at Austin, United States
 cycles:
   - first:
       abstract: "2010-02-04"

@@ -25,22 +25,22 @@ topics:
   - Trust and trust management
 pc:
   - "Program committee":
-    - Martín Abadi, Microsoft Research & University of Santa Cruz, USA
-    - Michael Clarkson, The George Washington University, USA
-    - Anupam Datta, Carnegie Mellon University, USA
-    - Joan Feigenbaum, Yale University, USA
-    - Riccardo Focardi, University of Venice, Italy
-    - Cedric Fournet, Microsoft Research, UK
-    - Deepak Garg, MPI-SWS, Germany
-    - Steve Kremer, INRIA Nancy, France
-    - Ralf Küsters, University of Trier, Germany
-    - Matteo Maffei, University of Saarland, Germany
-    - Catuscia Palamidessi, INRIA Saclay, France
-    - Pierangela Samarati, University of Milano, Italy
-    - Vitaly Shmatikov, University of Texas, USA
-    - Nikhil Swamy, Microsoft Research, USA
-    - Alwen Tiu, Australian National University, Australia
-    - Dominique Unruh, University of Tartu, Estonia
+      - Martín Abadi, Microsoft Research & University of Santa Cruz, USA
+      - Michael Clarkson, The George Washington University, USA
+      - Anupam Datta, Carnegie Mellon University, USA
+      - Joan Feigenbaum, Yale University, USA
+      - Riccardo Focardi, University of Venice, Italy
+      - Cedric Fournet, Microsoft Research, UK
+      - Deepak Garg, MPI-SWS, Germany
+      - Steve Kremer, INRIA Nancy, France
+      - Ralf Küsters, University of Trier, Germany
+      - Matteo Maffei, University of Saarland, Germany
+      - Catuscia Palamidessi, INRIA Saclay, France
+      - Pierangela Samarati, University of Milano, Italy
+      - Vitaly Shmatikov, University of Texas, USA
+      - Nikhil Swamy, Microsoft Research, USA
+      - Alwen Tiu, Australian National University, Australia
+      - Dominique Unruh, University of Tartu, Estonia
 cycles:
   - first:
       abstract: "2012-02-09"

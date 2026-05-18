@@ -28,23 +28,23 @@ topics:
   - Trust and trust management
 pc:
   - "Program committee":
-    - Gilles Barthe, IMDEA Software Institute, Spain
-    - David Basin, ETH Zurich, Switzerland
-    - Giampaolo Bella, University of Catania, Italy
-    - James Cheney, University of Edinburgh, UK
-    - Stephanie Delaune, CNRS, France
-    - Riccardo Focardi, Ca'Foscari University of Venice, Italy
-    - Joshua Guttman, Worcester Polytechnic Institute, USA
-    - Limin Jia, Carnegie Mellon University, USA
-    - Ralf Küsters, University of Trier, Germany
-    - Boris Köpf, IMDEA Software Institute, Spain
-    - Matteo Maffei, Saarland University, Germany
-    - Catuscia Palamidessi, INRIA Saclay, France
-    - Rafael Pass, Cornell University, USA
-    - Frank Pfenning, Carnegie Mellon University, USA
-    - Peter Ryan, University of Luxembourg, Luxembourg
-    - Andre Scedrov, University of Pennsylvania, USA
-    - Graham Steel, INRIA, France
+      - Gilles Barthe, IMDEA Software Institute, Spain
+      - David Basin, ETH Zurich, Switzerland
+      - Giampaolo Bella, University of Catania, Italy
+      - James Cheney, University of Edinburgh, UK
+      - Stephanie Delaune, CNRS, France
+      - Riccardo Focardi, Ca'Foscari University of Venice, Italy
+      - Joshua Guttman, Worcester Polytechnic Institute, USA
+      - Limin Jia, Carnegie Mellon University, USA
+      - Ralf Küsters, University of Trier, Germany
+      - Boris Köpf, IMDEA Software Institute, Spain
+      - Matteo Maffei, Saarland University, Germany
+      - Catuscia Palamidessi, INRIA Saclay, France
+      - Rafael Pass, Cornell University, USA
+      - Frank Pfenning, Carnegie Mellon University, USA
+      - Peter Ryan, University of Luxembourg, Luxembourg
+      - Andre Scedrov, University of Pennsylvania, USA
+      - Graham Steel, INRIA, France
 cycles:
   - first:
       abstract: "2013-01-30"

@@ -23,33 +23,33 @@ topics:
   - Critical infrastructure protection (CIP)
 pc:
   - "Program committee":
-    - Magnus Almgren, Chalmers University, Sweden
-    - Michael Behringer, Cisco Systems, Inc., USA
-    - Sungdeok Cha, Korea Advanced Institute of Science and Technology, Korea
-    - Steve J. Chapin, Systems Assurance Institute, Syracuse University, USA
-    - Andrew Clark, Queensland University of Technology, Australia
-    - Crispin Cowan, Novell, USA
-    - Robert Cunningham, MIT Lincoln Laboratory, USA
-    - Olivier De Vel, Department of Defence, Australia
-    - Farnam Jahanian, University of Michigan and Arbor Networks, USA
-    - Somesh Jha, University of Wisconsin, Madison, USA
-    - Klaus-Peter Kossakowski, PRESECURE Consulting, Germany
-    - Christopher Kruegel, Technical University Vienna, Austria
-    - Kwok-Yan Lam, Tsinghua University, China
-    - Ulf Lindqvist, SRI International, USA
-    - Raffael Marty, ArcSight, Inc., USA
-    - George Mohay, Queensland University of Technology, Australia
-    - Benjamin Morin, Supélec, France
-    - Peng Ning, North Carolina State University, USA
-    - James Riordan, IBM Zurich Research Laboratory, Switzerland
-    - Rei Safavi-Naini, University of Wollongong, Australia
-    - Dawn Song, Carnegie Mellon University, USA
-    - Sal Stolfo, Department of Computer Science, Columbia University, USA
-    - Toshihiro Tabata, Okayama University, Japan
-    - Kymie Tan, Carnegie Mellon University, USA
-    - Vijay Varadharajan, Macquarie University, Australia
-    - Giovanni Vigna, University of California at Santa Barbara, USA
-    - Jianying Zhou, Institute for Infocomm Research, Singapore
+      - Magnus Almgren, Chalmers University, Sweden
+      - Michael Behringer, Cisco Systems, Inc., USA
+      - Sungdeok Cha, Korea Advanced Institute of Science and Technology, Korea
+      - Steve J. Chapin, Systems Assurance Institute, Syracuse University, USA
+      - Andrew Clark, Queensland University of Technology, Australia
+      - Crispin Cowan, Novell, USA
+      - Robert Cunningham, MIT Lincoln Laboratory, USA
+      - Olivier De Vel, Department of Defence, Australia
+      - Farnam Jahanian, University of Michigan and Arbor Networks, USA
+      - Somesh Jha, University of Wisconsin, Madison, USA
+      - Klaus-Peter Kossakowski, PRESECURE Consulting, Germany
+      - Christopher Kruegel, Technical University Vienna, Austria
+      - Kwok-Yan Lam, Tsinghua University, China
+      - Ulf Lindqvist, SRI International, USA
+      - Raffael Marty, ArcSight, Inc., USA
+      - George Mohay, Queensland University of Technology, Australia
+      - Benjamin Morin, Supélec, France
+      - Peng Ning, North Carolina State University, USA
+      - James Riordan, IBM Zurich Research Laboratory, Switzerland
+      - Rei Safavi-Naini, University of Wollongong, Australia
+      - Dawn Song, Carnegie Mellon University, USA
+      - Sal Stolfo, Department of Computer Science, Columbia University, USA
+      - Toshihiro Tabata, Okayama University, Japan
+      - Kymie Tan, Carnegie Mellon University, USA
+      - Vijay Varadharajan, Macquarie University, Australia
+      - Giovanni Vigna, University of California at Santa Barbara, USA
+      - Jianying Zhou, Institute for Infocomm Research, Singapore
 cycles:
   - first:
       submission: "2006-04-07"
