@@ -15,6 +15,28 @@
           "format": "uri"
         }
       },
+      "oneOf": [
+        {
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "archive": {
+              "type": "null"
+            }
+          }
+        },
+        {
+          "properties": {
+            "archive": {
+              "type": "string"
+            },
+            "url": {
+              "type": "null"
+            }
+          }
+        }
+      ],
       "additionalProperties": false
     },
 
