@@ -1,6 +1,9 @@
 website:
   url: https://www.usenix.org/legacy/events/sec10/cfp/
   archive: null
+proceedings:
+  url: https://www.usenix.org/legacy/event/sec10/tech/
+  open: true
 topics:
   - Adaptive security and system management
   - Analysis of network and security protocols

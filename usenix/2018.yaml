@@ -1,6 +1,9 @@
 website:
   url: https://www.usenix.org/conference/usenixsecurity18/call-for-papers
   archive: null
+proceedings:
+  url: https://www.usenix.org/conference/usenixsecurity18/technical-sessions
+  open: true
 topics:
   - "System security":
       - Operating systems security

@@ -1,6 +1,9 @@
 website:
   url: null
   archive: https://web.archive.org/web/20130508064609/https://www.usenix.org/conference/usenixsecurity12/call-for-papers
+proceedings:
+  url: https://www.usenix.org/conference/usenixsecurity12/technical-sessions
+  open: true
 topics:
   - Analysis of network and security protocols
   - Applications of cryptographic techniques
