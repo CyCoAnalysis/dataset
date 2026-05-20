@@ -15,7 +15,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y npm yamllint && npm install -g ajv-cli && npm install -g ajv-formats
 
       - name: Run YAML linter
-        run: yamllint -d style.yaml **/*
+        run: ./yaml_lint.sh
 
       - name: Validate schema
         run: ./validate_schema.sh
