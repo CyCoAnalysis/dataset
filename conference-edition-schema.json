@@ -118,6 +118,68 @@
       }
     },
 
+    "artifacts": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "at-submission": {
+          "$ref": "#/$defs/requirementLevel"
+        },
+        "evaluation": {
+          "type": "object",
+          "properties": {
+            "badges": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "acm-available",
+                  "acm-evaluated-functional",
+                  "acm-evaluated-reusable",
+                  "acm-reproduced",
+                  "usenix-available",
+                  "usenix-functional",
+                  "usenix-reproduced"
+                ]
+              },
+              "uniqueItems": true
+            },
+            "appendix": {
+              "$ref": "#/$defs/requirementLevel"
+            },
+            "packaging": {
+              "$ref": "#/$defs/requirementLevel"
+            },
+            "mandatory-available": {
+              "type": "boolean"
+            },
+            "hosting-limitations": {
+              "type": "boolean"
+            },
+            "research-infrastructure": {
+              "type": "boolean"
+            },
+            "secartifacts-instructions": {
+              "type": "boolean"
+            },
+            "awards": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "url",
+        "at-submission",
+        "evaluation"
+      ],
+      "additionalProperties": false
+    },
+
     "anonymous": { "type": "boolean" },
     "conflicts": { "type": "boolean" },
     "ethics-discussion": { "type": "boolean" },
@@ -126,5 +188,19 @@
     "genai": { "type": "boolean" }
   },
 
-  "additionalProperties": false
+  "additionalProperties": false,
+  "$defs": {
+    "requirementLevel": {
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": ["required", "optional"]
+        },
+        {
+          "type": "boolean",
+          "const": false
+        }
+      ]
+    }
+  }
 }
