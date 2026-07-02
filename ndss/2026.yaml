@@ -313,3 +313,14 @@ anonymous: true
 conflicts: true
 ethics-discussion: true
 genai: true
+artifacts:
+  at-submission: false
+  evaluation:
+    call: "https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/"
+    secartifacts-instructions: true
+    badges: [ndss-available, ndss-functional, ndss-reproduced]
+    appendix: required
+    packaging: required
+    hosting-limitations: true
+    awards: true
+    outcomes: "https://secartifacts.github.io/ndss2026/results"

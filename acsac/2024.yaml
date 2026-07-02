@@ -218,6 +218,13 @@ ethics-discussion: true
 # awards: true
 # hard topic: Security Applications of Generative AI
 # R+R papers
-# artifact evaluation, with indication at submission time
 # minor revision (with a shepherd)
 # DEI
+artifacts:
+  at-submission: optional
+  evaluation:
+    call: "https://www.acsac.org/2024/submissions/papers/artifacts/"
+    badges: ["ieee-available", "ieee-reviewed", "ieee-reproducible"]
+    awards: true
+    packaging: optional
+    outcomes: "https://secartifacts.github.io/acsac2024/results"

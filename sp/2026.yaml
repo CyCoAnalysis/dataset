@@ -380,3 +380,14 @@ ethics-discussion: true
 meta-review: true
 anonymous-cves: true
 genai: true
+artifacts:
+  at-submission: optional
+  evaluation:
+    call: "https://sp2026.ieee-security.org/cfartifacts.html"
+    badges: [sp-available, sp-functional, sp-reproduced]
+    appendix: false
+    packaging: required
+    research-infrastructure: true
+    hosting-limitations: true
+    awards: true
+    outcomes: "https://secartifacts.github.io/sp2026/results"

@@ -161,6 +161,13 @@ ethics-discussion: true
 # 10 pages acm, excluding refs and appendix (+5)
 # awards: true
 # hard topic: Deployable Trustworthy Systems
-# artifact evaluation, with indication at submission time
 # minor revision (with a shepherd)
 # DEI
+artifacts:
+  at-submission: optional
+  evaluation:
+    call: "https://www.acsac.org/2023/submissions/papers/artifacts/"
+    badges: ["acm-evaluated-functional", "acm-evaluated-reusable"]
+    awards: true
+    packaging: optional
+    outcomes: "https://secartifacts.github.io/acsac2023/results"

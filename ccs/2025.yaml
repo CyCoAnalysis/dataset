@@ -693,3 +693,18 @@ cycles:
 anonymous: true
 conflicts: true
 ethics-discussion: true
+artifacts:
+  at-submission: required
+  evaluation:
+    call: "https://www.sigsac.org/ccs/CCS2025/call-for-artifacts/"
+    badges:
+      [
+        acm-available,
+        acm-evaluated-functional,
+        acm-evaluated-reusable,
+        acm-reproduced,
+      ]
+    appendix: optional
+    packaging: required
+    hosting-limitations: true
+    outcomes: "https://dl.acm.org/doi/proceedings/10.1145/3719027"

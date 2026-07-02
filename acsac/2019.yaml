@@ -131,4 +131,11 @@ anonymous: true
 # 10 pages acm, excluding refs and appendix (+5)
 # awards: true
 # hard topic: Deployable and Impactful Security
-# artifact evaluation
+artifacts:
+  at-submission: false
+  evaluation:
+    call: "https://www.acsac.org/2019/submissions/papers/artifacts/"
+    badges: ["acm-evaluated-functional", "acm-evaluated-reusable"]
+    awards: true
+    packaging: optional
+    outcomes: "https://secartifacts.github.io/acsac2019/results"

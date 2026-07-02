@@ -110,4 +110,9 @@ anonymous: true
 # awards: true
 # hard topic: Big Data for Security
 # early rejection and appeals (no dates)
-# artifact evaluation
+artifacts:
+  at-submission: false
+  evaluation:
+    badges: []
+    awards: true
+    outcomes: "https://secartifacts.github.io/acsac2017/results"

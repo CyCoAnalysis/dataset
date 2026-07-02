@@ -622,3 +622,15 @@ anonymous: true
 conflicts: true
 ethics-discussion: true
 genai: true
+artifacts:
+  at-submission: required
+  evaluation:
+    call: "https://www.usenix.org/conference/usenixsecurity26/call-for-artifacts"
+    badges: [usenix-available, usenix-functional, usenix-reproduced]
+    packaging: optional
+    hosting-limitations: true
+    awards: true
+    appendix: required
+    secartifacts-instructions: true
+    mandatory-available: true
+    outcomes: "https://secartifacts.github.io/usenixsec2026/results"

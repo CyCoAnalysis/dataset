@@ -106,7 +106,9 @@ cycles:
 # challenges and vision papers
 # sok: true
 # awards: true
-# optional supplementary material on submission site
 ethics-discussion: true
 anonymous: true
 # prior-reviews: true # for rejected papers from CSF in the past 11 months (treated more like a revision), optional otherwise
+artifacts:
+  at-submission: optional
+  evaluation: false

@@ -197,3 +197,10 @@ cycles:
 anonymous: true
 conflicts: true
 ethics-discussion: true
+artifacts:
+  at-submission: false
+  evaluation:
+    call: "https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts"
+    badges: []
+    packaging: optional
+    outcomes: "https://secartifacts.github.io/usenixsec2020/results"

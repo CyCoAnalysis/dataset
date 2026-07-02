@@ -147,4 +147,11 @@ ethics-discussion: true
 # 10 pages acm, excluding refs and appendix (+5)
 # awards: true
 # hard topic: Deployable and Impactful Security (again again)
-# artifact evaluation
+artifacts:
+  at-submission: optional  # actually on advancing to R2
+  evaluation:
+    call: "https://www.acsac.org/2021/submissions/papers/artifacts/"
+    badges: ["acm-evaluated-functional", "acm-evaluated-reusable"]
+    awards: true
+    packaging: optional
+    outcomes: "https://secartifacts.github.io/acsac2021/results"
