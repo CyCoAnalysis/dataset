@@ -467,3 +467,9 @@ cycles:
 anonymous: true
 conflicts: true
 ethics-discussion: true
+artifacts:
+  at-submission: required
+  evaluation:
+    call: "https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html"
+    badges: [usenix-available, usenix-functional, usenix-reproduced]
+    appendix: required

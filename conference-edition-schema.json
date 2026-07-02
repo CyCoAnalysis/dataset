@@ -1,17 +1,31 @@
 {
   "type": "object",
-  "required": ["website", "topics", "pc", "cycles"],
+  "required": [
+    "website",
+    "topics",
+    "pc",
+    "cycles"
+  ],
   "properties": {
     "website": {
       "type": "object",
-      "required": ["url", "archive"],
+      "required": [
+        "url",
+        "archive"
+      ],
       "properties": {
         "url": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "format": "uri"
         },
         "archive": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "format": "uri"
         }
       },
@@ -39,10 +53,12 @@
       ],
       "additionalProperties": false
     },
-
     "proceedings": {
       "type": "object",
-      "required": ["url", "open"],
+      "required": [
+        "url",
+        "open"
+      ],
       "properties": {
         "url": {
           "type": "string",
@@ -54,7 +70,6 @@
       },
       "additionalProperties": false
     },
-
     "topics": {
       "type": "array",
       "items": {
@@ -76,7 +91,6 @@
         ]
       }
     },
-
     "pc": {
       "type": "array",
       "items": {
@@ -91,7 +105,6 @@
         }
       }
     },
-
     "cycles": {
       "type": "array",
       "items": {
@@ -101,30 +114,169 @@
         "additionalProperties": {
           "type": "object",
           "properties": {
-            "abstract": { "type": "string" },
-            "submission": { "type": "string" },
-            "early-reject": { "type": "string" },
-            "rebuttal-start": { "type": "string" },
-            "rebuttal-end": { "type": "string" },
-            "notification": { "type": "string" },
-            "shepherding-submission": { "type": "string" },
-            "shepherding-notification": { "type": "string" },
-            "revision-submission": { "type": "string" },
-            "revision-notification": { "type": "string" },
-            "camera-ready": { "type": "string" }
+            "abstract": {
+              "type": "string"
+            },
+            "submission": {
+              "type": "string"
+            },
+            "early-reject": {
+              "type": "string"
+            },
+            "rebuttal-start": {
+              "type": "string"
+            },
+            "rebuttal-end": {
+              "type": "string"
+            },
+            "notification": {
+              "type": "string"
+            },
+            "shepherding-submission": {
+              "type": "string"
+            },
+            "shepherding-notification": {
+              "type": "string"
+            },
+            "revision-submission": {
+              "type": "string"
+            },
+            "revision-notification": {
+              "type": "string"
+            },
+            "camera-ready": {
+              "type": "string"
+            }
           },
           "additionalProperties": false
         }
       }
     },
-
-    "anonymous": { "type": "boolean" },
-    "conflicts": { "type": "boolean" },
-    "ethics-discussion": { "type": "boolean" },
-    "meta-review": { "type": "boolean" },
-    "anonymous-cves": { "type": "boolean" },
-    "genai": { "type": "boolean" }
+    "anonymous": {
+      "type": "boolean"
+    },
+    "conflicts": {
+      "type": "boolean"
+    },
+    "ethics-discussion": {
+      "type": "boolean"
+    },
+    "meta-review": {
+      "type": "boolean"
+    },
+    "anonymous-cves": {
+      "type": "boolean"
+    },
+    "genai": {
+      "type": "boolean"
+    },
+    "artifacts": {
+      "type": "object",
+      "properties": {
+        "at-submission": {
+          "$ref": "#/$defs/requirementLevel",
+          "description": "Artifacts need to be submitted at paper submission time."
+        },
+        "evaluation": {
+          "oneOf": [
+            {
+              "type": "object",
+              "properties": {
+                "badges": {
+                  "type": "array",
+                  "description": "List of awarded badges.",
+                  "items": {
+                    "type": "string",
+                    "enum": [
+                      "acm-available",
+                      "acm-evaluated-functional",
+                      "acm-evaluated-reusable",
+                      "acm-reproduced",
+                      "usenix-available",
+                      "usenix-functional",
+                      "usenix-reproduced",
+                      "ndss-available",
+                      "ndss-functional",
+                      "ndss-reproduced",
+                      "sp-available",
+                      "sp-functional",
+                      "sp-reproduced",
+                      "ieee-available",
+                      "ieee-reviewed",
+                      "ieee-reproducible"
+                    ]
+                  },
+                  "uniqueItems": true
+                },
+                "call": {
+                  "type": "string",
+                  "description": "URL to the call for artifacts page.",
+                  "format": "uri"
+                },
+                "outcomes": {
+                  "type": "string",
+                  "description": "URL to the outcomes of the evaluation.",
+                  "format": "uri"
+                },
+                "appendix": {
+                  "$ref": "#/$defs/requirementLevel"
+                },
+                "packaging": {
+                  "$ref": "#/$defs/requirementLevel",
+                  "description": "Guidance or requirements on the packaging and structure of the artifact."
+                },
+                "mandatory-available": {
+                  "type": "boolean",
+                  "description": "Mandatory participation in availability verification."
+                },
+                "hosting-limitations": {
+                  "type": "boolean",
+                  "description": "Limitations on which hosting providers are acceptable for available artifacts."
+                },
+                "research-infrastructure": {
+                  "type": "boolean",
+                  "description": "Recommended or mandatory to use research infrastructure to run the artifacts."
+                },
+                "secartifacts-instructions": {
+                  "type": "boolean",
+                  "description": "Artifact evaluation instructions are hosted on secartifacts"
+                },
+                "awards": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false
+            },
+            {
+              "type": "boolean",
+              "const": false
+            }
+          ]
+        }
+      },
+      "required": [
+        "at-submission",
+        "evaluation"
+      ],
+      "additionalProperties": false
+    }
   },
-
-  "additionalProperties": false
+  "additionalProperties": false,
+  "$defs": {
+    "requirementLevel": {
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": [
+            "required",
+            "optional"
+          ]
+        },
+        {
+          "type": "boolean",
+          "const": false
+        }
+      ]
+    }
+  }
 }

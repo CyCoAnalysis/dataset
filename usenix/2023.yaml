@@ -370,3 +370,14 @@ cycles:
 anonymous: true
 conflicts: true
 ethics-discussion: true
+artifacts:
+  at-submission: false
+  evaluation:
+    call: "https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts"
+    badges: [usenix-available, usenix-functional, usenix-reproduced]
+    packaging: optional
+    hosting-limitations: true
+    awards: true
+    appendix: required
+    secartifacts-instructions: true
+    outcomes: "https://secartifacts.github.io/usenixsec2023/results"

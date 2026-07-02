@@ -335,3 +335,6 @@ cycles:
 anonymous: true
 conflicts: true
 ethics-discussion: true
+artifacts:
+  at-submission: required
+  evaluation: false

@@ -229,6 +229,14 @@ conflicts: true
 # awards: true
 # hard topic: Automated Detection and Patching of Software Vulnerabilities
 # R+R papers
-# artifact evaluation, with indication at submission time
 # minor revision (with a shepherd)
 # DEI
+artifacts:
+  at-submission: optional
+  evaluation:
+    call: "https://www.acsac.org/2025/submissions/papers/artifacts/"
+    badges: ["ieee-available", "ieee-reviewed", "ieee-reproducible"]
+    awards: true
+    packaging: required
+    research-infrastructure: true
+    outcomes: "https://secartifacts.github.io/acsac2025/results"
