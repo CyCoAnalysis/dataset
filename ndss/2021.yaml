@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20200922082353/https://www.ndss-symposium.org/ndss-2021/call-for-papers/
+  url: https://www.ndss-symposium.org/ndss2021/
+  archive: null  # https://web.archive.org/web/20200922082353/https://www.ndss-symposium.org/ndss-2021/call-for-papers/
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"

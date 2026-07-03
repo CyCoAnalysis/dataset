@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20180914144858/https://www.ndss-symposium.org/ndss2019/ndss-2019-call-for-papers/
+  url: https://www.ndss-symposium.org/ndss2019/
+  archive: null  # https://web.archive.org/web/20180914144858/https://www.ndss-symposium.org/ndss2019/ndss-2019-call-for-papers/
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Cyber-crime defense and forensics (e.g., anti-phishing, anti-blackmailing, anti-fraud techniques)"

@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20130821013409/http://www.internetsociety.org/events/ndss-symposium-2013/ndss-2013-call-papers
+  url: https://www.ndss-symposium.org/ndss2013/
+  archive: null  # https://web.archive.org/web/20130821013409/http://www.internetsociety.org/events/ndss-symposium-2013/ndss-2013-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"

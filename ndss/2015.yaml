@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20140828203253/http://www.internetsociety.org/events/ndss-symposium-2015/ndss-2015-call-papers
+  url: https://www.ndss-symposium.org/ndss2015/
+  archive: null  # https://web.archive.org/web/20140828203253/http://www.internetsociety.org/events/ndss-symposium-2015/ndss-2015-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"

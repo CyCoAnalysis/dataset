@@ -8,6 +8,7 @@
   ],
   "properties": {
     "website": {
+      "description": "URL to the website or the call for papers. If the page is accessible, this should go to the url field, otherwise an Internet Archive snapshot should go in the archive field. In both cases, the other field should be null.",
       "type": "object",
       "required": [
         "url",
@@ -55,6 +56,7 @@
     },
     "proceedings": {
       "type": "object",
+      "description": "Link to the published conference proceedings and whether they are open access.",
       "required": [
         "url",
         "open"
@@ -72,6 +74,7 @@
     },
     "topics": {
       "type": "array",
+      "description": "Topics of interest posted in the CFP.",
       "items": {
         "oneOf": [
           {
@@ -93,6 +96,7 @@
     },
     "pc": {
       "type": "array",
+      "description": "Members of the program committee.",
       "items": {
         "type": "object",
         "minProperties": 1,
@@ -107,6 +111,7 @@
     },
     "cycles": {
       "type": "array",
+      "description": "List of submission cycles and all the separate deadlines within a cycle.",
       "items": {
         "type": "object",
         "minProperties": 1,
@@ -153,22 +158,28 @@
       }
     },
     "anonymous": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether the CFP mentions that papers have to be submitted anonymously."
     },
     "conflicts": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether the CFP mentions declaration of conflicts of interest."
     },
     "ethics-discussion": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether the CFP discusses ethical considerations."
     },
     "meta-review": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether a meta-review is published alongside accepted papers."
     },
     "anonymous-cves": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether CVE identifiers have to be anonymized in the submission."
     },
     "genai": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether the CFP offers guidance or rules on LLM usage/declaration."
     },
     "artifacts": {
       "type": "object",

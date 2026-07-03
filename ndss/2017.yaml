@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20161124123301/http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-call-papers
+  url: https://www.ndss-symposium.org/ndss2017/
+  archive: null  # https://web.archive.org/web/20161124123301/http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"

@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20250108194542/https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
+  url: https://www.ndss-symposium.org/ndss2025/
+  archive: null  # https://web.archive.org/web/20250108194542/https://www.ndss-symposium.org/ndss2025/submissions/call-for-papers/
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Cyber attack (e.g., APTs, botnets, DDoS) prevention, detection, investigation, and response"

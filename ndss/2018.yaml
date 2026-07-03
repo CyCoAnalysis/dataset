@@ -1,6 +1,6 @@
 website:
-  url: null
-  archive: https://web.archive.org/web/20171121060430/http://www.ndss-symposium.org/ndss2018/ndss-2018-call-papers
+  url: https://www.ndss-symposium.org/ndss2018/
+  archive: null  # https://web.archive.org/web/20171121060430/http://www.ndss-symposium.org/ndss2018/ndss-2018-call-papers
 topics:
   - "Anti-malware techniques: detection, analysis, and prevention"
   - "Combating cyber-crime: anti-phishing, anti-spam, anti-fraud techniques"
